@@ -1,0 +1,5 @@
+node_modules/
+.env.local
+.cache/
+.DS_Store
+*.blend1

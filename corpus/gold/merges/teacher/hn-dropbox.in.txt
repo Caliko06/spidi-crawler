@@ -1,0 +1,43 @@
+DOCUMENT: My YC app: Dropbox - Throw away your USB drive
+
+
+THEME "My YC app: Dropbox - Throw away your USB drive"
+  s0 1. For a Linux user, you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem.
+  s1 [LEAD] 2. It doesn't actually replace a USB drive.
+  s2 Most people I know e-mail files to themselves or host them somewhere online to be able to perform presentations, but they still carry a USB drive in case there are connectivity problems.
+  s3 This does not solve the connectivity issue.
+  s4 3. It does not seem very "viral" or income-generating.
+  s5 I know this is premature at this point, but without charging users for the service, is it reasonable to expect to make money off of this?
+  s6 1. re: the first part, many people want something plug and play.
+  s7 and even if they were plug and play, the problem is that the user experience (on windows at least) with online drives generally sucks, and you don't have disconnected access.
+  s8 windows for sure doesn't hide latency well (CIFS is bad, webdav etc. are worse), and most apps are written as if the disk was local, and assume, for example, accessing a file only takes a few ms. if the server is 80ms away, and you do 100 accesses (e.g. the open file common dialog listing a directory and poking files for various attributes or icons) serially, suddenly your UI locks up for _seconds_ (joel spolsky summarizes this well in his article on leaky abstractions.) ditto saving any file; you change one character in your 20mb word file and hit save, and your upstream-capped 40k/sec comcast connection is hosed for 8 minutes.
+  s9 2. true, if you're both not at your computer and on another computer without net access, this won't replace a usb drive :) but the case i'm worried about is being, for example, on a plane, and dropbox will let you get to the most recent version of your docs at the time you were last connected, and will sync everything up when you get back online (without you having to copy anything or really do anything.)
+  s10 Your use-case described in #2 does make sense, but I still agree with others' comments here that claiming that it replaces USB drives is a bad idea in general.
+  s11 In short, I guess I'm curious what separates Dropbox from using a free FTP service which is connected either through Windows' built-in Network Places or Linux's curlftpfs.
+  s12 The only problem is that you have to install something.
+  s13 In general, I have realized it is much better to launch with something that does a few things REALLY well rather than a lot of things with little focus.
+  s14 When you launch small and do it well, it is easier to attract a user-base and THEN keep feeding it more advance features in form of updates.
+  s15 One thing they teach at YC, and in one of pg's essays (http://www.paulgraham.com/investors.html), is to present a story instead of a list of features.
+  s16 That way you answer the question of "Why would I use this product?" simultaneously to answering "What does this product do?".
+  s17 You can't emphasize enough to people to tell a story, and the screencast is a great crucible for whether you have a good story to tell.
+  s18 How are you going to scale up your storage to meet the demands of the users?
+  s19 So, that means Dropbox is going to have to resell S3 at a premium for the added value of these nice Coda-like features.
+  s20 my bill will pennies every month (going on S3 prices).
+  s21 You cannot transact pennies per user per month.
+  s22 I think the larger issue is about getting user adoption.
+  s23 Creating something users can enjoy, agree with, and possibly part money for is a much more difficult problem to solve than figuring out to make large scale storage cost effective.
+  s24 I think user experience can and will be duplicated.
+  s25 Anyway you slice it, you need to have a profit margin.
+  s26 And with a commodity like storage (and the soon-to-be commodity of online storage), you have to be competitve with market prices.
+  s27 The reason that most YC startups can worry about user adoption is because they aren't tied down to this problem.
+  s28 They aren't really making commodities and the cost of makign the product isn't so suffocating.
+  s29 That's why Dropbox needs to plan for moving off S3.
+  s30 Your main competition is not USB drives: it is HotMail, GMail, and Yahoo! Mail.
+  s31 yup -- i didn't get to mention it, but a big piece of dropbox is that it's a local/"normal" folder that's synced in the background -- you can work on your files offline (that, among other things, drove me nuts about typical online drives) and get local IO speeds (good for photoshop, film, etc.)
+  s32 I can't expect Dropbox to charge those prices, given S3 as a backend.
+  s33 The margin just isn't really there, especially given the number of uses that will want free storage.
+
+THEME "Drop Box folder"
+  s34 anyway, the point of that rant was that dropbox uses a _local_ folder with efficient sync in the background, which is an important difference :)
+  s35 Any file and folder (Word documents, spreadsheets, family photos, etc) you add to your Drop Box folder is automatically synchronized and saved remotely.
+  s36 Anything added to it is automatically saved, synchronized, and "dated" so you can go back in time!

@@ -1,0 +1,104 @@
+DOCUMENT: Websites & Communications Terms of Use
+
+§0 (under the title)
+S0 September 16, 2026
+
+§1 1. Introduction
+S1 Please read the terms of this entire document (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”), or related feeds, social media, newsletters, source code repositories, and emails (together with Websites, these are collectively referred to as “Communications”).
+S2 By accessing or signing up to receive Communications, you agree to be bound by these Terms.
+S3 Our Websites include multiple domains such as mozilla.org, mozillians.org, firefox.com, mozillafestival.org, openstandard.com, openbadges.org and webmaker.org.
+S4 You may also recognize our Websites by nicknames such as Bugzilla@Mozilla, BMO, MozWiki, MoPad, MozReps, MDN, Marketplace, One and Done, SUMO, and AMO.
+S5 Some of our Websites connect you with links, apps or add-ons that are provided by other parties and are subject to separate Terms.
+
+§2 2. Account Registration
+S6 Some Websites require you to register for an account in order to access additional features of a Website or another Mozilla service.
+S7 If applicable, additional terms will be presented to you.
+S8 You are responsible for all activities under your account.
+S9 Some Websites allow you to create a username during registration.
+S10 Your use of a username must comply with our Acceptable Use Policy.
+
+§3 3. Content Licensing
+S11 Our Communications include content such as articles, images, photographs, comments, software code, audio and video clips, and other materials (collectively, “Content”).
+S12 Content is authored by Mozilla, contributors to Mozilla projects, and other sources.
+S13 Content authored by Mozilla is generally made available for public sharing and reuse through open licenses such as Creative Commons (for expressive material) or the Mozilla Public License (for software code).
+S14 In most cases we ask Mozilla contributors to release Content under open licenses.
+S15 Some Content in our Communications is acquired from sources that prohibit further use of their Content without advance permission.
+S16 Where possible, the Content or Website footer will display a notice with the applicable license.
+S17 You agree to abide by such notices.
+S18 Note the following specifics:
+S19 Some Content expressly indicates that the author does not intend for an open license to apply.
+S20 You should contact the author or author’s agent for permission to use such Content.
+S21 Questions on Mozilla authored content can be sent to: licensing@mozilla.org.
+S22 Some Content contains trademarks, trade dress, logos and brand assets of Mozilla and other parties (“Trademarks”).
+S23 Except for a few limited circumstances, Trademarks cannot be used without advance written permission of the owner of the Trademark.
+S24 Learn more on Mozilla trademarks.
+S25 Software used by our Websites is licensed under the MPL or similarly permissive open source licenses.
+S26 For more information on the specific license, please see the applicable source code or GitHub repository.
+
+§4 4. Content Submissions
+S27 You may contribute Content when interacting with our Communications, including but not limited to commenting on an article, blogging, contributing code, or contributing graphics or written material (each a “Submission”).
+S28 Unless your Submission is made under a separate agreement with Mozilla, in which case that agreement will govern, then
+S29 For Submissions to Mozilla's open source projects:
+S30 You agree to license your Submission under the terms of the corresponding license of the particular open source project to which you are contributing.
+S31 For more information on the specific license, please see the applicable source code or GitHub repository.
+S32 For all other Submissions, you agree to the following in connection with each:
+S33 You represent and warrant that your Submission will comply with these Terms, the Mozilla Acceptable Use Policy, and any additional terms that may govern your Submission.
+S34 You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable (to those we work with) license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.
+S35 You acknowledge that your Submissions may be accessible by other registered users of the applicable service or the public.
+S36 If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to.
+S37 You represent and warrant that you have the rights necessary to grant the rights granted herein, and further, that the uses contemplated under these Terms will not infringe the proprietary or intellectual property rights of any third party.
+S38 You understand and agree that Mozilla reserves the right, at its discretion, to review, modify, or remove any Submission that it deems is objectionable or in violation of these Terms.
+
+§5 5. Privacy Policy & Cookies
+S39 The Mozilla Websites, Communications & Cookies Privacy Notice describes how we handle information that we receive from you in connection with our Communications.
+S40 The Privacy Notice explains, for example, that we place certain cookies on our Websites and how you can opt-out.
+
+§6 6. Communications and Events
+S41 If you subscribe to receive our newsletters or register for an account in connection with any of our Websites, you may receive transactional emails from us in connection with your account (for example, legal, privacy, and security updates).
+S42 Some of our Websites have online tools that allow you to send emails to others.
+S43 For example, you can invite your contacts to events on Mozillians.
+S44 You agree not to misuse others’ email addresses (for example, by spamming them).
+S45 Other Websites, like MozReps, provide tools that enable users to arrange physical events for anyone to attend.
+S46 Please exercise caution and good judgment when attending events.
+
+§7 7. Notice of Claimed Infringement
+S47 For more information on how to report claims of copyright or trademark infringement, please see: https://www.mozilla.org/about/legal/report-infringement/.
+
+§8 8. Term; Termination
+S48 These Terms will continue to apply until ended by either you or Mozilla.
+S49 You can choose to end them at any time for any reason by discontinuing your use of our Communications and, if applicable, deleting your account.
+S50 We may suspend or terminate your access to our Communications at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, our Acceptable Use Policy, or other relevant policy; (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Communications to you is no longer commercially viable.
+S51 In all such cases, these Terms shall terminate, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+
+§9 9. Indemnification
+S52 You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners; and the respective directors, officers, employees and agents of the foregoing ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of our Communications (including, but not limited to, from your Submissions or from your violation of any these Terms).
+
+§10 10. Disclaimer; Limitation of Liability
+S53 THE COMMUNICATIONS ARE PROVIDED "AS IS" WITH ALL FAULTS.
+S54 TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE COMMUNICATIONS ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
+S55 YOU BEAR THE ENTIRE RISK AS TO USING THE COMMUNICATIONS FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE COMMUNICATIONS, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR HARDWARE, SOFTWARE, OR CONTENT IS DELETED OR CORRUPTED, THAT SOMEONE ELSE GAINS UNAUTHORIZED ACCESS TO YOUR INFORMATION, OR THAT ANOTHER USER MISUSES OR MISAPPROPRIATES YOUR SUBMISSION.
+S56 THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY.
+S57 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+S58 EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE COMMUNICATIONS, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED.
+S59 THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS).
+S60 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+
+§11 11. Modifications to these Terms
+S61 We may update these Terms from time to time to address a new feature of the Communications or to clarify a provision.
+S62 The updated Terms will be posted online.
+S63 If the changes are substantive, we will announce the update through our usual channels for such announcements such as blog posts, banners, emails, or forums.
+S64 Your continued use of our Communications after the effective date of such changes constitutes your acceptance of such changes.
+S65 To make your review more convenient, we will post an effective date at the top of this page.
+
+§12 12. Miscellaneous
+S66 These Terms constitute the entire agreement between you and Mozilla concerning our Communications and supersede any prior versions of these Terms.
+S67 The Communications and these Terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions.
+S68 All claims and disputes arising out of the Communications or these Terms shall be brought exclusively in the courts of Santa Clara County, California, and you consent to personal jurisdiction in those courts.
+S69 If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect.
+S70 In the event of a conflict between a translated version of these Terms and the English language version, the English language version shall control.
+S71 In the event of a conflict between these Terms and relevant additional terms, the additional terms shall control.
+
+§13 13. Contact Us
+S72 Mozilla Attn: Mozilla – Legal Notices 1875 Mission Street, Suite 103 San Francisco, CA 94103 USA Telephone: 650-903-0800 Fax: 650-903-0875 Legal-notices at mozilla.com
+S73 Please note that we do not accept information requests from government agencies at the above address.
+S74 See our Transparency Page for details about how to submit such requests.

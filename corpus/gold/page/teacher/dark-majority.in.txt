@@ -1,0 +1,60 @@
+DOCUMENT: The Dark Majority
+
+§0 (under the title)
+S0 Most of the living space on this planet has never seen sunlight.
+S1 We have barely looked at it.
+
+§1 A planet of deep water
+S2 Oceans cover about 71% of Earth's surface, but the surface is the smallest part of the story.
+S3 The average depth is close to 3,700 metres.
+S4 Sunlight gives up long before that.
+S5 By 200 metres there is too little of it for photosynthesis, and by 1,000 metres it is gone completely.
+S6 Everything below that line is the deep sea.
+S7 It holds roughly 90% of the ocean's volume.
+S8 In other words, the typical place to live on Earth is cold, dark and pressed under kilometres of water.
+
+§2 Pressure is the rule
+S9 Pressure rises by one atmosphere every 10 metres.
+S10 At the bottom of the Challenger Deep, nearly 11 kilometres down, it passes 1,000 atmospheres.
+S11 Steel deforms.
+S12 Air spaces collapse.
+S13 The animals that live there do not resist the pressure so much as ignore it.
+S14 Their bodies are mostly water, which barely compresses, and their proteins are steadied by small molecules that keep them folding correctly.
+S15 The cold is constant too: most deep water sits at about 4 °C all year.
+S16 The result is an environment that barely changes from one century to the next.
+
+§3 Light made by life
+S17 Where the sun stops, animals take over the job.
+S18 A survey off the California coast found that 76% of the animals observed in the water column could produce their own light.
+S19 Bioluminescence is not a curiosity.
+S20 It may be the most common form of communication on the planet.
+S21 The light is used to hunt, to hide and to find a mate.
+S22 Some squid squirt glowing clouds instead of ink.
+S23 Some fish carry red searchlights that their prey cannot see.
+S24 In the dark, light is language.
+
+§4 Food falls from above
+S25 Almost nothing grows in the deep.
+S26 Most of its food arrives as marine snow: a slow drift of dead plankton, waste and dust from the sunlit water far above.
+S27 A single flake can take weeks to reach the bottom.
+S28 Only about 1% of what the surface produces ever lands on the seafloor.
+S29 Whale falls can feed a community for decades.
+S30 Hydrothermal vents, discovered in 1977, run on chemistry instead of sunlight.
+S31 Cold seeps leak methane that microbes turn into food.
+S32 At the vents, water heated by magma emerges at up to 400 °C.
+S33 Bacteria feed on the minerals dissolved in it, and tube worms more than 2 metres long house the bacteria.
+S34 Ultimately, it is a food chain that starts with rock, not sunlight.
+
+§5 The map is mostly blank
+S35 We have detailed maps of the Moon and of Mars.
+S36 Of our own seafloor, only about a quarter has been mapped at high resolution.
+S37 The rest is known from satellite estimates that blur anything smaller than a few kilometres.
+S38 People first reached the deepest point of the ocean in 1960.
+S39 Two men spent about 20 minutes on the bottom.
+S40 Nobody went back for 52 years.
+
+§6 Why it matters
+S41 The deep sea stores heat and carbon on a scale that shapes the climate of the whole planet.
+S42 It is also being considered for mining before it has been properly surveyed.
+S43 That is why the next decade of exploration matters more than the last century.
+S44 Put simply: we cannot protect what we have never seen.

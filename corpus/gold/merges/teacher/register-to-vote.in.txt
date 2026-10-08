@@ -1,0 +1,38 @@
+DOCUMENT: Register to vote
+
+
+THEME "Register to vote"
+  s0 [LEAD] You can register to vote if you’re a British citizen or an Irish citizen.
+
+THEME "Register using a paper form"
+  s1 You can register using a paper form in England, Wales and Scotland.
+  s2 You’ll need to print, fill in and send the form to your electoral registration office.
+
+THEME "After you’ve registered"
+  s3 Your name and address will appear on the electoral register.
+  s4 It will also appear on the ‘open’ register unless you asked to opt out when registering.
+
+THEME "Who can register to vote"
+  s5 You can register to vote up to 2 years before you reach voting age - check the rules around voting in the UK.
+
+SUBJECT "If you live in England or Northern Ireland" (under theme "Who can register to vote")
+  s6 You must be aged 16 or over to register.
+  s7 [ESSENTIAL] You can register to vote if you’re a British citizen or an Irish citizen.
+  s8 You can also register if you have permission (or do not need permission) to enter or stay in the UK, Channel Islands or Isle of Man and you’re:
+  s9 a Commonwealth citizen (including citizens of Cyprus and Malta)
+  s10 a citizen of Denmark, Luxembourg, Poland, Portugal or Spain
+  s11 a citizen of another EU country, who on or before 31 December 2020 had permission to enter or stay (or did not need permission) and this has continued without a break
+
+SUBJECT "If you live abroad" (under theme "Who can register to vote")
+  s12 You can register as an overseas voter if you’ve previously lived in the UK and are either:
+  s13 a British citizen
+  s14 an eligible Irish citizen registering to vote in Northern Ireland
+  s15 You’ll need to give the postcode of the last UK address you were registered to vote at.
+  s16 If you’ve never registered to vote, you’ll need to give the postcode of the last UK address you lived at.
+
+SUBJECT "If you live in Scotland or Wales" (under theme "Who can register to vote")
+  s17 You must be aged 14 or over to register.
+  s18 You can also register if you have permission to enter or stay in the UK, Channel Islands or Isle of Man, or you do not need permission.
+
+THEME "Get help registering"
+  s19 You can get help registering from your electoral registration office.

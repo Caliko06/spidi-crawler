@@ -1,0 +1,251 @@
+@font-face { font-family: Literata; src: url("fonts/literata.woff2") format("woff2"); font-weight: 200 900; font-display: block; }
+@font-face { font-family: Literata; src: url("fonts/literata-italic.woff2") format("woff2"); font-weight: 200 900; font-style: italic; font-display: block; }
+@font-face { font-family: "Plex Mono"; src: url("fonts/plex-mono.woff2") format("woff2"); font-weight: 400; font-display: block; }
+@font-face { font-family: "Instrument Sans"; src: url("fonts/instrument-sans.woff2") format("woff2"); font-weight: 400 700; font-stretch: 75% 100%; font-display: block; }
+
+/* The crawler's own tokens, so the two pages are one instrument. */
+:root {
+  --bg: #08090c;
+  --panel: #0f1116;
+  --rule: #2a2f39;
+  --rule-hover: #3e4552;
+  --hairline: rgb(255 255 255 / 0.09);
+  --ink: #b8bcc4;
+  --ink-strong: #eef0f2;
+  --ink-dim: #8a909c;
+  --ground: #0a0b0f;
+  --edge: #566070;
+  --catch: #5ee4ea; /* what several sources hold in common */
+  --prize: #ff4f5a; /* where they contradict */
+  --signal: #f2e313; /* the one thing to do */
+  --signal-hover: #fff35a;
+  --lift: #171a21;
+  --cut: 7px;
+  --control: 32px;
+  --bar: 52px;
+  --rail: 340px;
+  --drawer: 440px;
+  --xs: 10px;
+  --sm: 12px;
+  --md: 14px;
+  --body: 19px;
+  --ui-family: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --mono: "Plex Mono", ui-monospace, Menlo, monospace;
+  --serif: Literata, "Iowan Old Style", Palatino, Georgia, serif;
+}
+
+* { box-sizing: border-box; }
+html { background: var(--bg); color-scheme: dark; }
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  grid-template: var(--bar) 1fr / var(--rail) 1fr auto;
+  grid-template-areas: "bar bar bar" "rail graph drawer";
+  color: var(--ink);
+  font: var(--md)/1.5 var(--ui-family);
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+#bar {
+  grid-area: bar;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--rule);
+  background: linear-gradient(var(--signal), var(--signal)) left bottom / 72px 1px no-repeat, var(--bg);
+}
+#bar .name { color: var(--ink-strong); font: var(--sm)/1 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; text-decoration: none; white-space: nowrap; }
+#bar .other { color: var(--ink-dim); font: var(--sm)/1 var(--mono); letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; }
+#bar .other:hover { color: var(--ink-strong); }
+
+/* ---------- Rail: the sources, then what the notebook says of them ---------- */
+#rail { grid-area: rail; display: flex; flex-direction: column; gap: 28px; padding: 24px; overflow-y: auto; border-right: 1px solid var(--hairline); background: var(--bg); }
+h2 { margin: 0 0 10px; color: var(--ink-dim); font: var(--xs)/1 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; font-weight: 400; }
+ol { margin: 0 0 12px; padding: 0; list-style: none; }
+#sources li { display: grid; grid-template-columns: 22px 1fr auto; gap: 10px; align-items: baseline; padding: 8px 0; border-top: 1px solid var(--hairline); }
+#sources li:last-child { border-bottom: 1px solid var(--hairline); }
+#sources .letter { color: var(--ink-strong); font: var(--sm)/1 var(--mono); }
+#sources .title { min-width: 0; color: var(--ink-strong); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#sources .meta { color: var(--ink-dim); font: var(--xs)/1 var(--mono); }
+#sources li.is-pending .title { color: var(--ink-dim); }
+#sources li.is-failed .title { color: var(--prize); white-space: normal; }
+#sources button { border: 0; background: none; color: var(--ink-dim); font: var(--sm) var(--mono); cursor: pointer; padding: 0 0 0 8px; }
+#sources button:hover { color: var(--ink-strong); }
+
+#drop { display: flex; flex-direction: column; gap: 4px; margin-bottom: 8px; padding: 18px 12px; border: 1px dashed var(--rule); color: var(--ink); text-align: center; cursor: pointer; transition: border-color 120ms, background-color 120ms; }
+#drop small { color: var(--ink-dim); font: var(--xs) var(--mono); }
+#drop:hover, #drop.is-over, #drop:focus-visible { border-color: var(--rule-hover); background: var(--panel); outline: none; }
+
+input[type="url"], select { height: var(--control); border: 1px solid var(--rule); border-radius: 0; background: var(--panel); color: var(--ink); font: var(--sm) var(--mono); letter-spacing: 0.02em; }
+#address { display: flex; margin-bottom: 8px; }
+#address input { flex: 1; min-width: 0; padding: 0 12px; border-right: 0; }
+#address button, #tools button { height: var(--control); padding: 0 14px; border: 1px solid var(--rule); background: var(--panel); color: var(--ink); font: 500 13px var(--ui-family); cursor: pointer; }
+#address button:hover, #tools button:hover { border-color: var(--rule-hover); }
+input::placeholder { color: var(--ink-dim); }
+select { width: 100%; padding: 0 12px; appearance: none; font-family: var(--ui-family); font-size: 13px; cursor: pointer; }
+:is(input, select, button, label):focus-visible { outline: 1px solid var(--signal); outline-offset: 2px; }
+
+/* The one thing to do: its corner cut, in the loud colour. */
+#run { width: 100%; height: 40px; margin-top: 16px; border: 0; background: var(--signal); color: #000; font: 600 14px var(--ui-family); letter-spacing: -0.005em; clip-path: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, 0 100%); cursor: pointer; transition: background-color 120ms, transform 100ms; }
+#run:hover:not(:disabled) { background: var(--signal-hover); }
+#run:active:not(:disabled) { transform: scale(0.98); }
+#run:disabled { background: var(--panel); color: var(--ink-dim); cursor: default; }
+#log { margin: 12px 0 0; min-height: 1.5em; color: var(--ink-dim); font: var(--xs)/1.7 var(--mono); white-space: pre-line; }
+#log.is-error { color: var(--prize); }
+
+
+/* ---------- The web: the crawler's own language (see styles.css), for sources instead of themes ---------- */
+:root { --faint: #5b6472; --pill: #151820; }
+#graph { grid-area: graph; position: relative; display: flex; flex-direction: column; min-width: 0; background: var(--ground); }
+#stage { position: relative; flex: 1; min-height: 0; }
+#canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+#empty { position: absolute; inset: 0; display: grid; place-items: center; margin: 0; padding: 48px; color: var(--ink-dim); font: var(--sm)/1.7 var(--mono); text-align: center; pointer-events: none; }
+#graph.has-result #empty { display: none; }
+
+/* The band over the web: what the notebook holds, in big figures, and what can be done with it. */
+#readout { display: flex; flex-direction: column; padding: 0 24px; border-bottom: 1px solid var(--rule); background: var(--bg); }
+.figures { display: flex; height: 80px; white-space: nowrap; }
+.figures span { display: flex; flex-direction: column; justify-content: center; gap: 6px; padding: 0 24px; border-left: 1px solid var(--rule); }
+.figures span:first-child { padding-left: 0; border-left: 0; }
+.figures b { color: var(--ink-strong); font: 27px/1 var(--mono); font-weight: inherit; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+.figures b::after { content: attr(data-of); color: var(--faint); font-size: var(--md); letter-spacing: 0; }
+.figures i { color: var(--ink-dim); font: var(--xs)/1 var(--mono); font-style: normal; letter-spacing: 0.14em; text-transform: uppercase; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 10px 0 12px; border-top: 1px solid var(--hairline); }
+.actions #export { margin-left: auto; }
+.actions button { height: 28px; padding: 0 12px; border: 1px solid var(--rule); background: var(--panel); color: var(--ink); font: 500 12px var(--ui-family); cursor: pointer; transition: border-color 120ms, background-color 120ms; }
+.actions button:hover { border-color: var(--rule-hover); color: var(--ink-strong); }
+.actions .toggle { position: relative; padding-left: 26px; }
+.actions .toggle::before { content: ""; position: absolute; left: 11px; top: 50%; width: 6px; height: 6px; margin-top: -3px; border: 1px solid var(--ink-dim); }
+.actions .toggle[aria-pressed="true"] { border-color: var(--rule-hover); background: var(--lift); color: var(--ink-strong); }
+.actions .toggle[aria-pressed="true"]::before { background: var(--ink-strong); border-color: var(--ink-strong); }
+#bondline { display: flex; align-items: center; gap: 6px; height: 28px; padding: 0 10px; border: 1px solid var(--hairline); color: var(--ink-dim); font: var(--xs)/1 var(--mono); }
+#bondline[hidden] { display: none; }
+#bondline output { color: var(--ink-strong); }
+#bondline input { width: 90px; accent-color: var(--ink-dim); }
+
+/* A sentence read where it is pointed at. */
+#tip { position: absolute; z-index: 3; top: 0; left: 0; width: 380px; margin: 0; padding: 12px 14px; border: 1px solid var(--rule); background: var(--panel); color: var(--ink); font: 14px/1.55 var(--serif); pointer-events: none; }
+#tip b { margin-right: 8px; color: var(--ink-strong); font: 500 var(--sm) var(--mono); }
+
+/* Hairlines. A stem holds an idea to its source; a bridge, held to two sources, shows where they meet. */
+.stem { stroke: var(--rule); stroke-width: 1; }
+.stem.is-source { stroke: var(--edge); }
+.stem.is-bridge { stroke: color-mix(in srgb, var(--rule), var(--catch) 38%); }
+.bond { stroke: var(--edge); stroke-width: 1; stroke-dasharray: 2 4; }
+.bond.within { opacity: 0.55; }
+.tie { stroke: var(--ink-dim); stroke-width: 1; opacity: 0; transition: opacity 160ms; }
+.tie.contradicts { stroke: var(--prize); stroke-dasharray: 6 3; }
+.tie-say { fill: var(--ink); font: var(--xs) var(--mono); letter-spacing: 0.14em; text-transform: uppercase; text-anchor: middle; dominant-baseline: central; paint-order: stroke; stroke: var(--ground); stroke-width: 4px; opacity: 0; pointer-events: none; transition: opacity 160ms; }
+.tie.is-lit { opacity: 0.8; }
+.tie-say.is-lit { opacity: 1; }
+.stem.is-lit, .bond.is-lit { stroke: var(--ink); stroke-dasharray: none; opacity: 1; }
+.thread { stroke: var(--rule); stroke-width: 1; }
+.thread.is-near { stroke: var(--ink-dim); }
+
+/* A sentence: a point, or a square where the idea is shared. */
+.bead { cursor: pointer; fill: var(--ink-dim); stroke: transparent; stroke-width: 10px; }
+.bead.is-square { fill: var(--catch); }
+.bead.is-square.conflict { fill: var(--prize); }
+.bead:hover, .bead.is-near { fill: var(--ink-strong); }
+
+/* A node, with its name and its count under it. */
+.web-item { cursor: pointer; transition: opacity 160ms; }
+.web-node { fill: var(--faint); transition: fill 300ms; }
+.web-reach { fill: none; stroke: var(--edge); stroke-width: 1px; pointer-events: none; }
+.is-centre .web-node { fill: var(--ink-strong); }
+.is-centre .web-reach { stroke: var(--ink); stroke-width: 6px; }
+.is-source .web-node { fill: var(--ink); }
+.is-shared .web-node { fill: var(--ink); }
+.is-idea.is-pinned .web-reach { stroke: var(--ink); }
+.web-item:hover .web-node, .web-item.is-open .web-node { fill: var(--ink-strong); }
+.web-item.is-open .web-reach { stroke: var(--ink-strong); }
+.web-hub { fill: var(--faint); font: 11px var(--mono); letter-spacing: 0.06em; text-anchor: middle; dominant-baseline: central; paint-order: stroke; stroke: var(--ground); stroke-width: 6px; stroke-linejoin: round; user-select: none; transition: fill 300ms; }
+.is-shared .web-hub, .is-source .web-hub, .is-centre .web-hub { fill: var(--ink); font-size: 12px; }
+.is-centre .web-hub, .is-source .web-hub { fill: var(--ink-strong); }
+.web-item:hover .web-hub, .web-item.is-open .web-hub { fill: var(--ink-strong); }
+.web-hub-index, .web-hub-count, .web-hub-folded { fill: var(--ink-dim); font-size: var(--xs); }
+.web-hub-folded { letter-spacing: 0.14em; }
+.is-shared.agree .web-node, .is-shared.partial .web-node { fill: var(--catch); }
+.is-shared.conflict .web-node { fill: var(--prize); }
+.web-item.is-off { opacity: 0.42; }
+svg.is-focused .web-item:not(.is-near), svg.is-focused .bead:not(.is-near), svg.is-focused .thread:not(.is-near), svg.is-focused .stem:not(.is-lit), svg.is-focused .bond:not(.is-lit) { opacity: 0.12; }
+
+/* ---------- Drawer: what each source says of the idea ---------- */
+#drawer { grid-area: drawer; width: var(--drawer); max-width: 46vw; padding: 24px; overflow-y: auto; border-left: 1px solid var(--hairline); background: var(--bg); }
+#drawer[hidden] { display: none; }
+#drawer header { display: flex; align-items: start; justify-content: space-between; gap: 16px; margin-bottom: 4px; }
+#drawer h1 { margin: 0; color: var(--ink-strong); font: 600 21px/1.25 var(--ui-family); letter-spacing: -0.02em; }
+#drawer .close { border: 0; background: none; color: var(--ink-dim); font: 14px var(--mono); cursor: pointer; }
+#drawer .close:hover { color: var(--ink-strong); }
+#drawer .stance { margin: 0 0 20px; font: var(--xs)/1 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-dim); }
+#drawer .stance.agree, #drawer .stance.partial { color: var(--catch); }
+#drawer .stance.conflict { color: var(--prize); }
+#drawer .verdict { margin: 0 0 16px; font: 15px/1.6 var(--serif); color: var(--ink); }
+#drawer .verdict b { display: block; margin-bottom: 4px; color: var(--ink-dim); font: 400 var(--xs)/1 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; }
+#drawer .member { margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--hairline); }
+#drawer .member h3 { display: flex; gap: 10px; margin: 0 0 6px; color: var(--ink-strong); font: 500 var(--md)/1.4 var(--ui-family); }
+#drawer .member h3 span { color: var(--ink-strong); font: var(--sm)/1.4 var(--mono); }
+#drawer .claim { margin: 0 0 10px; color: var(--ink); font: 15px/1.6 var(--serif); }
+#drawer blockquote { margin: 0 0 8px; padding-left: 12px; border-left: 1px solid var(--rule); color: var(--ink-dim); font: italic 14px/1.6 var(--serif); }
+#drawer .ties { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--hairline); }
+#drawer .tie { display: block; width: 100%; margin: 0; padding: 6px 0; border: 0; background: none; color: var(--ink); font: var(--sm)/1.5 var(--ui-family); text-align: left; cursor: pointer; }
+#drawer .tie:hover { color: var(--ink-strong); }
+#drawer .tie i { margin-right: 8px; color: var(--ink-dim); font: normal var(--xs) var(--mono); letter-spacing: 0.08em; text-transform: uppercase; }
+#drawer .tie i.contradicts { color: var(--prize); }
+#drawer .gauge { margin: -12px 0 20px; color: var(--ink-dim); font: var(--xs)/1.5 var(--mono); }
+#drawer .gauge b { color: var(--ink-strong); font-weight: 400; }
+#drawer .gauge.is-weak b { color: var(--prize); }
+#drawer .tie small { display: block; color: var(--ink-dim); font-size: var(--sm); }
+
+
+#drawer .back { margin-top: 28px; padding: 0; border: 0; background: none; color: var(--ink-dim); font: 500 12px var(--ui-family); cursor: pointer; }
+#drawer .back:hover { color: var(--ink-strong); }
+#drawer .idea-row { display: grid; grid-template-columns: 24px minmax(0, 1fr) auto; gap: 10px; width: 100%; padding: 7px 0; border: 0; border-top: 1px solid var(--hairline); background: none; color: var(--ink); font: var(--sm)/1.4 var(--ui-family); text-align: left; cursor: pointer; }
+#drawer .idea-row:hover { color: var(--ink-strong); }
+#drawer .idea-row i { color: var(--ink-dim); font: normal var(--xs)/1.6 var(--mono); }
+#drawer .idea-row small { max-width: 190px; color: var(--ink-dim); font: var(--xs)/1.6 var(--mono); text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#drawer .ties { margin-top: 24px; }
+/* ---------- What the notebook is doing: one row per step, its clock running while it works ---------- */
+[hidden] { display: none !important; }
+#stages { margin: 16px 0 0; }
+#stages li { display: grid; grid-template-columns: 16px minmax(0, 1fr) auto; gap: 10px; align-items: baseline; padding: 6px 0; border-top: 1px solid var(--hairline); color: var(--ink-dim); font: var(--xs)/1.5 var(--mono); }
+#stages li:last-child { border-bottom: 1px solid var(--hairline); }
+#stages .what { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#stages .what b { margin-right: 8px; color: var(--ink-strong); font-weight: 400; }
+#stages .time { font-variant-numeric: tabular-nums; }
+#stages .glyph { width: 8px; height: 8px; margin-top: 3px; border: 1px solid var(--rule-hover); border-radius: 50%; }
+#stages li.is-working { color: var(--ink); }
+#stages li.is-working .glyph { border-color: var(--signal) transparent var(--signal) var(--signal); animation: turn 0.9s linear infinite; }
+#stages li.is-done .glyph { border-color: var(--catch); background: var(--catch); }
+#stages li.is-failed { color: var(--prize); }
+#stages li.is-failed .glyph { border-color: var(--prize); background: var(--prize); }
+@keyframes turn { to { transform: rotate(360deg); } }
+#stages + #log:empty { display: none; }
+
+@media (prefers-reduced-motion: reduce) { #stages .glyph { animation: none !important; } }
+
+/* ---------- Curating: what of a source is read, what the reader is after, what is kept or put aside ---------- */
+#sources .title { cursor: pointer; }
+#sources .title:hover { color: #fff; }
+#sources .outline { grid-column: 1 / -1; margin: 6px 0 2px 32px; }
+#sources .section { display: grid; grid-template-columns: 16px minmax(0, 1fr) auto; gap: 8px; align-items: baseline; padding: 3px 0; color: var(--ink); font: var(--xs)/1.5 var(--mono); cursor: pointer; }
+#sources .section input { margin: 0; accent-color: var(--ink-dim); }
+#sources .section.is-left { color: var(--ink-dim); text-decoration: line-through; text-decoration-color: var(--rule-hover); }
+#sources .section span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#sources .section small { color: var(--ink-dim); font-size: var(--xs); }
+#sources .reading { margin-top: 4px; color: var(--ink-dim); font: var(--xs)/1.5 var(--mono); }
+#focus { width: 100%; height: var(--control); margin-top: 8px; padding: 0 12px; border: 1px solid var(--rule); border-radius: 0; background: var(--panel); color: var(--ink); font: var(--sm) var(--mono); }
+#focus::placeholder { color: var(--ink-dim); }
+#focus:hover { border-color: var(--rule-hover); }
+#run { margin-top: 12px; }
+#drawer .acts { display: flex; gap: 8px; margin: -8px 0 20px; }
+#drawer .acts button { height: 26px; padding: 0 10px; border: 1px solid var(--rule); background: var(--panel); color: var(--ink); font: 500 12px var(--ui-family); cursor: pointer; }
+#drawer .acts button:hover { border-color: var(--rule-hover); color: var(--ink-strong); }
+
+#drawer .key { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--hairline); }
+#drawer .key p { margin: 0 0 10px; color: var(--ink-dim); font: 12px/1.6 var(--ui-family); }
+#drawer .key b { color: var(--ink); font-weight: 500; }
+#drawer .key b.sq { color: var(--catch); }

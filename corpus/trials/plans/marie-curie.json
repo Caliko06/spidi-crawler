@@ -1,0 +1,75 @@
+{
+ "title": "Marie Curie",
+ "kept": "326 of 1670 words (20%), 20 sentences",
+ "themes": {
+  "Marie Curie (1)": [],
+  "Radioactivity: Creating Polonium and Radium (8)": [],
+  "Nobel Prizes (5)": [],
+  "What Did Marie Curie Discover? (2)": [],
+  "X-rays (1)": [],
+  "How Did Marie Curie Die? (2)": [],
+  "Husband Pierre Curie and Children (1)": []
+ },
+ "subjects": {
+  "Marie Curie": [
+   "LEAD Marie’s efforts, with help from husband Pierre Curie, led to the discovery of polonium and radium and, after Pierre’s death, the further development of X-rays."
+  ],
+  "Radioactivity: Creating Polonium and Radium": [
+   "Curie conducted her own experiments on uranium rays and discovered they remained constant, no matter the condition or form of the uranium.",
+   "The rays, she theorized, came from the element’s atomic structure.",
+   "This revolutionary idea created the field of atomic physics.",
+   "Curie herself coined the word “radioactivity” to describe the phenomena.",
+   "PRIZE Working with the mineral pitchblende, the pair discovered a new radioactive element in 1898.",
+   "They named the element polonium, after Curie’s native country of Poland.",
+   "They also detected the presence of another radioactive material in the pitchblende and called that radium.",
+   "In 1902, the Curies announced they had produced a decigram of pure radium, demonstrating its existence as a unique chemical element."
+  ],
+  "Nobel Prizes": [
+   "PRIZE Marie Curie became the first woman to win a Nobel Prize and the first person to win the award twice.",
+   "PRIZE Curie won two Nobel Prizes: The Nobel Prize in Physics in 1903 and The Nobel Prize in Chemistry in 1911.",
+   "PRIZE She remains the only person to be honored for accomplishments in two separate sciences.",
+   "PRIZE Curie received the Nobel Prize in Physics in 1903, along with her husband and Henri Becquerel, for their work on radioactivity.",
+   "PRIZE In 1911, Curie won her second Nobel Prize, this time in Chemistry, for her discovery of radium and polonium."
+  ],
+  "What Did Marie Curie Discover?": [
+   "PRIZE Marie discovered radioactivity and, together with husband Pierre, the radioactive elements polonium and radium while working with the mineral pitchblende.",
+   "She also championed the development of X-rays after Pierre’s death."
+  ],
+  "X-rays": [
+   "She championed the use of portable X-ray machines in the field, and these medical vehicles earned the nickname “Little Curies.”"
+  ],
+  "How Did Marie Curie Die?": [
+   "Marie Curie died of aplastic anemia in 1934, likely from exposure to radiation during her research.",
+   "Curie died on July 4, 1934, of aplastic anemia, believed to be caused by prolonged exposure to radiation."
+  ],
+  "Husband Pierre Curie and Children": [
+   "Marie married French physicist Pierre Curie on July 26, 1895."
+  ]
+ },
+ "links": [
+  "Radioactivity: Creating Polonium and Radium — What Did Marie Curie Discover? 0.68",
+  "Radioactivity: Creating Polonium and Radium — Nobel Prizes 0.53",
+  "What Did Marie Curie Discover? — X-rays 0.60",
+  "Radioactivity: Creating Polonium and Radium — How Did Marie Curie Die? 0.63",
+  "Radioactivity: Creating Polonium and Radium — Husband Pierre Curie and Children 0.45"
+ ],
+ "pulls": [
+  "0.45 Marie Curie became the first woman to win a Nobel Prize and  — In 1902, the Curies announced they had produced a decigram o",
+  "0.62 Marie’s efforts, with help from husband Pierre Curie, led to — She also championed the development of X-rays after Pierre’s",
+  "0.61 Marie’s efforts, with help from husband Pierre Curie, led to — Marie married French physicist Pierre Curie on July 26, 1895",
+  "0.64 Marie discovered radioactivity and, together with husband Pi — Working with the mineral pitchblende, the pair discovered a ",
+  "0.66 She also championed the development of X-rays after Pierre’s — She championed the use of portable X-ray machines in the fie",
+  "0.63 Marie discovered radioactivity and, together with husband Pi — Curie conducted her own experiments on uranium rays and disc",
+  "0.65 Marie discovered radioactivity and, together with husband Pi — The rays, she theorized, came from the element’s atomic stru",
+  "0.63 Marie discovered radioactivity and, together with husband Pi — This revolutionary idea created the field of atomic physics.",
+  "0.62 Marie discovered radioactivity and, together with husband Pi — Curie herself coined the word “radioactivity” to describe th",
+  "0.66 Marie discovered radioactivity and, together with husband Pi — They named the element polonium, after Curie’s native countr",
+  "0.63 They also detected the presence of another radioactive mater — In 1911, Curie won her second Nobel Prize, this time in Chem",
+  "0.64 In 1902, the Curies announced they had produced a decigram o — In 1911, Curie won her second Nobel Prize, this time in Chem",
+  "0.50 In 1902, the Curies announced they had produced a decigram o — Curie won two Nobel Prizes: The Nobel Prize in Physics in 19",
+  "0.60 Marie’s efforts, with help from husband Pierre Curie, led to — She remains the only person to be honored for accomplishment",
+  "0.65 Marie discovered radioactivity and, together with husband Pi — Curie received the Nobel Prize in Physics in 1903, along wit",
+  "0.65 Marie discovered radioactivity and, together with husband Pi — Marie Curie died of aplastic anemia in 1934, likely from exp",
+  "0.47 She championed the use of portable X-ray machines in the fie — Curie died on July 4, 1934, of aplastic anemia, believed to "
+ ]
+}

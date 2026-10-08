@@ -1,0 +1,72 @@
+{
+ "title": "My YC app: Dropbox - Throw away your USB drive",
+ "kept": "886 of 4208 words (21%), 37 sentences",
+ "themes": {
+  "My YC app: Dropbox - Throw away your USB drive (34)": [],
+  "Drop Box folder (3)": []
+ },
+ "subjects": {
+  "My YC app: Dropbox - Throw away your USB drive": [
+   "1. For a Linux user, you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem.",
+   "LEAD 2. It doesn't actually replace a USB drive.",
+   "Most people I know e-mail files to themselves or host them somewhere online to be able to perform presentations, but they still carry a USB drive in case there are connectivity problems.",
+   "This does not solve the connectivity issue.",
+   "3. It does not seem very \"viral\" or income-generating.",
+   "I know this is premature at this point, but without charging users for the service, is it reasonable to expect to make money off of this?",
+   "1. re: the first part, many people want something plug and play.",
+   "and even if they were plug and play, the problem is that the user experience (on windows at least) with online drives generally sucks, and you don't have disconnected access.",
+   "windows for sure doesn't hide latency well (CIFS is bad, webdav etc. are worse), and most apps are written as if the disk was local, and assume, for example, accessing a file only takes a few ms. if the server is 80ms away, and you do 100 accesses (e.g. the open file common dialog listing a directory and poking files for various attributes or icons) serially, suddenly your UI locks up for _seconds_ (joel spolsky summarizes this well in his article on leaky abstractions.) ditto saving any file; you change one character in your 20mb word file and hit save, and your upstream-capped 40k/sec comcast connection is hosed for 8 minutes.",
+   "2. true, if you're both not at your computer and on another computer without net access, this won't replace a usb drive :) but the case i'm worried about is being, for example, on a plane, and dropbox will let you get to the most recent version of your docs at the time you were last connected, and will sync everything up when you get back online (without you having to copy anything or really do anything.)",
+   "Your use-case described in #2 does make sense, but I still agree with others' comments here that claiming that it replaces USB drives is a bad idea in general.",
+   "In short, I guess I'm curious what separates Dropbox from using a free FTP service which is connected either through Windows' built-in Network Places or Linux's curlftpfs.",
+   "The only problem is that you have to install something.",
+   "In general, I have realized it is much better to launch with something that does a few things REALLY well rather than a lot of things with little focus.",
+   "When you launch small and do it well, it is easier to attract a user-base and THEN keep feeding it more advance features in form of updates.",
+   "One thing they teach at YC, and in one of pg's essays (http://www.paulgraham.com/investors.html), is to present a story instead of a list of features.",
+   "That way you answer the question of \"Why would I use this product?\" simultaneously to answering \"What does this product do?\".",
+   "You can't emphasize enough to people to tell a story, and the screencast is a great crucible for whether you have a good story to tell.",
+   "How are you going to scale up your storage to meet the demands of the users?",
+   "So, that means Dropbox is going to have to resell S3 at a premium for the added value of these nice Coda-like features.",
+   "my bill will pennies every month (going on S3 prices).",
+   "You cannot transact pennies per user per month.",
+   "I think the larger issue is about getting user adoption.",
+   "Creating something users can enjoy, agree with, and possibly part money for is a much more difficult problem to solve than figuring out to make large scale storage cost effective.",
+   "I think user experience can and will be duplicated.",
+   "Anyway you slice it, you need to have a profit margin.",
+   "And with a commodity like storage (and the soon-to-be commodity of online storage), you have to be competitve with market prices.",
+   "The reason that most YC startups can worry about user adoption is because they aren't tied down to this problem.",
+   "They aren't really making commodities and the cost of makign the product isn't so suffocating.",
+   "That's why Dropbox needs to plan for moving off S3.",
+   "Your main competition is not USB drives: it is HotMail, GMail, and Yahoo! Mail.",
+   "yup -- i didn't get to mention it, but a big piece of dropbox is that it's a local/\"normal\" folder that's synced in the background -- you can work on your files offline (that, among other things, drove me nuts about typical online drives) and get local IO speeds (good for photoshop, film, etc.)",
+   "I can't expect Dropbox to charge those prices, given S3 as a backend.",
+   "The margin just isn't really there, especially given the number of uses that will want free storage."
+  ],
+  "Drop Box folder": [
+   "anyway, the point of that rant was that dropbox uses a _local_ folder with efficient sync in the background, which is an important difference :)",
+   "Any file and folder (Word documents, spreadsheets, family photos, etc) you add to your Drop Box folder is automatically synchronized and saved remotely.",
+   "Anything added to it is automatically saved, synchronized, and \"dated\" so you can go back in time!"
+  ]
+ },
+ "links": [],
+ "pulls": [
+  "0.61 1. For a Linux user, you can already build such a system you — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.66 2. It doesn't actually replace a USB drive. — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.64 Most people I know e-mail files to themselves or host them s — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.52 This does not solve the connectivity issue. — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.55 1. re: the first part, many people want something plug and p — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.67 and even if they were plug and play, the problem is that the — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.68 windows for sure doesn't hide latency well (CIFS is bad, web — anyway, the point of that rant was that dropbox uses a _loca",
+  "0.65 anyway, the point of that rant was that dropbox uses a _loca — yup -- i didn't get to mention it, but a big piece of dropbo",
+  "0.66 anyway, the point of that rant was that dropbox uses a _loca — 2. true, if you're both not at your computer and on another ",
+  "0.58 anyway, the point of that rant was that dropbox uses a _loca — Your use-case described in #2 does make sense, but I still a",
+  "0.61 anyway, the point of that rant was that dropbox uses a _loca — In short, I guess I'm curious what separates Dropbox from us",
+  "0.56 anyway, the point of that rant was that dropbox uses a _loca — The only problem is that you have to install something.",
+  "0.66 Any file and folder (Word documents, spreadsheets, family ph — yup -- i didn't get to mention it, but a big piece of dropbo",
+  "0.54 Anything added to it is automatically saved, synchronized, a — yup -- i didn't get to mention it, but a big piece of dropbo",
+  "0.32 anyway, the point of that rant was that dropbox uses a _loca — In general, I have realized it is much better to launch with",
+  "0.59 Anything added to it is automatically saved, synchronized, a — So, that means Dropbox is going to have to resell S3 at a pr",
+  "0.48 anyway, the point of that rant was that dropbox uses a _loca — I think user experience can and will be duplicated.",
+  "0.39 anyway, the point of that rant was that dropbox uses a _loca — Your main competition is not USB drives: it is HotMail, GMai"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Register to vote",
+ "kept": "303 of 423 words (72%), 20 sentences",
+ "themes": {
+  "Register to vote (1)": [],
+  "Register using a paper form (2)": [],
+  "After you’ve registered (2)": [],
+  "Who can register to vote (1)": [
+   "If you live in England or Northern Ireland (6)",
+   "If you live abroad (5)",
+   "If you live in Scotland or Wales (2)"
+  ],
+  "Get help registering (1)": []
+ },
+ "subjects": {
+  "Register to vote": [
+   "LEAD You can register to vote if you’re a British citizen or an Irish citizen."
+  ],
+  "If you live in England or Northern Ireland": [
+   "You must be aged 16 or over to register.",
+   "PRIZE You can register to vote if you’re a British citizen or an Irish citizen.",
+   "You can also register if you have permission (or do not need permission) to enter or stay in the UK, Channel Islands or Isle of Man and you’re:",
+   "a Commonwealth citizen (including citizens of Cyprus and Malta)",
+   "a citizen of Denmark, Luxembourg, Poland, Portugal or Spain",
+   "a citizen of another EU country, who on or before 31 December 2020 had permission to enter or stay (or did not need permission) and this has continued without a break"
+  ],
+  "If you live abroad": [
+   "You can register as an overseas voter if you’ve previously lived in the UK and are either:",
+   "a British citizen",
+   "an eligible Irish citizen registering to vote in Northern Ireland",
+   "You’ll need to give the postcode of the last UK address you were registered to vote at.",
+   "If you’ve never registered to vote, you’ll need to give the postcode of the last UK address you lived at."
+  ],
+  "If you live in Scotland or Wales": [
+   "You must be aged 14 or over to register.",
+   "You can also register if you have permission to enter or stay in the UK, Channel Islands or Isle of Man, or you do not need permission."
+  ],
+  "Register using a paper form": [
+   "You can register using a paper form in England, Wales and Scotland.",
+   "You’ll need to print, fill in and send the form to your electoral registration office."
+  ],
+  "After you’ve registered": [
+   "Your name and address will appear on the electoral register.",
+   "It will also appear on the ‘open’ register unless you asked to opt out when registering."
+  ],
+  "Who can register to vote": [
+   "You can register to vote up to 2 years before you reach voting age - check the rules around voting in the UK."
+  ],
+  "Get help registering": [
+   "You can get help registering from your electoral registration office."
+  ]
+ },
+ "links": [
+  "If you live in England or Northern Ireland — Who can register to vote 0.58",
+  "If you live in England or Northern Ireland — If you live abroad 0.34",
+  "If you live in Scotland or Wales — Who can register to vote 0.57",
+  "Register using a paper form — After you’ve registered 0.64",
+  "Register using a paper form — Get help registering 0.52"
+ ],
+ "pulls": [
+  "0.62 You can register to vote up to 2 years before you reach voti — You must be aged 16 or over to register.",
+  "0.53 You must be aged 16 or over to register. — You must be aged 14 or over to register.",
+  "0.69 You can register to vote if you’re a British citizen or an I — You can register to vote if you’re a British citizen or an I",
+  "0.64 You can also register if you have permission (or do not need — You can also register if you have permission to enter or sta",
+  "0.59 a Commonwealth citizen (including citizens of Cyprus and Mal — You can also register if you have permission to enter or sta",
+  "0.53 a citizen of Denmark, Luxembourg, Poland, Portugal or Spain — You can also register if you have permission to enter or sta",
+  "0.61 a citizen of another EU country, who on or before 31 Decembe — You can also register if you have permission to enter or sta",
+  "0.57 You can also register if you have permission (or do not need — You can register to vote if you’re a British citizen or an I",
+  "0.56 You can register to vote if you’re a British citizen or an I — You can register as an overseas voter if you’ve previously l",
+  "0.63 You can register to vote if you’re a British citizen or an I — a British citizen",
+  "0.66 You can register to vote if you’re a British citizen or an I — an eligible Irish citizen registering to vote in Northern Ir",
+  "0.52 You’ll need to give the postcode of the last UK address you  — You’ll need to print, fill in and send the form to your elec",
+  "0.58 If you’ve never registered to vote, you’ll need to give the  — You’ll need to print, fill in and send the form to your elec",
+  "0.43 You can register using a paper form in England, Wales and Sc — You can get help registering from your electoral registratio",
+  "0.57 You’ll need to print, fill in and send the form to your elec — You can get help registering from your electoral registratio",
+  "0.65 You’ll need to print, fill in and send the form to your elec — Your name and address will appear on the electoral register.",
+  "0.62 You’ll need to print, fill in and send the form to your elec — It will also appear on the ‘open’ register unless you asked "
+ ]
+}

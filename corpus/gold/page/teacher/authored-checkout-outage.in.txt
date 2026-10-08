@@ -1,0 +1,64 @@
+DOCUMENT: Postmortem: the checkout outage of 14 March
+
+§0 (under the title)
+S0 This document was written by the payments team and reviewed by the incident commander and two engineers from the platform group.
+S1 It follows our blameless format, so it names roles rather than people.
+
+§1 Summary
+S2 On 14 March a configuration change to the payment router sent most card traffic to a single processor that was already close to its limit, and checkout failed for 71 minutes for roughly 38 percent of customers.
+S3 The change was safe in isolation but interacted with a retry setting that multiplied the load on that processor within seconds.
+S4 We lost an estimated 412,000 euros in orders that did not come back, and no customer data was exposed.
+S5 The incident was detected by a customer-facing alert rather than by our own monitoring.
+
+§2 Impact
+S6 Between 09:12 and 10:23 UTC, 38 percent of checkout attempts returned an error, concentrated in the three largest markets.
+S7 The mobile apps failed more often than the web site, because they retry aggressively and made the throttling worse.
+S8 About 9,100 customers contacted support during the incident, roughly four times the usual volume.
+S9 Support staff handled them well under difficult conditions.
+S10 Refunds for double charges were completed by the following Monday.
+
+§3 Timeline
+S11 At 09:04 a routine change moved the card router to a new weighting that favoured the cheapest processor.
+S12 At 09:12 error rates on checkout began to climb.
+S13 At 09:19 the on-call engineer was paged, but the page went to a channel that had been muted during an earlier incident and never unmuted.
+S14 At 09:31 a customer-facing alert from the support tooling, not our own monitoring, told the incident commander that something was wrong.
+S15 At 09:40 the team rolled back the weighting change, but errors did not fall.
+S16 At 09:58 an engineer noticed that the retry queue held more than two million pending requests.
+S17 At 10:11 the team drained the queue and manually pinned traffic to the second processor, and errors fell within minutes.
+S18 At 10:23 checkout returned to normal, and the incident was closed at 10:50.
+
+§4 Root cause
+S19 The root cause was an unbounded retry policy in the payment router, which resends a failed request immediately and without a limit.
+S20 When the cheapest processor began throttling, every rejected request came straight back, so the load we sent grew faster than the processor's limit, and the throttling got worse instead of better.
+S21 The weighting change was the trigger but not the cause, because any slowdown at that processor would have produced the same spiral.
+S22 Rolling the change back did not help because the queue of retries kept the pressure up on its own.
+
+§5 Contributing factors
+S23 Our monitoring watched error rates per market but not retry queue depth, so the signal that mattered most was invisible.
+S24 The page went to a muted channel, which cost us about twelve minutes of response time.
+S25 A load test had been run for the new weighting, but it simulated a slow processor and not a throttling one.
+S26 There were a few other minor issues, none of which changed the outcome.
+S27 The runbook for the router had not been updated since the previous quarter.
+
+§6 What went well
+S28 The incident commander declared a major incident within minutes of the alert and kept a written log.
+S29 The second processor was already integrated, so pinning traffic to it took one command.
+S30 Communication with the support team was clear throughout.
+
+§7 What went badly
+S31 We found out from a customer-facing alert and not from our own monitoring.
+S32 The rollback was the wrong first move, and it cost nearly half an hour.
+S33 We were also unlucky that two of the three people who know the router were out that day.
+
+§8 Action items
+S34 Cap retries in the payment router at three attempts with exponential backoff, owned by the payments team and due by 28 March.
+S35 Add retry queue depth to the dashboards and alert on it, due by 31 March.
+S36 Audit every muted paging channel and require a quarterly review of the routing, due by 11 April.
+S37 Extend load tests to cover throttling as well as slowness, due by the end of April.
+S38 Update the router runbook.
+S39 The retry cap is the one that would have prevented this incident, and it ships first.
+
+§9 Related links
+S40 Incident ticket and chat log.
+S41 Payment router design document.
+S42 Previous postmortem: webhook backlog, January.

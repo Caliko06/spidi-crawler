@@ -1,0 +1,9 @@
+{"type":"object","additionalProperties":false,"required":["apparatus","sentences","essentials","lead","subjects","filing","repeats"],
+ "properties":{
+  "apparatus":{"type":"array","items":{"type":"string"}},
+  "sentences":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["id","level","leans"],"properties":{"id":{"type":"string"},"level":{"type":"integer","enum":[0,1,2,3]},"leans":{"type":["string","null"]}}}},
+  "essentials":{"type":"array","items":{"type":"string"}},
+  "lead":{"type":"string"},
+  "subjects":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["name","theme"],"properties":{"name":{"type":"string"},"theme":{"type":["string","null"]}}}},
+  "filing":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["id","subject"],"properties":{"id":{"type":"string"},"subject":{"type":"string"}}}},
+  "repeats":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["ids","keep"],"properties":{"ids":{"type":"array","items":{"type":"string"}},"keep":{"type":"string"}}}}}}

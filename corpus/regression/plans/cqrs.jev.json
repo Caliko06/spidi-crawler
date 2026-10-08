@@ -1,0 +1,203 @@
+{
+ "title": "CQRS",
+ "subjects": [
+  "ReportingDatabase",
+  "separate command model",
+  "CQRS",
+  "When to use it"
+ ],
+ "themes": [
+  "ReportingDatabase",
+  "separate command model",
+  "CQRS",
+  "When to use it"
+ ],
+ "kept": [
+  {
+   "text": "CQRS stands for Command Query Responsibility Segregation.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "At its heart is the notion that you can use a different model to update information than the model you use to read information.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "For some situations, this separation can be valuable, but beware that for most systems CQRS adds risky complexity.",
+   "worth": "prize",
+   "lead": true,
+   "subject": "CQRS"
+  },
+  {
+   "text": "The change that CQRS introduces is to split that conceptual model into separate models for update and display, which it refers to as Command and Query respectively following the vocabulary of CommandQuerySeparation.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "separate command model"
+  },
+  {
+   "text": "The rationale is that for many problems, particularly in more complicated domains, having the same conceptual model for commands and queries leads to a more complex model that does neither well.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "By separate models we most commonly mean different object models, probably running in different logical processes, perhaps on separate hardware.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "separate command model"
+  },
+  {
+   "text": "If they initiate a change that change is routed to the separate command model for processing, the resulting change is communicated to the query model to render the updated state.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "The in-memory models may share the same database, in which case the database acts as the communication between the two models.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "However they may also use separate databases, effectively making the query-side's database into a real-time ReportingDatabase.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "ReportingDatabase"
+  },
+  {
+   "text": "The two models might not be separate object models, it could be that the same objects have different interfaces for their command side and their query side, rather like views in relational databases.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "But usually when I hear of CQRS, they are clearly separate models.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "CQRS is suited to complex domains, the kind that also benefit from Domain-Driven Design.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "CQRS"
+  },
+  {
+   "text": "Like any pattern, CQRS is useful in some places, but not in others.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "CQRS is a significant mental leap for all concerned, so shouldn't be tackled unless the benefit is worth the jump.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "In particular CQRS should only be used on specific portions of a system (a BoundedContext in DDD lingo) and not the system as a whole.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "In this way of thinking, each Bounded Context needs its own decisions on how it should be modeled.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "So far I see benefits in two directions.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "Firstly is that a few complex domains may be easier to tackle by using CQRS.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "I must stress, however, that such suitability for CQRS is very much the minority case.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "Usually there's enough overlap between the command and query sides that sharing a model is easier.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "Using CQRS on a domain that doesn't match it will add complexity, thus reducing productivity and increasing risk.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "The other main benefit is in handling high performance applications.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "CQRS allows you to separate the load from reads and writes allowing you to scale each independently.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "If your application sees a big disparity between reads and writes this is very handy.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "If your domain isn't suited to CQRS, but you have demanding queries that add complexity or performance problems, remember that you can still use a ReportingDatabase.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "ReportingDatabase"
+  },
+  {
+   "text": "CQRS uses a separate model for all queries.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "With a reporting database you still use your main system for most queries, but offload the more demanding ones to the reporting database.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "ReportingDatabase"
+  },
+  {
+   "text": "Despite these benefits, you should be very cautious about using CQRS.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "Many information systems fit well with the notion of an information base that is updated in the same way that it's read, adding CQRS to such a system can add significant complexity.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "I've certainly seen cases where it's made a significant drag on productivity, adding an unwarranted amount of risk to the project, even in the hands of a capable team.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  },
+  {
+   "text": "So while CQRS is a pattern that's good to have in the toolbox, beware that it is difficult to use well and you can easily chop off important bits if you mishandle it.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "When to use it"
+  }
+ ]
+}

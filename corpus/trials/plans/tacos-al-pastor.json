@@ -1,0 +1,46 @@
+{
+ "title": "Taco al pastor",
+ "kept": "330 of 965 words (34%), 11 sentences",
+ "themes": {
+  "Nombre (4)": [],
+  "Origen (2)": [],
+  "pastor (2)": [],
+  "Taco al pastor (3)": []
+ },
+ "subjects": {
+  "Nombre": [
+   "El nombre «al pastor», proviene de «asado al pastor», un tipo de asado sobre las brasas.",
+   "El asado al pastor, también conocido como «asado del pastor», «carbonada» y «asado a la estaca», era uno de los estilos de asar carnes en la cocina ranchera mexicana, siendo el otro la barbacoa.",
+   "El nombre es anterior al “trompo” y la inmigración libanesa a México.",
+   "Es seguro asumir que cuando los inmigrantes libaneses trajeron el asador vertical o “trompo” a México, los mexicanos lo llamaron “al pastor”, ya que consistía en asar carnes en un asador de espetón."
+  ],
+  "Origen": [
+   "Con la llegada de inmigrantes libaneses a México durante la década de 1920, se intentó recrear el shawarma, un platillo popular de Medio Oriente, sustituyendo la carne de cordero por puerco, en el estado de Puebla.",
+   "Posteriormente, en la Ciudad de México se empezó a marinar con adobo, lo que dio como resultado el taco al pastor."
+  ],
+  "pastor": [
+   "El nombre al pastor viene de «asado al pastor» también conocido como «asado a la estaca», una de las dos clases de asados en la cocina mexicana.",
+   "Para su preparación, la carne en corte delgado estilo milanesa (previamente adobada) se ensarta apilándola en una estaca de hierro que gira verticalmente asemejando a un trompo y se cocina lentamente girándolo frente a un fuego colocado también de forma vertical de la manera en que, se dice, los pastores lo hacían tradicionalmente en el campo."
+  ],
+  "Taco al pastor": [
+   "LEAD El taco al pastor es un taco de carne adobada de puerco con piña originario de la Ciudad de México.",
+   "PRIZE Sus ingredientes principales son carne adobada, asada, servida en finas rebanadas sobre pequeñas tortillas de maíz, la carne puede ser una combinación de carne de puerco y carne de ternera, aunque lo más común es que sea solo carne de puerco.",
+   "Además, la carne es preparada con un marinado tradicional mexicano llamado adobo, el cual está hecho con achiote, especias y chiles rojos molidos, lo que le da el característico color rojizo a la carne."
+  ]
+ },
+ "links": [
+  "Nombre — pastor 0.80",
+  "Origen — pastor 0.67"
+ ],
+ "pulls": [
+  "0.66 El taco al pastor es un taco de carne adobada de puerco con  — Posteriormente, en la Ciudad de México se empezó a marinar c",
+  "0.64 El nombre al pastor viene de «asado al pastor» también conoc — El asado al pastor, también conocido como «asado del pastor»",
+  "0.63 El nombre al pastor viene de «asado al pastor» también conoc — El nombre «al pastor», proviene de «asado al pastor», un tip",
+  "0.58 El nombre al pastor viene de «asado al pastor» también conoc — El nombre es anterior al “trompo” y la inmigración libanesa ",
+  "0.66 El nombre al pastor viene de «asado al pastor» también conoc — Es seguro asumir que cuando los inmigrantes libaneses trajer",
+  "0.63 Es seguro asumir que cuando los inmigrantes libaneses trajer — Con la llegada de inmigrantes libaneses a México durante la ",
+  "0.66 Posteriormente, en la Ciudad de México se empezó a marinar c — Además, la carne es preparada con un marinado tradicional me",
+  "0.67 Sus ingredientes principales son carne adobada, asada, servi — Para su preparación, la carne en corte delgado estilo milane",
+  "0.66 Es seguro asumir que cuando los inmigrantes libaneses trajer — Para su preparación, la carne en corte delgado estilo milane"
+ ]
+}

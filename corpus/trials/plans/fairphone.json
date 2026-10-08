@@ -1,0 +1,77 @@
+{
+ "title": "Fairphone Shop",
+ "kept": "162 of 505 words (32%), 25 sentences",
+ "themes": {
+  "Keep it going for years with swappable parts (5)": [],
+  "Fairphone (3)": [],
+  "Privacy by design (3)": [],
+  "Join now. Keep longer. Earn more. (2)": [
+   "Fairbuds (1)"
+  ],
+  "Fairphone Shop (11)": []
+ },
+ "subjects": {
+  "Keep it going for years with swappable parts": [
+   "An old battery shouldn't mean a new device.",
+   "PRIZE With Fairphone, repairs are simple enough for anyone.",
+   "PRIZE Swap one part in minutes—no technical expertise required.",
+   "PRIZE We've designed over 40 components to be easily replaceable.",
+   "PRIZE From batteries to headbands, you're in control of your device's lifespan."
+  ],
+  "Fairphone": [
+   "PRIZE Modular design with 12 replaceable parts.",
+   "Five-year warranty.",
+   "Software support till 2033."
+  ],
+  "Privacy by design": [
+   "App lounge for curated privacy-first apps",
+   "Open-source European-made",
+   "PRIZE 12 modular parts, easy to repair"
+  ],
+  "Join now. Keep longer. Earn more.": [
+   "The only rewards program thats all about you keeping what you love for longer - and getting rewarded for it!",
+   "We have a new edition of our award-winning Fairbuds XL now on sale."
+  ],
+  "Fairbuds": [
+   "Up to 30 hours of battery runtime"
+  ],
+  "Fairphone Shop": [
+   "This item is out of stock",
+   "LEAD Repair over Replace",
+   "We don’t just assemble parts.",
+   "We respect the people and the planet behind them.",
+   "2,083 tons",
+   "of CO₂e avoided in 2025",
+   "€1.25M",
+   "paid in living wage bonuses since 2019",
+   "30 tons",
+   "of e-waste collected in 2025",
+   "e-waste neutral across all products by 2026"
+  ]
+ },
+ "links": [
+  "Keep it going for years with swappable parts — Fairphone 0.69",
+  "Fairphone — Privacy by design 0.31",
+  "Keep it going for years with swappable parts — Join now. Keep longer. Earn more. 0.60",
+  "Join now. Keep longer. Earn more. — Fairbuds 0.48"
+ ],
+ "pulls": [
+  "0.64 Modular design with 12 replaceable parts. — 12 modular parts, easy to repair",
+  "0.50 Five-year warranty. — 12 modular parts, easy to repair",
+  "0.50 Software support till 2033. — From batteries to headbands, you're in control of your devic",
+  "0.26 Software support till 2033. — App lounge for curated privacy-first apps",
+  "0.49 Open-source European-made — We respect the people and the planet behind them.",
+  "0.45 Up to 30 hours of battery runtime — An old battery shouldn't mean a new device.",
+  "0.65 Repair over Replace — An old battery shouldn't mean a new device.",
+  "0.66 12 modular parts, easy to repair — With Fairphone, repairs are simple enough for anyone.",
+  "0.66 12 modular parts, easy to repair — Swap one part in minutes—no technical expertise required.",
+  "0.60 12 modular parts, easy to repair — We've designed over 40 components to be easily replaceable.",
+  "0.65 12 modular parts, easy to repair — From batteries to headbands, you're in control of your devic",
+  "0.63 We've designed over 40 components to be easily replaceable. — We don’t just assemble parts.",
+  "0.48 Modular design with 12 replaceable parts. — of CO₂e avoided in 2025",
+  "0.35 From batteries to headbands, you're in control of your devic — of e-waste collected in 2025",
+  "0.57 From batteries to headbands, you're in control of your devic — e-waste neutral across all products by 2026",
+  "0.62 From batteries to headbands, you're in control of your devic — The only rewards program thats all about you keeping what yo",
+  "0.20 Up to 30 hours of battery runtime — We have a new edition of our award-winning Fairbuds XL now o"
+ ]
+}

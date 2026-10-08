@@ -1,0 +1,999 @@
+DOCUMENT: Mycorrhiza
+
+§0 (under the title)
+S0 A mycorrhiza (from Ancient Greek μύκης (múkēs) 'fungus' and ῥίζα (rhíza) 'root'; pl. mycorrhizae, mycorrhiza, or mycorrhizas) is a symbiotic association between a fungus and a plant, in which fungal hyphae and plant roots become interconnected and form an interface on the cellular level.
+S1 The term mycorrhiza refers to the role of the fungus in the plant's rhizosphere, the plant root system and its surroundings.
+S2 Mycorrhizae play important roles in plant nutrition, soil biology, and soil chemistry.
+S3 In a mycorrhizal association, the fungus colonizes the host plant's root tissues, either intracellularly as in arbuscular mycorrhizal fungi, or extracellularly as in ectomycorrhizal fungi.
+S4 The association is normally mutualistic.
+S5 In particular species, or in particular circumstances, mycorrhizae may have a parasitic association with host plants.
+
+§1 Definition
+S6 A mycorrhiza is a symbiotic association between a green plant and a fungus.
+S7 The plant makes organic molecules by photosynthesis and supplies them to the fungus in the form of sugars or lipids, while the fungus supplies the plant with water and mineral nutrients, such as phosphorus, nitrogen, or zinc, taken from the soil.
+S8 Mycorrhizas are located in the roots of vascular plants, but mycorrhiza-like associations also occur in bryophytes and there is fossil evidence that early land plants that lacked roots formed arbuscular mycorrhizal associations.
+S9 Most plant species form mycorrhizal associations, though some families like Brassicaceae and Chenopodiaceae cannot.
+S10 Different forms for the association are detailed in the next section.
+S11 The most common is the arbuscular type that is present in 70% of plant species, including many crop plants such as cereals and legumes.
+
+§2 History of research
+S12 Mycorrhizal fungi were first formally described and named in 1885 by German botanist A.B.
+S13 Frank, who coined the term "mycorrhiza".
+S14 Earlier observations by others also contributed to understanding these root-fungal associations.
+S15 In 1881, Franciszek Kamieński had shown that the plant Monotropa hypopitys relied on fungi from neighboring trees for nutrition, highlighting fungal dependency.
+S16 Noël Bernard established in 1899 that orchids like Neottia nidus-avis require a specific fungus for seed germination.
+S17 In the 20th century, researchers expanded understanding of mycorrhizal diversity and prevalence across plant families.
+S18 Paleobotanists working on the Rhynie chert fossils demonstrated that mycorrhizal-like associations existed 407 million years ago in early land plants.
+S19 Laccaria bicolor became the first ectomycorrhizal fungus to have its genome sequenced in 2008, revealing the genetic basis of symbiosis through gene duplications and specialized secreted proteins.
+S20 This work opened the molecular era of mycorrhizal research.
+
+§3 Emergence alongside terrestrial plants
+S21 Fossil and genetic evidence indicate that mycorrhizae emerged as early as 450-500 million years ago, potentially between fungus-like protists and algae.
+S22 Arbuscular mycorrhizal relationships appeared earliest, coinciding with the terrestrialization of plants.
+S23 Genetic evidence indicates that all land plants share a single common ancestor, which appears to have quickly adopted mycorrhizal symbiosis, and research suggests that proto-mycorrhizal fungi were a key factor enabling plant terrestrialization.
+S24 There is a strong consensus among paleomycologists that mycorrhizal fungi served as a primitive root system for early terrestrial plants.
+S25 This is because, prior to plant colonization of land, soils were nutrient sparse and plants had yet to develop root systems.
+S26 Without complex root systems, early terrestrial plants would have been incapable of absorbing recalcitrant ions from mineral substrates, such as phosphate, a key nutrient for plant growth.
+
+§4 Fossil record and genomic analysis
+S27 Fossils of Glomeromycotan spores and hyphae date to 460 million years ago, but the fossils were not associated with plants.
+S28 The earliest terrestrial communities were similar to modern biocrusts.
+S29 Lichen-like associations between fungi and cyanobacteria were an important part of these communities.
+S30 The first land plants were similar to mosses, with simple vascular systems and no leaves or roots.
+S31 The earliest direct fossil evidence of early mycorrhizal symbiosis is found in the 407 million year old Rhynie chert, which contains an assemblage of "exceptionally preserved" fossil plants colonized by multiple para-mycorrhizal fungi.
+S32 The Rhynie chert fossils show Glomeromycotan and Mucoromycotan fungi engaged in mycorrhiza-like associations with cells of the plants Aglaophyton major and Horneophyton lignieri.
+S33 The fossils suggest a mutualistic association between the plants and the colonizing fungi, because distinctive nutrient exchange structures (arbuscules and hyphal coils, in Glomeromycotina and Mucoromycotina respectively) are preserved and the colonized cells appear to have been alive at the time of infection by the fungus.
+S34 These early associations are referred to as mycorrhiza-like or para-mycorrhizal because mycorrhiza are defined by the fungal colonization of plant roots, and early plants did not have any roots.
+S35 The earliest fossils of arbuscular mycorrhizal fungi in plant roots originate from 315-303 million years ago, and show fungi belonging to Glomeromycotina in the root systems of a giant lycophyte, Lepidodendron, and an early relative of the conifers, Cordaites.
+S36 Arbuscular mycorrhizal fungi were found in 240 million year old fossils of Antarcticycas schopfii.
+S37 Ectomycorrhizae developed substantially later, during the Jurassic period, while most other modern forms of mycorrhizal symbiosis, including orchid and ericoid mycorrhizae, date to the period of angiosperm radiation in the Cretaceous period.
+S38 Ectomycorrhizae appear in the fossil record 48.7 million years ago, in the Eocene, with a fossil of ectomycorrhizal fungi colonizing Pinus roots.
+S39 However, it is believed that the first ectomycorrhizal relationships evolved in the stem group Pinaceae around the radiation of the Pinaceae crown group in the mid Jurassic, 175 million or so years ago.
+S40 Fossils preservation of Ericoid mycorrhizae and orchid mycorrhizae is lacking.
+S41 Calibrated molecular phylogeny is used to estimate when these mycorrhizal types originated.
+S42 The origins of orchid mycorrhizae are unclear, though orchids themselves are thought to have originated in the Cretaceous period.
+S43 Ericoid mycorrhizae are estimated to have the most recent evolutionary origins of mycorrhizal types, evolving around 118 million years ago from free-living saprotrophic ancestors.
+S44 Ericoid mycorrhizal fungi evolved from multiple lineages of fungi, primarily ascomycetes from the Leotiomycetes, as well as basidiomycetes from the family Serendipitaceae.
+
+§5 Origins in plants
+S45 In plants, the genes for forming mycorrhizal symbiosis are highly conserved and originate from a common ancestor, meaning that the ability to form mycorrhizae is ancestral to all land plants.
+S46 Non-mycorrhizal plant lineages, such as the Brassicaceae, lost the ability to form mycorrhizae at some point in their evolution.
+S47 The earliest mycorrhizae were arbuscular mycorrhizae, and other forms, such as ectomycorrhizae and orchid mycorrhizae, evolved when plant hosts switched from symbiosis with Glomeromycotina to symbiosis with different fungal lineages.
+S48 There is genetic evidence that the symbiosis between legumes and nitrogen-fixing bacteria is derived from mycorrhizal symbiosis.
+S49 The modern distribution of mycorrhizal fungi appears to reflect an increasing complexity and competition in root morphology associated with the dominance of angiosperms in the Cenozoic Era, characterized by complex ecological dynamics between species.
+
+§6 Origins in fungi
+S50 In fungi, mycorrhizal symbiosis had multiple independent origins among different lineages of fungi.
+S51 Arbuscular mycorrhizal fungi form their own monophyletic phylum, whereas other mycorrhizal fungi convergently evolved similar lifestyles.
+
+§7 Arbuscular mycorrhizae
+S52 The phylum Glomeromycota, which forms the arbuscular mycorrhizal symbiosis, is the oldest mycorrhizal lineage.
+S53 The arbuscular mycorrhizal symbiosis evolved only once in fungi; all arbuscular mycorrhizal fungi belong to Glomeromycota and share a common ancestor.
+S54 244 species have been identified based on differences in the appearance of their spores, but genetic studies suggest that 300-1600 species may exist in Glomeromycota.
+S55 All members of Glomeromycota are obligate biotrophs, entirely dependent upon their plant hosts for survival.
+S56 Arbuscular mycorrhizal fungi are considered to be generalists, with minimal host plant specificity.
+S57 AM symbiosis has been observed in almost every seed plant taxonomic division, or around 67% of species.
+S58 Arbuscular mycorrhizae take on most angiosperms, some gymnosperms, pteridophytes, and nonvascular plants as plant hosts.
+S59 Arbuscular mycorrhizae have been observed in the seedling stage of otherwise ectomycorrhizal partners, suggesting that arbuscular mycorrhizal fungi may be able to infect almost any land plant given proper circumstances.
+S60 Other forms of mycorrhizal symbiosis, such as ectomycorrhizae, orchid mycorrhizae, and ericoid mycorrhizae, emerged multiple times in different lineages of fungi through convergent evolution.
+S61 Unlike arbuscular mycorrhizal fungi, some of these fungi are only facultatively symbiotic, and can live by themselves without a plant host under some conditions.
+
+§8 Ectomycorrhizae
+S62 Ectomycorrhizal fungi evolved from free-living saprotrophs, mostly in Basidiomycota and Ascomycota, and some became dependent on plant hosts when they lost genes necessary for decaying lignin and other plant materials.
+S63 There are 20,000 to 25,000 species of ectomycorrhizal fungi, but only 6,000 to 7,000 plant species that form ectomycorrhizal symbiosis.
+S64 In angiosperms, it is believed that ectomycorrhizal partnerships have developed independently at least 18 times, and in fungi, around 80 times.
+S65 The main evolutionary driver for ectomycorrhizae is switching of nutritional modes from saprotrophs.
+S66 Phylogenomic analysis of various ectomycorrhizal fungal genomes has confirmed the convergent evolution of ectomycorrhizal fungi from white and brown-rot fungi, as well as from soil saprotrophs.
+S67 Some lineages of ectomycorrhizae have likely evolved from endophytic ancestors, fungi that live within plants without damaging them.
+S68 Some ectomycorrhizal fungi have gone through apparent evolutionary reversal back into saprotrophic ecology.
+S69 This is possible because some lineages of ectomycorrhizal fungi retain enzymes for breaking down lignin.
+
+§9 Orchid mycorrhizae
+S70 Orchid mycorrhizal fungi, which mostly originate from Ascomycota and Basidiomycota, are less understood.
+S71 Some fungi that participate in orchid mycorrhizal symbiosis can also form ectomycorrhizal symbiosis with other plants, or live independently of a plant host.
+S72 Some orchid mycorrhizal fungi can also live as plant pathogens.
+
+§10 Ericoid mycorrhizae
+S73 Ericoid mycorrhizal associations have the most recent origins and the lowest species richness among both plant and fungal partners.
+S74 This specialization suggests that ericoid mycorrhizal partners evolved in parallel with one another in response to environmental change, rather than through reciprocal species-to-species level selection.
+S75 Ericoid mycorrhizal relationships are found in extremely nutrient poor soils in the northern and southern hemispheres.
+S76 These environments of low mineral nutrient availability have led to native plants developing sclerophylly, where plants become high in lignin and low in phosphorus and nitrogen.
+S77 As a result, decaying plant matter in these areas has an abnormally high carbon to nitrogen ratio, making it resistant to microbial decay.
+S78 Ericoid mycorrhizae have apparently evolved to conserve minerals in nutrient deficient sclerophyllous litter by directly cycling these nutrients throughout the mycorrhiza system.
+S79 Ericoid mycorrhizae also retain saprotrophic abilities, allowing them to extract nitrogen and phosphorus from unmineralized organic material, and resist negative outcomes from high concentrations of toxic cations in the acidic soil environment.
+
+§11 Types
+S80 The mycorrhizal lifestyle has independently convergently evolved multiple times in the history of Earth.
+S81 There are multiple ways to categorize mycorrhizal symbiosis.
+S82 The largest division is between ectomycorrhizas and endomycorrhizas.
+S83 The two types are differentiated by the fact that the hyphae of ectomycorrhizal fungi do not penetrate individual cells within the root, while the hyphae of endomycorrhizal fungi penetrate the cell wall into the root's cell membrane.
+
+§12 Similar symbiotic relationships
+S84 Some forms of plant-fungal symbiosis are similar to mycorrhizae, but considered distinct.
+S85 One example is fungal endophytes.
+S86 Endophytes are defined as organisms that can live within plant cells without causing harm to the plant.
+S87 They are distinguishable from mycorrhizal fungi by the absence of nutrient-transferring structures for bringing in nutrients from outside the plant.
+S88 Some lineages of mycorrhizal fungi may have evolved from endophytes into mycorrhizal fungi, and some fungi can live as mycorrhizae or as endophytes.
+
+§13 Ectomycorrhiza
+S89 Ectomycorrhizae are distinct in that they do not penetrate into plant cells, but instead form a structure called a Hartig net that penetrates between cells.
+S90 Ectomycorrhizas consist of a hyphal sheath, or mantle, covering the root tip and the Hartig net of hyphae surrounding the plant cells within the root cortex.
+S91 In some cases the hyphae may also penetrate the plant cells, in which case the mycorrhiza is called an endomycorrhiza.
+S92 Outside the root, ectomycorrhizal extramatrical mycelium forms an extensive network within the soil and leaf litter.
+S93 Other forms of mycorrhizae, including arbuscular, ericoid, arbutoid, monotropoid, and orchid mycorrhizas, are considered endomycorrhizae.
+S94 Ectomycorrhizas, or EcM, are symbiotic associations between the roots of around 10% of plant families, mostly woody plants including the birch, dipterocarp, eucalyptus, oak, pine, and rose families, orchids, and fungi belonging to the Basidiomycota, Ascomycota, and Zygomycota.
+S95 Ectomycorrhizae associate with relatively few plant species, only about 2% of plant species on Earth, but the species they associate with are mostly trees and woody plants that are highly dominant in their ecosystems, meaning plants in ectomycorrhizal relationships make up a large proportion of plant biomass.
+S96 Some EcM fungi, such as many Leccinum and Suillus, are symbiotic with only one particular genus of plant, while other fungi, such as the Amanita, are generalists that form mycorrhizas with many different plants.
+S97 An individual tree may have 15 or more different fungal EcM partners at one time.
+S98 While the diversity of plants involved in EcM is low, the diversity of fungi involved in EcM is high.
+S99 Thousands of ectomycorrhizal fungal species exist, hosted in over 200 genera.
+S100 A recent study has conservatively estimated global ectomycorrhizal fungal species richness at approximately 7750 species, although, on the basis of estimates of knowns and unknowns in macromycete diversity, a final estimate of ECM species richness would probably be between 20,000 and 25,000.
+S101 Ectomycorrhizal fungi evolved independently from saprotrophic ancestors many times in the group's history.
+S102 Nutrients can be shown to move between different plants through the fungal network.
+S103 Carbon has been shown to move from paper birch seedlings into adjacent Douglas-fir seedlings, although not conclusively through a common mycorrhizal network, thereby promoting succession in ecosystems.
+S104 The ectomycorrhizal fungus Laccaria bicolor has been found to lure and kill springtails to obtain nitrogen, some of which may then be transferred to the mycorrhizal host plant.
+S105 In a study by Klironomos and Hart, Eastern White Pine inoculated with L.
+S106 bicolor was able to derive up to 25% of its nitrogen from springtails.
+S107 When compared with non-mycorrhizal fine roots, ectomycorrhizae may contain very high concentrations of trace elements, including toxic metals (cadmium, silver) or chlorine.
+S108 The first genomic sequence for a representative of symbiotic fungi, the ectomycorrhizal basidiomycete L.
+S109 bicolor, was published in 2008.
+S110 An expansion of several multigene families occurred in this fungus, suggesting that adaptation to symbiosis proceeded by gene duplication.
+S111 Within lineage-specific genes those coding for symbiosis-regulated secreted proteins showed an up-regulated expression in ectomycorrhizal root tips suggesting a role in the partner communication.
+S112 L.
+S113 bicolor is lacking enzymes involved in the degradation of plant cell wall components (cellulose, hemicellulose, pectins and pectates), preventing the symbiont from degrading host cells during the root colonisation.
+S114 By contrast, L.
+S115 bicolor possesses expanded multigene families associated with hydrolysis of bacterial and microfauna polysaccharides and proteins.
+S116 This genome analysis revealed the dual saprotrophic and biotrophic lifestyle of the mycorrhizal fungus that enables it to grow within both soil and living plant roots.
+S117 Since then, the genomes of many other ectomycorrhizal fungal species have been sequenced further expanding the study of gene families and evolution in these organisms.
+
+§14 Arbutoid mycorrhiza
+S118 This type of mycorrhiza involves plants of the Ericaceae subfamily Arbutoideae.
+S119 It is however different from ericoid mycorrhiza and resembles ectomycorrhiza, both functionally and in terms of the fungi involved.
+S120 It differs from ectomycorrhiza in that some hyphae actually penetrate into the root cells, making this type of mycorrhiza an ectendomycorrhiza.
+
+§15 Arbuscular mycorrhiza
+S121 Arbuscular mycorrhizas, (formerly known as vesicular-arbuscular mycorrhizas), have hyphae that penetrate plant cells, producing branching, tree-like structures called arbuscules within the plant cells for nutrient exchange.
+S122 Often, balloon-like storage structures, termed vesicles, are also produced.
+S123 In this interaction, fungal hyphae do not in fact penetrate the protoplast (i.e. the interior of the cell), but invaginate the cell membrane, creating a so-called peri-arbuscular membrane.
+S124 The structure of the arbuscules greatly increases the contact surface area between the hypha and the host cell cytoplasm to facilitate the transfer of nutrients between them.
+S125 Arbuscular mycorrhizas are obligate biotrophs, meaning that they depend upon the plant host for both growth and reproduction; they have lost the ability to sustain themselves by decomposing dead plant material.
+S126 Twenty percent of the photosynthetic products made by the plant host are consumed by the fungi, the transfer of carbon from the terrestrial host plant is then exchanged by equal amounts of phosphate from the fungi to the plant host.
+S127 Contrasting with the pattern seen in ectomycorrhizae, the species diversity of AMFs is very low, but the diversity of plant hosts is very high; an estimated 78% of all plant species associate with AMFs.
+S128 Arbuscular mycorrhizas are formed only by fungi in the division Glomeromycota.
+S129 Fossil evidence and DNA sequence analysis suggest that this mutualism appeared 400-460 million years ago, when the first plants were colonizing land.
+S130 Arbuscular mycorrhizas are found in 85% of all plant families, and occur in many crop species.
+S131 A global analysis estimated that Earth's upper soils contain approximately 110-quadrillion kilometres of arbuscular mycorrhizal fungal hyphae, equivalent to about one-billion times the distance from Earth to the Sun, with a biomass of about 300 megatons of carbon, or roughly four to six times the biomass of all humans.
+S132 The hyphae of arbuscular mycorrhizal fungi produce the glycoprotein glomalin, which may be one of the major stores of carbon in the soil.
+S133 Arbuscular mycorrhizal fungi have (possibly) been asexual for many millions of years and, unusually, individuals can contain many genetically different nuclei (a phenomenon called heterokaryosis).
+
+§16 Mucoromycotina fine root endophytes
+S134 Mycorrhizal fungi belonging to Mucoromycotina, known as "fine root endophytes" (MFREs), were mistakenly identified as arbuscular mycorrhizal fungi until recently.
+S135 While similar to AMF, MFREs are from subphylum Mucoromycotina instead of Glomeromycotina.
+S136 Their morphology when colonizing a plant root is very similar to AMF, but they form fine textured hyphae.
+S137 Effects of MFREs may have been mistakenly attributed to AMFs due to confusion between the two, complicated by the fact that AMFs and MFREs often colonize the same hosts simultaneously.
+S138 Unlike AMFs, they appear capable of surviving without a host.
+S139 This group of mycorrhizal fungi is little understood, but appears to prefer wet, acidic soils and forms symbiotic relationships with liverworts, hornworts, lycophytes, and angiosperms.
+
+§17 Ericoid mycorrhiza
+S140 Ericoid mycorrhizae, or ErMs, involve only plants in Ericales and are the most recently evolved of the major mycorrhizal relationships.
+S141 Plants that form ericoid mycorrhizae are mostly woody understory shrubs; hosts include blueberries, bilberries, cranberries, mountain laurels, rhododendrons, heather, neinei, and giant grass tree.
+S142 ErMs are most common in boreal forests, but are found in two-thirds of all forests on Earth.
+S143 Ericoid mycorrhizal fungi belong to several different lineages of fungi.
+S144 Some species can live as endophytes entirely within plant cells even within plants outside the Ericales, or live independently as saprotrophs that decompose dead organic matter.
+S145 This ability to switch between multiple lifestyle types makes ericoid mycorrhizal fungi very adaptable.
+S146 Plants that participate in these symbioses have specialized roots with no root hairs, which are covered with a layer of epidermal cells that the fungus penetrates into and completely occupies.
+S147 The fungi have a simple intraradical (growth in cells) phase, consisting of dense coils of hyphae in the outermost layer of root cells.
+S148 There is no periradical phase and the extraradical phase consists of sparse hyphae that don't extend very far into the surrounding soil.
+S149 They might form sporocarps (probably in the form of small cups), but their reproductive biology is poorly understood.
+S150 Plants participating in ericoid mycorrhizal symbioses are found in acidic, nutrient-poor conditions.
+S151 Whereas AMFs have lost their saprotrophic capabilities, and EcM fungi have significant variation in their ability to produce enzymes needed for a saprotrophic lifestyle, fungi involved in ErMs have fully retained the ability to decompose plant material for sustenance.
+S152 Some ericoid mycorrhizal fungi have actually expanded their repertoire of enzymes for breaking down organic matter.
+S153 They can extract nitrogen from cellulose, hemicellulose, lignin, pectin, and chitin.
+S154 This would increase the benefit they can provide to their plant symbiotic partners.
+
+§18 Orchid mycorrhiza
+S155 All orchids are myco-heterotrophic at some stage during their lifecycle, meaning that they can survive only if they form orchid mycorrhizae.
+S156 Orchid seeds are so small that they contain no nutrition to sustain the germinating seedling, and instead must gain the energy to grow from their fungal symbiont.
+S157 The OM relationship is asymmetric; the plant seems to benefit more than the fungus, and some orchids are entirely mycoheterotrophic, lacking chlorophyll for photosynthesis.
+S158 It is actually unknown whether fully autotrophic orchids that do not receive some of their carbon from fungi exist or not.
+S159 Like fungi that form ErMs, OM fungi can sometimes live as endophytes or as independent saprotrophs.
+S160 In the OM symbiosis, hyphae penetrate into the root cells and form pelotons (coils) for nutrient exchange.
+
+§19 Monotropoid mycorrhiza
+S161 This type of mycorrhiza occurs in the subfamily Monotropoideae of the Ericaceae, as well as several genera in the Orchidaceae.
+S162 These plants are heterotrophic or mixotrophic and derive their carbon from the fungus partner.
+S163 This is thus a non-mutualistic, parasitic type of mycorrhizal symbiosis.
+
+§20 Dual mycorrhiza
+S164 Plants typically form associations with only one type of mycorrhizal fungi.
+S165 However, a few species, known as dual-mycorrhizal plants, can simultaneously associate with both arbuscular and ectomycorrhizal fungi within the same root system.
+S166 The costs and benefits of forming dual-mycorrhizal associations are not fully understood, but appear to be dependent on the plant's life stage and abiotic conditions.
+S167 Mycorrhizal switching, the ability to shift between fungal types, has also been reported under a wide range of biotic and abiotic conditions.
+S168 Dual-mycorrhizal plants often occupy broader geographical ranges and environmental niche spaces compared to plants restricted to a single mycorrhizal type.
+S169 This allows such plants to spread into habitats where one of the two mycorrhizal fungi types might be absent.
+S170 Thus, the role of dual mycorrhiza in primary and secondary succession, particularly in nutrient-poor soils, has been highlighted, as they can facilitate ecosystem recovery.
+S171 Due to their unique capabilities, dual-mycorrhizal plants are increasingly recognised as key components in ecological restoration and reforestation, especially in regions where woodland tree species face limited access to mycorrhizal fungal inoculum.
+S172 Ecological nucleation of ectomycorrhizal woodland tree species around dual-mycorrhizal Salix species has been observed within arbuscular mycorrhizal dominated vegetation.
+
+§21 Function
+S173 Mycorrhizal fungi form a mutualistic relationship with the roots of most plant species.
+S174 In such a relationship, both the plants themselves and those parts of the roots that host the fungi, are said to be mycorrhizal.
+S175 Relatively few of the mycorrhizal relationships between plant species and fungi have been examined to date, but 95% of the plant families investigated are predominantly mycorrhizal either in the sense that most of their species associate beneficially with mycorrhizae, or are absolutely dependent on mycorrhizae.
+S176 The Orchidaceae are notorious as a family in which the absence of the correct mycorrhizae is fatal even to germinating seeds.
+S177 Recent research into ectomycorrhizal plants in boreal forests has indicated that mycorrhizal fungi and plants have a relationship that may be more complex than simply mutualistic.
+S178 This relationship was noted when mycorrhizal fungi were unexpectedly found to be hoarding nitrogen from plant roots in times of nitrogen scarcity.
+S179 Researchers argue that some mycorrhizae distribute nutrients based upon the environment with surrounding plants and other mycorrhizae.
+S180 They go on to explain how this updated model could explain why mycorrhizae do not alleviate plant nitrogen limitation, and why plants can switch abruptly from a mixed strategy with both mycorrhizal and nonmycorrhizal roots to a purely mycorrhizal strategy as soil nitrogen availability declines.
+S181 It has also been suggested that evolutionary and phylogenetic relationships can explain much more variation in the strength of mycorrhizal mutualisms than ecological factors.
+
+§22 Formation
+S182 To successfully engage in mutualistic symbiotic relationships with other organisms, such as mycorrhizal fungi and any of the thousands of microbes that colonize plants, plants must discriminate between mutualists and pathogens, allowing the mutualists to colonize while activating an immune response towards the pathogens.
+S183 Plant genomes code for potentially hundreds of receptors for detecting chemical signals from other organisms.
+S184 Plants dynamically adjust their symbiotic and immune responses, changing their interactions with their symbionts in response to feedbacks detected by the plant.
+S185 In plants, the mycorrhizal symbiosis is regulated by the common symbiosis signaling pathway (CSSP), a set of genes involved in initiating and maintaining colonization by endosymbiotic fungi and other endosymbionts such as Rhizobia in legumes.
+S186 The CSSP has origins predating the colonization of land by plants, demonstrating that the co-evolution of plants and arbuscular mycorrhizal fungi is over 500 million years old.
+S187 In arbuscular mycorrhizal fungi, the presence of strigolactones, a plant hormone, secreted from roots induces fungal spores in the soil to germinate, stimulates their metabolism, growth and branching, and prompts the fungi to release chemical signals the plant can detect.
+S188 Once the plant and fungus recognize one another as suitable symbionts, the plant activates the common symbiotic signaling pathway, which causes changes in the root tissues that enable the fungus to colonize.
+S189 Experiments with arbuscular mycorrhizal fungi have identified numerous chemical compounds to be involved in the "chemical dialog" that occurs between the prospective symbionts before symbiosis is begun.
+S190 In plants, almost all plant hormones play a role in initiating or regulating AMF symbiosis, and other chemical compounds are also suspected to have a signaling function.
+S191 While the signals emitted by the fungi are less understood, it has been shown that chitinaceous molecules known as Myc factors are essential for the formation of arbuscular mycorrhizae.
+S192 Signals from plants are detected by LysM-containing receptor-like kinases, or LysM-RLKs.
+S193 AMF genomes also code for potentially hundreds of effector proteins, of which only a few have a proven effect on mycorrhizal symbiosis, but many others likely have a function in communication with plant hosts as well.
+S194 Many factors are involved in the initiation of mycorrhizal symbiosis, but particularly influential is the plant's need for phosphorus.
+S195 Experiments involving rice plants with a mutation disabling their ability to detect P starvation show that arbuscular mycorrhizal fungi detection, recruitment and colonization is prompted when the plant detects that it is starved of phosphorus.
+S196 Nitrogen starvation also plays a role in initiating AMF symbiosis.
+
+§23 Mechanisms
+S197 The mechanisms by which mycorrhizae increase absorption include some that are physical and some that are chemical.
+S198 Physically, most mycorrhizal mycelia are much smaller in diameter than the smallest root or root hair, and thus can explore soil material that roots and root hairs cannot reach, and provide a larger surface area for absorption.
+S199 Chemically, the cell membrane chemistry of fungi differs from that of plants.
+S200 For example, they may secrete organic acids that dissolve or chelate many ions, or release them from minerals by ion exchange.
+S201 Mycorrhizae are especially beneficial for the plant partner in nutrient-poor soils.
+
+§24 Sugar-water/mineral exchange
+S202 The mycorrhizal mutualistic association provides the fungus with relatively constant and direct access to carbohydrates, such as glucose and sucrose.
+S203 The carbohydrates are translocated from their source (usually leaves) to root tissue and on to the plant's fungal partners.
+S204 In return, the plant gains the benefits of the mycelium's higher absorptive capacity for water and mineral nutrients, partly because of the large surface area of fungal hyphae, which are much longer and finer than plant root hairs, and partly because some such fungi can mobilize soil minerals unavailable to the plants' roots.
+S205 The effect is thus to improve the plant's mineral absorption capabilities.
+S206 Unaided plant roots may be unable to take up nutrients that are chemically or physically immobilised; examples include phosphate ions and micronutrients such as iron.
+S207 One form of such immobilization occurs in soil with high clay content, or soils with a strongly basic pH. The mycelium of the mycorrhizal fungus can, however, access many such nutrient sources, and make them available to the plants they colonize.
+S208 Thus, many plants are able to obtain phosphate without using soil as a source.
+S209 Another form of immobilisation is when nutrients are locked up in organic matter that is slow to decay, such as wood, and some mycorrhizal fungi act directly as decay organisms, mobilising the nutrients and passing some onto the host plants; for example, in some dystrophic forests, large amounts of phosphate and other nutrients are taken up by mycorrhizal hyphae acting directly on leaf litter, bypassing the need for soil uptake.
+S210 Inga alley cropping, an agroforestry technique proposed as an alternative to slash and burn rainforest destruction, relies upon mycorrhiza within the root system of species of Inga to prevent the rain from washing phosphorus out of the soil.
+S211 In some more complex relationships, mycorrhizal fungi do not just collect immobilised soil nutrients, but connect individual plants together by mycorrhizal networks that transport water, carbon, and other nutrients directly from plant to plant through underground hyphal networks.
+S212 Suillus tomentosus, a basidiomycete fungus, produces specialized structures known as tuberculate ectomycorrhizae with its plant host lodgepole pine (Pinus contorta var. latifolia).
+S213 These structures have been shown to host nitrogen fixing bacteria which contribute a significant amount of nitrogen and allow the pines to colonize nutrient-poor sites.
+
+§25 Disease, drought and salinity resistance and its correlation to mycorrhizae
+S214 Mycorrhizal plants are often more resistant to diseases, such as those caused by microbial soil-borne pathogens.
+S215 These associations have been found to assist in plant defense both above and belowground.
+S216 Mycorrhizas have been found to secrete enzymes that are toxic to soil borne organisms such as nematodes.
+S217 More recent studies have shown that mycorrhizal associations result in a priming effect of plants that essentially acts as a primary immune response.
+S218 When this association is formed a defense response is activated similarly to the response that occurs when the plant is under attack.
+S219 As a result of this inoculation, defense responses are stronger in plants with mycorrhizal associations.
+S220 Ecosystem services provided by mycorrhizal fungi may depend on the soil microbiome.
+S221 Furthermore, mycorrhizal fungi was significantly correlated with soil physical variable, but only with water level and not with aggregate stability and can lead also to more resistant to the effects of drought.
+S222 Moreover, the significance of mycorrhizal fungi also includes alleviation of salt stress and its beneficial effects on plant growth and productivity.
+S223 Although salinity can negatively affect mycorrhizal fungi, many reports show improved growth and performance of mycorrhizal plants under salt stress conditions.
+
+§26 Resistance to insects
+S224 Plants connected by mycorrhizal fungi in mycorrhizal networks can use these underground connections to communicate warning signals.
+S225 For example, when a host plant is attacked by an aphid, the plant signals surrounding connected plants of its condition.
+S226 Both the host plant and those connected to it release volatile organic compounds that repel aphids and attract parasitoid wasps, predators of aphids.
+S227 This assists the mycorrhizal fungi by conserving its food supply.
+
+§27 Colonization of barren soil
+S228 Plants grown in sterile soils and growth media often perform poorly without the addition of spores or hyphae of mycorrhizal fungi to colonise the plant roots and aid in the uptake of soil mineral nutrients.
+S229 The absence of mycorrhizal fungi can also slow plant growth in early succession or on degraded landscapes.
+S230 The introduction of alien mycorrhizal plants to nutrient-deficient ecosystems puts indigenous non-mycorrhizal plants at a competitive disadvantage.
+S231 This aptitude to colonize barren soil is defined by the category Oligotroph.
+
+§28 Resistance to toxicity
+S232 Fungi have a protective role for plants rooted in soils with high metal concentrations, such as acidic and contaminated soils.
+S233 Pine trees inoculated with Pisolithus tinctorius planted in several contaminated sites displayed high tolerance to the prevailing contaminant, survivorship and growth.
+S234 One study discovered the existence of Suillus luteus strains with varying tolerance of zinc.
+S235 Another study discovered that zinc-tolerant strains of Suillus bovinus conferred resistance to plants of Pinus sylvestris.
+S236 This was probably due to binding of the metal to the extramatricial mycelium of the fungus, without affecting the exchange of beneficial substances.
+
+§29 Occurrence of mycorrhizal associations
+S237 Mycorrhizas are present in 92% of plant families studied (80% of species), with arbuscular mycorrhizas being the ancestral and predominant form, and the most prevalent symbiotic association found in the plant kingdom.
+S238 The structure of arbuscular mycorrhizas has been highly conserved since their first appearance in the fossil record, with both the development of ectomycorrhizas and the loss of mycorrhizas, evolving convergently on multiple occasions.
+S239 Associations of fungi with the roots of plants have been known since at least the mid-19th century.
+S240 However, early observers simply recorded the fact without investigating the relationships between the two organisms.
+S241 This symbiosis was studied and described by Franciszek Kamieński in 1879–1882.
+
+§30 Climate change
+S242 CO2 released by human activities is causing climate change and possible damage to mycorrhizae, but the direct effect of an increase in the gas should be to benefit plants and mycorrhizae if other factors are not limiting.
+S243 In Arctic regions, nitrogen and water are harder for plants to obtain, making mycorrhizae crucial to plant growth.
+S244 Since mycorrhizae tend to do better in cooler temperatures, warming could be detrimental to them.
+S245 Gases such as SO2, NOx, and O3 produced by human activity may harm mycorrhizae, causing reduction in "propagules, the colonization of roots, degradation in connections between trees, reduction in the mycorrhizal incidence in trees, and reduction in the enzyme activity of ectomycorrhizal roots."
+S246 A company in Israel, Groundwork BioAg, has discovered a method of using mycorrhizal fungi to increase agricultural crops while sequestering greenhouse gases and eliminating CO2 from the atmosphere.
+
+§31 Conservation and mapping
+S247 In 2021, the Society for the Protection of Underground Networks was launched.
+S248 SPUN is a science-based initiative to map and protect the mycorrhizal networks regulating Earth's climate and ecosystems.
+S249 Its stated goals are mapping, protecting, and harnessing mycorrhizal fungi.
+
+§32 See also
+S250 Effect of climate change on plant biodiversity
+S251 Endosymbiont
+S252 Epibiont, an organism that grows on another life form
+S253 Endophyte
+S254 Epiphyte
+S255 Epiphytic fungus
+S256 Mucigel
+S257 Mycorrhizal fungi and soil carbon storage
+S258 Mycorrhizal Network (Wood Wide Web)
+S259 Rhizobia
+S260 Suzanne Simard
+
+§33 References
+S261 Deacon, Jim.
+S262 "The Microbial World: Mycorrhizas".
+S263 bio.ed.ac.uk (archived).
+S264 Archived from the original on 2018-04-27.
+S265 Retrieved 11 January 2019.
+S266 Kirk, P. M.; Cannon, P. F.; David, J. C.; Stalpers, J.
+S267 Ainsworth and Bisby's Dictionary of the Fungi (9th ed.).
+S268 Wallingford, UK: CAB International.
+S269 Read, D.J.
+S270 "Mycorrhiza- the state of the art".
+S271 In Varma, Ajit; Hock, Bertold (eds.).
+S272 Mycorrhiza: Structure, Function, Molecular Biology and Biotechnology.
+S273 Springer Science & Business Media.
+S274 pp. 3–5.
+S275 ISBN 978-3662037799.
+S276 Brundrett, Marc C (2004).
+S277 "Diversity and classification of mycorrhizal associations".
+S278 Biological Reviews of the Cambridge Philosophical Society.
+S279 doi:10.1017/S1464793103006316.
+S280 PMID 15366760.
+S281 A new definition of mycorrhizas that encompasses all types of these associations while excluding other plant-fungus interactions is provided.
+S282 This definition recognises the importance of nutrient transfer at an interface resulting from synchronised plant-fungus development.
+S283 Balestrini, Rafaella; Bonfante, Paola (2014).
+S284 "Cell wall remodeling in mycorrhizal symbiosis: a way towards biotrophism".
+S285 Frontiers in Plant Science.
+S286 Bibcode:2014FrPS....5..237B.
+S287 doi:10.3389/fpls.2014.00237.
+S288 PMC 4044974.
+S289 PMID 24926297.
+S290 All mycorrhizal interactions achieve full symbiotic functionality through the development of an extensive contact surface between the plant and fungal cells, where signals and nutrients are exchanged.
+S291 Wu, Qiang-Sheng, ed.
+S292 Arbuscular Mycorrhizas and Stress Tolerance of Plants (1st ed.).
+S293 Springer Singapore.
+S294 p. 1. doi:10.1007/978-981-10-4115-0.
+S295 ISBN 978-981-10-4115-0.
+S296 Johnson, N. C.; Graham, J. H.; Smith, F. A.
+S297 "Functioning of mycorrhizal associations along the mutualism–parasitism continuum".
+S298 New Phytologist.
+S299 Bibcode:1997NewPh.135..575J.
+S300 doi:10.1046/j.1469-8137.1997.00729.x.
+S301 S2CID 42871574.
+S302 "Mycorrhizal Fungi - Oklahoma State University".
+S303 extension.okstate.edu.
+S304 Retrieved 2025-11-08.
+S305 Kottke, I.; Nebel, M.
+S306 "The evolution of mycorrhiza-like associations in liverworts: An update".
+S307 New Phytologist.
+S308 Bibcode:2005NewPh.167..330K.
+S309 doi:10.1111/j.1469-8137.2005.01471.x.
+S310 PMID 15998388.
+S311 1 2 3 4 Remy, W.; Taylor, T. N.; Hass, H.; Kerp, H.
+S312 (6 December 1994).
+S313 "Four hundred-million-year-old vesicular arbuscular mycorrhizae".
+S314 Proceedings of the National Academy of Sciences.
+S315 Bibcode:1994PNAS...9111841R.
+S316 doi:10.1073/pnas.91.25.11841.
+S317 PMC 45331.
+S318 PMID 11607500.
+S319 Fortin, J. André; et al. (2015).
+S320 Les Mycorhizes (second ed.).
+S321 Versaillles: Inra.
+S322 p. 10.
+S323 ISBN 978-2-7592-2433-3.
+S324 Frank, A.B.
+S325 "Über die auf Wurzelsymbiose beruhende Ernährung gewisser Bäume durch unterirdische Pilze" [On the nourishing, via root symbiosis, of certain trees by underground fungi].
+S326 Berichte der Deutschen Botanischen Gesellschaft (in German).
+S327 Frank, B.
+S328 (1 June 2005).
+S329 "On the nutritional dependence of certain trees on root symbiosis with belowground fungi (an English translation of A.B. Frank's classic paper of 1885)".
+S330 Mycorrhiza.
+S331 Bibcode:2005Mycor..15..267F.
+S332 doi:10.1007/s00572-004-0329-y.
+S333 PMID 15549482.
+S334 S2CID 29199748.
+S335 Kamieński, Franciszek (1882).
+S336 "Les organes végétatifs de Monotropa hypopitys L."" [The vegetative organs of Monotropa hypopitys L.]. Mémoires de la Société nat. Des Sciences naturelles et mathém. De Cherbourg (in French). 3 (24).
+S337 Bonfante, Paola (December 2018).
+S338 "The future has roots in the past: the ideas and scientists that shaped mycorrhizal research".
+S339 New Phytologist.
+S340 Bibcode:2018NewPh.220..982B.
+S341 doi:10.1111/nph.15397.
+S342 PMID 30160311.
+S343 Martin, F.; Aerts, A.; Ahrén, D.; et al. (March 2008).
+S344 "The genome of Laccaria bicolor provides insights into mycorrhizal symbiosis".
+S345 Nature.
+S346 Bibcode:2008Natur.452...88M.
+S347 doi:10.1038/nature06556.
+S348 PMID 18322534.
+S349 1 2 Cairney, J.W.G. (December 2000).
+S350 "Evolution of Mycorrhiza Systems".
+S351 Naturwissenschaften.
+S352 Bibcode:2000NW.....87..467C.
+S353 doi:10.1007/s001140050762.
+S354 PMID 11151665.
+S355 Harris, Brogan J.; Clark, James W.; Schrempf, Dominik; Szöllősi, Gergely J.; Donoghue, Philip C. J.; Hetherington, Alistair M.; Williams, Tom A.
+S356 "Divergent evolutionary trajectories of bryophytes and tracheophytes from a complex common ancestor of land plants".
+S357 Nature Ecology & Evolution.
+S358 Bibcode:2022NatEE...6.1634H.
+S359 doi:10.1038/s41559-022-01885-x.
+S360 PMC 9630106.
+S361 PMID 36175544.
+S362 Puginier, Camille; Keller, Jean; Delaux, Pierre-Marc (2022-08-29).
+S363 "Plant–microbe interactions that have impacted plant terrestrializations".
+S364 Plant Physiology.
+S365 doi:10.1093/plphys/kiac258.
+S366 PMC 9434271.
+S367 PMID 35642902.
+S368 1 2 Maherali, Hafiz; Oberle, Brad; Stevens, Peter F.; Cornwell, William K.; McGlinn, Daniel J.
+S369 (November 2016).
+S370 "Mutualism Persistence and Abandoment during the Evolution of the Mycorrhizal Synbiosis".
+S371 The American Naturalist.
+S372 188 (5): E114.
+S373 Bibcode:2016ANat..188E.113M.
+S374 doi:10.1086/688675.
+S375 PMID 27788343.
+S376 1 2 3 Strullu-Derrien, Christine; Selosse, Marc-André; Kendrick, Paul; Martin, Francis M.
+S377 (14 January 2018).
+S378 "The Origin and Evolution of Mycorrhizal Symbioses: from Paleomycology to Phylogenomics".
+S379 New Phytologist.
+S380 Bibcode:2018NewPh.220.1012S.
+S381 doi:10.1111/nph.15076.
+S382 OSTI 1429513.
+S383 PMID 29573278.
+S384 Miyauchi, Shingo; Kiss, Enikő; Kuo, Alan; et al. (2020).
+S385 "Large-scale genome sequencing of mycorrhizal fungi provides insights into the early evolution of symbiotic traits".
+S386 Nature Communications.
+S387 Bibcode:2020NatCo..11.5125M.
+S388 doi:10.1038/s41467-020-18795-w.
+S389 PMC 7550596.
+S390 PMID 33046698.
+S391 1 2 3 4 Strullu-Derrien, Christine; Selosse, Marc-André; Kendrick, Paul; Martin, Francis M.
+S392 (14 January 2018).
+S393 "The Origin and Evolution of Mycorrhizal Symbioses: from Paleomycology to Phylogenomics".
+S394 New Phytologist.
+S395 Bibcode:2018NewPh.220.1012S.
+S396 doi:10.1111/nph.15076.
+S397 OSTI 1429513.
+S398 PMID 29573278.
+S399 1 2 3 4 Ward, Elisabeth B.; Duguid, Marlyse C.; Kuebbing, Sara E.; Lendemer, James C.; Bradford, Mark A.
+S400 "The functional role of ericoid mycorrhizal plants and fungi on carbon and nitrogen dynamics in forests".
+S401 New Phytologist.
+S402 Bibcode:2022NewPh.235.1701W.
+S403 doi:10.1111/nph.18307.
+S404 PMID 35704030.
+S405 Perotto, Silvia; Daghino, Stefania; Martino, Elena (2018).
+S406 "Ericoid mycorrhizal fungi and their genomes: another side to the mycorrhizal symbiosis?".
+S407 New Phytologist.
+S408 Bibcode:2018NewPh.220.1141P.
+S409 doi:10.1111/nph.15218.
+S410 PMID 29851103.
+S411 1 2 3 4 van der Heijden, Marcel G. A.; Martin, Francis M.; Selosse, Marc-Andre; Sanders, Ian R.
+S412 "Mycorrhizal ecology and evolution: the past, the present, and the future".
+S413 New Phytologist.
+S414 Bibcode:2015NewPh.205.1406V.
+S415 doi:10.1111/nph.13288.
+S416 hdl:1874/329560.
+S417 PMID 25639293.
+S418 Vigneron, Nicolas; Radhakrishnan, Guru V; Delaux, Pierre-Marc (2018).
+S419 "What have we learnt from studying the evolution of the arbuscular mycorrhizal symbiosis?".
+S420 Current Opinion in Plant Biology.
+S421 Bibcode:2018COPB...44...49V.
+S422 doi:10.1016/j.pbi.2018.02.004.
+S423 PMID 29510317.
+S424 1 2 Perotto, Silva; Balestrini, Raffaella (2023).
+S425 "At the core of the endomycorrhizal symbioses: intracellular fungal structures in orchid and arbuscular mycorrhiza".
+S426 New Phytologist.
+S427 doi:10.1111/nph.19338.
+S428 PMID 37884478.
+S429 Provorov, N. A.; Shtark, O. Yu; Dolgikh, E. A.
+S430 "[Evolution of nitrogen-fixing symbioses based on the migration of bacteria from mycorrhizal fungi and soil into the plant tissues]".
+S431 Zhurnal Obshchei Biologii.
+S432 PMID 30024143.
+S433 Brundrett, Mark C.; Tedersoo, Leho (2018).
+S434 "Evolutionary history of mycorrhizal symbioses and global host plant diversity".
+S435 New Phytologist.
+S436 Bibcode:2018NewPh.220.1108B.
+S437 doi:10.1111/nph.14976.
+S438 PMID 29355963.
+S439 Tang, Nianwu; San Clemente, Helene; Roy, Sebastien; Becard, Guillaume; Zhao, Bin; Roux, Christophe (2016).
+S440 "A Survey of the Gene Repertoire of Gigaspora rosea Unravels Conserved Features among Glomeromycota for Obligate Biotrophy".
+S441 Frontiers in Microbiology.
+S442 Bibcode:2016FrMic...700233T.
+S443 doi:10.3389/fmicb.2016.00233.
+S444 PMC 4771724.
+S445 PMID 26973612.
+S446 Cairney, J.W.G. (December 2000).
+S447 "Evolution of Mycorrhiza Systems".
+S448 Naturwissenschaften.
+S449 Bibcode:2000NW.....87..467C.
+S450 doi:10.1007/s001140050762.
+S451 PMID 11151665.
+S452 1 2 Cairney, J.W.G. (December 2000).
+S453 "Evolution of Mycorrhiza Systems".
+S454 Naturwissenschaften.
+S455 Bibcode:2000NW.....87..467C.
+S456 doi:10.1007/s001140050762.
+S457 PMID 11151665.
+S458 Voller, Fay; Ardanuy, Agnes; Taylor, Andy F.S.; Johnson, David (2023).
+S459 "Maintenance of host specialisation gradients in ectomycorrhizal symbionts".
+S460 New Phytologist.
+S461 doi:10.1111/nph.19395.
+S462 PMID 37984824.
+S463 1 2 3 Strullu-Derrien, Christine; Selosse, Marc-André; Kendrick, Paul; Martin, Francis M.
+S464 (14 January 2018).
+S465 "The Origin and Evolution of Mycorrhizal Symbioses: from Paleomycology to Phylogenomics".
+S466 New Phytologist.
+S467 Bibcode:2018NewPh.220.1012S.
+S468 doi:10.1111/nph.15076.
+S469 OSTI 1429513.
+S470 PMID 29573278.
+S471 1 2 3 4 5 Cairney, J.W.G. (December 2000).
+S472 "Evolution of Mycorrhiza Systems".
+S473 Naturwissenschaften.
+S474 Bibcode:2000NW.....87..467C.
+S475 doi:10.1007/s001140050762.
+S476 PMID 11151665.
+S477 Cairney, J.W.G. (December 2000).
+S478 "Evolution of Mycorrhiza Systems".
+S479 Naturwissenschaften.
+S480 Bibcode:2000NW.....87..467C.
+S481 doi:10.1007/s001140050762.
+S482 PMID 11151665.
+S483 1 2 3 4 Perotto, Silvia; Daghino, Stefania; Martino, Elena (2018).
+S484 "Ericoid mycorrhizal fungi and their genomes: another side to the mycorrhizal symbiosis?".
+S485 New Phytologist.
+S486 Bibcode:2018NewPh.220.1141P.
+S487 doi:10.1111/nph.15218.
+S488 PMID 29851103.
+S489 Harley, J. L.; Smith, S. E.
+S490 1983. Mycorrhizal symbiosis (1st ed.).
+S491 Academic Press, London.
+S492 1 2 Allen, Michael F.
+S493 1991. The ecology of mycorrhizae.
+S494 Cambridge University Press, Cambridge.
+S495 Selosse, Marc-Andre; Petroli, Remi; Mujica, Maria; Laurent, Liam; Perez-Lamarque, Benoit; Figura, Tomas; Bourceret, Amelia; Jaquemyn, Hans; Li, Taiqiang; Gao, Jiangyun; Minasiewicz, Julita; Martos, Florent (2021).
+S496 "The Waiting Room Hypothesis revisited by orchids: were orchid mycorrhizal fungi recruited among root endophytes?".
+S497 Annals of Botany.
+S498 1 2 3 4 Howard, Nathan; Pressel, Silvia; Kaye, Ryan S.; Daniell, Tim J.; Field, Katie J.
+S499 "The potential role of Mucoromycotina 'fine root endophytes' in plant nitrogen nutrition".
+S500 Physiologia Plantarum.
+S501 174 (3) e13715.
+S502 Bibcode:2022PPlan.174E3715H.
+S503 doi:10.1111/ppl.13715.
+S504 PMC 9328347.
+S505 PMID 35560043.
+S506 Peterson, R. L.; Massicotte, H. B.
+S507 & Melville, L. H.
+S508 Mycorrhizas: anatomy and cell biology.
+S509 National Research Council Research Press.
+S510 ISBN 978-0-660-19087-7.
+S511 Archived from the original on 2007-12-25.
+S512 1 2 3 4 5 Wang, B.; Qiu, Y.-L.
+S513 (July 2006).
+S514 "Phylogenetic distribution and evolution of mycorrhizas in land plants".
+S515 Mycorrhiza.
+S516 Bibcode:2006Mycor..16..299W.
+S517 doi:10.1007/s00572-005-0033-6.
+S518 PMID 16845554.
+S519 S2CID 30468942.
+S520 "Orchids and fungi: An unexpected case of symbiosis".
+S521 American Journal of Botany.
+S522 July 12, 2011.
+S523 Archived from the original on 2011-07-15.
+S524 Retrieved 24 July 2012.
+S525 1 2 3 4 Ward, Elisabeth B.; Duguid, Marlyse C.; Kuebbing, Sara E.; Lendemer, James C.; Bradford, Mark A.
+S526 "The functional role of ericoid mycorrhizal plants and fungi on carbon and nitrogen dynamics in forests".
+S527 New Phytologist.
+S528 Bibcode:2022NewPh.235.1701W.
+S529 doi:10.1111/nph.18307.
+S530 PMID 35704030.
+S531 den Bakker, Henk C.; Zuccarello, G. C.; Kuyper, Th.
+S532 W.; Noordeloos, M. E.
+S533 (July 2004).
+S534 "Evolution and host specificity in the ectomycorrhizal genus Leccinum".
+S535 New Phytologist.
+S536 Bibcode:2004NewPh.163..201D.
+S537 doi:10.1111/j.1469-8137.2004.01090.x.
+S538 PMID 33873790.
+S539 Saari, S. K.; Campbell, C. D.; Russell, J.; Alexander, I. J.; Anderson, I. C.
+S540 (14 October 2004).
+S541 "Pine microsatellite markers allow roots and ectomycorrhizas to be linked to individual trees".
+S542 New Phytologist.
+S543 doi:10.1111/j.1469-8137.2004.01213.x.
+S544 PMID 15720641.
+S545 Rinaldi, A. C.; Comandini, O.; Kuyper, T. W.
+S546 "Ectomycorrhizal fungal diversity: separating the wheat from the chaff" (PDF).
+S547 Fungal Diversity.
+S548 Archived (PDF) from the original on 2011-07-24.
+S549 Retrieved 2011-05-23.
+S550 1 2 Martin, Francis M.; van der Heijden, Marcel G. A.
+S551 "The mycorrhizal symbiosis: research frontiers in genomics, ecology, and agricultural application".
+S552 New Phytologist.
+S553 Bibcode:2024NewPh.242.1486M.
+S554 doi:10.1111/nph.19541.
+S555 PMID 38297461.
+S556 Karst, Justine; Jones, Melanie D.; Hoeksema, Jason D.
+S557 "Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests".
+S558 Nature Ecology & Evolution.
+S559 Bibcode:2023NatEE...7..501K.
+S560 doi:10.1038/s41559-023-01986-1.
+S561 ISSN 2397-334X.
+S562 PMID 36782032.
+S563 S2CID 256845005.
+S564 Simard, Suzanne W.; Perry, David A.; Jones, Melanie D.; Myrold, David D.; Durall, Daniel M.
+S565 & Molina, Randy (1997).
+S566 "Net transfer of carbon between ectomycorrhizal tree species in the field".
+S567 Nature.
+S568 Bibcode:1997Natur.388..579S.
+S569 doi:10.1038/41557.
+S570 S2CID 4423207.
+S571 Wang, Linda (2001-04-04).
+S572 "Fungi slay insects and feed host plants".
+S573 Retrieved 2025-12-19.
+S574 Klironomos, J. N.; Hart, M. M.
+S575 "Animal nitrogen swap for plant carbon".
+S576 Nature.
+S577 Bibcode:2001Natur.410..651K.
+S578 doi:10.1038/35070643.
+S579 PMID 11287942.
+S580 S2CID 4418192.
+S581 Cejpková, J.; Gryndler, M.; Hršelová, H.; Kotrba, P.; Řanda, Z.; Greňová, I.; Borovička, J.
+S582 "Bioaccumulation of heavy metals, metalloids, and chlorine in ectomycorrhizae from smelter-polluted area".
+S583 Environmental Pollution.
+S584 Bibcode:2016EPoll.218..176C.
+S585 doi:10.1016/j.envpol.2016.08.009.
+S586 PMID 27569718.
+S587 Martin, F.; Aerts, A.; et al. (2008).
+S588 "The genome of Laccaria bicolor provides insights into mycorrhizal symbiosis" (PDF).
+S589 Nature.
+S590 Bibcode:2008Natur.452...88M.
+S591 doi:10.1038/nature06556.
+S592 PMID 18322534.
+S593 Miyauchi, Shingo; Kiss, Enikő; Kuo, Alan; Drula, Elodie; Kohler, Annegret; Sánchez-García, Marisol; Morin, Emmanuelle; Andreopoulos, Bill; Barry, Kerrie W.; Bonito, Gregory; Buée, Marc; Carver, Akiko; Chen, Cindy; Cichocki, Nicolas; Clum, Alicia (2020-10-12).
+S594 "Large-scale genome sequencing of mycorrhizal fungi provides insights into the early evolution of symbiotic traits".
+S595 Nature Communications.
+S596 Bibcode:2020NatCo..11.5125M.
+S597 doi:10.1038/s41467-020-18795-w.
+S598 ISSN 2041-1723.
+S599 PMC 7550596.
+S600 PMID 33046698.
+S601 Brundrett, Mark (2004).
+S602 "Diversity and classification of mycorrhizal associations".
+S603 Biological Reviews.
+S604 Wiley: 473–495.
+S605 doi:10.1017/s1464793103006316.
+S606 ISSN 1464-7931.
+S607 PMID 15366760.
+S608 S2CID 33371246.
+S609 "Some plants may depend more on friendly fungi than own leaves: Study".
+S610 Business Standard.
+S611 Press Trust of India.
+S612 20 October 2019.
+S613 Lanfranco, Luisa; Bonfante, Paola; Genre, Andrea (2016-12-23).
+S614 Heitman, Joseph; Howlett, Barbara J.
+S615 (eds.).
+S616 "The Mutualistic Interaction between Plants and Arbuscular Mycorrhizal Fungi".
+S617 Microbiology Spectrum.
+S618 doi:10.1128/microbiolspec.FUNK-0012-2016.
+S619 hdl:2318/1627235.
+S620 ISSN 2165-0497.
+S621 PMID 28087942.
+S622 Kiers, E. Toby; Duhamel, Marie; Beesetty, Yugandhar; Mensah, Jerry A.; Franken, Oscar; Verbruggen, Erik; Fellbaum, Carl R.; Kowalchuk, George A.; Hart, Miranda M.; Bago, Alberto; Palmer, Todd M.; West, Stuart A.; Vandenkoornhuyse, Philippe; Jansa, Jan; Bücking, Heike (2011-08-12).
+S623 "Reciprocal Rewards Stabilize Cooperation in the Mycorrhizal Symbiosis".
+S624 Science.
+S625 Bibcode:2011Sci...333..880K.
+S626 doi:10.1126/science.1208473.
+S627 ISSN 0036-8075.
+S628 PMID 21836016.
+S629 S2CID 44812991.
+S630 Simon, L.; Bousquet, J.; Lévesque, R. C.; Lalonde, M.
+S631 "Origin and diversification of endomycorrhizal fungi and coincidence with vascular land plants".
+S632 Nature.
+S633 Bibcode:1993Natur.363...67S.
+S634 doi:10.1038/363067a0.
+S635 S2CID 4319766.
+S636 Stewart, J. D.; Bisot, C.; Cargill RIM; Van Nuland, M. E.; Hawkins, H. J.; Oyarte Galvez, L.; Klein, M.; Van Son, M.; Terry, V.; Paré, L.; Banchini, C.; Stefani, F.; Kahane, F.; Lin, K. K.; Braghiere, R. K.; Field, K. J.; Soudzilovskaia, N. A.; Elhance, J.; Kokkoris, V.; Sheldrake, M.; Weedon, J. T.; Shimizu, T. S.; West, S.; Kiers, E. T.
+S637 "Science".
+S638 Science.
+S639 doi:10.1126/science.adu4373.
+S640 PMID 42275513.
+S641 Retrieved 2026-07-06.
+S642 International Institute for Applied Systems Analysis (2019-11-07).
+S643 "Plants and fungi together could slow climate change".
+S644 phys.org -us.
+S645 Retrieved 2019-11-12.
+S646 Hijri, M.; Sanders, I. R.
+S647 "Low gene copy number shows that arbuscular mycorrhizal fungi inherit genetically different nuclei".
+S648 Nature.
+S649 Bibcode:2005Natur.433..160H.
+S650 doi:10.1038/nature03069.
+S651 PMID 15650740.
+S652 S2CID 4416663.
+S653 1 2 Prout, James N.; Williams, Alex; Wanke, Alan; Schornack, Sebastian; Ton, Jurriaan; Field, Katie J.
+S654 "Mucoromycotina 'fine root endophytes': a new molecular model for plant–fungal mutualisms?".
+S655 Trends in Plant Science.
+S656 doi:10.1016/j.tplants.2023.11.014.
+S657 PMID 38102045.
+S658 Midgley, DJ; Chambers, SM; Cairney, J. W. G.
+S659 "Spatial distribution of fungal endophyte genotypes in a Woollsia pungens (Ericaceae) root system".
+S660 Australian Journal of Botany.
+S661 Bibcode:2002AuJB...50..559M.
+S662 doi:10.1071/BT02020.
+S663 Read, D. J.
+S664 & Perez-Moreno, J.
+S665 "Mycorrhizas and nutrient cycling in ecosystems—a journey towards relevance?".
+S666 New Phytologist.
+S667 Bibcode:2003NewPh.157..475R.
+S668 doi:10.1046/j.1469-8137.2003.00704.x.
+S669 PMID 33873410.
+S670 Li, Taiqiang; Yang, Wenke; Wu, Shimao; Selosse, Marc-Andre; Gao, Jiangyun (2021).
+S671 "Progress and Prospects of Mycorrhizal Fungal Diversity in Orchids".
+S672 Frontiers in Plant Science.
+S673 Bibcode:2021FrPS...1246325L.
+S674 doi:10.3389/fpls.2021.646325.
+S675 PMC 8138444.
+S676 PMID 34025694.
+S677 Teste, François P.; Jones, Melanie D.; Dickie, Ian A.
+S678 "Dual-mycorrhizal plants: their ecology and relevance".
+S679 New Phytologist.
+S680 Bibcode:2020NewPh.225.1835T.
+S681 doi:10.1111/nph.16190.
+S682 ISSN 1469-8137.
+S683 PMID 31514244.
+S684 Rog, Ido; Lerner, David; Bender, S. Franz; van der Heijden, Marcel G. A.
+S685 "The Increased Environmental Niche of Dual-Mycorrhizal Woody Species".
+S686 Ecology Letters.
+S687 28 (5) e70132.
+S688 Bibcode:2025EcolL..2870132R.
+S689 doi:10.1111/ele.70132.
+S690 ISSN 1461-0248.
+S691 PMID 40371533.
+S692 Nara, Kazuhide (2006).
+S693 "Ectomycorrhizal networks and seedling establishment during early primary succession".
+S694 New Phytologist.
+S695 Bibcode:2006NewPh.169..169N.
+S696 doi:10.1111/j.1469-8137.2005.01545.x.
+S697 ISSN 1469-8137.
+S698 PMID 16390428.
+S699 1 2 Martius, Lion R.; Fielding, Debbie; Brown, Paige; Milligan, Kerri; Turner, Malcolm; Taylor, Andy F. S.
+S700 "Nucleation in temperate woodland regeneration: dual mycorrhizal Salix facilitate ectomycorrhizal tree establishment".
+S701 Oikos.
+S702 2025 (4) e10974.
+S703 Bibcode:2025Oikos202510974M.
+S704 doi:10.1111/oik.10974.
+S705 ISSN 1600-0706.
+S706 Trappe, J. M.
+S707 "Phylogenetic and ecologic aspects of mycotrophy in the angiosperms from an evolutionary standpoint".
+S708 In Safir, G. R.
+S709 (ed.).
+S710 Ecophysiology of VA Mycorrhizal Plants.
+S711 Florida: CRC Press.
+S712 Franklin, O.; Näsholm, T.; Högberg, P.; Högberg, M. N.
+S713 "Forests trapped in nitrogen limitation - an ecological market perspective on ectomycorrhizal symbiosis".
+S714 New Phytologist.
+S715 Bibcode:2014NewPh.203..657F.
+S716 doi:10.1111/nph.12840.
+S717 PMC 4199275.
+S718 PMID 24824576.
+S719 Hoeksema, Jason D.; Bever, James D.; Chakraborty, Sounak; Chaudhary, V. Bala; Gardes, Monique; Gehring, Catherine A.; Hart, Miranda M.; Housworth, Elizabeth Ann; Kaonongbua, Wittaya; Klironomos, John N.; Lajeunesse, Marc J.; Meadow, James; Milligan, Brook G.; Piculell, Bridget J.; Pringle, Anne; Rúa, Megan A.; Umbanhowar, James; Viechtbauer, Wolfgang; Wang, Yen-Wen; Wilson, Gail W. T.; Zee, Peter C.
+S720 (16 August 2018).
+S721 "Evolutionary history of plant hosts and fungal symbionts predicts the strength of mycorrhizal mutualism".
+S722 Communications Biology.
+S723 Bibcode:2018CmBio...1..116H.
+S724 doi:10.1038/s42003-018-0120-9.
+S725 PMC 6123707.
+S726 PMID 30271996.
+S727 Thoms, David; Liang, Yan; Haney, Cara H.
+S728 "Maintaining Symbiotic Homeostasis: How Do Plants Engage With Beneficial Microorganisms While at the Same Time Restricting Pathogens?".
+S729 International Society for Molecular Plant-Microbe Interactions.
+S730 1 2 3 Ho-Plagaro, Tania; Garcia-Garrido, Jose Manuel (2022).
+S731 "Molecular Regulation of Arbuscular Mycorrhizal Symbiosis".
+S732 International Journal of Molecular Sciences.
+S733 Bibcode:2022IJMSc..23.5960H.
+S734 doi:10.3390/ijms23115960.
+S735 PMC 9180548.
+S736 PMID 35682640.
+S737 Nasir, Fahad; Bahadur, Ali; Lin, Xiaolong; Gao, Yingzhi; Tian, Chunjie (2021).
+S738 "Novel insights into host receptors and receptor-mediated signaling that regulate arbuscular mycorrhizal symbiosis".
+S739 Journal of Experimental Botany.
+S740 doi:10.1093/jxb/eraa538.
+S741 PMID 33252650.
+S742 Sylvia, David M.; Fuhrmann, Jeffry J.; Hartel, Peter G.; Zuberer, David A.
+S743 "Overview of Mycorrhizal Symbioses".
+S744 Principles and Applications of Soil Microbiology.
+S745 Pearson Prentice Hall.
+S746 ISBN 978-0-13-094117-6.
+S747 Archived from the original on June 23, 2010.
+S748 "Botany online: Interactions - Plants - Fungi - Parasitic and Symbiotic Relations - Mycorrhiza".
+S749 Biologie.uni-hamburg.de.
+S750 Archived from the original on 2011-06-06.
+S751 Retrieved 2010-09-30.
+S752 1 2 Harrison, M. J.
+S753 "Signaling in the arbuscular mycorrhizal symbiosis".
+S754 Annu Rev Microbiol.
+S755 doi:10.1146/annurev.micro.58.030603.123749.
+S756 PMID 16153162.
+S757 Selosse, M. A.; Richard, F.; He, X.; Simard, S. W.
+S758 "Mycorrhizal networks: des liaisons dangereuses?".
+S759 Trends in Ecology and Evolution.
+S760 Bibcode:2006TEcoE..21..621S.
+S761 doi:10.1016/j.tree.2006.07.003.
+S762 PMID 16843567.
+S763 Li, H.; Smith, S. E.; Holloway, R. E.; Zhu, Y.; Smith, F. A.
+S764 "Arbuscular mycorrhizal fungi contribute to phosphorus uptake by wheat grown in a phosphorus-fixing soil even in the absence of positive growth responses".
+S765 New Phytologist.
+S766 Bibcode:2006NewPh.172..536L.
+S767 doi:10.1111/j.1469-8137.2006.01846.x.
+S768 PMID 17083683.
+S769 Hogan, C.M.
+S770 "Phosphate".
+S771 In Jorgensen, A.; Cleveland, C.J.
+S772 (eds.).
+S773 Encyclopedia of Earth.
+S774 Washington DC: National Council for Science and the Environment.
+S775 Archived from the original on 2012-10-25.
+S776 Elkan, Daniel (21 April 2004).
+S777 "Slash-and-burn farming has become a major threat to the world's rainforest".
+S778 The Guardian.
+S779 "What is Inga alley cropping?".
+S780 rainforestsaver.org.
+S781 Archived from the original on 2011-11-01.
+S782 Simard, S.W.; Beiler, K.J.; Bingham, M.A.; Deslippe, J.R.; Philip, L.J.; Teste, F.P.
+S783 (April 2012).
+S784 "Mycorrhizal networks: mechanisms, ecology and modelling".
+S785 Fungal Biology Reviews.
+S786 Bibcode:2012FunBR..26...39S.
+S787 doi:10.1016/j.fbr.2012.01.001.
+S788 Paul, L. R.; Chapman, B. K.; Chanway, C. P. (1 June 2007).
+S789 "Nitrogen Fixation Associated with Suillus tomentosus Tuberculate Ectomycorrhizae on Pinus contorta var. latifolia".
+S790 Annals of Botany.
+S791 doi:10.1093/aob/mcm061.
+S792 PMC 3243579.
+S793 PMID 17468111.
+S794 Azcón-Aguilar, C.; Barea, J. M.
+S795 (29 October 1996).
+S796 "Arbuscular mycorrhizas and biological control of soil-borne plant pathogens – an overview of the mechanisms involved".
+S797 Mycorrhiza.
+S798 doi:10.1007/s005720050147.
+S799 S2CID 25190159.
+S800 Jung, Sabine C.; Martinez-Medina, Ainhoa; Lopez-Raez, Juan A.; Pozo, Maria J.
+S801 (24 May 2012).
+S802 "Mycorrhiza-Induced Resistance and Priming of Plant Defenses".
+S803 J Chem Ecol.
+S804 Bibcode:2012JCEco..38..651J.
+S805 doi:10.1007/s10886-012-0134-6.
+S806 hdl:10261/344431.
+S807 PMID 22623151.
+S808 S2CID 12918193.
+S809 Svenningsen, Nanna B; Watts-Williams, Stephanie J; Joner, Erik J; Battini, Fabio; Efthymiou, Aikaterini; Cruz-Paredes, Carla; Nybroe, Ole; Jakobsen, Iver (May 2018).
+S810 "Suppression of the activity of arbuscular mycorrhizal fungi by the soil microbiota".
+S811 The ISME Journal.
+S812 Bibcode:2018ISMEJ..12.1296S.
+S813 doi:10.1038/s41396-018-0059-3.
+S814 PMC 5931975.
+S815 PMID 29382946.
+S816 Zeng, Ren-Sen (2006).
+S817 "Disease Resistance in Plants Through Mycorrhizal Fungi Induced Allelochemicals".
+S818 Allelochemicals: Biological Control of Plant Pathogens and Diseases.
+S819 Disease Management of Fruits and Vegetables.
+S820 Vol.
+S821 2. pp. 181–192.
+S822 doi:10.1007/1-4020-4447-X_10.
+S823 ISBN 1-4020-4445-3.
+S824 "Dr. Susan Kaminskyj: Endorhizal Fungi".
+S825 Usask.ca.
+S826 Archived from the original on 2010-11-04.
+S827 Retrieved 2010-09-30.
+S828 "Dr. Davies Research Page".
+S829 Aggie-horticulture.tamu.edu.
+S830 Archived from the original on 2010-10-19.
+S831 Retrieved 2010-09-30.
+S832 Lehto, Tarja (1992).
+S833 "Mycorrhizas and Drought Resistance of Picea sitchensis (Bong.) Carr. I. In Conditions of Nutrient Deficiency".
+S834 New Phytologist.
+S835 doi:10.1111/j.1469-8137.1992.tb00094.x.
+S836 JSTOR 2557434.
+S837 Nikolaou, N.; Angelopoulos, K.; Karagiannidis, N.
+S838 "Effects of Drought Stress on Mycorrhizal and Non-Mycorrhizal Cabernet Sauvignon Grapevine, Grafted Onto Various Rootstocks".
+S839 Experimental Agriculture.
+S840 doi:10.1017/S001447970300125X.
+S841 S2CID 84997899.
+S842 Porcel, Rosa; Aroca, Ricardo; Ruiz-Lozano, Juan Manuel (January 2012).
+S843 "Salinity stress alleviation using arbuscular mycorrhizal fungi. A review" (PDF).
+S844 Agronomy for Sustainable Development.
+S845 Bibcode:2012AgSD...32..181P.
+S846 doi:10.1007/s13593-011-0029-x.
+S847 S2CID 8572482.
+S848 1 2 3 Babikova, Zdenka; Gilbert, Lucy; Bruce, Toby J. A.; Birkett, Michael; Caulfield, John C.; Woodcock, Christine; Pickett, John A.; Johnson, David (July 2013).
+S849 "Underground signals carried through common mycelial networks warn neighbouring plants of aphid attack".
+S850 Ecology Letters.
+S851 Bibcode:2013EcolL..16..835B.
+S852 doi:10.1111/ele.12115.
+S853 PMID 23656527.
+S854 Johnson, David; Gilbert, Lucy (March 2015).
+S855 "Interplant signalling through hyphal networks".
+S856 New Phytologist.
+S857 Bibcode:2015NewPh.205.1448J.
+S858 doi:10.1111/nph.13115.
+S859 PMID 25421970.
+S860 "Root fungi turn rock into soil".
+S861 Planet Earth Online.
+S862 3 July 2009.
+S863 Archived from the original on 2009-07-13.
+S864 Jeffries, Peter; Gianinazzi, Silvio; Perotto, Silvia; Turnau, Katarzyna; Barea, José-Miguel (January 2003).
+S865 "The contribution of arbuscular mycorrhizal fungi in sustainable maintenance of plant health and soil fertility".
+S866 Biology and Fertility of Soils.
+S867 Bibcode:2003BioFS..37....1J.
+S868 doi:10.1007/s00374-002-0546-5.
+S869 S2CID 20792333.
+S870 INIST 14498927.
+S871 1 2 Richardson, David M.
+S872 Ecology and biogeography of Pinus.
+S873 London: Cambridge University Press.
+S874 p. 336.
+S875 ISBN 978-0-521-78910-3.
+S876 Tam, Paul C.F.
+S877 "Heavy metal tolerance by ectomycorrhizal fungi and metal amelioration by Pisolithus tinctorius".
+S878 Mycorrhiza.
+S879 Bibcode:1995Mycor...5..181T.
+S880 doi:10.1007/BF00203335.
+S881 hdl:10722/48503.
+S882 S2CID 23867901.
+S883 Rayner, M. Cheveley (1915).
+S884 "Obligate Symbiosis in Calluna vulgaris".
+S885 Annals of Botany.
+S886 doi:10.1093/oxfordjournals.aob.a089540.
+S887 Kamieński, Franciszek (1882).
+S888 "Les organes végétatifs de Monotropa hypopitys L."" [The vegetative organs of Monotropa hypopitys L.]. Mémoires de la Société nat. Des Sciences naturelles et mathém. De Cherbourg (in French). 3 (24).. Berch, S. M.; Massicotte, H. B.; Tackaberry, L. E. (July 2005). "Re-publication of a translation of 'The vegetative organs of Monotropa hypopitys L.' published by F.
+S889 Kamienski in 1882, with an update on Monotropa mycorrhizas". Mycorrhiza. 15 (5): 323–32.
+S890 Bibcode:2005Mycor..15..323B. doi:10.1007/s00572-004-0334-1.
+S891 PMID 15549481.
+S892 S2CID 3162281.
+S893 Kamieński, Franciszek (1885).
+S894 "Über die auf Wurzelsymbiose beruhende Ernährung gewisser Bäume durch unterirdische Pilze" [On the nourishing, via root symbiosis, of certain trees by underground fungi].
+S895 Berichte der Deutschen Botanischen Gesellschaft (in German).
+S896 From p. 129: "Der ganze Körper ist also weder Baumwurzel noch Pilz allein, sondern ähnlich wie der Thallus der Flechten, eine Vereinigung zweier verschiedener Wesen zu einem einheitlichen morphologischen Organ, welches vielleicht passend als Pilzwurzel, Mycorhiza bezeichnet werden kann." (The whole body is thus neither tree root nor fungus alone, but similar to the thallus of lichens, a union of two different organisms into a single morphological organ, which can be aptly designated as a "fungus root", a mycorrhiza.)
+S897 Monz, C. A.; Hunt, H. W.; Reeves, F. B.; Elliott, E. T.
+S898 "The response of mycorrhizal colonization to elevated CO2 and climate change in Pascopyrum smithii and Bouteloua gracilis".
+S899 Plant and Soil.
+S900 Bibcode:1994PlSoi.165...75M.
+S901 doi:10.1007/bf00009964.
+S902 S2CID 34893610.
+S903 Hobbie, John E.; Hobbie, Erik A.; Drossman, Howard; et al. (2009).
+S904 "Mycorrhizal fungi supply nitrogen to host plants in Arctic tundra and boreal forests: 15N is the key signal".
+S905 Canadian Journal of Microbiology.
+S906 doi:10.1139/w08-127.
+S907 hdl:1912/2902.
+S908 PMID 19190704.
+S909 Heinemeyer, A.; Fitter, A. H.
+S910 (22 January 2004).
+S911 "Impact of temperature on the arbuscular mycorrhizal (AM) symbiosis: growth responses of the host plant and its AM fungal partner".
+S912 Journal of Experimental Botany.
+S913 doi:10.1093/jxb/erh049.
+S914 PMID 14739273.
+S915 Xavier, L. J.; Germida, J. J.
+S916 "Impact of human activities on mycorrhizae".
+S917 Proceedings of the 8th International Symposium on Microbial Ecology.
+S918 Ahituv, Netta.
+S919 "The Israeli company that uses fungus to tackle the climate and soil crises".
+S920 Haaretz.
+S921 Archived from the original on 2025-01-29.
+S922 Retrieved 2025-12-19.
+
+§34 External links
+S923 International Mycorrhiza Society International Mycorrhiza Society
+S924 Mohamed Hijri: A simple solution to the coming phosphorus crisis video recommending agricultural mycorrhiza use to conserve phosphorus reserves & 85% waste problem @Ted.com
+S925 Mycorrhizal Associations: The Web Resource Comprehensive illustrations and lists of mycorrhizal and nonmycorrhizal plants and fungi
+S926 Mycorrhizas – a successful symbiosis Biosafety research into genetically modified barley
+S927 MycorWiki a portal concerned with the biology and ecology of ectomycorrhizal fungi and other forest fungi.

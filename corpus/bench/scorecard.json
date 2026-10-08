@@ -1,0 +1,361 @@
+{
+ "run": "m3",
+ "code": "9916c54d",
+ "splits": [
+  "tune",
+  "test",
+  "authored"
+ ],
+ "decisions": {
+  "apparatus/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.849,
+    0.929,
+    1
+   ],
+   "ceiling": [
+    0.877,
+    1,
+    1
+   ],
+   "ofCeiling": 0.952
+  },
+  "keep/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.66,
+    0.692,
+    0.707
+   ],
+   "ceiling": [
+    0.814,
+    0.839,
+    0.877
+   ],
+   "ofCeiling": 0.817,
+   "auc": [
+    0.883,
+    0.892
+   ]
+  },
+  "keep/writer": {
+   "pages": [
+    0,
+    0,
+    7
+   ],
+   "jev": [
+    null,
+    null,
+    0.674
+   ],
+   "ceiling": [
+    null,
+    null,
+    0.565
+   ],
+   "ofCeiling": 1.192,
+   "auc": [
+    null,
+    0.905
+   ]
+  },
+  "passed/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.6,
+    0.418,
+    0.692
+   ],
+   "ceiling": [
+    0.853,
+    0.665,
+    0.879
+   ],
+   "ofCeiling": 0.711,
+   "auc": [
+    0.95,
+    0.947
+   ]
+  },
+  "passed/writer": {
+   "pages": [
+    0,
+    0,
+    7
+   ],
+   "jev": [
+    null,
+    null,
+    0.815
+   ],
+   "ceiling": [
+    null,
+    null,
+    0.69
+   ],
+   "ofCeiling": 1.181,
+   "auc": [
+    null,
+    0.923
+   ]
+  },
+  "alone/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.719,
+    0.711,
+    0.61
+   ],
+   "ceiling": [
+    0.741,
+    0.711,
+    0.683
+   ],
+   "ofCeiling": 0.97,
+   "auc": [
+    0.839,
+    0.792
+   ]
+  },
+  "heading/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.938,
+    0.967,
+    0.922
+   ],
+   "ceiling": [
+    0.949,
+    0.978,
+    0.926
+   ],
+   "ofCeiling": 0.99,
+   "auc": [
+    0.825,
+    0.844
+   ]
+  },
+  "term/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.651,
+    0.654,
+    0.582
+   ],
+   "ceiling": [
+    0.921,
+    0.966,
+    0.823
+   ],
+   "ofCeiling": 0.69,
+   "auc": [
+    0.821,
+    0.773
+   ]
+  },
+  "filing/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.717,
+    0.657,
+    0.495
+   ],
+   "ceiling": [
+    0.744,
+    0.701,
+    0.654
+   ],
+   "ofCeiling": 0.856
+  },
+  "repeat/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.34,
+    0.133,
+    0.211
+   ],
+   "ceiling": [
+    0.188,
+    0.118,
+    0.222
+   ],
+   "ofCeiling": 1.061,
+   "auc": [
+    0.851,
+    0.829
+   ]
+  },
+  "essential/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.235,
+    0.262,
+    0.338
+   ],
+   "ceiling": [
+    0.68,
+    0.711,
+    0.75
+   ],
+   "ofCeiling": 0.405,
+   "auc": [
+    0.685,
+    0.701
+   ]
+  },
+  "essential/writer": {
+   "pages": [
+    0,
+    0,
+    7
+   ],
+   "jev": [
+    null,
+    null,
+    0.531
+   ],
+   "ceiling": [
+    null,
+    null,
+    0.425
+   ],
+   "ofCeiling": 1.251,
+   "auc": [
+    null,
+    0.875
+   ]
+  },
+  "lead/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.619,
+    0.875,
+    0.429
+   ],
+   "ceiling": [
+    0.619,
+    0.875,
+    0.571
+   ],
+   "ofCeiling": 0.909
+  },
+  "lead/writer": {
+   "pages": [
+    0,
+    0,
+    7
+   ],
+   "jev": [
+    null,
+    null,
+    0.857
+   ],
+   "ceiling": [
+    null,
+    null,
+    0.429
+   ],
+   "ofCeiling": 2
+  },
+  "themes/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.479,
+    0.318,
+    0.362
+   ],
+   "ceiling": [
+    0.724,
+    0.554,
+    0.426
+   ],
+   "ofCeiling": 0.684
+  },
+  "fall/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.294,
+    0.105,
+    0
+   ],
+   "ceiling": [
+    null,
+    null,
+    null
+   ],
+   "ofCeiling": null,
+   "auc": [
+    0.772,
+    0.703
+   ]
+  },
+  "subjects/teacher": {
+   "pages": [
+    21,
+    8,
+    7
+   ],
+   "jev": [
+    0.698,
+    0.646,
+    0.498
+   ],
+   "ceiling": [
+    0.744,
+    0.701,
+    0.654
+   ],
+   "ofCeiling": 0.849
+  }
+ }
+}

@@ -1,0 +1,12 @@
+[
+  {"id": "web-crawler", "title": "Web crawler", "url": "https://en.wikipedia.org/wiki/Web_crawler", "credit": "Wikipedia, CC BY-SA 4.0."},
+  {"id": "deep-sea", "title": "Deep sea", "url": "https://en.wikipedia.org/wiki/Deep_sea", "credit": "Wikipedia, CC BY-SA 4.0."},
+  {"id": "climate-evidence", "title": "Evidence of climate change", "url": "https://science.nasa.gov/climate-change/evidence/", "credit": "NASA Science. Public domain."},
+  {"id": "rfc9309", "title": "RFC 9309: Robots Exclusion Protocol", "url": "https://www.rfc-editor.org/rfc/rfc9309.html", "credit": "RFC 9309, IETF Trust."},
+  {"id": "civil-disobedience", "title": "On the Duty of Civil Disobedience", "url": "https://www.gutenberg.org/files/71/71-h/71-h.htm", "credit": "Henry David Thoreau, 1849. Project Gutenberg, public domain."},
+  {"id": "dark-majority", "title": "The Dark Majority", "url": "https://example.org/the-dark-majority", "credit": "Written for this project."},
+  {"id": "cyberpunk", "title": "Cyberpunk", "url": "https://en.wikipedia.org/wiki/Cyberpunk", "credit": "Wikipedia, CC BY-SA 4.0."},
+  {"id": "ciberpunk", "title": "Ciberpunk", "url": "https://es.wikipedia.org/wiki/Ciberpunk", "credit": "Wikipedia en español, CC BY-SA 4.0."},
+  {"id": "dont-scale", "title": "Do Things that Don't Scale", "url": "https://paulgraham.com/ds.html", "credit": "Paul Graham, 2013."},
+  {"id": "http-caching", "title": "HTTP caching", "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching", "credit": "MDN Web Docs, CC BY-SA 2.5."}
+]

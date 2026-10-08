@@ -1,0 +1,188 @@
+{
+ "title": "Cross-Origin Resource Sharing (CORS)",
+ "kept": "1234 of 2801 words (44%), 54 sentences",
+ "themes": {
+  "What requests use CORS? (4)": [],
+  "Functional overview (2)": [],
+  "Cross-Origin Resource Sharing (CORS) (1)": [],
+  "Examples of access control scenarios (0)": [
+   "Requests with credentials (6)",
+   "Simple requests (8)",
+   "Preflighted requests (5)",
+   "Credentialed requests and wildcards (6)",
+   "Third-party cookies (4)",
+   "Preflight requests and credentials (2)",
+   "Preflighted requests and redirects (1)"
+  ],
+  "The HTTP response headers (0)": [
+   "Access-Control-Allow-Credentials (3)",
+   "Access-Control-Allow-Headers (2)",
+   "Access-Control-Max-Age (2)",
+   "Access-Control-Allow-Origin (1)",
+   "Access-Control-Expose-Headers (1)",
+   "Access-Control-Allow-Methods (1)"
+  ],
+  "The HTTP request headers (0)": [
+   "Access-Control-Request-Headers (2)",
+   "Origin (2)",
+   "Access-Control-Request-Method (1)"
+  ]
+ },
+ "subjects": {
+  "Requests with credentials": [
+   "The most interesting capability exposed by both fetch() or XMLHttpRequest and CORS is the ability to make \"credentialed\" requests that are aware of HTTP cookies and HTTP Authentication information.",
+   "By default, in cross-origin fetch() or XMLHttpRequest calls, browsers will not send credentials.",
+   "To ask for a fetch() request to include credentials, set the credentials option to \"include\".",
+   "To ask for an XMLHttpRequest request to include credentials, set the XMLHttpRequest.withCredentials property to true.",
+   "Since this is a simple GET request, it is not preflighted but the browser will reject any response that does not have the Access-Control-Allow-Credentials header set to true, and not make the response available to the invoking web content.",
+   "Although the request's Cookie header contains the cookie destined for the content on https://bar.other, if bar.other did not respond with an Access-Control-Allow-Credentials with value true, as demonstrated in this example, the response would be ignored and not made available to the web content."
+  ],
+  "Simple requests": [
+   "Some requests don't trigger a CORS preflight.",
+   "However, the server still must opt-in using Access-Control-Allow-Origin to share the response with the script.",
+   "A simple request is one that meets all the following conditions:",
+   "Apart from the headers automatically set by the user agent (for example, Connection, User-Agent, or the forbidden request headers), the only headers which are allowed to be manually set are the CORS-safelisted request-headers, which are:",
+   "Range (only with a single range header value; e.g., bytes=256- or bytes=127-255)",
+   "The only type/subtype combinations allowed for the media type specified in the Content-Type header are:",
+   "If the request is made using an XMLHttpRequest object, no event listeners are registered on the object returned by the XMLHttpRequest.upload property used in the request; that is, given an XMLHttpRequest instance xhr, no code has called xhr.upload.addEventListener() to add an event listener to monitor the upload.",
+   "No ReadableStream object is used in the request."
+  ],
+  "Preflighted requests": [
+   "Unlike simple requests, for \"preflighted\" requests the browser first sends an HTTP request using the OPTIONS method to the resource on the other origin, in order to determine if the actual request is safe to send.",
+   "The Access-Control-Request-Method header notifies the server as part of a preflight request that when the actual request is sent, it will do so with a POST request method.",
+   "The Access-Control-Request-Headers header notifies the server that when the actual request is sent, it will do so with X-PINGOTHER and Content-Type custom headers.",
+   "The server also sends Access-Control-Allow-Headers with a value of X-PINGOTHER, Content-Type, confirming that these are permitted headers to be used with the actual request.",
+   "Finally, Access-Control-Max-Age gives the value in seconds for how long the response to the preflight request can be cached without sending another preflight request."
+  ],
+  "Credentialed requests and wildcards": [
+   "The server must not specify the * wildcard for the Access-Control-Allow-Origin response-header value, but must instead specify an explicit origin; for example: Access-Control-Allow-Origin: https://example.com",
+   "The server must not specify the * wildcard for the Access-Control-Allow-Headers response-header value, but must instead specify an explicit list of header names; for example, Access-Control-Allow-Headers: X-PINGOTHER, Content-Type",
+   "The server must not specify the * wildcard for the Access-Control-Allow-Methods response-header value, but must instead specify an explicit list of method names; for example, Access-Control-Allow-Methods: POST, GET",
+   "The server must not specify the * wildcard for the Access-Control-Expose-Headers response-header value, but must instead specify an explicit list of header names; for example, Access-Control-Expose-Headers: Content-Encoding, Kuma-Revision",
+   "If a request includes a credential (most commonly a Cookie header) and the response includes an Access-Control-Allow-Origin: * header (that is, with the wildcard), the browser will block access to the response, and report a CORS error in the devtools console.",
+   "But if a request does include a credential (like the Cookie header) and the response includes an actual origin rather than the wildcard (like, for example, Access-Control-Allow-Origin: https://example.com), then the browser will allow access to the response from the specified origin."
+  ],
+  "Access-Control-Allow-Credentials": [
+   "The Access-Control-Allow-Credentials header indicates whether or not the response to the request can be exposed when the credentials flag is true.",
+   "When used as part of a response to a preflight request, this indicates whether or not the actual request can be made using credentials.",
+   "Note that simple GET requests are not preflighted, and so if a request is made for a resource with credentials, if this header is not returned with the resource, the response is ignored by the browser and not returned to web content."
+  ],
+  "What requests use CORS?": [
+   "PRIZE This cross-origin sharing standard can enable cross-origin HTTP requests for:",
+   "Invocations of fetch() or XMLHttpRequest, as discussed above.",
+   "Web Fonts (for cross-domain font usage in @font-face within CSS), as described in the font fetching requirements, so that servers can deploy TrueType fonts that can only be loaded cross-origin and used by websites that are permitted to do so.",
+   "Images/video frames drawn to a canvas using drawImage()."
+  ],
+  "Third-party cookies": [
+   "Note that cookies set in CORS responses are subject to normal third-party cookie policies.",
+   "Cookies set in CORS requests and responses are subject to normal third-party cookie policies.",
+   "Third-party cookie policies may prevent third-party cookies being sent in requests, effectively stopping a site from making credentialed requests even if permitted by the third-party server (using Access-Control-Allow-Credentials).",
+   "Even if credentialed requests are allowed, a browser may be configured to reject all third-party cookies in responses."
+  ],
+  "Access-Control-Allow-Headers": [
+   "The Access-Control-Allow-Headers header is used in response to a preflight request to indicate which HTTP headers can be used when making the actual request.",
+   "This header is the server side response to the browser's Access-Control-Request-Headers header."
+  ],
+  "Functional overview": [
+   "PRIZE Additionally, for HTTP request methods that can cause side-effects on server data (in particular, HTTP methods other than GET, or POST with certain MIME types), the specification mandates that browsers \"preflight\" the request, soliciting supported methods from the server with the HTTP OPTIONS request method, and then, upon \"approval\" from the server, sending the actual request.",
+   "Servers can also inform clients whether \"credentials\" (such as Cookies and HTTP Authentication) should be sent with requests."
+  ],
+  "Access-Control-Max-Age": [
+   "The Access-Control-Max-Age header indicates how long the results of a preflight request can be cached.",
+   "The delta-seconds parameter indicates the number of seconds the results can be cached."
+  ],
+  "Access-Control-Request-Headers": [
+   "The Access-Control-Request-Headers header is used when issuing a preflight request to let the server know what HTTP headers will be used when the actual request is made (for example, by passing them as the headers option).",
+   "This browser-side header will be answered by the complementary server-side header of Access-Control-Allow-Headers."
+  ],
+  "Cross-Origin Resource Sharing (CORS)": [
+   "LEAD The Cross-Origin Resource Sharing standard works by adding new HTTP headers that let servers describe which origins are permitted to read that information from a web browser."
+  ],
+  "Preflight requests and credentials": [
+   "CORS-preflight requests must never include credentials.",
+   "The response to a preflight request must specify Access-Control-Allow-Credentials: true to indicate that the actual request can be made with credentials."
+  ],
+  "Access-Control-Allow-Origin": [
+   "Access-Control-Allow-Origin specifies either a single origin which tells browsers to allow that origin to access the resource; or else — for requests without credentials — the * wildcard tells browsers to allow any origin to access the resource."
+  ],
+  "Access-Control-Expose-Headers": [
+   "The Access-Control-Expose-Headers header adds the specified headers to the allowlist that JavaScript (such as Response.headers) in browsers is allowed to access."
+  ],
+  "Access-Control-Allow-Methods": [
+   "The Access-Control-Allow-Methods header specifies the method or methods allowed when accessing the resource."
+  ],
+  "Origin": [
+   "The Origin header indicates the origin of the cross-origin access request or preflight request.",
+   "The origin is a URL indicating the server from which the request is initiated."
+  ],
+  "Access-Control-Request-Method": [
+   "The Access-Control-Request-Method is used when issuing a preflight request to let the server know what HTTP method will be used when the actual request is made."
+  ],
+  "Preflighted requests and redirects": [
+   "Not all browsers currently support following redirects after a preflighted request."
+  ],
+  "Examples of access control scenarios": [],
+  "The HTTP response headers": [],
+  "The HTTP request headers": []
+ },
+ "links": [
+  "Requests with credentials — Access-Control-Allow-Credentials 0.70",
+  "Simple requests — Preflighted requests 0.65",
+  "Preflighted requests — Preflight requests and credentials 0.65",
+  "Credentialed requests and wildcards — Access-Control-Allow-Origin 0.71",
+  "What requests use CORS? — Functional overview 0.62",
+  "Requests with credentials — Third-party cookies 0.59",
+  "Access-Control-Allow-Headers — Access-Control-Request-Headers 0.68",
+  "Preflighted requests — Functional overview 0.65",
+  "Preflighted requests — Access-Control-Max-Age 0.67",
+  "Access-Control-Allow-Credentials — Preflight requests and credentials 0.69",
+  "Access-Control-Expose-Headers — The HTTP response headers 0.63",
+  "Access-Control-Allow-Methods — Access-Control-Request-Method 0.61",
+  "Access-Control-Allow-Origin — Origin 0.75",
+  "Preflighted requests — Access-Control-Request-Method 0.69",
+  "Preflighted requests — Preflighted requests and redirects 0.61",
+  "Functional overview — Examples of access control scenarios 0.47",
+  "Access-Control-Allow-Origin — The HTTP response headers 0.62",
+  "Access-Control-Request-Headers — The HTTP request headers 0.58"
+ ],
+ "pulls": [
+  "0.65 This cross-origin sharing standard can enable cross-origin H — The Cross-Origin Resource Sharing standard works by adding n",
+  "0.65 Invocations of fetch() or XMLHttpRequest, as discussed above — The most interesting capability exposed by both fetch() or X",
+  "0.62 Web Fonts (for cross-domain font usage in @font-face within  — The Cross-Origin Resource Sharing standard works by adding n",
+  "0.67 The Cross-Origin Resource Sharing standard works by adding n — Access-Control-Allow-Origin specifies either a single origin",
+  "0.67 Additionally, for HTTP request methods that can cause side-e — Unlike simple requests, for \"preflighted\" requests the brows",
+  "0.64 Servers can also inform clients whether \"credentials\" (such  — The most interesting capability exposed by both fetch() or X",
+  "0.65 Additionally, for HTTP request methods that can cause side-e — Some requests don't trigger a CORS preflight.",
+  "0.67 However, the server still must opt-in using Access-Control-A — Access-Control-Allow-Origin specifies either a single origin",
+  "0.66 A simple request is one that meets all the following conditi — Unlike simple requests, for \"preflighted\" requests the brows",
+  "0.64 Apart from the headers automatically set by the user agent ( — The Access-Control-Request-Headers header notifies the serve",
+  "0.57 Additionally, for HTTP request methods that can cause side-e — The only type/subtype combinations allowed for the media typ",
+  "0.66 The Access-Control-Request-Method header notifies the server — The Access-Control-Request-Method is used when issuing a pre",
+  "0.65 The Access-Control-Request-Headers header notifies the serve — The Access-Control-Request-Headers header is used when issui",
+  "0.66 The server also sends Access-Control-Allow-Headers with a va — The Access-Control-Allow-Headers header is used in response ",
+  "0.65 Finally, Access-Control-Max-Age gives the value in seconds f — The Access-Control-Max-Age header indicates how long the res",
+  "0.65 Servers can also inform clients whether \"credentials\" (such  — By default, in cross-origin fetch() or XMLHttpRequest calls,",
+  "0.66 To ask for a fetch() request to include credentials, set the — The Access-Control-Allow-Credentials header indicates whethe",
+  "0.67 To ask for an XMLHttpRequest request to include credentials, — The Access-Control-Allow-Credentials header indicates whethe",
+  "0.71 Since this is a simple GET request, it is not preflighted bu — Note that simple GET requests are not preflighted, and so if",
+  "0.64 Although the request's Cookie header contains the cookie des — Note that simple GET requests are not preflighted, and so if",
+  "0.58 CORS-preflight requests must never include credentials. — When used as part of a response to a preflight request, this",
+  "0.68 The response to a preflight request must specify Access-Cont — When used as part of a response to a preflight request, this",
+  "0.66 The server must not specify the * wildcard for the Access-Co — Access-Control-Allow-Origin specifies either a single origin",
+  "0.66 The server also sends Access-Control-Allow-Headers with a va — The server must not specify the * wildcard for the Access-Co",
+  "0.66 The server must not specify the * wildcard for the Access-Co — The Access-Control-Allow-Methods header specifies the method",
+  "0.66 The server must not specify the * wildcard for the Access-Co — The Access-Control-Expose-Headers header adds the specified ",
+  "0.67 If a request includes a credential (most commonly a Cookie h — Access-Control-Allow-Origin specifies either a single origin",
+  "0.67 But if a request does include a credential (like the Cookie  — Access-Control-Allow-Origin specifies either a single origin",
+  "0.46 If a request includes a credential (most commonly a Cookie h — Note that cookies set in CORS responses are subject to norma",
+  "0.63 The most interesting capability exposed by both fetch() or X — Cookies set in CORS requests and responses are subject to no",
+  "0.66 The most interesting capability exposed by both fetch() or X — Third-party cookie policies may prevent third-party cookies ",
+  "0.64 But if a request does include a credential (like the Cookie  — Even if credentialed requests are allowed, a browser may be ",
+  "0.61 Finally, Access-Control-Max-Age gives the value in seconds f — The delta-seconds parameter indicates the number of seconds ",
+  "0.67 Since this is a simple GET request, it is not preflighted bu — The Access-Control-Allow-Credentials header indicates whethe",
+  "0.70 This header is the server side response to the browser's Acc — This browser-side header will be answered by the complementa",
+  "0.62 The Cross-Origin Resource Sharing standard works by adding n — The Origin header indicates the origin of the cross-origin a",
+  "0.67 Access-Control-Allow-Origin specifies either a single origin — The origin is a URL indicating the server from which the req",
+  "0.68 This header is the server side response to the browser's Acc — The Access-Control-Request-Headers header is used when issui"
+ ]
+}

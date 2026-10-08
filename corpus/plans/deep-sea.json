@@ -1,0 +1,128 @@
+{
+ "title": "Deep sea",
+ "kept": "973 of 2207 words (44%), 40 sentences",
+ "themes": {
+  "Biology (11)": [
+   "Adaptation to hydrostatic pressure (8)",
+   "Chemosynthesis (3)"
+  ],
+  "Exploration (5)": [],
+  "Deep sea (2)": [],
+  "deep-sea species (1)": [],
+  "Environmental characteristics (0)": [
+   "Temperature (5)",
+   "Pressure (1)",
+   "Light (3)",
+   "Salinity (1)"
+  ]
+ },
+ "subjects": {
+  "Biology": [
+   "PRIZE The deep sea is broadly defined as the ocean depth where light begins to fade, at an approximate depth of 200 m (660 ft) or the point of transition from continental shelves to continental slopes.",
+   "Regions below the epipelagic are divided into further zones, beginning with the bathyal zone (also considered the continental slope) which spans from 200 to 3,000 meters (660 to 9,840 ft) below sea level and is essentially transitional, containing elements from both the shelf above and the abyss below.",
+   "Below this zone, the deep sea consists of the abyssal zone (ocean depth between 3–6 km; 1.9–3.7 mi) and the hadal zone (6–11 km; 3.7–6.8 mi).",
+   "Food consists of falling organic matter known as 'marine snow' and carcasses derived from the productive zone above, and is scarce both in terms of spatial and temporal distribution.",
+   "Instead of relying on gas for their buoyancy, many deep-sea species have jelly-like flesh consisting mostly of glycosaminoglycans, which provides them with very low density.",
+   "The midwater fish have special adaptations to cope with these conditions—they are small, usually being under 25 centimetres (10 in); they have slow metabolisms and unspecialized diets, preferring to sit and wait for food rather than waste energy searching for it.",
+   "Because light is so scarce, fish often have larger than normal, tubular eyes with only rod cells.",
+   "These adaptations are mainly concerned with reduction of silhouettes, a form of camouflage.",
+   "The two main methods by which this is achieved are reduction in the area of their shadow by lateral compression of the body, and counter illumination via bioluminescence.",
+   "Organisms in the deep sea are almost entirely reliant upon sinking living and dead organic matter which falls at approximately 100 meters per day.",
+   "In addition, only about 1 to 3% of the production from the surface reaches the seabed, mostly in the form of marine snow."
+  ],
+  "Adaptation to hydrostatic pressure": [
+   "Deep-sea fish have different adaptations in their proteins, anatomical structures, and metabolic systems to survive in the Deep sea, where the inhabitants have to withstand great amount of hydrostatic pressure.",
+   "While other factors like food availability and predator avoidance are important, the deep-sea organisms must have the ability to maintain well-regulated metabolic system in the face of high pressures.",
+   "Proteins are affected greatly by the elevated hydrostatic pressure, as they undergo changes in water organization during hydration and dehydration reactions of the binding events.",
+   "Because hydrostatic pressure affects both protein folding and assembly and enzymatic activity, the deep sea species must undergo physiological and structural adaptations to preserve protein functionality against pressure.",
+   "Some Deep-sea fish developed pressure tolerance through the change in mechanism of their α-actin.",
+   "For certain chondrichthyans, it was found that Trimethylamine N-oxide (TMAO) increased with depth, replacing other osmolytes and urea.",
+   "Due to the ability of TMAO being able to protect proteins from high hydrostatic pressure destabilizing proteins, the osmolyte adjustment serves are an important adaptation for deep sea fish to withstand high hydrostatic pressure.",
+   "Osteocalcin gene regulates bone development and tissue mineralization, and the frameshift mutation seems to have resulted in the open skull and cartilage-based bone formation."
+  ],
+  "Temperature": [
+   "The two areas of greatest temperature gradient in the oceans are the transition zone between the surface waters and the deep waters, the thermocline, and the transition between the deep-sea floor and the hot water flows at the hydrothermal vents.",
+   "Below the thermocline, the water mass of the deep ocean is cold and far more homogeneous.",
+   "From the base of the epipelagic, the temperature drops over several hundred meters to 5–6 °C at 1,000 meters (41–43 °F at 3,300 ft).",
+   "At any given depth, the temperature is practically unvarying over long periods of time, without seasonal changes and with very little interannual variability.",
+   "No other habitat on earth has such a constant temperature."
+  ],
+  "Exploration": [
+   "Still, the deep-sea remains one of the least explored regions on planet Earth.",
+   "Pressures even in the mesopelagic become too great for traditional exploration methods, demanding alternative approaches for deep-sea research.",
+   "Because of the difficulty and cost of exploring this zone, current knowledge is limited.",
+   "Pressure increases at approximately one atmosphere for every 10 meters meaning that some areas of the deep sea can reach pressures of above 1,000 atmospheres.",
+   "This not only makes great depths very difficult to reach without mechanical aids, but also provides a significant difficulty when attempting to study any organisms that may live in these areas as their cell chemistry will be adapted to such vast pressures."
+  ],
+  "Pressure": [
+   "Because pressure in the ocean increases by about 1 atmosphere for every 10 meters of depth, the amount of pressure experienced by many marine organisms is extreme."
+  ],
+  "Light": [
+   "Natural light does not penetrate the deep ocean, with the exception of the upper parts of the mesopelagic.",
+   "PRIZE Since photosynthesis is not possible, plants and phytoplankton cannot live in this zone, and as these are the primary producers of almost all of earth's ecosystems, life in this area of the ocean must depend on energy sources from elsewhere.",
+   "Except for the areas close to the hydrothermal vents, this energy comes from organic material drifting down from the photic zone."
+  ],
+  "Chemosynthesis": [
+   "There are a number of species that do not primarily rely upon dissolved organic matter for their food.",
+   "It is this chemosynthesis that supports the complex communities that can be found around hydrothermal vents.",
+   "These complex communities are one of the few ecosystems on the planet that do not rely upon sunlight for their supply of energy."
+  ],
+  "Deep sea": [
+   "LEAD Conditions within the deep sea are a combination of low temperatures, darkness, and high pressure.",
+   "Organisms can survive in the deep sea through a number of feeding methods including scavenging, predation and filtration, with a number of organisms surviving by feeding on marine snow."
+  ],
+  "Salinity": [
+   "Salinity is remarkably constant throughout the deep sea, at about 35 parts per thousand."
+  ],
+  "deep-sea species": [
+   "PRIZE Organisms living within the deep sea have a variety of adaptations to survive in these conditions."
+  ],
+  "Environmental characteristics": []
+ },
+ "links": [
+  "Biology — Adaptation to hydrostatic pressure 0.64",
+  "Adaptation to hydrostatic pressure — Pressure 0.72",
+  "Temperature — Environmental characteristics 0.54",
+  "Exploration — Pressure 0.65",
+  "Light — Chemosynthesis 0.65",
+  "Salinity — Environmental characteristics 0.59",
+  "Adaptation to hydrostatic pressure — deep-sea species 0.68",
+  "Pressure — Environmental characteristics 0.61"
+ ],
+ "pulls": [
+  "0.65 The deep sea is broadly defined as the ocean depth where lig — Natural light does not penetrate the deep ocean, with the ex",
+  "0.67 Conditions within the deep sea are a combination of low temp — Organisms living within the deep sea have a variety of adapt",
+  "0.67 Organisms living within the deep sea have a variety of adapt — Deep-sea fish have different adaptations in their proteins, ",
+  "0.67 Organisms can survive in the deep sea through a number of fe — Food consists of falling organic matter known as 'marine sno",
+  "0.67 Natural light does not penetrate the deep ocean, with the ex — Because light is so scarce, fish often have larger than norm",
+  "0.66 Since photosynthesis is not possible, plants and phytoplankt — These complex communities are one of the few ecosystems on t",
+  "0.63 Except for the areas close to the hydrothermal vents, this e — It is this chemosynthesis that supports the complex communit",
+  "0.66 Because pressure in the ocean increases by about 1 atmospher — Pressure increases at approximately one atmosphere for every",
+  "0.54 Salinity is remarkably constant throughout the deep sea, at  — Below the thermocline, the water mass of the deep ocean is c",
+  "0.58 The two areas of greatest temperature gradient in the oceans — It is this chemosynthesis that supports the complex communit",
+  "0.59 Conditions within the deep sea are a combination of low temp — Below the thermocline, the water mass of the deep ocean is c",
+  "0.59 From the base of the epipelagic, the temperature drops over  — Regions below the epipelagic are divided into further zones,",
+  "0.30 Salinity is remarkably constant throughout the deep sea, at  — At any given depth, the temperature is practically unvarying",
+  "0.35 Salinity is remarkably constant throughout the deep sea, at  — No other habitat on earth has such a constant temperature.",
+  "0.66 Except for the areas close to the hydrothermal vents, this e — Food consists of falling organic matter known as 'marine sno",
+  "0.67 Organisms living within the deep sea have a variety of adapt — Instead of relying on gas for their buoyancy, many deep-sea ",
+  "0.67 Organisms living within the deep sea have a variety of adapt — The midwater fish have special adaptations to cope with thes",
+  "0.58 Natural light does not penetrate the deep ocean, with the ex — These adaptations are mainly concerned with reduction of sil",
+  "0.54 Natural light does not penetrate the deep ocean, with the ex — The two main methods by which this is achieved are reduction",
+  "0.67 Except for the areas close to the hydrothermal vents, this e — Organisms in the deep sea are almost entirely reliant upon s",
+  "0.66 Except for the areas close to the hydrothermal vents, this e — In addition, only about 1 to 3% of the production from the s",
+  "0.59 Except for the areas close to the hydrothermal vents, this e — There are a number of species that do not primarily rely upo",
+  "0.65 Except for the areas close to the hydrothermal vents, this e — These complex communities are one of the few ecosystems on t",
+  "0.67 Because pressure in the ocean increases by about 1 atmospher — Deep-sea fish have different adaptations in their proteins, ",
+  "0.67 Because pressure in the ocean increases by about 1 atmospher — While other factors like food availability and predator avoi",
+  "0.65 Proteins are affected greatly by the elevated hydrostatic pr — This not only makes great depths very difficult to reach wit",
+  "0.67 Organisms living within the deep sea have a variety of adapt — Because hydrostatic pressure affects both protein folding an",
+  "0.66 Organisms living within the deep sea have a variety of adapt — Some Deep-sea fish developed pressure tolerance through the ",
+  "0.63 For certain chondrichthyans, it was found that Trimethylamin — Pressure increases at approximately one atmosphere for every",
+  "0.67 Because pressure in the ocean increases by about 1 atmospher — Due to the ability of TMAO being able to protect proteins fr",
+  "0.42 Because pressure in the ocean increases by about 1 atmospher — Still, the deep-sea remains one of the least explored region",
+  "0.65 Because pressure in the ocean increases by about 1 atmospher — Pressures even in the mesopelagic become too great for tradi",
+  "0.36 Because pressure in the ocean increases by about 1 atmospher — Because of the difficulty and cost of exploring this zone, c",
+  "0.65 Because hydrostatic pressure affects both protein folding an — This not only makes great depths very difficult to reach wit"
+ ]
+}

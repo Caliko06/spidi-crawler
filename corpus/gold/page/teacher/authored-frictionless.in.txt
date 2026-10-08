@@ -1,0 +1,63 @@
+DOCUMENT: The Quiet Cost of Frictionless Things
+
+§0 (under the title)
+S0 I have been meaning to write this for a year, and I keep putting it off because it sounds like a complaint.
+S1 My argument is that every time we remove a small difficulty from daily life we also remove a small piece of competence and a small occasion for meeting other people, and that the sum of these removals is larger than anyone has priced in.
+S2 The argument is not against convenience as such.
+S3 Let me begin with a story.
+
+§1 The bakery
+S4 For eleven years I bought bread from a bakery two streets from my flat, run by a woman named Marta who never remembered my name but always remembered my order.
+S5 The queue was slow.
+S6 Everything about the place was inefficient, because she weighed each loaf by hand, chatted with whoever was ahead of me and refused to take cards under five euros.
+S7 When the bakery closed, a delivery app took over the street within a month.
+S8 The bread I get now arrives in forty minutes, costs less, and comes from a warehouse kitchen that bakes for six neighbourhoods at once.
+S9 I will admit that it is good bread.
+S10 What I lost was not bread but a fixed point in the week where I was recognised by someone who had no reason to be nice to me.
+S11 It is hard to explain why that mattered.
+
+§2 Friction is where skill lives
+S12 Skills are built on friction: the resistance of a task is exactly what teaches us how to do it.
+S13 A navigator who has never been lost does not learn to read a map, and a cook who has never burned a sauce does not learn the temperature of a pan.
+S14 Researchers who study pilots have found that crews who rely most on automation are the slowest to recover when the automation fails.
+S15 The same researchers note that the skills that decay first are the ones exercised least, which is why the decay is invisible until the day it matters.
+S16 The same pattern shows up in far humbler places, such as the way people who always use a navigation app stop forming mental maps of their own city.
+S17 None of this is new, strictly speaking.
+S18 Plato worried that writing would weaken memory, and he was partly right.
+S19 The difference today is the speed and breadth of the removal: we are not outsourcing one skill at a time but dozens at once, and doing it by default rather than by choice.
+
+§3 Friction is also how we meet
+S20 Friction is also the medium of civic life, because shared queues, shared counters and shared mistakes are the places where strangers become neighbours.
+S21 Sociologists call these places third spaces, and they have been closing for decades, long before the apps arrived.
+S22 What the apps did was finish the job by making the visit unnecessary.
+S23 A pharmacy that delivers does not need you to stand in its doorway, and a doorway is where you learn that the man ahead of you is caring for his mother.
+S24 Each of these encounters is trivial, and that is exactly why nobody defends them when they go.
+S25 No one has ever campaigned to save a queue.
+S26 Yet a city made only of efficient transactions is a city where nobody has a reason to speak to anyone.
+
+§4 The strongest objection
+S27 The obvious reply is that I am romanticising drudgery.
+S28 People who carry shopping up four flights of stairs, or who wait three hours at a clinic, are not grateful for the character it builds, and for many of them frictionless services are a real liberation.
+S29 I accept this completely, and it changes what I am asking for: I am not asking anyone to suffer, but to notice which difficulties are doing work.
+S30 Disabled people, carers and the very poor have the strongest claim to convenience, and any defence of friction that ignores them is a defence of privilege.
+S31 There is a second objection that I find harder.
+S32 It says that choosing friction deliberately is only a luxury hobby, like baking your own bread, and that a skill kept alive as a pastime is not the same thing as a skill a society depends on.
+S33 I think this is mostly correct.
+S34 A pastime keeps one person's hands in practice but it does not keep a shared counter open.
+
+§5 What to keep
+S35 The practical conclusion is to treat friction as a resource to be allocated, not as waste to be eliminated, and to ask of each new convenience what it quietly takes away.
+S36 A useful test is to ask whether the difficulty teaches something that will be needed when the system fails, and whether it puts people in the same room.
+S37 Where the answer to both is no, remove the difficulty gladly and without guilt.
+S38 Where the answer is yes, a service can keep a deliberate, slower option, as some libraries keep a human desk beside the self-checkout.
+S39 Cities can protect a few counters and queues the way they protect a few parks, because their value is the same kind of value: nobody would build them from scratch for profit, and everybody notices when they are gone.
+S40 I still do not know the name of the woman at the bakery.
+S41 I think about her more often than I expected.
+
+§6 Further reading
+S42 Bainbridge, L. Ironies of Automation.
+S43 Automatica, 1983.
+S44 Oldenburg, R. The Great Good Place.
+S45 Marlowe, 1989.
+S46 Carr, N. The Glass Cage.
+S47 W. W. Norton, 2014.

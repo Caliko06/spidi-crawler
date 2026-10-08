@@ -1,0 +1,413 @@
+DOCUMENT: Deep sea
+
+§0 (under the title)
+S0 The deep sea is broadly defined as the ocean depth where light begins to fade, at an approximate depth of 200 m (660 ft) or the point of transition from continental shelves to continental slopes.
+S1 Conditions within the deep sea are a combination of low temperatures, darkness, and high pressure.
+S2 The deep sea is considered the least explored Earth biome as the extreme conditions make the environment difficult to access and explore.
+S3 Organisms living within the deep sea have a variety of adaptations to survive in these conditions.
+S4 Organisms can survive in the deep sea through a number of feeding methods including scavenging, predation and filtration, with a number of organisms surviving by feeding on marine snow.
+S5 Marine snow is organic material that has fallen from upper waters into the deep sea.
+S6 In 1960, the bathyscaphe Trieste descended to the bottom of the Mariana Trench near Guam, at 10,911 m (35,797 ft; 6.780 mi), the deepest known spot in any ocean.
+S7 If Mount Everest (8,848 m or 29,029 ft or 5.498 mi) were submerged there, its peak would be more than 2 km (1.2 mi) beneath the surface.
+S8 After the Trieste was retired, the Japanese remote-operated vehicle (ROV) Kaikō was the only vessel capable of reaching this depth until it was lost at sea in 2003.
+S9 In May and June 2009, the hybrid-ROV Nereus returned to the Challenger Deep for a series of three dives to depths exceeding 10,900 m (35,800 ft; 6.8 mi).
+
+§1 Light
+S10 Natural light does not penetrate the deep ocean, with the exception of the upper parts of the mesopelagic.
+S11 Since photosynthesis is not possible, plants and phytoplankton cannot live in this zone, and as these are the primary producers of almost all of earth's ecosystems, life in this area of the ocean must depend on energy sources from elsewhere.
+S12 Except for the areas close to the hydrothermal vents, this energy comes from organic material drifting down from the photic zone.
+S13 The sinking organic material is composed of algal particulates, detritus, and other forms of biological waste, which is collectively referred to as marine snow.
+
+§2 Pressure
+S14 Because pressure in the ocean increases by about 1 atmosphere for every 10 meters of depth, the amount of pressure experienced by many marine organisms is extreme.
+S15 Until recent years, the scientific community lacked detailed information about the effects of pressure on most deep sea organisms because the specimens encountered arrived at the surface dead or dying and weren't observable at the pressures at which they lived.
+S16 With the advent of traps that incorporate a special pressure-maintaining chamber, undamaged larger metazoan animals have been retrieved from the deep sea in good condition.
+
+§3 Salinity
+S17 Salinity is remarkably constant throughout the deep sea, at about 35 parts per thousand.
+S18 There are some minor differences in salinity, but none that are ecologically significant, except in largely landlocked seas like the Mediterranean and Red Seas.
+
+§4 Temperature
+S19 The two areas of greatest temperature gradient in the oceans are the transition zone between the surface waters and the deep waters, the thermocline, and the transition between the deep-sea floor and the hot water flows at the hydrothermal vents.
+S20 Thermoclines vary in thickness from a few hundred meters to nearly a thousand meters.
+S21 Below the thermocline, the water mass of the deep ocean is cold and far more homogeneous.
+S22 Thermoclines are strongest in the tropics, where the temperature of the epipelagic zone is usually above 20 °C (68 °F).
+S23 From the base of the epipelagic, the temperature drops over several hundred meters to 5–6 °C at 1,000 meters (41–43 °F at 3,300 ft).
+S24 It continues to decrease to the bottom, but the rate is much slower.
+S25 The cold water stems from sinking heavy surface water in the polar regions.
+S26 At any given depth, the temperature is practically unvarying over long periods of time, without seasonal changes and with very little interannual variability.
+S27 No other habitat on earth has such a constant temperature.
+S28 In hydrothermal vents the temperature of the water as it emerges from the "black smoker" chimneys may be as high as 400 °C (752 °F), being kept from boiling by the high hydrostatic pressure – thus being superheated water.
+S29 The temperature may back down to 2 to 4 °C (36 to 39 °F) within a few meters.
+
+§5 Biology
+S30 Regions below the epipelagic are divided into further zones, beginning with the bathyal zone (also considered the continental slope) which spans from 200 to 3,000 meters (660 to 9,840 ft) below sea level and is essentially transitional, containing elements from both the shelf above and the abyss below.
+S31 Below this zone, the deep sea consists of the abyssal zone (ocean depth between 3–6 km; 1.9–3.7 mi) and the hadal zone (6–11 km; 3.7–6.8 mi).
+S32 Food consists of falling organic matter known as 'marine snow' and carcasses derived from the productive zone above, and is scarce both in terms of spatial and temporal distribution.
+S33 Instead of relying on gas for their buoyancy, many deep-sea species have jelly-like flesh consisting mostly of glycosaminoglycans, which provides them with very low density.
+S34 It is also common among deep water squid to combine the gelatinous tissue with a flotation chamber filled with a coelomic fluid made up of the metabolic waste product ammonium chloride, which is lighter than the surrounding water.
+S35 The midwater fish have special adaptations to cope with these conditions—they are small, usually being under 25 centimetres (10 in); they have slow metabolisms and unspecialized diets, preferring to sit and wait for food rather than waste energy searching for it.
+S36 They have elongated bodies with weak, watery muscles and skeletal structures.
+S37 They often have extendable, hinged jaws with recurved teeth.
+S38 Because of the sparse distribution and lack of light, finding a partner with which to breed is difficult, and many organisms are hermaphroditic.
+S39 Because light is so scarce, fish often have larger than normal, tubular eyes with only rod cells.
+S40 Their upward field of vision allows them to seek out the silhouette of possible prey.
+S41 Prey fish however also have adaptations to cope with predation.
+S42 These adaptations are mainly concerned with reduction of silhouettes, a form of camouflage.
+S43 The two main methods by which this is achieved are reduction in the area of their shadow by lateral compression of the body, and counter illumination via bioluminescence.
+S44 This is achieved by production of light from ventral photophores, which tend to produce such light intensity to render the underside of the fish of similar appearance to the background light.
+S45 For more sensitive vision in low light, some fish have a retroreflector behind the retina.
+S46 Flashlight fish have this plus photophores, which combination they use to detect eyeshine in other fish (see tapetum lucidum).
+S47 Organisms in the deep sea are almost entirely reliant upon sinking living and dead organic matter which falls at approximately 100 meters per day.
+S48 In addition, only about 1 to 3% of the production from the surface reaches the seabed, mostly in the form of marine snow.
+S49 This ends up accumulating on the benthic floor, around 1 cm every 1,000 years.
+S50 Larger food falls, such as whale carcasses, also occur and studies have shown that these may happen more often than currently believed.
+S51 There are many scavengers that feed primarily or entirely upon large food falls and the distance between whale carcasses is estimated to only be 8 kilometers.
+S52 In addition, there are a number of filter feeders that feed upon organic particles using tentacles, such as Freyella elegans.
+S53 Marine bacteriophages play an important role in cycling nutrients in deep sea sediments.
+S54 They are extremely abundant (between 5×1012 and 1×1013 phages per square meter) in sediments around the world.
+S55 Despite being so isolated, deep sea organisms have still been harmed by human interaction with the oceans.
+S56 The London Convention aims to protect the marine environment from dumping of wastes such as sewage sludge and radioactive waste.
+S57 A study found that at one region there had been a decrease in deep sea coral from 2007 to 2011, with the decrease being attributed to global warming and ocean acidification, and biodiversity estimated as being at the lowest levels in 58 years.
+S58 Ocean acidification is particularly harmful to deep sea corals because they are made of aragonite, an easily soluble carbonate, and because they are particularly slow growing and will take years to recover.
+S59 Deep sea trawling is also harming the biodiversity by destroying deep sea habitats which can take years to form.
+S60 Another human activity that has altered deep sea biology is mining.
+S61 One study found that at one mining site fish populations had decreased at six months and at three years, and that after twenty six years populations had returned to the same levels as prior to the disturbance.
+
+§6 Chemosynthesis
+S62 There are a number of species that do not primarily rely upon dissolved organic matter for their food.
+S63 These species and communities are found at hydrothermal vents at sea-floor spreading zones.
+S64 One example is the symbiotic relationship between the tube worm Riftia and chemosynthetic bacteria.
+S65 It is this chemosynthesis that supports the complex communities that can be found around hydrothermal vents.
+S66 These complex communities are one of the few ecosystems on the planet that do not rely upon sunlight for their supply of energy.
+
+§7 Adaptation to hydrostatic pressure
+S67 Deep-sea fish have different adaptations in their proteins, anatomical structures, and metabolic systems to survive in the Deep sea, where the inhabitants have to withstand great amount of hydrostatic pressure.
+S68 While other factors like food availability and predator avoidance are important, the deep-sea organisms must have the ability to maintain well-regulated metabolic system in the face of high pressures.
+S69 In order to adjust for the extreme environment, these organisms have developed unique characteristics.
+S70 Proteins are affected greatly by the elevated hydrostatic pressure, as they undergo changes in water organization during hydration and dehydration reactions of the binding events.
+S71 This is due to the fact that most enzyme-ligand interactions form through charged or polar non-charge interactions.
+S72 Because hydrostatic pressure affects both protein folding and assembly and enzymatic activity, the deep sea species must undergo physiological and structural adaptations to preserve protein functionality against pressure.
+S73 Actin is a protein that is essential for different cellular functions.
+S74 The α-actin serves as a main component for muscle fiber, and it is highly conserved across numerous different species.
+S75 Some Deep-sea fish developed pressure tolerance through the change in mechanism of their α-actin.
+S76 In some species that live in depths greater than 5 km (3.1 mi), C.armatus and C.yaquinae have specific substitutions on the active sites of α-Actin, which serves as the main component of muscle fiber.
+S77 These specific substitutions, Q137K and V54A from C.armatus or I67P from C.yaquinae are predicted to have importance in pressure tolerance.
+S78 Substitution in the active sites of actin result in significant changes in the salt bridge patterns of the protein, which allows for better stabilization in ATP binding and sub unit arrangement, confirmed by the free energy analysis and molecular dynamics simulation.
+S79 It was found that deep sea fish have more salt bridges in their actins compared to fish inhabiting the upper zones of the sea.
+S80 In relations to protein substitution, specific osmolytes were found to be abundant in deep sea fish under high hydrostatic pressure.
+S81 For certain chondrichthyans, it was found that Trimethylamine N-oxide (TMAO) increased with depth, replacing other osmolytes and urea.
+S82 Due to the ability of TMAO being able to protect proteins from high hydrostatic pressure destabilizing proteins, the osmolyte adjustment serves are an important adaptation for deep sea fish to withstand high hydrostatic pressure.
+S83 Deep-sea organisms possess molecular adaptations to survive and thrive in the deep oceans.
+S84 Mariana hadal snailfish developed modification in the Osteocalcin(burlap) gene, where premature termination of the gene was found.
+S85 Osteocalcin gene regulates bone development and tissue mineralization, and the frameshift mutation seems to have resulted in the open skull and cartilage-based bone formation.
+S86 Due to high hydrostatic pressure in the deep sea, closed skulls that organisms living on the surface develop cannot withstand the enforcing stress.
+S87 Similarly, common bone developments seen in surface vertebrates cannot maintain their structural integrity under constant high pressure.
+
+§8 Exploration
+S88 It has been suggested that more is known about the Moon than the deepest parts of the ocean.
+S89 This is a common misconception based on a 1953 statement by George E.R. Deacon published in the Journal of Navigation, and largely refers to the scarce amount of seafloor bathymetry available at the time.
+S90 The similar idea that more people have stood on the moon than have been to the deepest part of the ocean is likewise dubious.
+S91 Still, the deep-sea remains one of the least explored regions on planet Earth.
+S92 Pressures even in the mesopelagic become too great for traditional exploration methods, demanding alternative approaches for deep-sea research.
+S93 Baited camera stations, small crewed submersibles, and ROVs (remotely operated vehicles) are three methods utilized to explore the ocean's depths.
+S94 Because of the difficulty and cost of exploring this zone, current knowledge is limited.
+S95 Pressure increases at approximately one atmosphere for every 10 meters meaning that some areas of the deep sea can reach pressures of above 1,000 atmospheres.
+S96 This not only makes great depths very difficult to reach without mechanical aids, but also provides a significant difficulty when attempting to study any organisms that may live in these areas as their cell chemistry will be adapted to such vast pressures.
+
+§9 See also
+S97 Deep ocean water – Cold, salty water deep below the surface of Earth's oceans
+S98 Submarine landslide – Landslides that transport sediment across the continental shelf and into the deep ocean
+S99 Blue Planet II – 2017 British nature documentary television series
+S100 Nepheloid layer – Layer of water in deep sea
+S101 Biogenous ooze
+S102 Oceans portal
+
+§10 References
+S103 Tyler, P. A.
+S104 In Ecosystems of the World 28, Ecosystems of the Deep Sea.
+S105 Amsterdam: Elsevier.
+S106 pp. 1–3.
+S107 "What is the "deep" ocean?: Ocean Exploration Facts: NOAA Office of Ocean Exploration and Research".
+S108 oceanexplorer.noaa.gov.
+S109 Retrieved 2022-09-29.
+S110 Paulus, Eva (2021).
+S111 "Shedding Light on Deep-Sea Biodiversity—A Highly Vulnerable Habitat in the Face of Anthropogenic Change".
+S112 Frontiers in Marine Science.
+S113 Bibcode:2021FrMaS...867048P.
+S114 doi:10.3389/fmars.2021.667048.
+S115 hdl:11370/32fbd53e-92b0-49d8-8477-77d361474ee7.
+S116 ISSN 2296-7745.
+S117 Danovaro, Roberto; Corinaldesi, Cinzia; Dell'Anno, Antonio; Snelgrove, Paul V. R.
+S118 "The deep-sea under global change".
+S119 Current Biology.
+S120 27 (11): R461–R465.
+S121 Bibcode:2017CBio...27.R461D.
+S122 doi:10.1016/j.cub.2017.02.046.
+S123 ISSN 0960-9822.
+S124 PMID 28586679.
+S125 S2CID 20785268.
+S126 Brown, Alastair; Thatje, Sven (2013).
+S127 "Explaining bathymetric diversity patterns in marine benthic invertebrates and demersal fishes: physiological contributions to adaptation of life at depth".
+S128 Biological Reviews.
+S129 doi:10.1111/brv.12061.
+S130 ISSN 1464-7931.
+S131 PMC 4158864.
+S132 PMID 24118851.
+S133 Higgs, Nicholas D.; Gates, Andrew R.; Jones, Daniel O. B.
+S134 "Fish Food in the Deep Sea: Revisiting the Role of Large Food-Falls".
+S135 PLOS ONE.
+S136 9 (5) e96016.
+S137 Bibcode:2014PLoSO...996016H.
+S138 doi:10.1371/journal.pone.0096016.
+S139 ISSN 1932-6203.
+S140 PMC 4013046.
+S141 PMID 24804731.
+S142 US Department of Commerce, National Oceanic and Atmospheric Administration.
+S143 "What is marine snow?".
+S144 oceanservice.noaa.gov.
+S145 Retrieved 2022-09-29.
+S146 Horstman, Mark (2003-07-09).
+S147 "Hope floats for lost deep-sea explorer".
+S148 www.abc.net.au.
+S149 Archived from the original on 2010-09-27.
+S150 Retrieved 2021-05-07.
+S151 1 2 Claus Detlefsen.
+S152 "About the Marianas" (in Danish) Ingeniøren / Geological Survey of Denmark and Greenland, 2 November 2013.
+S153 Accessed: 2 November 2013.
+S154 MarineBio (2018-06-17).
+S155 "The Deep Sea".
+S156 MarineBio Conservation Society.
+S157 Retrieved 2020-08-07.
+S158 Nybakken, James W.
+S159 Marine Biology: An Ecological Approach (Fifth ed.).
+S160 Benjamin Cummings.
+S161 pp. 136–141.
+S162 ISBN 0-321-03076-1.
+S163 Levin, Lisa A.; Dayton, Paul K.
+S164 (1 November 2009).
+S165 "Ecological theory and continental margins: where shallow meets deep".
+S166 Trends in Ecology & Evolution.
+S167 Bibcode:2009TEcoE..24..606L.
+S168 doi:10.1016/j.tree.2009.04.012.
+S169 ISSN 0169-5347.
+S170 PMID 19692143.
+S171 Retrieved 29 September 2022.
+S172 Gage, John D.; Tyler, Paul A.
+S173 (18 April 1991).
+S174 Deep-Sea Biology: A Natural History of Organisms at the Deep-Sea Floor.
+S175 Cambridge University Press.
+S176 ISBN 978-0-521-33431-0.
+S177 Retrieved 29 September 2022.
+S178 Smith, Craig R.; De Leo, Fabio C.; Bernardino, Angelo F.; Sweetman, Andrew K.; Arbizu, Pedro Martinez (1 September 2008).
+S179 "Abyssal food limitation, ecosystem structure and climate change".
+S180 Trends in Ecology & Evolution.
+S181 Bibcode:2008TEcoE..23..518S.
+S182 doi:10.1016/j.tree.2008.05.002.
+S183 ISSN 0169-5347.
+S184 PMID 18584909.
+S185 Retrieved 29 September 2022.
+S186 Jamieson, Alan J.; Fujii, Toyonobu; Mayor, Daniel J.; Solan, Martin; Priede, Imants G.
+S187 (1 March 2010).
+S188 "Hadal trenches: the ecology of the deepest places on Earth".
+S189 Trends in Ecology & Evolution.
+S190 Bibcode:2010TEcoE..25..190J.
+S191 doi:10.1016/j.tree.2009.09.009.
+S192 ISSN 0169-5347.
+S193 PMID 19846236.
+S194 Retrieved 29 September 2022.
+S195 Jamieson, Alan J.; Stewart, Heather A.; Weston, Johanna N. J.; Lahey, Patrick; Vescovo, Victor L.
+S196 "Hadal Biodiversity, Habitats and Potential Chemosynthesis in the Java Trench, Eastern Indian Ocean".
+S197 Frontiers in Marine Science.
+S198 Bibcode:2022FrMaS...956992J.
+S199 doi:10.3389/fmars.2022.856992.
+S200 Robison, Bruce H.; Reisenbichler, Kim R.; Sherlock, Rob E.
+S201 "Giant Larvacean Houses: Rapid Carbon Transport to the Deep Sea Floor".
+S202 Science.
+S203 Bibcode:2005Sci...308.1609R.
+S204 doi:10.1126/science.1109104.
+S205 ISSN 0036-8075.
+S206 PMID 15947183.
+S207 S2CID 730130.
+S208 Lupše, Nik; Cortesi, Fabio; Freese, Marko; Marohn, Lasse; Pohlmann, Jan-Dag; Wysujack, Klaus; Hanel, Reinhold; Musilova, Zuzana (9 December 2021).
+S209 "Visual Gene Expression Reveals a cone-to-rod Developmental Progression in Deep-Sea Fishes".
+S210 Molecular Biology and Evolution.
+S211 doi:10.1093/molbev/msab281.
+S212 PMC 8662630.
+S213 PMID 34562090.
+S214 1 2 Warrant, Eric J.; Locket, N. Adam (August 2004).
+S215 "Vision in the deep sea".
+S216 Biological Reviews.
+S217 doi:10.1017/S1464793103006420.
+S218 ISSN 1469-185X.
+S219 PMID 15366767.
+S220 S2CID 34907805.
+S221 Collin, Shaun P.; Chapuis, Lucille; Michiels, Nico K.
+S222 "Impacts of (extreme) depth on life in the deep-sea".
+S223 Marine Extremes.
+S224 Routledge.
+S225 pp. 197–216.
+S226 doi:10.4324/9780429491023-12.
+S227 ISBN 978-0-429-49102-3.
+S228 S2CID 133939260.
+S229 Retrieved 29 September 2022.
+S230 Hoving, Henk-Jan T.; Freitas, Rui (February 2022).
+S231 "Pelagic observations of the midwater scorpionfish Ectreposebastes imus (Setarchidae) suggests a role in trophic coupling between deep-sea habitats".
+S232 Journal of Fish Biology.
+S233 Bibcode:2022JFBio.100..586H.
+S234 doi:10.1111/jfb.14944.
+S235 PMID 34751439.
+S236 S2CID 243863469.
+S237 Davis, Alexander L.; Sutton, Tracey T.; Kier, William M.; Johnsen, Sönke (10 June 2020).
+S238 "Evidence that eye-facing photophores serve as a reference for counterillumination in an order of deep-sea fishes".
+S239 Proceedings of the Royal Society B: Biological Sciences.
+S240 287 (1928) 20192918. doi:10.1098/rspb.2019.2918.
+S241 PMC 7341941.
+S242 PMID 32517614.
+S243 Palmer, Benjamin A.; Gur, Dvir; Weiner, Steve; Addadi, Lia; Oron, Dan (October 2018).
+S244 "The Organic Crystalline Materials of Vision: Structure-Function Considerations from the Nanometer to the Millimeter Scale".
+S245 Advanced Materials.
+S246 Bibcode:2018AdM....3000006P.
+S247 doi:10.1002/adma.201800006.
+S248 PMID 29888511.
+S249 S2CID 47005095.
+S250 Retrieved 29 September 2022.
+S251 Hellinger, Jens; Jägers, Peter; Donner, Marcel; Sutt, Franziska; Mark, Melanie D.; Senen, Budiono; Tollrian, Ralph; Herlitze, Stefan (2017-02-08).
+S252 De, Abhijit (ed.).
+S253 "The Flashlight Fish Anomalops katoptron Uses Bioluminescent Light to Detect Prey in the Dark".
+S254 PLOS ONE.
+S255 12 (2) e0170489.
+S256 Bibcode:2017PLoSO..1270489H.
+S257 doi:10.1371/journal.pone.0170489.
+S258 ISSN 1932-6203.
+S259 PMC 5298212.
+S260 PMID 28178297.
+S261 Cavallaro, Mauro; Guerrera, Maria Cristina; Abbate, Francesco; Levanti, Maria Beatrice; Laurà, Rosaria; Ammendolia, Giovanni; Malara, Danilo; Stipa, Maria Giulia; Battaglia, Pietro (October 2021).
+S262 "Morphological, ultrastructural and immunohistochemical study on the skin ventral photophores of Diaphus holti Tåning, 1918 (Family: Myctophidae)".
+S263 Acta Zoologica.
+S264 doi:10.1111/azo.12348.
+S265 ISSN 0001-7272.
+S266 S2CID 225368866.
+S267 "Marine Snow and Fecal Pellets".
+S268 Oceanus Magazine.
+S269 R. N. Gibson, Harold (CON) Barnes, R. J. A. Atkinson, Oceanography and Marine Biology, An Annual Review.
+S270 2007. Volume 41.
+S271 Published by CRC Press, 2004 ISBN 0-415-25463-9, ISBN 978-0-415-25463-2
+S272 "Discover - Natural History Museum".
+S273 www.nhm.ac.uk.
+S274 Danovaro, Roberto; Antonio Dell'Anno; Cinzia Corinaldesi; Mirko Magagnini; Rachel Noble; Christian Tamburini; Markus Weinbauer (2008-08-28).
+S275 "Major viral impact on the functioning of benthic deep-sea ecosystems".
+S276 Nature.
+S277 Bibcode:2008Natur.454.1084D.
+S278 doi:10.1038/nature07268.
+S279 PMID 18756250.
+S280 S2CID 4331430.
+S281 "London Convention".
+S282 International Maritime Organization.
+S283 Archived from the original on 3 March 2019.
+S284 Retrieved 24 March 2020.
+S285 Snelgrove, Paul; Grassle, Fred (1995-01-01).
+S286 "What of the deep sea's future diversity?".
+S287 Oceanus.
+S288 Archived from the original on 2020-07-29.
+S289 Retrieved 24 March 2020.
+S290 Zimmerman, Alexander N.; Johnson, Claudia C.; Bussberg, Nicholas W.; Dalkilic, Mehmet M.
+S291 (April 2020).
+S292 "Stability and decline in deep-sea coral biodiversity, Gulf of Mexico and US West Atlantic".
+S293 Coral Reefs.
+S294 doi:10.1007/s00338-020-01896-9.
+S295 S2CID 210975434.
+S296 Ruttimann, Jacqueline (2006-08-31).
+S297 "Oceanography: sick seas".
+S298 Nature.
+S299 Bibcode:2006Natur.442..978R.
+S300 doi:10.1038/442978a.
+S301 PMID 16943816.
+S302 S2CID 4332965.
+S303 Koslow, Tony (2011-11-20).
+S304 "The silent deep: the discovery, ecology & conservation of the deep sea".
+S305 Pacific Ecologist.
+S306 Drazen, Jeffery; Leitner, Astrid; Morningstar, Sage; Marcon, Yann; Greinert, Jens; Purser, Auntun (2019-01-01).
+S307 "Observations of deep-sea fishes and mobile scavengers from the abyssal DISCOL experimental mining area".
+S308 Biogeosciences.
+S309 Bibcode:2019BGeo...16.3133D.
+S310 doi:10.5194/bg-16-3133-2019.
+S311 ProQuest 2276806480.
+S312 Dover, Cindy Van (2000-03-26).
+S313 The Ecology of Deep-Sea Hydrothermal Vents.
+S314 Princeton University Press.
+S315 ISBN 978-0-691-04929-8.
+S316 Martin, William; Baross, John; Kelley, Deborah; Russell, Michael J.
+S317 (November 2008).
+S318 "Hydrothermal vents and the origin of life".
+S319 Nature Reviews Microbiology.
+S320 Bibcode:2008NRvM....6..805M.
+S321 doi:10.1038/nrmicro1991.
+S322 ISSN 1740-1534.
+S323 PMID 18820700.
+S324 S2CID 1709272.
+S325 Cavanaugh, F. J. Stewart and C.
+S326 M.
+S327 "Symbiosis of Thioautotrophic Bacteria with Riftia pachyptila | EndNote Click".
+S328 Progress in Molecular and Subcellular Biology.
+S329 doi:10.1007/3-540-28221-1_10.
+S330 PMID 16623395.
+S331 Retrieved 2022-09-29.
+S332 Jannasch, H. W.
+S333 "The Chemosynthetic Support of Life and the Microbial Diversity at Deep-Sea Hydrothermal Vents".
+S334 Proceedings of the Royal Society of London.
+S335 Series B, Biological Sciences.
+S336 doi:10.1098/rspb.1985.0062.
+S337 1 2 "Chapter Twelve. Adaptations to the Deep Sea".
+S338 Biochemical Adaptation.
+S339 Princeton University Press.
+S340 pp. 450–495.
+S341 doi:10.1515/9781400855414.450.
+S342 ISBN 978-1-4008-5541-4.
+S343 1 2 3 4 Wang, Kun; Shen, Yanjun; Yang, Yongzhi; Gan, Xiaoni; Liu, Guichun; Hu, Kuang; Li, Yongxin; Gao, Zhaoming; Zhu, Li; Yan, Guoyong; He, Lisheng (May 2019).
+S344 "Morphology and genome of a snailfish from the Mariana Trench provide insights into deep-sea adaptation".
+S345 Nature Ecology & Evolution.
+S346 Bibcode:2019NatEE...3..823W.
+S347 doi:10.1038/s41559-019-0864-8.
+S348 ISSN 2397-334X.
+S349 PMID 30988486.
+S350 1 2 3 Wakai, Nobuhiko; Takemura, Kazuhiro; Morita, Takami; Kitao, Akio (2014-01-20).
+S351 "Mechanism of Deep-Sea Fish α-Actin Pressure Tolerance Investigated by Molecular Dynamics Simulations".
+S352 PLOS ONE.
+S353 9 (1) e85852.
+S354 Bibcode:2014PLoSO...985852W.
+S355 doi:10.1371/journal.pone.0085852.
+S356 ISSN 1932-6203.
+S357 PMC 3896411.
+S358 PMID 24465747.
+S359 Hata, Hiroaki; Nishiyama, Masayoshi; Kitao, Akio (2020-02-01).
+S360 "Molecular dynamics simulation of proteins under high pressure: Structure, function and thermodynamics".
+S361 Biochimica et Biophysica Acta (BBA) - General Subjects.
+S362 Novel measurement techniques for visualizing 'live' protein molecules.
+S363 1864 (2): 129395. doi:10.1016/j.bbagen.2019.07.004.
+S364 ISSN 0304-4165.
+S365 PMID 31302180.
+S366 S2CID 196613044.
+S367 Yancey, Paul H.; Speers-Roesch, Ben; Atchinson, Sheila; Reist, James D.; Majewski, Andrew R.; Treberg, Jason R.
+S368 "Osmolyte Adjustments as a Pressure Adaptation in Deep-Sea Chondrichthyan Fishes: An Intraspecific Test in Arctic Skates (Amblyraja hyperborea) along a Depth Gradient".
+S369 Physiological and Biochemical Zoology.
+S370 doi:10.1086/696157.
+S371 ISSN 1522-2152.
+S372 PMID 29315031.
+S373 S2CID 26847773.
+S374 Tim Flannery, Where Wonders Await Us.
+S375 New York Review of Books, December 2007
+S376 1 2 Jamieson, Alan J; Singleman, Glenn; Linley, Thomas D; Casey, Susan (2020-12-21).
+S377 "Fear and loathing of the deep ocean: why don't people care about the deep sea?".
+S378 ICES Journal of Marine Science.
+S379 doi:10.1093/icesjms/fsaa234.
+S380 ISSN 1054-3139.
+S381 Briand, F.; Snelgrove, P. (2003).
+S382 "Mare Incognitum? An overview".
+S383 CIESM Workshop Monographs.
+
+§11 External links
+S384 Deep Sea Foraminifera – Deep Sea Foraminifera from 4400 meters depth, Antarctica – an image gallery and description of hundreds of specimens
+S385 Deep Ocean Exploration on the Smithsonian Ocean Portal
+S386 Deep-Sea Creatures Facts and images from the deepest parts of the ocean
+S387 How Deep Is The Ocean Archived 2016-06-15 at the Wayback Machine Facts and infographic on ocean depth

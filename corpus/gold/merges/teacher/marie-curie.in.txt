@@ -1,0 +1,36 @@
+DOCUMENT: Marie Curie
+
+
+THEME "Marie Curie"
+  s0 [LEAD] Marie’s efforts, with help from husband Pierre Curie, led to the discovery of polonium and radium and, after Pierre’s death, the further development of X-rays.
+
+THEME "Radioactivity: Creating Polonium and Radium"
+  s1 Curie conducted her own experiments on uranium rays and discovered they remained constant, no matter the condition or form of the uranium.
+  s2 The rays, she theorized, came from the element’s atomic structure.
+  s3 This revolutionary idea created the field of atomic physics.
+  s4 Curie herself coined the word “radioactivity” to describe the phenomena.
+  s5 [ESSENTIAL] Working with the mineral pitchblende, the pair discovered a new radioactive element in 1898.
+  s6 They named the element polonium, after Curie’s native country of Poland.
+  s7 They also detected the presence of another radioactive material in the pitchblende and called that radium.
+  s8 In 1902, the Curies announced they had produced a decigram of pure radium, demonstrating its existence as a unique chemical element.
+
+THEME "Nobel Prizes"
+  s9 [ESSENTIAL] Marie Curie became the first woman to win a Nobel Prize and the first person to win the award twice.
+  s10 [ESSENTIAL] Curie won two Nobel Prizes: The Nobel Prize in Physics in 1903 and The Nobel Prize in Chemistry in 1911.
+  s11 [ESSENTIAL] She remains the only person to be honored for accomplishments in two separate sciences.
+  s12 [ESSENTIAL] Curie received the Nobel Prize in Physics in 1903, along with her husband and Henri Becquerel, for their work on radioactivity.
+  s13 [ESSENTIAL] In 1911, Curie won her second Nobel Prize, this time in Chemistry, for her discovery of radium and polonium.
+
+THEME "What Did Marie Curie Discover?"
+  s14 [ESSENTIAL] Marie discovered radioactivity and, together with husband Pierre, the radioactive elements polonium and radium while working with the mineral pitchblende.
+  s15 She also championed the development of X-rays after Pierre’s death.
+
+THEME "X-rays"
+  s16 She championed the use of portable X-ray machines in the field, and these medical vehicles earned the nickname “Little Curies.”
+
+THEME "How Did Marie Curie Die?"
+  s17 Marie Curie died of aplastic anemia in 1934, likely from exposure to radiation during her research.
+  s18 Curie died on July 4, 1934, of aplastic anemia, believed to be caused by prolonged exposure to radiation.
+
+THEME "Husband Pierre Curie and Children"
+  s19 Marie married French physicist Pierre Curie on July 26, 1895.

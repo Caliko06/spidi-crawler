@@ -1,0 +1,114 @@
+DOCUMENT: Sourdough
+
+
+THEME "History"
+  s0 Sourdough is one of the most ancient and popular forms of leavening bread.
+  s1 It was the standard method of breadmaking for most of human history until the Middle Ages, when it was replaced by barm.
+  s2 Sourdough remained the usual form of leavening down into the European Middle Ages until being replaced by barm from the beer-brewing process, and after 1871 by purpose-cultured yeast.
+  s3 In English-speaking countries, where wheat-based breads predominate, sourdough is no longer the standard method for bread leavening.
+  s4 It was gradually replaced, first by the use of barm from beer making, then, after the confirmation of germ theory by Louis Pasteur, by cultured yeasts.
+
+THEME "Possible fermentation effects"
+  s5 Sourdough bread has a relatively low glycemic index compared with other types of bread.
+  s6 The activity of cereal enzymes during sourdough fermentation hydrolyses phytates, which improves the absorption of some dietary minerals and vitamins, most of which are found in the bran.
+  s7 Sourdough fermentation reduces wheat components that may contribute to non-celiac wheat sensitivity and irritable bowel syndrome.
+  s8 A review of the health effects of sourdough published in 2023 concluded that: "...although a broad range of sourdough related health benefits are praised in publications, social media and by bakers, a sound evidence base for measurable effects on health related clinical endpoints has not been established".
+
+THEME "Biology and chemistry"
+  s9 [ESSENTIAL] Sourdough is a stable culture of lactic acid bacteria and yeast in a mixture of flour and water.
+  s10 [ESSENTIAL] Broadly speaking, the yeast produces gas (carbon dioxide) which leavens the dough, and the lactic acid bacteria produce lactic acid, which contributes flavor in the form of sourness.
+  s11 The lactic acid bacteria metabolize sugars that the yeast cannot, while the yeast metabolizes the by-products of lactic acid fermentation.
+
+SUBJECT "Type I sourdough" (under theme "Biology and chemistry")
+  s12 Traditional sourdoughs used as sole leavening agent are referred to as Type I sourdough; examples include sourdoughs used for San Francisco Sourdough Bread, Panettone, and rye bread.
+  s13 Type I sourdoughs are generally firm doughs, have a pH range of 3.8 to 4.5, and are fermented in a temperature range of 20 to 30 °C (68 to 86 °F).
+  s14 In order to produce acetic acid, F.
+  s15 When L.
+  s16 sanfrancisensis reduces all available fructose, it stops producing acetic acid and begins producing ethanol.
+  s17 In the first two days of refreshment, atypical genera Enterococcus and Lactococcus bacteria highlighted the doughs.
+  s18 During days 2–5, sourdough-specific bacteria belonging to the genera Lactobacillus, Pediococcus, and Weissella outcompete earlier strains.
+  s19 One characteristic of a stable dough is that the heterofermentative have outcompeted homofermentative lactobacilli.
+
+SUBJECT "Lactic acid bacteria" (under theme "Biology and chemistry")
+  s20 Every starter consists of different lactic acid bacteria which are introduced to the starter through the environment, water, and flour used to create the starter.
+  s21 The lactic acid bacteria are a group of gram-positive bacteria capable of converting carbohydrate substrates into organic acids and producing a wide range of metabolites.
+  s22 Organic acids, including propionic, formic, acetic acid, and lactic acid, create an unfavorable environment for the growth of spoilage and pathogenic microorganisms.
+
+SUBJECT "Type II sourdough" (under theme "Biology and chemistry")
+  s23 In Type II sourdoughs, baker's yeast or Saccharomyces cerevisiae is added to leaven the dough; L.
+  s24 They have a pH less than 3.5, and are fermented within a temperature range of 30 to 50 °C (86 to 122 °F) for several days without feedings, which reduces the flora's activity.
+  s25 In Type II sourdoughs, yeast growth is slowed or stopped due to higher fermentation temperatures.
+
+SUBJECT "Type III sourdough" (under theme "Biology and chemistry")
+  s26 Type III sourdoughs are Type II sourdoughs subjected to a drying process, usually either spray or drum drying, and are mainly used at an industrial level as flavoring agents.
+  s27 They are dominated by "drying-resistant [lactic acid bacteria] such as Pediococcus pentosaceus, L. plantarum, and L. brevis." The drying conditions, time and heat applied, may be varied in order to influence caramelization and produce desired characteristics in the baked product.
+
+SUBJECT "Yeasts" (under theme "Biology and chemistry")
+  s28 The most common yeast species in sourdough are Kazachstania exigua (Saccharomyces exiguus), Saccharomyces cerevisiae, K.
+
+SUBJECT "fermentation process" (under theme "Biology and chemistry")
+  s29 [ESSENTIAL] In addition to leavening the bread, the fermentation process produces lactic acid, which gives the bread its distinctive sour taste and improves its keeping qualities.
+
+THEME "Sourdough"
+  s30 [LEAD] Sourdough is a leavening agent containing naturally occurring yeast and lactobacillus bacteria.
+
+THEME "Preparation"
+
+
+SUBJECT "sourdough starter" (under theme "Preparation")
+  s31 The term is used to describe bread baked with sourdough, while the sourdough itself is referred to as a starter.
+  s32 [ESSENTIAL] Sourdough leavening requires a pre-ferment (the starter or leaven, variously known as the chief, chef, head, mother, or sponge), a live mixture of flour and water, containing a colony of microorganisms including wild yeast and lactobacilli.
+  s33 The purpose of the starter is to produce a vigorous leavening and to develop the flavour of the bread.
+  s34 To initially create the pre-ferment, water and flour are mixed and left in a warm place for a week or two.
+  s35 With sufficient time, temperature, and refreshments with new or fresh dough, the mixture develops a stable culture.
+  s36 This culture will cause a dough to rise.
+  s37 The bacteria ferment starches that the yeast cannot metabolise, and the by-products, chiefly maltose, are metabolised by the yeast, which produces carbon dioxide gas, leavening the dough.
+
+SUBJECT "Refreshment or feeding of the starter" (under theme "Preparation")
+  s38 As it ferments, sometimes for several days, the volume of the starter is increased by periodic additions of flour and water, called refreshments or referred to as a feeding.
+  s39 As long as this starter culture is fed flour and water regularly, it will remain active.
+  s40 The ratio of fermented starter to fresh flour and water is critical in the development and maintenance of a starter.
+  s41 Higher refreshment ratios are associated with greater microbial stability in the sourdough.
+  s42 A high refreshment ratio keeps the pH of the refreshed dough relatively low (making it more acidic).
+  s43 pH levels below 4.0 inhibit lactobacilli and favor acid-tolerant yeasts.
+  s44 A drier and cooler starter has less bacterial activity and more yeast growth, which results in the bacterial production of more acetic acid relative to lactic acid.
+  s45 Conversely, a wetter and warmer starter has more bacterial activity and less yeast growth, with more lactic acid relative to acetic acid.
+  s46 High amounts of lactic acid are desired in rye and mixed-rye fermentations, while relatively higher amounts of acetic acid are desired in wheat fermentations.
+  s47 A dry, cool starter produces a sourer loaf than a wet, warm one.
+
+SUBJECT "Continuing the cycle" (under theme "Preparation")
+  s48 Bakers almost never make a new starter every time they bake.
+  s49 They generally maintain an unbroken line of starter from the original first batch.
+  s50 The first simply reserves a portion of the starter culture for another day.
+  s51 Flour, water, and sometimes other ingredients (e.g., sugar, milk, apples, potatoes) are stirred in to the reserved portion to feed it.
+  s52 A portion of this starter is used on subsequent days for baking more bread, while always saving some for future use.
+  s53 The other approach is the French-style levain technique.
+  s54 Instead of preserving a portion of the sourdough starter, it preserves a portion of raw, unbaked bread dough.
+  s55 The next day, the dough is put into a bowl with the other ingredients for a loaf of bread.
+  s56 Before shaping and baking the new loaf, a portion is pulled out and set aside so that it will be available to leaven the next batch of dough.
+
+SUBJECT "Intervals between refreshments" (under theme "Preparation")
+  s57 A stable culture in which F.
+  s58 sanfranciscensis is the dominant bacterium requires a temperature between 25–30 °C (77–86 °F) and refreshments every 24 hours for about two weeks (336 hours).
+  s59 Refreshment intervals of longer than three days acidify the dough and may change the microbial ecosystem.
+  s60 The intervals between refreshments of the starter may be reduced in order to increase the rate of gas (CO2) production, a process described as "acceleration." In this process, the ratio of yeasts to lactobacilli may be altered.
+  s61 Generally, if once-daily refreshment-intervals have not been reduced to several hours, the percentage amount of starter in the final dough should be reduced to obtain a satisfactory rise during proof.
+  s62 Maintaining metabolically active sourdough with high leavening activity typically requires several refreshments per day, which is achieved in bakeries that use sourdough as sole leavening agents but not by amateur bakers that use the sourdough only weekly or even less frequently.
+
+SUBJECT "Mixing and shaping the bread" (under theme "Preparation")
+  s63 The starter is typically fed 4 to 12 hours prior to being added to dough.
+  s64 Feeding means mixing flour and water into the starter.
+  s65 This creates an active leaven, which should grow in size and is ready to use when it is bubbly and floats in water.
+  s66 A portion of the leaven is mixed with flour and water to make a final dough of the desired consistency.
+  s67 Obtaining a satisfactory rise from sourdough takes longer than a dough leavened with baker's yeast because the yeast in a sourdough is less vigorous.
+
+SUBJECT "Local methods" (under theme "Preparation")
+  s68 The flavor of sourdough bread varies from place to place according to the method used, the hydration of the starter and the final dough, the refreshment ratio, the length of the fermentation periods, ambient temperature, humidity, and elevation, all of which contribute to the microbiology of the sourdough.
+
+THEME "Modern culture"
+
+
+SUBJECT "Regional preferences" (under theme "Modern culture")
+  s69 In northern Europe, where bread made from 100% rye flour is popular, bread is typically leavened with sourdough rather than baker's yeast because rye lacks sufficient gluten to support yeast leavening.
+  s70 However, rye amylase remains active at higher temperatures than wheat amylase, which can cause the bread's structure to weaken as the starches break down during baking.
+  s71 The lowered pH of a sourdough starter inactivates the amylases when heat alone cannot, allowing the carbohydrates to gel and set properly in the bread structure.

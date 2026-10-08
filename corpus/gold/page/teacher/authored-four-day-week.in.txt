@@ -1,0 +1,57 @@
+DOCUMENT: A four-day week in municipal offices: results of a two-year trial
+
+§0 Abstract
+S0 In a two-year trial across eleven municipal offices, moving staff to a four-day week at full pay did not reduce the number of cases processed, lowered sick leave by a fifth and improved retention, but it lengthened waiting times for in-person services by about a day.
+S1 We describe the design, the outcomes and the limits of what the trial can show.
+
+§1 Background
+S2 Interest in shorter working weeks has grown since several private firms reported gains in productivity and wellbeing.
+S3 Evidence from public administration is thinner, because public offices cannot easily shift demand and must remain open to citizens for fixed hours.
+S4 Debate on the topic is often heated and rarely informed by data.
+S5 This trial asked whether a four-day week could be introduced in municipal offices without lowering the service citizens receive.
+
+§2 Methods
+S6 Eleven offices were randomly assigned to the four-day schedule, and fourteen comparable offices kept the five-day week as controls.
+S7 Offices were stratified by size and by the share of work that is done at a counter.
+S8 Staff on the four-day schedule worked 32 hours across four days with no change in pay, and each office chose which weekday to close.
+S9 The primary outcomes were the number of cases closed per employee per month, the days of sick leave, and the average waiting time for in-person services.
+S10 Secondary outcomes included staff turnover, a survey of citizen satisfaction and a validated measure of burnout.
+S11 Data were collected monthly for twenty-four months and analysed by an independent team that did not take part in the design.
+S12 All offices consented to take part in the study.
+
+§3 Results
+S13 Cases closed per employee per month did not differ between the groups, with a mean of 61.2 in the four-day offices and 60.4 in the controls.
+S14 Sick leave fell by 21 percent in the four-day offices relative to controls, with the largest reductions among staff over fifty.
+S15 Turnover fell from 11.8 percent to 7.1 percent a year in the four-day offices, while the controls were unchanged.
+S16 Waiting times for in-person services rose by an average of 0.9 days in the four-day offices, mainly in offices that closed on a Friday.
+S17 Citizen satisfaction scores were slightly lower in the four-day offices in the first six months and equal to the controls afterwards.
+S18 Burnout scores improved by 0.4 standard deviations among staff on the four-day schedule.
+S19 Detailed tables for each office are available on request.
+S20 The effect on sick leave was stable across all eleven offices and did not depend on which day they closed.
+
+§4 Limitations
+S21 Offices knew which schedule they had, so neither staff nor managers were blind to the intervention, and some of the improvement in self-reported burnout may reflect expectation.
+S22 Eleven offices is a small sample, and the confidence intervals for turnover are wide.
+S23 The trial ran in a single country, with a particular labour law and a particular culture of public service.
+S24 We did not measure the quality of decisions, only their number and speed.
+S25 Further research is needed.
+
+§5 Discussion
+S26 The trial suggests that a four-day week can be introduced in municipal offices without losing output, with real gains in health and retention, but at a cost in access for people who need a counter.
+S27 The waiting-time result is the one that matters most for policy, because it falls on citizens and not on staff.
+S28 Offices that kept a rotating rota so the counter stayed open five days saw almost none of the increase, which points to a design fix rather than a fundamental limit.
+S29 Whether the gains would hold beyond two years is unknown.
+S30 We thank the staff of all participating offices for their patience.
+
+§6 Funding and disclosures
+S31 The trial was funded by a national innovation grant.
+S32 The authors declare no competing interests.
+S33 Data and code will be deposited in a public repository.
+
+§7 References
+S34 Costa, M. Shorter weeks and public service.
+S35 Journal of Public Policy, 2021.
+S36 Hallam, P. and Ortiz, J. Working time and sickness absence in local government.
+S37 Labour Studies, 2019.
+S38 Nwosu, T. Counter services after austerity.
+S39 Public Administration Review, 2018.

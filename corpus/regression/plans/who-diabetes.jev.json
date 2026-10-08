@@ -1,0 +1,348 @@
+{
+ "title": "Diabetes",
+ "subjects": [
+  "Prevention",
+  "Symptoms",
+  "Gestational diabetes",
+  "treatment",
+  "diagnosis",
+  "Hyperglycaemia",
+  "Impaired glucose tolerance",
+  "Global Diabetes Compact",
+  "Diabetes",
+  "Key facts",
+  "Overview",
+  "Type 2 diabetes",
+  "WHO response"
+ ],
+ "themes": [
+  "Prevention",
+  "Symptoms",
+  "Gestational diabetes",
+  "treatment",
+  "diagnosis",
+  "Diabetes",
+  "Overview",
+  "Type 2 diabetes"
+ ],
+ "kept": [
+  {
+   "text": "The number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Key facts"
+  },
+  {
+   "text": "Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Key facts"
+  },
+  {
+   "text": "More than half of people living with diabetes did not take medication for their diabetes in 2022.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "Diabetes treatment coverage was lowest in low- and middle-income countries.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "Diabetes causes blindness, kidney failure, heart attacks, stroke and lower limb amputation.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Key facts"
+  },
+  {
+   "text": "In 2021, diabetes and kidney disease due to diabetes caused over 2 million deaths.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Key facts"
+  },
+  {
+   "text": "In addition, around 11% of cardiovascular deaths were caused by high blood glucose.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Hyperglycaemia"
+  },
+  {
+   "text": "A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "Diabetes can be treated and its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.",
+   "worth": "prize",
+   "lead": true,
+   "subject": "Diabetes"
+  },
+  {
+   "text": "Hyperglycaemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Hyperglycaemia"
+  },
+  {
+   "text": "In 2022, 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Overview"
+  },
+  {
+   "text": "More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "In 2021, diabetes was the direct cause of 1.6 million deaths and 47% of all deaths due to diabetes occurred before the age of 70 years.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Overview"
+  },
+  {
+   "text": "Another 530 000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 11% of cardiovascular deaths (1).",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Overview"
+  },
+  {
+   "text": "Since 2000, mortality rates from diabetes have been increasing.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Overview"
+  },
+  {
+   "text": "Symptoms of diabetes may occur suddenly.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Symptoms"
+  },
+  {
+   "text": "losing weight unintentionally",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Symptoms"
+  },
+  {
+   "text": "Over time, diabetes can damage blood vessels in the heart, eyes, kidneys and nerves.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Diabetes"
+  },
+  {
+   "text": "People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Diabetes"
+  },
+  {
+   "text": "Diabetes can cause permanent vision loss by damaging blood vessels in the eyes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Diabetes"
+  },
+  {
+   "text": "Many people with diabetes develop problems with their feet from nerve damage and poor blood flow.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Symptoms"
+  },
+  {
+   "text": "This can cause foot ulcers and may lead to amputation.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Symptoms"
+  },
+  {
+   "text": "Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "Type 2 diabetes affects how your body uses sugar (glucose) for energy.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Type 2 diabetes"
+  },
+  {
+   "text": "It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Hyperglycaemia"
+  },
+  {
+   "text": "Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels.",
+   "worth": "prize",
+   "lead": false,
+   "subject": "Type 2 diabetes"
+  },
+  {
+   "text": "Type 2 diabetes is often preventable.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "Early diagnosis is important to prevent the worst effects of type 2 diabetes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "diagnosis"
+  },
+  {
+   "text": "The best way to detect diabetes early is to get regular check-ups and blood tests with a healthcare provider.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "diagnosis"
+  },
+  {
+   "text": "Symptoms of type 2 diabetes can be mild.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Symptoms"
+  },
+  {
+   "text": "They may take several years to be noticed.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Symptoms"
+  },
+  {
+   "text": "As a result, the disease may be diagnosed several years after onset, after complications have already arisen.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "diagnosis"
+  },
+  {
+   "text": "More than 95% of people with diabetes have type 2 diabetes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Type 2 diabetes"
+  },
+  {
+   "text": "Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Gestational diabetes"
+  },
+  {
+   "text": "Gestational diabetes occurs during pregnancy.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Gestational diabetes"
+  },
+  {
+   "text": "Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Gestational diabetes"
+  },
+  {
+   "text": "These women and possibly their children are also at increased risk of type 2 diabetes in the future.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Gestational diabetes"
+  },
+  {
+   "text": "Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "diagnosis"
+  },
+  {
+   "text": "Impaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Impaired glucose tolerance"
+  },
+  {
+   "text": "People with IGT or IFG are at high risk of progressing to type 2 diabetes, although this is not inevitable.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Impaired glucose tolerance"
+  },
+  {
+   "text": "Lifestyle changes are the best way to prevent or delay the onset of type 2 diabetes.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "To help prevent type 2 diabetes and its complications, people should:",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "reach and keep a health body weight",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "stay physically active with at least 150 minutes of moderate exercise each week",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "eat a healthy diet and avoid sugar and saturated fat",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "not smoke tobacco.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Prevention"
+  },
+  {
+   "text": "Early diagnosis can be accomplished through relatively inexpensive testing of blood glucose.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "diagnosis"
+  },
+  {
+   "text": "People with type 1 diabetes need insulin injections for survival.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "One of the most important ways to treat diabetes is to keep a healthy lifestyle.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "treatment"
+  },
+  {
+   "text": "WHO aims to stimulate and support the adoption of effective measures for the surveillance, prevention and control of diabetes and its complications, particularly in low- and middle-income countries.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "WHO response"
+  },
+  {
+   "text": "In April 2021 WHO launched the Global Diabetes Compact, a global initiative aiming for sustained improvements in diabetes prevention and care, with a particular focus on supporting low- and middle-income countries.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "Global Diabetes Compact"
+  },
+  {
+   "text": "In May 2022 the World Health Assembly endorsed five global diabetes coverage targets to be achieved by 2030.",
+   "worth": "catch",
+   "lead": false,
+   "subject": "WHO response"
+  }
+ ]
+}

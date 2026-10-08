@@ -1,0 +1,21 @@
+DOCUMENT: Taco al pastor
+
+
+THEME "Nombre"
+  s0 El nombre «al pastor», proviene de «asado al pastor», un tipo de asado sobre las brasas.
+  s1 El asado al pastor, también conocido como «asado del pastor», «carbonada» y «asado a la estaca», era uno de los estilos de asar carnes en la cocina ranchera mexicana, siendo el otro la barbacoa.
+  s2 El nombre es anterior al “trompo” y la inmigración libanesa a México.
+  s3 Es seguro asumir que cuando los inmigrantes libaneses trajeron el asador vertical o “trompo” a México, los mexicanos lo llamaron “al pastor”, ya que consistía en asar carnes en un asador de espetón.
+
+THEME "Origen"
+  s4 Con la llegada de inmigrantes libaneses a México durante la década de 1920, se intentó recrear el shawarma, un platillo popular de Medio Oriente, sustituyendo la carne de cordero por puerco, en el estado de Puebla.
+  s5 Posteriormente, en la Ciudad de México se empezó a marinar con adobo, lo que dio como resultado el taco al pastor.
+
+THEME "pastor"
+  s6 El nombre al pastor viene de «asado al pastor» también conocido como «asado a la estaca», una de las dos clases de asados en la cocina mexicana.
+  s7 Para su preparación, la carne en corte delgado estilo milanesa (previamente adobada) se ensarta apilándola en una estaca de hierro que gira verticalmente asemejando a un trompo y se cocina lentamente girándolo frente a un fuego colocado también de forma vertical de la manera en que, se dice, los pastores lo hacían tradicionalmente en el campo.
+
+THEME "Taco al pastor"
+  s8 [LEAD] El taco al pastor es un taco de carne adobada de puerco con piña originario de la Ciudad de México.
+  s9 [ESSENTIAL] Sus ingredientes principales son carne adobada, asada, servida en finas rebanadas sobre pequeñas tortillas de maíz, la carne puede ser una combinación de carne de puerco y carne de ternera, aunque lo más común es que sea solo carne de puerco.
+  s10 Además, la carne es preparada con un marinado tradicional mexicano llamado adobo, el cual está hecho con achiote, especias y chiles rojos molidos, lo que le da el característico color rojizo a la carne.

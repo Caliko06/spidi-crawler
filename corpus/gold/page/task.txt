@@ -1,0 +1,21 @@
+You are the teacher in an offline annotation. A reader tool reads a web page and keeps a summary of it: which sentences matter, which few the document is remembered by, what each kept sentence is about, and how those subjects group. You will decide all of it yourself, as a careful human editor would, from the page below. Nothing you see was decided by the tool. Use only the ids and the words of the page; do not invent text. Answer in JSON only, per the schema.
+
+The page is given as its sections (§ ids with their headings; §0 is the text under the title) and its sentences (S ids, in reading order, each under the section it belongs to).
+
+1. apparatus: the § ids of sections that are apparatus around the text rather than text: references, citations, footnotes, a bibliography, lists of links to other pages, a table of contents, navigation, legal, licence or copyright notices, contact details, or promotion of other content. Exposition, argument, findings, rules, instructions, story or examples are text, however short.
+
+2. sentences: for EVERY sentence of a section that is not apparatus, in order, give:
+   - level, what a careful reader highlighting the document sparingly does with it:
+     0 = passes over it: a transition, setup, aside, example, minor detail, citation or boilerplate.
+     1 = only a reader who highlights everything marks it: a supporting fact or explanation that a skimmer could do without.
+     2 = highlights it: it states the fact, claim, rule or result that its section is there to tell.
+     3 = highlights it and would keep it in a summary of the whole document: it states one of the main things the document is about.
+   - leans: the id of the EARLIER sentence it cannot be understood without when quoted alone (it points back with a pronoun or demonstrative, or is an item of a list that sentence opens), or null when it names what it talks about itself.
+
+3. essentials: the ids of the few sentences a reader would remember the document by, as many as the document has main points (one or two for a single point, about fifteen for a long document covering many matters); no quota. lead: the one id that comes closest to saying, alone, what the whole document says.
+
+4. subjects: the pages of a reader's notes on the document, named with words of the page as one would look them up: things, ideas, rules or methods the document explains, not generic words or qualities. The document's title is always one of them, for what is said of the whole. Each subject has theme = null when it is one of the few main pages the document is built on (the title is one), or the name of the main page it is a part, kind, means, detail or consequence of. A subject that is only an alias, instance, aspect or detail of another, or too slight to be a topic (one or two sentences that only elaborate something else), is not a page of its own: its sentences go on the page a reader would look for them on.
+
+5. filing: for every sentence of level 2 or 3, the subject it is mainly about (its name exactly as in subjects).
+
+6. repeats: sets of two or more sentences of level 2 or 3, filed under one subject, that tell the reader the same thing, so that one who has read one learns nothing new from the others; keep = the id that best says it. Only real repeats.

@@ -1,0 +1,115 @@
+DOCUMENT: Startup = Growth
+
+
+THEME "Deals"
+  s0 The reason is that they get paid by getting their capital back, ideally after the startup IPOs, or failing that when it's acquired.
+  s1 The reason VCs like to invest in startups is not simply the returns, but also because such investments are so easy to oversee.
+  s2 The founders can't enrich themselves without also enriching the investors.
+  s3 Growth, again.
+  s4 The constraint between good ideas and growth operates in both directions.
+  s5 It's not merely that you need a scalable idea to grow.
+  s6 If you have such an idea and don't grow fast enough, competitors will.
+  s7 But startups often raise money even when they are or could be profitable.
+  s8 It might seem foolish to sell stock in a profitable company for less than you think it will later be worth, but it's no more foolish than buying insurance.
+  s9 Fundamentally that's how the most successful startups view fundraising.
+  s10 They could grow the company on its own revenues, but the extra money and help supplied by VCs will let them grow even faster.
+  s11 Raising money lets you choose your growth rate.
+  s12 Money to grow faster is always at the command of the most successful startups, because the VCs need them more than they need the VCs.
+  s13 Whereas VCs need to invest in startups, and in particular the most successful startups, or they'll be out of business.
+  s14 Which means that any sufficiently promising startup will be offered money on terms they'd be crazy to refuse.
+  s15 Fundamentally the same thing that makes everyone else want the stock of successful startups: a rapidly growing company is valuable.
+  s16 A rapidly growing company is not merely valuable, but dangerous.
+  s17 And because startups are in this sense doubly valuable to acquirers, acquirers will often pay more than an ordinary investor would.
+
+THEME "Startup = Growth"
+  s18 [ESSENTIAL] A startup is a company designed to grow fast.
+  s19 [LEAD] If you want to understand startups, understand growth.
+
+THEME "Compass"
+  s20 We usually advise startups to pick a growth rate they think they can hit, and then just try to hit it every week.
+  s21 The key word here is "just." If they decide to grow at 7% a week and they hit that number, they're successful for that week.
+  s22 But if they don't hit it, they've failed in the only thing that mattered, and should be correspondingly alarmed.
+  s23 We're turning starting a startup into an optimization problem.
+  s24 [ESSENTIAL] Focusing on hitting a growth rate reduces the otherwise bewilderingly multifarious problem of starting a startup to a single problem.
+  s25 [ESSENTIAL] You can use that target growth rate to make all your decisions for you; anything that gets you the growth you need is ipso facto right.
+  s26 Once you experience the pain of missing your target one week (it was the only thing that mattered, and you failed at it), you become interested in anything that could spare you such pain in the future.
+  s27 Having to hit a growth number every week forces founders to act, and acting versus not acting is the high bit of succeeding.
+  s28 The fascinating thing about optimizing for growth is that it can actually discover startup ideas.
+  s29 You can use the need for growth as a form of evolutionary pressure.
+  s30 If you start out with some initial plan and modify it as necessary to keep hitting, say, 10% weekly growth, you may end up with a quite different company than you meant to start.
+  s31 But anything that grows consistently at 10% a week is almost certainly a better idea than you started with.
+  s32 You'll generally do best to follow that constraint wherever it leads rather than being influenced by some initial vision, just as a scientist is better off following the truth wherever it leads rather than being influenced by what he wishes were the case.
+  s33 [ESSENTIAL] For startups, growth is a constraint much like truth.
+  s34 Every successful startup is at least partly a product of the imagination of growth.
+
+THEME "Rate"
+  s35 "Startup" is a pole, not a threshold.
+  s36 Starting one is at first no more than a declaration of one's ambitions.
+  s37 [ESSENTIAL] You're committing not just to starting a company, but to starting a fast growing one, and you're thus committing to search for one of the rare ideas of that type.
+  s38 So the real question is not what growth rate makes a company a startup, but what growth rate successful startups tend to have.
+  s39 As the startup figures out how to make something lots of people want and how to reach those people, there's a period of rapid growth.
+  s40 The slope is the company's growth rate.
+  s41 [ESSENTIAL] If there's one number every founder should always know, it's the company's growth rate.
+  s42 [ESSENTIAL] That's the measure of a startup.
+  s43 If you don't know that number, you don't even know if you're doing well or badly.
+  s44 When I first meet founders and ask what their growth rate is, sometimes they tell me "we get about a hundred new customers a month." That's not a rate.
+  s45 What matters is not the absolute number of new customers, but the ratio of new customers to existing ones.
+  s46 If you're really getting a constant number of new customers every month, you're in trouble, because that means your growth rate is decreasing.
+  s47 A good growth rate during YC is 5-7% a week.
+  s48 If you can hit 10% a week you're doing exceptionally well.
+  s49 The best thing to measure the growth rate of is revenue.
+
+THEME "Value"
+  s50 It's hard to find something that grows consistently at several percent a week, but if you do you may have found something surprisingly valuable.
+  s51 A company that grows at 1% a week will grow 1.7x a year, whereas a company that grows at 5% a week will grow 12.6x.
+  s52 A startup that grows at 5% a week will in 4 years be making $25 million a month.
+  s53 Small variations in growth rate produce qualitatively different outcomes.
+  s54 That's why there's a separate word for startups, and why startups do things that ordinary companies don't, like raising money and getting acquired.
+  s55 Considering how valuable a successful startup can become, anyone familiar with the concept of expected value would be surprised if the failure rate weren't high.
+  s56 If a successful startup could make a founder $100 million, then even if the chance of succeeding were only 1%, the expected value of starting one would be $1 million.
+  s57 The mistake they're making is that by basing their opinions on anecdotal evidence they're implicitly judging by the median rather than the average.
+  s58 If you judge by the median startup, the whole concept of a startup seems like a fraud.
+  s59 You have to invent a bubble to explain why founders want to start them or investors want to fund them.
+  s60 But it's a mistake to use the median in a domain with so much variation.
+  s61 If you look at the average outcome rather than the median, you can understand why investors like them, and why, if they aren't median people, it's a rational choice for founders to start them.
+
+SUBJECT "growth" (under theme "Value")
+  s62 [ESSENTIAL] Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth.
+  s63 [ESSENTIAL] Everything else we associate with startups follows from growth.
+  s64 [ESSENTIAL] You have to know that growth is what you're after.
+  s65 [ESSENTIAL] The good news is, if you get growth, everything else tends to fall into place.
+  s66 [ESSENTIAL] Which means you can use growth like a compass to make almost every decision you face.
+
+THEME "Ideas"
+  s67 The constraints that limit ordinary companies also protect them.
+  s68 The most important thing that the constraints on a normal business protect it from is not competition, however, but the difficulty of coming up with new ideas.
+  s69 If you open a bar in a particular neighborhood, as well as limiting your potential and protecting you from competitors, that geographic constraint also helps define your company.
+  s70 Your niche both protects and defines you.
+  s71 A startup has to make something it can deliver to a large market, and ideas of that type are so valuable that all the obvious ones are already taken.
+  s72 That space of ideas has been so thoroughly picked over that a startup generally has to work on something everyone else has overlooked.
+  s73 But that's not how most startups get started.
+  s74 Usually successful startups happen because the founders are sufficiently different from other people that ideas few others can see seem obvious to them.
+  s75 What's different about successful founders is that they can see different problems.
+  s76 It's a particularly good combination both to be good at technology and to face problems that can be solved by it, because technology changes so rapidly that formerly bad ideas often become good without anyone noticing.
+  s77 Rapid change in one area uncovers big, soluble problems in other areas.
+
+THEME "Redwoods"
+  s78 Let's start with a distinction that should be obvious but is often overlooked: not every newly founded company is a startup.
+  s79 Only a tiny fraction are startups.
+  s80 That difference is why there's a distinct word, "startup," for companies designed to grow fast.
+  s81 If all companies were essentially similar, but some through luck or the efforts of their founders ended up growing very fast, we wouldn't need a separate word.
+  s82 But in fact startups do have a different sort of DNA from other businesses.
+  s83 To grow rapidly, you need to make something you can sell to a big market.
+  s84 For a company to grow really big, it must (a) make something lots of people want, and (b) reach and serve all those people.
+  s85 Most businesses are tightly constrained in (a) or (b).
+  s86 The distinctive feature of successful startups is that they're not.
+
+THEME "Understand"
+  s87 The reason he bought Instagram was that it was valuable and dangerous, and what made it so was growth.
+  s88 Growth drives everything in this world.
+  s89 [ESSENTIAL] Understanding growth is what starting a startup consists of.
+  s90 [ESSENTIAL] What you're really doing (and to the dismay of some observers, all you're really doing) when you start a startup is committing to solve a harder type of problem than ordinary businesses do.
+  s91 [ESSENTIAL] You're committing to search for one of the rare ideas that generates rapid growth.
+  s92 The startup is the embodiment of your discoveries so far.
+  s93 Starting a startup is thus very much like deciding to be a research scientist: you're not committing to solve any specific problem; you don't know for sure which problems are soluble; but you're committing to try to discover something no one knew before.
+  s94 A startup founder is in effect an economic research scientist.

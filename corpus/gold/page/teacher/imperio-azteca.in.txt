@@ -1,0 +1,741 @@
+DOCUMENT: Imperio azteca
+
+§0 (under the title)
+S0 El Imperio mexica o Triple Alianza (del náhuatl: Exkan Tlahtoloyan o Ēxcān Tlahtōlōyān ‘Los tres lugares donde se dan órdenes’), llamado también Imperio azteca y —con más precisión— Imperio tenochca, fue un imperio organizado en una confederación compleja, multiétnica y flexible de ciudades estado con situaciones políticas diversas, que existió en el área central de Mesoamérica durante el Posclásico Tardío hasta la Conquista española.
+S1 Estaba integrada por los dominios de la Triple Alianza (conformada por Texcoco, Tlacopan y México-Tenochtitlan), establecida a partir de las facciones victoriosas de La Guerra Tepaneca que se libró entre la ciudad de Azcapotzalco y las antiguas provincias tributarias de la misma, constituyéndose como una alianza de tres ciudades-estado autónomas, entre las cuales Tenochtitlan destacó como potencia comercial y militar.
+S2 Cuando los conquistadores españoles llegaron en 1519, célula fundamental de la estructura política en Mesoamérica era el altépetl, una unidad base autónoma, que se asociaba o subordinaba a otras.
+S3 A diferencia de otros modelos imperiales, este estaba configurado como un mosaico de ciudades.
+S4 La fundación y posterior expansión de la Triple Alianza tuvo lugar en 1430, una vez fue derrotado Azcapotzalco, capital del Imperio tepaneca, hasta entonces dominante en el valle de México (Santamarina 2006).
+S5 Azcapotzalco fue vencido por la alianza de mexicas, acolhuas y tlacopanecas, hasta entonces todos ellos vasallos suyos.
+S6 A partir de entonces, los territorios del Imperio azteca se fueron ampliando hasta llegar a ocupar el centro de México, la zona central de Oaxaca, la costa del golfo de México, Guerrero y el Soconusco.
+S7 El fin del Imperio azteca ocurrió el 13 de agosto de 1521, cuando los españoles —en alianza con los tlaxcaltecas y totonacas, entre otros pueblos indígenas— derrotaron la resistencia mexica en Tenochtitlan y Tlatelolco.
+
+§1 Etimología, nombres y definiciones
+S8 La palabra «azteca» es de uso moderno.
+S9 No fue usada por mexicas de la Triple Alianza para referirse a sí mismos, sino a sus antepasados.
+S10 Se ha utilizado de diversas maneras para referirse al imperio de la Triple Alianza, a las personas de habla náhuatl del centro de México antes de la conquista española, o específicamente a la etnia mexica de las personas de habla náhuatl.
+S11 El nombre proviene de una palabra náhuatl que significa «gente de Aztlán», que refleja el lugar mítico de origen de los pueblos nahuas.
+S12 No obstante, es más correcta y precisa la palabra mexica.
+S13 En las crónicas de Chimalpahin el término Excan Tlahtoloyan se utiliza para referirse a otras alianzas entre tres estados que han existido a lo largo de Mesoamérica.
+S14 Su primer uso se aplica en la crónica para referirse a la alianza entre los estados de Colhuacan, Tollan y Otompan, la cual, según él, fue formada en el año 1 cuchillo del calendario mexica, equivalente al año 856 gregoriano, y duraría 191 años.
+S15 Otros nombres también son usados para referirse a esta alianza, siendo éstos Excan Tlahtoloc y Excanpa ye teuctlahtoloc.
+S16 El nombre Excan Tlahtoloyan se puede traducir como «Triple Sede» (tlahtolo, pasivo del verbo tlahtoa, que significa «hablar» o «gobernar». Palabras como tlahtoloc y tlahtoloyan se traducen entonces como «lugar donde se gobierna»).
+S17 El Códice Osuna, por otra parte, usa un término distinto para referirse a la alianza entre México-Tenochtitlan, Tetzcoco y Tlacopan.
+S18 En su lugar, dicho códice se refiere a la esta alianza como Etetl Tzontecomatl, que se traduce de manera similar.
+S19 Chimalpahin, para referirse específicamente a esta alianza, usa una combinación de ambos términos: Excan tzontecomatl tlahtoloyan.
+S20 En general, aunque actualmente se usa típicamente el término en español «Triple Alianza», no existía una forma única de referirse a ésta en la lengua náhuatl ni era un término exclusivo de esta alianza en particular.
+S21 Aun así, se prefiere la utilización de Excan Tlahtoloyan, que es vista como la descripción más breve y precisa de la naturaleza del gobierno del imperio.
+S22 Este término se comenzó a aplicar en tiempos modernos para esta alianza específicamente a partir de la década de 1960, aplicándolo desde los textos de Chimalpahin, y en los años 90 se empezaba a volver familiar entre historiadores.
+
+§2 Contexto histórico y geográfico
+S23 Diversos pueblos convivieron en la etapa final del desarrollo mesoamericano, conocido arqueológicamente como Posclásico tardío, que comprendió de los siglos XIII a XV.
+S24 En este tiempo la entidad política de mayor complejidad llegó a ser México-Tenochtitlan (Carrasco 1996), cuyo ascenso al poder se remonta a una coalición militar establecida en 1428 y conocida como la Triple Alianza, que vinculó a tres estados emergentes: los mexicas, cuya ciudad capital fue México-Tenochtitlan, que sería el centro rector en lo político y en lo militar; los Acolhua con Texcoco como ciudad primordial, considerada centro cultural por excelencia; y Tlacopan, un centro secesionista tepaneca.
+S25 Los tres centros habían estado sometidos hasta la fecha mencionada al Imperio Tepaneca con centro en Azcapotzalco, que hasta entonces dominaba el valle de México.
+S26 Los mexicas impusieron con astucia su jerarquía sobre sus aliados, y extendieron su dominio hasta las costas del océano Pacífico y del golfo de México.
+S27 Adquirieron riqueza y poder a partir de la imposición de un estricto sistema de tributación, de tal manera que, a la llegada de los españoles en los inicios del siglo XVI, su capital era considerada la urbe más importante y magnificente de su época.
+S28 La lengua dominante entre los aliados fue el náhuatl o mexicano, que se convirtió en la lengua franca de gran parte de Mesoamérica, utilizada para nombrar la geografía del México antiguo, sustituyendo inclusive las voces de otros ancestrales idiomas.
+S29 En cuanto al otro estado indígena, el Imperio purépecha, cuya ciudad principal fue Tzintzuntzan, que al final de su periodo histórico funcionó como su capital política, impuso su dominio militar en una amplia zona que comprendió el centro-norte y occidente de México.
+S30 El idioma de este pueblo era el purépecha o tarasco, fundamentalmente diferente al náhuatl y que no se vincula con ninguna otra lengua del México antiguo.
+S31 La expansión de los mexicas coincidió con el florecimiento de una tradición ideológica de carácter interétnico que vinculó a pueblos que hablaban lenguas e idiomas diferentes.
+S32 Este lenguaje artístico comunicó historias, deidades y ritos en los que coincidieron ancestrales mitos y tradiciones.
+
+§3 Ubicación del Imperio mexicano
+S33 Los aztecas se establecieron en el centro del valle de México, expandiendo su control hacia ciudades-estado ubicadas en los actuales estados de México, Morelos, Veracruz, y otros; la costa de Chiapas e Hidalgo.
+
+§4 Procedencia
+S34 Los mexicas fueron una tribu de nómadas que formaron uno de los imperios más grandes e importantes de la América precolombina en solo 200 años.
+S35 Tenían la mejor tecnología que se podía obtener dadas las condiciones en que vivían como acueductos, palacios, pirámides y templos que se alzaron como tributo a sus dioses y como testimonio de poder para la humanidad.
+S36 Hacia el siglo XIII los mexicas se asentaron en Chapultepec, desde donde fueron expulsados por una coalición de enemigos.
+S37 Luego de ser expulsados constituyeron su asentamiento definitivo en Tenochtitlan hacia 1325.
+S38 Tenochtitlan se transformó en la principal ciudad de la zona, formando alianza con otras dos ciudades de habla náhuatl: Texcoco (acolhuas) y Tlacopan (tepanecas).
+S39 Esta alianza, conocida como Triple Alianza, logró desarrollar un gran poderío militar.
+S40 Con Moctezuma II (1502-1520), los mexicas se habían transformado en uno de los principales imperios que dominaba un vasto territorio y millones de súbditos.
+S41 La Triple Alianza (mexicas, acolhuas y tepanecas), comúnmente llamada Imperio mexica, fue la formación política mexica derivada del proceso de expansión territorial del dominio económico de la ciudad-estado México-Tenochtitlan, que floreció en el siglo XIV en Mesoamérica.
+S42 Fue encabezado por los mexicas —mal conocidos como aztecas—, un pueblo que, de acuerdo con algunos documentos históricos como la Tira de la Peregrinación, era originario de un sitio —tal vez mítico— conocido como Aztlán, al que se suele ubicar fuera de los confines de Mesoamérica.
+S43 Sin embargo, parece plausible que los mexicas fueran un pueblo de tradición cultural netamente mesoamericana y no los descendientes de grupos chichimecas dedicados a la cacería y la recolección.
+
+§5 Gobierno
+S44 El Estado mexica fue una teocracia encabezada por el Huey Tlahtoani, gobernante máximo electo por un consejo de gobierno integrado por representantes de los veinte grupos de personas emparentadas o clanes en que se dividía la sociedad.
+S45 Cuando el tlahtoani debía tomar decisiones fundamentales, por ejemplo la declaración de la guerra, deliberaba con algunos asesores.
+S46 El más importante fue el Cihuacóatl, quien colaboraba con él en el gobierno y lo reemplazaba en caso de ausencias.
+S47 En los niveles inferiores había muchos funcionarios; entre ellos, los jueces encargados de vigilar el cumplimiento de las normas y los guardianes de los depósitos de armas.
+
+§6 Organización política
+S48 La figura política principal era el huey tlahtoani (tlahtoani, «el que habla»), una especie de monarquía hereditaria, de origen tolteca, que gobernaba con un consejo de nobles prominentes.
+S49 El huey tlahtoani (hueyi tlahtoani, «gran orador») o tlacatecutli (tlacateuctli, «señor de los hombres») era el máximo gobernante ejerciendo funciones de jefe de Estado y de Gobierno, además era la máxima autoridad política, religiosa y militar, fungiendo como comandante en jefe de las Fuerzas Armadas del Imperio Mexica.
+S50 Se le consideraba representante de los dioses.
+S51 Otros altos funcionarios eran:
+S52 El cihuacoatl era una especie de primer ministro.
+S53 Se encargaba de la administración tributaria, los asuntos religiosos y las apelaciones judiciales.
+S54 En algunos aspectos ejercía ciertas facultades de jefe de Gobierno.
+S55 El tlacochcalcatl y el tlacateccatl eran jefes del ejército.
+S56 El huitznahuatlailotlac y el tizociahuacatl eran jueces principales.
+S57 Un cuauhtlahtoani («gobernante águila») era un gobernador militar impuesto en una provincia.
+S58 Un calpixqui («guardián de la casa») era un oficial encargado de supervisar el pago de tributos provinciales.
+S59 Un tecutli (teuctli, «señor») era un señor noble.
+
+§7 Estructura de dominio
+S60 Los mexicas y sus aliados establecieron su dominio sobre numerosos pueblos, especialmente en el centro de México, la región de Guerrero y la costa del golfo de México, así como algunas zonas de Oaxaca.
+S61 Poseían además enclaves en varias posiciones estratégicas en la región de Tabasco (Xicalanco) y dominaban la ruta entre el corazón de Mesoamérica y la rica región del Xoconochco —ubicadas en el sur del actual Estado mexicano de Chiapas— que era regida directamente por los mexicas.
+S62 Los mexicas expandieron su control económico, principalmente mediante tributación, a través de una amplia región del centro del actual México, con excepciones importantes de control político en altépetl disidentes o fronterizos.
+S63 Formalmente, se trataba de un conjunto de dominios inicialmente regidos de los tres estados integrantes de la Triple Alianza —Texcoco, Tlacopan y México-Tenochtitlan—, aunque es verdad que los mexicas de Tenochtitlan encabezaron esta confederación y fueron el estado más expansionista de los tres mencionados.
+S64 Por otra parte, los mexicas nunca establecieron un dominio directo sobre los pueblos conquistados.
+S65 Exactamente, la Triple Alianza se apropiaba de una parte de la producción de las otras naciones mesoamericanas mediante la imposición de un tributo, que era fijado de acuerdo con la especialización económica y geográfica de los dominados y recolectado por un calpixqui, o recaudador.
+S66 Los dominadores no impusieron su religión ni su lengua a los dominados.
+S67 Los estados subordinados mantenían su autonomía política y administrativa, bajo un gobierno local.
+S68 Solo en algunos casos, los mexicas establecieron un control militar en ciertos puntos estratégicos de sus dominios.
+S69 «Las confederaciones de pueblos tenían un objeto especial y determinado; pero no formaban una nacionalidad.
+S70 La célebre confederación de los señores de México, Texcuco y Tlacópan, dejaba su autonomía propia á cada uno de los tres reinos.
+S71 La alianza celebrada entre Tenochtitlan, Tlaxcalla y Huexotzinco, tenía por único objeto hacerse la guerra periódicamente para obtener prisioneros que sacrificar á sus dioses; pero en nada influía en el gobierno de estas tres naciones, ni esa guerra, como la conquista, aumentaba el territorio de los contendientes (...) al conquistar, se limitaba á imponer tributos á los vencidos; no se formaba una sola nacionalidad; los elementos quedaban desmembrados; la colonia no existía.
+S72 Los romanos mandaban á sus ciudadanos á hacer romana la presa de la conquista.
+S73 Los nahoas dejaban extranjeros á los pueblos conquistados.»
+S74 El modo en que los mexicas impusieron su dominio sobre otros pueblos mesoamericanos fue diverso, no ajustándose a una estructura imperial tradicional como en las monarquías europeas.
+S75 Aunque se suele señalar el carácter militar de varias conquistas mexicas, también establecieron una complicada red de alianzas matrimoniales con las élites locales para asegurar la lealtad hacia el poder de México-Tenochtitlan.
+S76 Tal fue el caso, por ejemplo, de los zapotecos del istmo de Tehuantepec.
+S77 El dominio del Estado mexica en Mesoamérica no fue total.
+S78 Varios estados mesoamericanos fueron capaces de resistir el empuje de los tenochcas y sus aliados, entre ellos los popolocas de Teotitlán del Camino, los tlapanecos de Yopitzinco, el señorío de Metztitlán (norte de Hidalgo), los mixtecos de Tututepec, la confederación tlaxcalteca y el estado tarasco de Michoacán.
+S79 De sobra es conocido que los tlaxcaltecas eran enemigos acérrimos de los mexicas, que les habían impuesto la obligación de participar de la xochiyáoyotl a cambio de su independencia.
+S80 Tampoco debe dejar de mencionarse que los mexicas nunca pudieron derrotar a los tarascos, y que la presencia de este pueblo impidió la expansión de sus dominios hacia el occidente.
+S81 El fin del régimen de dominio internacional de los mexicas y sus aliados en Mesoamérica concluyó con la Conquista española de México-Tenochtitlan.
+S82 En este suceso, que se suele tomar como punto final del desarrollo independiente de la civilización indígena mesoamericana, participaron no solo los expedicionarios europeos, sino, decisivamente, sus aliados indígenas provenientes de numerosas naciones tributarias de la Triple Alianza que vieron en los recién llegados una oportunidad de poner fin al dominio tenochca.
+
+§8 Gobernantes mexicas
+S83 El nombre huey tlahtoani es una expresión en náhuatl usada para denominar a los gobernantes (tlahtoani significa literalmente «el que habla») de México-Tenochtitlan, Texcoco y Tlacopan, que ejercían su poder sobre el valle de México.
+S84 Narra la tradición que a la muerte del caudillo Tenoch los mexicas consideraron necesario emular en su organización política y social a los pueblos vecinos de linaje Tolteca y rogaron al señor de Culhuacán que les diera como hueyi tlahtoani Acamapichtli, que quiere decir «el que empuña la caña», quien hacia el año 1375 se convirtió en el primer huey tlahtoani de México-Tenochtitlan.
+S85 Lista de tlahtoani mexicas antes de reorganizar su gobierno:
+
+§9 Estructura provincial
+S86 Originalmente, el imperio azteca era una alianza suelta entre tres ciudades: Tenochtitlan, Texcoco y el socio menor, Tlacopan.
+S87 Como tales, eran conocidos como la «Triple Alianza».
+S88 Esta forma política era muy común en Mesoamérica, donde las alianzas de ciudades-estado fluctuaban siempre.
+S89 Sin embargo, con el tiempo fue Tenochtitlan quien asumió una autoridad suprema en la alianza, y aunque cada ciudad socia compartía los despojos de guerra y los derechos a los tributos regulares de las provincias y fue gobernada por su propio tlahtoani, fue Tenochtitlan el que se convirtió en la más grande, la más poderosa, y la más influyente de las tres ciudades.
+S90 Fue el centro reconocido de facto del imperio.
+S91 Aunque no fueron descritos por los mexicas de esta manera, según algunos autores (Smith y Berdan 1992) había dos tipos de provincias: tributarias y estratégicas.
+S92 Las provincias estratégicas eran esencialmente estados clientes subordinados que proporcionaban tributo o ayuda al estado azteca bajo “consentimiento mutuo”.
+S93 Las provincias tributarias, por otro lado, proporcionaban un tributo regular al imperio; Las obligaciones de las provincias tributarias eran obligatorias en lugar de consensuales.
+
+§10 Elección de los cargos públicos
+S94 Los cargos públicos fueron designados por la nobleza de Tenochtitlan, Texcoco y Tlacopan.
+S95 Por lo regular eran elegidos a partir de una línea de sangre dominante.
+
+§11 Sistema judicial
+S96 Los principales tribunales judiciales se establecieron en México-Tenochtitlan y en Texcoco, en donde debían dirimirse los pleitos territoriales y criminales que no tenían solución con la justicia local y administrativa cada uno de los altépetl.
+S97 Una estructura similar se conservó en las poblaciones indígenas después de la conquista de México.
+
+§12 Tribunales mexicas
+S98 Los mexicas tenían una organización judicial jerarquizada, que variaba del tecutli, especie de juez de elección popular, para un lapso de un año, competente para conocer de negocios menores, hasta un tribunal de tres jueces vitalicios, diríamos hoy profesionales, designados por el cihuacóatl.
+S99 Las resoluciones podían ser reclamadas, apeladas con mejor técnica jurídica, ante el tribunal del rey.
+S100 En Texcoco la justicia era administrada en el palacio real, que contenían tres salas con un total de doce jueces designados por el monarca, quienes podían apelar; asistido de dos o tres nobles.
+S101 Además funcionaban jueces de menor grado, distribuidos por todo el territorio.
+S102 También hubo tribunales de comercio encargados de resolver litigios surgidos en los mercados (llamados tianquiztli).
+S103 El procedimiento era oral y a veces se documentaba mediante jeroglíficos.
+
+§13 Organización social
+S104 La sociedad se dividió en veinte clanes llamados calpolli, donde la religión influía de un modo preponderante, constituidos por grupos de personas vinculadas por parentesco, divisiones territoriales, la advocación a un dios en particular y continuación de antiguas familias unidas por un lazo de parentesco biológico y religioso que derivaba del culto al dios titular.
+S105 Cada clan contaba con tierras, un templo y un jefe o calpoleh.
+S106 Se dividían en tres clases: nobles, gente común y esclavos.
+
+§14 Nobles (pipiltin)
+S107 Los pipiltin (forma plural por reduplicación a partir del singular: pilli, «noble») eran la élite dirigente que controlaba tanto el gobierno, como la religión.
+S108 Pagaban tributos y tenían tierras propias que eran trabajadas por los campesinos.
+S109 «Es difícil hacer la distinción entre los derechos que correspondían a un pilli sólo por el hecho de serlo, y los que obtenía en el campo el mérito», según explica el historiador Alfredo López Austin.
+S110 Efectivamente, existían privilegios los cuales no podían ser alcanzados, aun siendo noble, si no se cumplían ciertos requisitos.
+S111 En el ámbito militar, un noble no podía entrar en las órdenes de los guerreros jaguar (ocelomeh) o águila (cuauhtin) sin haber mostrado sus habilidades en combate, necesitando capturar a más de cuatro enemigos en batalla.
+S112 De hecho, la gente común que había alcanzado estatus de noble a través de su carrera militar (cuauhpipiltin) también podía entrar a estas órdenes.
+S113 Aun así, la mayoría de miembros de estas órdenes eran nobles, pues factores como la calidad de su entrenamiento, los oficios de sus padres y sus conexiones con guerreros veteranos les daban una ventaja.
+S114 Además, según el historiador Ross Hassig, existían rangos militares inalcanzables por la gente común, incluso por los que habían conseguido estatus de noble.
+S115 Un probable ejemplo de ello es el caso de los guerreros otomíes (otomih, plural; otomitl, singular), quienes eran superiores a las órdenes Jaguar y Águila; Hassig piensa que este rango, probablemente, no era alcanzable por gente común, aunque también se ha sugerido lo contrario.
+S116 También, distinguiendo a los nobles de los cuauhpipiltin, existían diferencias en los uniformes (tlahuiztli, en forma singular) de los Guerreros Jaguar y Águila: los de los nobles estaban hechos de algodón y plumas, mientras que los cuauhpipiltin traían uniformes hechos de cuero.
+
+§15 Gente común (macehualtin)
+S117 Los macehualtin (forma plural de macehualli, que Alfredo López Austin interpreta como «el que hace merecimientos o penitencia») era la gente común, conformaban la mayoría de la población.
+S118 A este grupo de la gente común pertenecían los artesanos, los comerciantes y los campesinos o el simple pueblo.
+S119 Según López Austin, este término se aplicaba a toda persona que no descendía de Acamapichtli, primer rey de México-Tenochtitlan.
+S120 La mayoría de macehualtin vivían con muchas restricciones impuestas por las clases más altas.
+S121 Por ejemplo: incluso tenían restringida la vestimenta, pues a la mayoría, especialmente a los que no eran guerreros, se les prohibía vestir algodón, joyas o calzado.
+S122 Según el historiador novohispano Diego Durán, fue Moctezuma I, a mediados del siglo XV, quien declaró varias de las restricciones enfrentadas por la gente común:
+S123 Ordenóse que solo el rey y su coadjutor Tlacaelel [...] pudiesen traer çapatos por la ciudad, y ningun otro, so pena de la vida, ecepto los que uviesen hecho alguna valentía en la guerra; [...] Toda la demas gente, so pena de la vida, salió determinado que nenguno de algodon ni se pusiese otras mantas sino de nequen, y questas mantas no pasasen mas de quanto cubriesen la rodilla y si alguno la trujese que llegase á la garganta del pié, fuese muerto, saluo si no tuviese alguna señal en las piernas de herida que en la guerra le uviesen dado; [...] Salió ordenado que ninguno fuese osado á edificar casa con altos, sino los grandes señores y valientes capitanes, so pena de la vida, y que nenguno osase poner xacales puntiagudos ni chatos ni redondos en sus casas, sino solo los grandes señores, so pena de la vida, porque aquellos eran particular grandeça y merced de los señores, concedida de lo alto por los dioses á solo ellos.
+S124 Salió determinado que solo los grandes señores pudiesen usar beçotes de oro y piedras preciosas y de orejeras y narices de oro y de piedras ricas, y no otros, ecepto los valientes hombres, capitanes y soldados de valor y estima podian traer [...] de hueso, ó de palo, ó de otra materia baxa y no preciosa.
+S125 La mayoría de los mexicas trabajaban de campesinos, usando métodos, conocidos como formas de agricultura intensiva, para manejar sus cultivos sumamente similares a los que se usan en el México moderno, como chinampas (palabra derivada de chinamitl, «seto o cerca de cañas», y pan, «sobre [una superficie]»), y terrazas y semiterrazas (metepantli) de cultivo para las milpas.
+S126 Algunas de estas estructuras construidas en la época prehispánica siguen siendo usadas en algunas partes de Ciudad de México, Estado de México y Morelos, por dar ejemplos.
+S127 Estos métodos fueron ideados como consecuencia del enorme crecimiento de población que experimentó la parte centro de México durante la época del Imperio mexica (a tal punto que, tras la caída de población causada por la Conquista, no se llegaría al mismo nivel de densidad poblacional que se había alcanzado en 1519 hasta la segunda mitad del siglo XX).
+S128 A través de éstos, aumentó la productividad de los cultivos mexicas (aun siendo vulnerables a desastres naturales), pero también aumentó el esfuerzo y tiempo necesario para construir y mantener estos sistemas.
+S129 Además, los campesinos tenían que pagar un impuesto a su calpolli, noble o rey, el cual aumentaba conforme crecía la población.
+S130 Existían campesinos que trabajaban para un calpolli y tenían varias libertades respecto al manejo de las tierras que recibían, mientras que había otros, los mayehqueh (plural de mayeh) o tlalmahtin (plural de tlalmaitl), que trabajaban en tierras poseídas por nobles y poseían pocas libertades, de manera similar a la servidumbre de la Europa medieval (aunque, a pesar de las circunstancias de este segundo tipo de campesino, muy rara vez era descrito como una clase distinta a los macehualtin. De hecho, el término mayehqueh es usado pocas veces en las fuentes primarias).
+S131 Había, sin embargo, oficios ocupados por macehualtin que poseían más privilegios, aunque eran ocupados por la minoría.
+S132 Los pochtecas, por ejemplo, eran un grupo de comerciantes macehualtin dedicados a realizar comercio desde sitios lejanos a la capital, descritos como «sumamente» e «inusualmente ricos y privilegiados», ya que obtenían su fortuna a través del comercio de objetos caros y exóticos de varias partes de Mesoamérica, llevando a cabo sus actividades dentro de los dominios conquistados por el expansionista imperio.
+S133 La mayoría de macehualtin heredaban los oficios de sus padres, por lo que la mayoría no conseguían privilegios otorgados a través de una carrera militar o religiosa.
+S134 Sin embargo, sí era posible para algunos conseguir dichos privilegios, como tierras, vestimenta, absolución de pagar tributos y entrar en ceremonias y espacios reservados, entre otros privilegios posibles.
+S135 A los macehualtin que habían conseguido privilegios similares a los poseídos por los pipiltin a través de su carrera militar se les llamaba cuauhpipiltin, y también obtenían el privilegio de convertir a sus hijos en pipiltin, aunque recordando sus orígenes como gente común.
+S136 La situación comenzó a cambiar en los primeros años del reinado de Moctezuma II, a principios del siglo XVI, cuando él, controvertidamente, reemplazó a sus todos sus consejeros, quienes habían servido a su padre Axayácatl y a su tíos y predecesores, Tízoc y Ahuízotl, despidiendo a los macehualtin e instalando nobles de su preferencia, para así no trabajar con «gente baxa [sic]» e «hijos de hombres baxos [sic]».
+
+§16 Esclavos (tlatlacohtin)
+S137 Los tlatlacohtin (alternativamente tlacohtin, forma plural de tlacohtli, «esclavo», aunque el historiador Frederic Hicks propone que el término también había sido empleado para prisioneros de guerra no esclavizados) eran prisioneros de guerra, personas que habían cometido un delito o bien personas con grandes deudas a las que no les era posible pagar a corto plazo y se autoempleaban como sirvientes de aquellos a quienes les debían.
+S138 A excepción de otras sociedades con esclavitud, donde se veía un gran número de esclavos trabajando en los campos, solo una muy pequeña parte de la población mexica era esclava, al menos en zonas rurales.
+S139 Por ejemplo: según un censo de fines de la década de 1530 (a principios de la época colonial), el barrio de Tlacatecpan, Tepoztlán, tenía solo 45 tlatlacohtin, incluyendo sus parejas e hijos, entre una población de 3100 habitantes.
+S140 Además, según los arqueólogos Michael E. Smith y Frances F. Berdan, la mayoría del tiempo los tlatlacohtin trabajaban en tareas domésticas dentro del hogar y rara vez hacían trabajos pesados.
+S141 Sin embargo, aunque sus circunstancias, en ciertos aspectos, no eran tan desfavorables como en las sociedades esclavistas de la Antigua Roma o los Estados Unidos, como ejemplifican Smith y Berdan, seguían siendo propiedad sin libertad e incluso podían ser sacrificados si sus dueños lo permitían.
+S142 Los tlatlacohtin masculinos realizaban trabajos, y tenían derecho a casarse y a poseer propiedad.
+S143 Los derechos de las mujeres tlatlacohtin son menos claros, y normalmente eran usadas para hacer servicios sexuales y para ser concubinas (temecauh, en singular; temecahuan, en plural), aunque el concubinato era «mal visto por la sociedad», el adulterio aun así era castigado con la pena de muerte, y la poligamia solo estaba permitida para «los que se distinguían en los campos de batalla», según López Austin.
+S144 Los tlatlacohtin, aunque su población no era muy grande comparativamente, eran vendidos en los mercados (tianguis) en cantidades considerables.
+S145 Bernal Díaz del Castillo, conquistador español autor de la Historia verdadera de la conquista de la Nueva España, describió como funcionaba la venta de esclavos en el gran mercado de México-Tlatelolco:
+S146 Comencemos por los mercaderes de oro y plata y piedras ricas y plumas y mantas y cosas labradas y otras mercaderías de indios esclavos y esclavas.
+S147 Digo que traían tantos dellos a vender aquella gran plaza como traen los portugueses los negros de Guinea, e traíanlos atados en unas varas largas con colleras a los pescuezos, porque no se les huyesen, y otros dejaban sueltos.
+S148 [...] Y fuimos al gran cu, e ya que íbamos cerca de sus grandes patios, e antes de salir de la misma plaza, estaban otros muchos mercaderes, que, según dijeron, eran de los que traían a vender oro en granos como lo sacan de las minas, metido el oro en unos cañutillos delgados de los de ansarones de la tierra, e ansí blancos, porque se paresciese el oro por de fuera: y por el largor y gordor de los cañutillos tenían entre ellos su cuenta qué tantas mantas o qué xiquipiles de cacao valía, o qué esclavos o otra cualquiera cosa a que lo trocaban.
+
+§17 Organización económica
+S149 La economía era próspera.
+S150 En primer lugar, su control sobre los otros pueblos les permitía contar con abundante mano de obra.
+S151 La organización económica mexica estaba regida por el calpolli, un grupo de familias a las cuales se les asignaba una cantidad de tierras para trabajarla, de forma que la producción se repartía entre las familias, el Estado, los sacerdotes y el jefe del calpolli.
+S152 Por otra parte, el cobro de tributo hizo que los mexicas tuviesen abundancia de materias primas y productos.
+S153 Otro factor que posibilitó la prosperidad fue la utilización de avanzadas técnicas agrícolas.
+S154 Tenochtitlan, capital de los mexicas, estaba construida en una isla en el centro del lago Texcoco.
+S155 Los mexicas usaron el sistema de cultivo conocido como chinampas, y con este sistema llevaban la tierra al agua.
+S156 Lo hacían de la siguiente manera: clavaban cuatro estacas de ahuehuete en las tierras pantanosas y formaban un rectángulo.
+S157 Lo llenaban con varas y tiras de pasto y lo cubrían con lodo; las estacas arraigaban y retenían la tierra en los bordes.
+S158 La chinampa absorbía el agua del lago y el lodo servía de abono; de este modo sembraban varias veces al año.
+S159 También construyeron terrazas de cultivo en las zonas montañosas.
+S160 Usaban abonos vegetales y animales.
+
+§18 Comercio
+S161 El comercio de los mexicas se basaba principalmente en el trueque.
+S162 Además que posiblemente habrían existido ferias en el imperio al igual que en el imperio incaico.
+S163 Normalmente los comerciantes mexicas (pochtecas) intercambiaban productos de Tenochtitlan y alrededores para conseguir productos de lujo de las otras ciudades y naciones.
+S164 Por la cantidad de población y los datos indirectos se cree que Tenochtitlan en su época de esplendor era el mercado más grande del mundo, y se ubicaba en la plaza central de Tlatelolco comercializaban con esclavos, prisioneros de guerra, cacao, frutas exóticas, etc.
+S165 La generación de excedentes, producto del cultivo de chinampas, permitió el desarrollo del comercio de artículos artesanales.
+S166 Intercambiaban objetos labrados en oro y plata, cerámica, adornos de plumas y tejidos de algodón.
+
+§19 Monedas
+S167 El cacao y las monedas en forma de hacha son dos ejemplos de objetos usados como moneda en los mercados mexicas.
+S168 En el México prehispánico no había un tipo de moneda usado de manera oficial, pues la mayoría de adquisiciones se hacían mediante trueque, como describió Bernal Díaz del Castillo.
+S169 Según observó Hernán Cortés, conquistador de México-Tenochtitlan, el valor de los objetos en los mercados de la ciudad se determinaba por su cantidad y tamaño, aunque no por su peso.
+S170 Sin embargo, sí había ciertos objetos que eran usados como un tipo de moneda, pues podían ser usados para comprar diversos tipos de productos dependiendo de su cantidad y calidad.
+S171 Los granos de cacao son un ejemplo de esto.
+S172 El cacao era ampliamente usado como moneda en la época prehispánica, a tal punto que hubo una crisis en el Imperio relacionada con la falsificación de granos.
+S173 Según fray Bernardino de Sahagún, autor de la Historia general de las cosas de Nueva España, los falsificadores de cacao llenaban cáscaras de granos vacías con masa o cera para engañar a vendedores.
+S174 La calidad y tipo del cacao era tomada en cuenta; el «buen tratante» vendía sus almendras «gordas, macizas y escogidas», y separadas por su tamaño, peso y conservación, y también por su lugar de origen, en caso de venir de alguna región lejana o extranjera.
+S175 Al cacao de baja calidad y mezclado con granos falsos se le llamaba cuauhpatlachtli.
+S176 En marzo de 1545, a principios de la época novohispana, un juez de Tlaxcala, para combatir contra la inflación percibida en los tianguis, declaró en un documento, posteriormente pregonado por un indígena en el tianguis de la ciudad, los precios fijos de varios productos básicos en granos de cacao.
+S177 Este documento puede proporcionar una idea de cómo se utilizaba esta moneda en la época prehispánica.
+S178 Aquí se ofrecen, de ejemplo, siete de los productos del documento:
+S179 Texto original en náhuatl:
+S180 Yn centetl çovatotolin yectli macuilpualli cacavatl ypatihu yn chamavac yn patzavac cacahoatl chiquacenpuvalli [...]
+S181 yn cihtli ahno quahvtochtli mamahcuilpualli cacavatl ypatihu
+S182 yn tochtli tepitzin onpualli onmatlactli ypatihu
+S183 yn centetl nicantotoltecciztli etetl cacavatl ipatihv [...]
+S184 yn centetl xitomatl quinamiquiz in cacavatl
+S185 yn centetl cacavatl cenpualtetl yn miltomatl
+S186 Yn nicanchilchotl yancuican necih in centetl cacavatl ontetl yn ihquac vel vnezqui in centetl cacauatl nahvtetl
+S187 Traducción:
+S188 Una buena pava vale 100 granos de cacao enteros, o 120 granos de cacao reducidos.
+S189 Una liebre o conejo grande/de bosque vale cien granos de cacao cada uno.
+S190 Un conejo pequeño vale treinta.
+S191 Un huevo de pavo vale tres granos de cacao.
+S192 Un tomate grande será equivalente a un grano de cacao.
+S193 Un grano de cacao, veinte tomatillos.
+S194 Un chile verde local, recién recogido, dos por un grano de cacao; cuando está completamente maduro, cuatro por un grano de cacao.
+S195 Como se puede observar, el cacao continuó siendo usado como moneda oficial a lo largo del siglo XVI, décadas después de la Conquista, a pesar de que la Casa de Moneda de México se fundó en 1535 y se comenzaron a acuñar las primeras monedas de plata oficiales al año siguiente.
+S196 Los indígenas trabajando en las siembras eran pagados con cacao y también era usado para pagar cuando uno caía en la cárcel.
+S197 Parece ser que en algunas regiones el cacao se continuó usando hasta el siglo XIX, ya después de la independencia de México.
+S198 El cacao era usado para compras pequeñas diarias, mientras que mantas blancas, llamadas cuachtli, se usaban para compras más grandes al tener un valor más alto.
+S199 Según Sahagún, un cuachtli tenía un valor que llegaba desde 65 a 100 granos de cacao, dependiendo de su calidad.
+S200 Según Warwick Bray, «solo 33 años después de la Conquista» el valor de los cuachtli incrementó a 240 y hasta 300 granos.
+S201 Según Motolinía, un hombre (probablemente macehualli) podía mantenerse a sí mismo por un año con 20 cuachtli.
+S202 Bray redactó una lista de precios de varios productos en cuachtli.
+S203 Aquí se presentan cuatro, de ejemplo:
+S204 Un cayuco = 1 manta.
+S205 100 hojas de papel = 1 manta.
+S206 Bezote (tentetl) de oro = 25 mantas.
+S207 Traje de guerrero y escudo = alrededor de 64 mantas.
+S208 Es posible que el tipo de cacao usado como moneda no era el mismo al que era consumido como chocolate y que los cuachtli no eran para vestir.
+S209 Según Francisco Javier Clavijero, existía una especie de cacao que era usada para consumo, llamada tlalcacahuatl, mientras que otras tres especies eran usadas como moneda, pues éstas resultaban en bebidas de menor calidad.
+S210 Esta misma práctica también parece haber existido entre los mayas.
+S211 Otro tipo de moneda usada eran pequeñas piezas en forma de hachas hechas de aleaciones de cobre (tepoztli).
+S212 En el oeste mexicano (Oaxaca, Guerrero y Michoacán), la mayoría de estas están hechas de bronce arsénico.
+S213 La gran mayoría de estas monedas se han encontrado en la Sierra Madre de Oaxaca, aunque se tratan del tipo de artefacto metálico más abundante encontrado en Mesoamérica (decenas se han encontrado en Ciudad de México), y, de hecho, parece que su uso se extendió hasta Centroamérica, pues su probable mención más antigua en textos españoles proviene de un documento de 1524 por el capitán Gil González Dávila sobre su expedición en Nicaragua: según el documento, en 1522, un cacique chorotega llamado Diriangén, mostrándole su fortuna, presentó, entre otros tesoros, «dozientas y tantas hachas de oro baxo [sic]» repartidas entre más de 500 personas.
+S214 Sin embargo, también es posible que este texto esté hablando de otro tipo de hachas.
+S215 Las hachas usadas en Oaxaca como moneda son mencionadas por primera vez en un inventario de 1528.
+S216 A mediados del siglo XVI, Francisco López Tenorio escribió acerca del uso de estas hachas en Oaxaca:
+S217 En la provincia de la Cibdad sobre dichas provincias comarcanas se usan y tratan entre los naturales en moneda de metal en muy gran cantidad.
+S218 [...] Esta es la forma de moneda de cobre que se usaba en la Nueva España.
+S219 [...] Valían cuatro de éstas, nuevas, cinco reales, y después, siendo gastadas un poco, no las querían recibir en precio alguno, y venían á valer diez por un real, para tornarlas á refundir, y si habia agravio ó no, de esta manera se puede atender.
+S220 Como punto de referencia: en 1555 la Corona española fijó el valor de un real español a 40 granos de cacao, y para el tercer cuarto del siglo XVI su valor aumentó a 100 granos.
+S221 Había dos provincias tributarias que pagaban hachas de cobre como parte de su tributo.
+S222 Una de ellas era Tepecoacuilco (pueblo conquistado por Itzcóatl en las etapas tempranas del Imperio), que entregaba 100 de ellas cada 80 días, además de 100 campanas también hechas de cobre (según un documento de 1554 sobre Moctezuma II).
+S223 La otra era Quiauhteopan (aparentemente un pueblo sujeto a Olinalá, y cuya conquista es reclamada tanto por Moctezuma I como por Nezahualcóyotl), que pagaba 80 cada seis meses, además de 40 campanas de cobre.
+
+§20 Industrias
+S224 Periodo 1: del siglo VII al XIII d.
+S225 C., se comenzó a usar cobre (tepoztli) para crear objetos como cascabeles (coyolli, en forma singular), que se hacían usando el método de moldeo a la cera perdida, y herramientas como, por ejemplo, hachas, creadas mediante el trabajo en frío.
+S226 Periodo 2: del siglo XIII en adelante, se amplió en gran medida la cantidad de técnicas usadas en la industria.
+S227 Se comenzó a trabajar con aleaciones de cobre para mejorar la tenacidad, fluidez y color de los objetos creados con este material.
+S228 El desarrollo de este periodo tomó lugar principalmente en el Imperio purépecha, imperio vecino y rival al Imperio mexica.
+S229 Minería: La obsidiana (piedra cristalina de origen volcánico) se obtenía de la Sierra Madre Sur y Occidental y se empleaba para elaborar armas y objetos cotidianos (cuchillos, platos, collares).
+S230 La región volcánica de Zináparo (en el actual estado de Michoacán) nos muestra cómo se obtenía la obsidiana en la época prehispánica.
+S231 La forma de extracción más común era a cielo abierto, el cual es un método considerablemente simple.
+S232 La minería subterránea, sin embargo, también era una forma común.
+S233 Según investigaciones llevadas a cabo en el sitio mencionado, publicadas por Véronique Darra, las actividades mineras subterráneas se hacían únicamente con galerías horizontales, ya sean regulares o irregulares, situadas principalmente sobre laderas, o con la excavación de cámaras más amplias, aunque es posible que también se hayan excavado pozos que actualmente están tapados.
+S234 Darra estima que el peso de la obsidiana útil extraída de dos de las minas subterráneas analizadas fue de 237 y 463 toneladas (de 605 y 927 toneladas extraídas en total, al incluir residuos, respectivamente).
+S235 Una mujer oaxaqueña usando un telar de cintura, año 2017.
+S236 En México, se conservan varias tradiciones textiles de la época prehispánica.
+S237 Textilería: Industria de gran importancia entre los habitantes del imperio azteca, la cual tenía entre sus principales productos la fabricación de tejidos de algodón y fibra de maguey.
+S238 Tambien se determinó que solo el rey pudiese traer las mantas galanas de labores y pinturas de algodon y hilo de diuersos colores y plumería, doradas y labradas con diuersas labores y pinturas y diferenciallas quando á él le pareciese, sin auer ecepcion en traer y usar las mantas quel quisiese; y los grandes señores, que eran hasta doce, las mantas de tal y tal labor y hechura, y los de menos valía, como uviese hecho tal ó tal valentía ó açaña, otras diferentes; los soldados, de otra menos labor, no pudiendo usar de otra preciosa labor y diferencia, mas de aquella que allí se le señalaba con sus ceñidores y bragueros, que aludian y seguian la hechura de la manta que le era permitida.
+S239 Plumaria: la creación de obras usando plumas de diversas aves era una industria de gran valor entre los mexicas.
+S240 A los artistas que usaban plumas se les llamaba amantecah (en plural), que significa «habitantes de Amantla», probablemente porque en aquel barrio vivían la mayoría de estos artesanos.
+S241 Según Bernardino de Sahagún, las primeras mercancías en ser comerciadas por el gremio de los pochtecas, durante el reinado del primer tlahtoani de México-Tlatelolco, Cuacuauhpitzáhuac, fueron plumas de aves como papagayos rojas y azules.
+S242 Al tiempo del segundo o tercer tlahtoani, Tlacatéotl, se empezó a comerciar con plumas de quetzal también, junto con ropa de algodón y piedras de turquesa y jadeíta.
+S243 Si bien esta industria parece tener sus orígenes en la civilización maya, cuyos mercaderes ya comerciaban con plumas desde el siglo IV en regiones de las costas del Golfo de México y de Oaxaca, la plumaria mexica alcanzó su auge durante el reinado el emperador Ahuízotl, en el siglo XV, ya que sus vastas conquistas trajeron una variedad de plumas exóticas de varias partes de Mesoamérica.
+S244 De hecho, una de las motivaciones principales del Imperio mexica para invadir a las lejanas provincias de Tehuantepec, Miahuatlán y otras de la región fue por sus riquezas en plumas, joyas y oro, pues comerciantes mexicas viajaban a estos lugares cada año a conseguir estos tesoros comerciando «cosas baxas que trayan», lo cual causó descontento entre los gobiernos de estos lugares.
+
+§21 Religión
+S245 Para asegurar la consolidación de su grandeza, Tlacaélel llevó a cabo una serie de reformas ideológicas, manipuló y destruyó todo lo que obstaculizaba la creación de un gran imperio, vinculó a los mexicas con la antigua nobleza tolteca e impulsó reformas religiosas para acomodar a Huitzilopochtli en un plano superior que lo identifica con el sol.
+S246 Se suponía que esta divinidad se alimentaba de sangre humana y aceptaba los corazones de las personas sacrificadas en su honor, desempeñando así un papel crucial en la ideología de los aztecas.
+S247 Su máxima manifestación como dios de la guerra se dio en los mexicas, por lo que se permitían dominar a otros pueblos.
+S248 Al llegar la gran hambruna entre 1450 y 1454 a causa de una mala cosecha, consideraban que la desgracia era el resultado de la ira de los dioses, por lo que había que apaciguarla con innumerables actos de sacrificios humanos.
+S249 Se basarían en un sistema de guerra contra las ciudades del valle de Puebla y Tlaxcala, su objetivo no era conquistar, sino conseguir prisioneros para los sacrificios.
+S250 Estas batallas se volvieron cada vez más violentas y no había suficientes prisioneros, por lo que comenzaron los sacrificios de los guerreros capturados que se habían distinguido en la batalla.
+S251 La religión mexica se basaba en la asimilación de la herencia popular de la tradición nahua.
+S252 Los aztecas intentaron combinar dos sistemas religiosos en conflicto: la tradición de los guerreros y cazadores chichimecas y la herencia de los agricultores sedentarios.
+S253 Los chichimecas, un pueblo de guerreros y cazadores nómadas, adoraban a dioses guerreros a menudo identificados con las estrellas, y las civilizaciones agrícolas adoraban a deidades de la tierra y el agua.
+S254 En esto podemos ver estas dos ideas opuestas pero unidas: el ideal del guerrero y el ideal del sacerdote.
+S255 Cuando los españoles llegaron a México, también se vio la importancia de las manifestaciones religiosas, ya que la vida pública y privada de los aztecas se guiaba por muchos rituales y creencias.
+S256 Había una mezcla de creencias y prácticas locales, por lo que en ese proceso de integración los sacerdotes trabajaron hacia una jerarquía de ideas y credos.
+S257 Así, este orden jerárquico de la sociedad azteca se reflejaba en el orden religioso, caracterizado por una serie de contradicciones que hacían de él un mundo en constante cambio.
+
+§22 Rituales
+S258 Los sacerdotes arrancaban el corazón del prisionero para que su sangre bañara el suelo, pues se suponía que aumentaba la fertilidad de la tierra y la probabilidad de lluvia.
+S259 Se señala que los primeros sacrificios tuvieron lugar durante el largo período de migración, ya que la idea de su devoción estaba representada por un águila posada sobre un nopal.
+S260 Para ellos, el hombre debía alimentar al sol a través de la sangre y el corazón del hombre, lo que se había convertido en un compromiso y una necesidad, normalmente las víctimas de este ritual eran guerreros enemigos capturados y previamente se les adornaba y pintaba ya que se les veía como mensajeros para los dioses, pero también niños, mujeres y esclavos.
+S261 En algunos de estos rituales, la persona portaba los emblemas y adornos del dios al que iban a representar, y en este ceremonial había danzas y música.
+S262 No obstante, los sacrificios humanos no se limitaban solo a la resurrección del astro vital.
+S263 Sacrificios se realizaban para la lluvia, en los cuales se sacrificaba niños, cuyas lágrimas (compuestas principalmente de agua) servían para que llegara el agua.
+S264 Sacrificios menores se hacían puertas adentro de los templos.
+S265 En el año 1486 la pirámide de Huitzilopochtli fue inaugurada.
+S266 Esta costó la vida de 20,000 personas.
+S267 Era tal la magnitud de los sacrificios y tal el ritmo con el cual se llevaban a cabo que, según varios historiadores, la civilización iba camino a la extinción auto impuesta.
+S268 Uno de estos, es el reconocido etnólogo y apologista de dicha civilización Jacques Soustelle.
+S269 Los mexicas eran politeístas.
+S270 Los dioses mexicas se consideraban polifacéticos ya que no tenían un lugar definido, ellos los ubicaban en el cielo y creían que tenían un carácter bondadoso o maléfico.
+
+§23 Organización militar
+S271 La expansión del dominio mexica fue resultado de su organización militar, del valor de sus soldados en las batallas y de la habilidad de sus gobernantes, quienes inicialmente se apoyaron en la Triple Alianza.
+S272 Aprovecharon las divisiones que existían entre sus adversarios y convencieron de forma coercitiva a muchos altépetl (señoríos) que les convenía más ser vasallos de Tenochtitlan que enfrentarse a los riesgos terribles de una guerra.
+S273 Por lo general, la mayoría de altépetl circundantes a México-Tenochtitlan aceptaron pagar tributo a los mexicas y conservaron la administración a cargo de la nobleza local, que debía rendir cuentas ante los gobernantes de la capital.
+S274 En ciertos lugares ventajosamente situados, los mexicas establecieron fortalezas y guarniciones que vigilaban los territorios dominados y la seguridad de las rutas comerciales, como en Oztoman cerca de los purépechas, Zozolan con los mixtecas, Xoconochco y en los límites con los señoríos totonacas.
+S275 Solo algunas regiones conflictivas fueron gobernadas directamente por funcionarios nombrados en Tenochtitlan con atribuciones políticas y militares.
+S276 Los comerciantes fueron una especie de fuerza de espionaje pues analizaban al enemigo en sus ciudades así tiempo después llegaban los ejércitos mexicas de invasión.
+S277 Cuando había resistencia no se detenían hasta conquistar la zona salvo algunas excepciones, o también se anexaban al imperio por medio de matrimonio arreglados entre las dos noblezas la cual era sumamente raro que ocurriese.
+S278 Los tributos llegaban a Tenochtitlan de todas las regiones del imperio: alimentos, tejidos, artículos preciosos, y también seres humanos cautivos destinados al sacrificio.
+S279 Esa riqueza convirtió a México-Tenochtitlan en una ciudad deslumbrante.
+
+§24 Conquistas y pueblos tributarios de los mexicas
+S280 Después de 20 años de haber llegado a la Cuenca del Valle del Anáhuac hoy Valle de México, a partir de la derrota de Azcapotzalco, los mexicas iniciaron una serie de conquistas sin precedentes en América.
+S281 Como se consigna en la Matrícula de Tributos, los pueblos sometidos tenían que pagar diversos tributos: maíz, frijol, amaranto, chía, mantas y telas, copal, liquidámbar, sal, trajes militares, productos que se elaboraban en la región, y contribuir con hombres para la guerra.
+
+§25 Mexicas en Chiapas
+S282 De esta región lo que se extraía no eran sólo productos del campo y del mar, sino también muy posiblemente ámbar, el cual es muy abundante en el estado.
+S283 También se capturaban quetzales para extraerles sus plumas y elaborar vistosos trajes y penachos de la realeza Azteca.
+S284 Además de que como todas las provincias que daban al mar debía tener puertos que acortaran tiempos entre la capital y estas zonas ya más alejadas de imperio.
+
+§26 Mexicas en Oaxaca
+S285 Hacia 1458 los mexicas inician campañas expansionistas bajo los reinados de Tizoc, Ahuizotl y Moctezuma y con ello la decadencia de los mixtecos, que ocupaban hasta Tuxtepec.
+S286 De aquí también se llevaba al imperio el cacao, junto con el maíz y otros productos de esta provincia.
+S287 Además de que se extraían de aquí también productos del mar como conchas marinas, pescados, mariscos y trozos de coral.
+S288 Pero por lo que mayormente fue conocido fue por la gran habilidad que tenían de trabajar los metales como el oro, plata y platino.
+S289 Habilidades que los mexicas, con el tiempo pudieron replicar y mejorar, aunque en sus inicios les enseñaron los mejores maestros de Mesoamérica.
+S290 Aunque las herramientas que usaban para trabajar los metales no parecían muy modernos podían hacer grandes obras de arte con los metales preciosos.
+
+§27 Mexicas en Guerrero
+S291 Para el siglo XIV en el estado, se encontraban ya asentados en el territorio de la entidad diversos pueblos con sus características culturales propias, conviviendo algunos de manera pacífica y otros en constantes conflictos bélicos.
+S292 Entre los más importantes estaban los purépechas, cuitlaltecas, ocultecas y matlatzincos, en la Tierra Caliente; los chontales, mazatlecos y tlahuicas en la Sierra Norte; los coíxcas y tepuztecos en los Valles Centrales; los tlapanecos y los mixtecos en La Montaña; los jopis, mixtecos y amuzgos en la Costa Chica, y los tolimecas, chubias, pantecas y cuitlaltecas en la Costa Grande.
+S293 De estos lugares se extraían productos muy parecidos a los que se extraían de Veracruz.
+S294 Pero en menor medida ya que esta zona no tenía la misma importancia, aunque de aquí se extraía el oro y la plata que tanto apreciaban los mexicas.
+S295 Junto con los artesanos que la trabajaban, prácticamente todo el estado fue conquistado por los mexicas y aquellos lugares que se resistieron hicieron un pacto similar al de los mexicas con los tlaxcaltecas.
+S296 En el estado de Guerrero habitaron los yopes, un pueblo que nunca fue sometido por los mexicas, y fue conquistado hacia 1553 por los españoles; en fecha de 2004, solo quedan algunas pequeñas congregaciones de yopes.
+
+§28 Mexicas en Puebla
+S297 Puebla fue una provincia de los mexicas de la cual salían productos que servían para alimentar a la población.
+S298 Debido a esto, Puebla fue atacada en varias de sus ciudades no solo por ser quien proveía la mayoría de los alimentos y materias con que se comerciaban, sino también por ser todas sus ciudades fieles al imperio.
+S299 Al ser lugares donde los mexicas podían obtener alimentos y hombres para la batalla, estas ciudades se convertían en un enemigo potencial.
+S300 Debido a esto la ciudad de Cholula fue atacada con el pretexto de haber asesinado a un enviado de los tlaxcaltecas.
+S301 En las Sierra Negra de Puebla se comerciaba principalmente con la capital las flores que están muy apreciadas y a la región que proveía de estas flores era conocida por sus colinas verdes y que tocaban las nubes.
+
+§29 Mexicas en Tlaxcala
+S302 A la llegada de los españoles a Tlaxcala, los mexicas llevaban imponiendo un bloqueo comercial sobre los tlaxcaltecas desde hacía 60 años.
+S303 Pero eso no siempre fue así, ya que los tlaxcaltecas antes ya habían ayudado a los mexicas a derrotar a los tepanecas, que en ese entonces controlaban el centro de México.
+S304 Después de haber derrotado al enemigo, los mexicas tomaron el control y los tlaxcaltecas se rebelaron.
+S305 A esto los mexicas respondieron con un bloqueo comercial.
+S306 Para lograr ser liberados del bloqueo, negociaron un acuerdo mediante el cual se les permitía conservar su independencia a cambio de que participaran en las guerras floridas.
+S307 Con este trato, Tlaxcala no pagaba ni tributos, ni cedía su gobierno si participaba en estos eventos, que servían a los mexicas para entrenar a sus ejércitos.
+S308 Además de que proveía de víctimas para los sacrificios humanos, manipulaba a los tlaxcaltecas, evitando el aumento de la población e infundiendo miedo para evitar que se rebelaran.
+
+§30 Mexicas en Veracruz
+S309 Los mexicas fueron los últimos en llegar a Mesoamérica.
+S310 Pero a pesar de ello en 1325 se establecieron en la cuenca del valle de México y fundaron la ciudad de México-Tenochtitlan.
+S311 Progresaron rápidamente, se hicieron poderosos y conquistaron otros pueblos.
+S312 Influyeron en la lengua y la cerámica ceremonial.
+S313 Los mexicas tenían guarniciones para controlar sus dominios y almacenes para los tributos.
+S314 Algunos de sus puestos de vigilancia en Veracruz estaban en Xalapa, Jalcomulco, Huatusco y Coscomatepec, una de las primeras poblaciones de los mexicas en Veracruz fue Ixtaczoquitlán, ya que en el año que se creó fue en el año 1300.
+S315 De aquí se enviaron tributos como pescados que comía el emperador junto con conchas marinas.
+S316 También servían estas de ofrenda a los dioses.
+S317 Los mexicas lograron controlar gran parte del actual estado de Veracruz.
+S318 De aquí se proveía a la capital con productos tropicales además de pescados y trozos de arrecifes.
+S319 Posiblemente hubo puertos prehispánicos para recibir producto de todo el golfo de México.
+S320 Como llegó a decir Cristóbal Colón que había visto una canoa cargada con mercancía muy extravagante.
+
+§31 Mexicas en Tabasco
+S321 Aquí los mexicas se limitaron a construir un campamento comercial, el cual era el medio de contacto entre el Imperio azteca y los reinos fragmentados de los mayas.
+S322 En este campamento los antiguos comerciantes mexicas viajaban para obtener algunas de las materias más valoradas, por la lejanía desde donde se traían y la dificultad.
+S323 El campamento tenía solo una pequeña guarnición de soldados que eran para proteger a los mexicas que ahí se encontraban.
+S324 Este lugar también servía para un intercambio cultural.
+
+§32 Mexicas en Michoacán
+S325 Su nombre proviene del náhuatl Michhuahcan (lugar de pescadores), una de las cuatro provincias del Reino Purépecha con capital en Tzintzuntzan, muy cerca del lago de Pátzcuaro.
+S326 Debido a esto, los mexicas solo conquistaron una fracción de este estado, por aquí es donde se localiza la mayor cantidad de fortalezas y guarniciones mexicas.
+S327 Aunque aquí hubo un intercambio cultural entra ambas naciones, tanto que se llegaron a considerar como pueblos hermanos.
+S328 Cerca de 1473 las tropas mexicas fueron a la frontera este del reino tarasco, precisamente en Taximaroa, encabezados por Axayacatl, mismo que recibió una herida mortal en la cabeza.
+S329 Esta fue la única tentativa de imposición militar por parte de los mexicas en Michoacán.
+S330 De esta región llegaba al imperio, maderas y artesanos de los metales.
+
+§33 Mexicas en el Estado de México
+S331 El actual territorio del estado México fue el principal y mayor tributario de maderas, carnes y vegetales del Imperio azteca.
+S332 Y de donde se obtuvo parte de lo que fue la cultura azteca.
+S333 Que según se inspiraron de los teotihuacanos y toltecas.
+S334 Aunque con Chalco se tuvieron roces pues ellos se resistían a ser sometidos pero sin tener grandes consecuencias, pues siempre eran de nuevo sometidos.
+S335 Referente a la hidrografía, lo que hoy son el Estado de México y el Distrito Federal compartías el sistema de lagos de la cuenca del valle de México o de Anáhuac los cuales eran los lagos de Zumpango, Xaltocan, Texcoco y Chalco.
+
+§34 Mexicas en Ciudad de México
+S336 En el siglo XIV, después de una peregrinación de más de un siglo, los mexicas llegaron a la cuenca del valle de Anáhuac (o valle de México) para asentarse primero en sus orillas y después en un islote de donde salieron para crear su imperio.
+S337 Cuando llegaron eran conocidos como «aztecas», que quiere decir «los que vienen de Aztlán», que significa «lugar de garzas».
+S338 Cuando por fin se establecieron, recibieron el nombre de «mexicas».
+
+§35 Mexicas en Morelos
+S339 Los mexicas obtenían de esta región, en su mayoría, productos del campo.
+S340 De otros lugares obtenían productos tropicales, aunque en esta zona el clima hacía posible además cultivar el árbol del cacao.
+
+§36 Mexicas en Hidalgo
+S341 Cerca del siglo XII d.
+S342 C.
+S343 los mexicas, procedentes de Aztlán, se establecieron en Tula, antes de seguir por Atlitlalaquia y Apizaco.
+S344 Posteriormente Tula fue reverenciada por los habitantes tenochcas.
+S345 De las zonas sometidas provenían las fibras de maguey consideradas de la más alta calidad.
+
+§37 Mexicas en Querétaro
+S346 Los únicos lugares que se conoce hasta el momento que fueron conquistados por los mexicas en el estado de Querétaro fueron zonas fronterizas con otros estados de México conquistados por los Mexicas.
+
+§38 Véase también
+S347 Mexica
+S348 Mesoamérica
+
+§39 Notas
+S349 Esta es la grafía moderna.
+S350 Esta es la grafía tradicional.
+S351 ēy(i)+cān tlahtō+lō+yān (3+lugar hablar+PASIVA+LUGAR.USUAL)
+S352 El término «azteca» (del náhuatl: aztecatl ‘habitante de Aztlan’) es empleado en muchas obras como sinónimo de «mexica», pueblo que fundó y habitó México-Tenochtitlan en el Posclásico mesoamericano, y cuyos gobernantes encabezaron la Triple Alianza que construyó la entidad de dominio político y económico que se trata en este artículo.
+S353 Autores mexicanos de renombre han abandonado el uso del vocablo azteca no ya por las razones expuestas si no como lo indica Pedro Carrasco «El gentilicio azteca es inútil para entender la complejidad étnica del México antiguo», mientras que como lo señala León-Portilla el uso del gentilicio Azteca es «[…] una ironía que insiste en dar el nombre de los tiranos a quienes se separaron de ellos e hicieron suyo otro apelativo».
+S354 Los autores de otros países, particularmente los anglosajones, suelen usar «azteca» (Smith, 2003).
+S355 Algunos autores sostienen un uso diferenciado para estos gentilicios: «mexica» se refiere exclusivamente a los habitantes de México-Tenochtitlan y México-Tlatelolco, siendo los primeros mexica-tenochcas y los segundos mexica-tlatelolcas.
+S356 Por lo tanto, el término «tenochca» es el más específico, razón por la cual Pedro Carrasco decidió utilizarlo en su gran obra sobre aquel imperio (Carrasco 1996).
+S357 En cuanto al término «azteca», algunos prefieren darle un sentido genérico, refiriéndose al conjunto de pueblos con una cultura común de habla náhuatl que poblaron el área central de Mesoamérica en el Posclásico Tardío (ss. XIV-1521), es decir: mexicas, tepanecas, acolhuas, xochimilcas, tlahuicas, matlatzincas, etc.
+S358 Es con ese sentido que se emplea aquí el término azteca.
+S359 Para una discusión sobre su gentilicio, lea: Los aztecas, disquisiciones sobre un gentilicio, M.
+S360 León-Portilla Archivado el 16 de junio de 2015 en Wayback Machine., también Estructura político-territorial del imperio tenochca, P.
+S361 Carrasco (1996), también Smith (2003), Santamarina (2006): pp. 24-27.
+S362 1 2 Tentetl; palabra derivada de tentli, «labio», y tetl, «piedra»; ornamento puesto en el labio inferior a través de una incisión.
+S363 Un metepantle o metepantli se trata de una «hilera de magueyes que separan terrenos».
+S364 Generalmente las terrazas hechas con muros de piedra predominan sobre los metepantles en laderas más inclinadas.
+S365 Terrazas de muros de piedra o metepantles construidos en la época prehispánica siguen siendo usados por agricultores en sitios como, por ejemplo, Milpa Alta, Ciudad de México; Toluca, Estado de México; y Tepoztlán, Morelos.
+S366 Chinampas prehispánicas, aunque actualmente se encuentran amenazadas por la contaminación del agua y el crecimiento urbano de la capital, aún se usan en cinco pueblos al sur de la Ciudad de México: Mixquic, San Pedro Tláhuac, San Luis Tlaxialtemalco, San Gregorio Atlapulco y, famosamente, Xochimilco, donde se encuentran la gran mayoría, aunque solo un 17 % de las chinampas que aún existen (menos de 21 mil en 2022) están activas.
+S367 Actualmente es posible acceder a una traducción al inglés de este texto en el sitio web de Getty Center, que se puede consultar en la bibliografía de este artículo.
+S368 El texto se ubica en Sahagún (siglo XVI, libro 9, fol. 50r-54r).
+
+§40 Referencias
+S369 https://web.archive.org/web/20180930115440/https://www.history.com/topics/ancient-americas/aztecs | en inglés
+S370 1 2 Soustelle, Jacques (1970).
+S371 La Vida Cotidiana De Los Aztecas En Vísperas De La Conquista.
+S372 p. 16. «...cada ciudad conservaba su autonomía administrativa y política, con la sola reserva de pagar el impuesto, suministrar contingentes militares y de someter (...) sus litigios a los tribunales de México y Texcoco.
+S373 No existía, pues, una verdadera centralización; lo que nosotros llamamos imperio azteca era más bien una confederación nada rígida de ciudades estado con situaciones políticas muy diversas.»
+S374 Soustelle, Jacques (1970).
+S375 La Vida Cotidiana De Los Aztecas En Vísperas De La Conquista.
+S376 p. 16. «...la existencia del imperio debía forzosamente influir en la ciudad dominante y modificar en ella las condiciones de vida.
+S377 Ya fuera por el tributo o bien por el comercio, los productos de todas las provincias afluían a México».
+S378 Hassig 1988
+S379 Soustelle, Jacques (1970).
+S380 La Vida Cotidiana De Los Aztecas En Vísperas De La Conquista.
+S381 p. 16. «Hasta el fin, el pensamiento político de los mexicanos no conocerá más que la ciudad (altepetl), unidad de base, autónoma, que puede estar asociada o subordinada a otras, pero que seguirá siendo la célula fundamental de la estructura estatal.
+S382 El imperio es un mosaico de ciudades.»
+S383 de Torquemada, Juan (1723).
+S384 Monarquía Indiana, Libro segundo.
+S385 p. 114. «...Huitzilopuchtli, (...) les dijo: ya estáis apartados y segregados de los demás y así quiero que como escogidos míos ya no os llaméis aztecas, sino mexicas y aquí fue donde primeramente tomaron este nombre de mexicanos...»
+S386 Herrera Meza, María del Carmen; López Austin, Alfredo; Martínez Baracs, Rodrigo (2013).
+S387 «El nombre náhuatl de la Triple Alianza».
+S388 Estudios de cultura náhuatl (México) 46.
+S389 ISSN 0071-1675.
+S390 Archivado desde el original el 22 de enero de 2021.
+S391 Consultado el 27 de julio de 2022.
+S392 1 2 3 4 5 6 7 «Los tlatoanis mexicas».
+S393 Arqueología Mexicana.
+S394 30 de junio de 2016.
+S395 Consultado el 4 de enero de 2020.
+S396 1 2 Durán,, p. 38.
+S397 1 2 Karttunen, Frances (1983): An Analytical Dictionary of Nahuatl, University of Texas Press, Austin, p. 145, ISBN 0-8061-92421-0.
+S398 López Austin, 1961, p. 57.
+S399 Hassig, 1988, pp. 45-46.
+S400 1 2 López Austin, 1961, pp. 55-56.
+S401 Durán, 1867, p. 154.
+S402 1 2 Pérez Espinosa, José Genovevo (17 de septiembre de 2022).
+S403 «Chinampas: jardín milenario de la Ciudad de México».
+S404 La Jornada del Campo (180).
+S405 Consultado el 31 de diciembre de 2023.
+S406 1 2 3 Pérez Sánchez, José Manuel; Juan Pérez, José Isabel (2016).
+S407 «Agricultura de terrazas en el cerro Tenismo, Toluca.
+S408 México».
+S409 Terra Nueva Etapa XXXII (51): 163-184.
+S410 Consultado el 31 de diciembre de 2023.
+S411 Paredes Gudiño, Blanca (17 de septiembre de 2022).
+S412 «El sistema de terrazas en Milpa Alta: tecnologías tradicionales para la conservación de suelos y la retención del agua».
+S413 La Jornada del Campo (180).
+S414 Consultado el 31 de diciembre de 2023.
+S415 Smith y Berdan, 2021, p. 108.
+S416 Sáez, Aitor (26 de noviembre de 2020).
+S417 «Un sistema agrícola único en el mundo».
+S418 DW Español.
+S419 Consultado el 31 de diciembre de 2023.
+S420 1 2 Hassig, 1988, pp. 29-30.
+S421 1 2 3 Hicks, Frederic (1974).
+S422 «Dependent Labor in Prehispanic Mexico» [Trabajo dependiente en el México prehispánico].
+S423 Estudios de Cultura Náhuatl (en inglés) 11: 254-257.
+S424 ISSN 0071-1675.
+S425 Consultado el 29 de diciembre de 2023.
+S426 Smith y Berdan, 2021, pp. 107-109.
+S427 Smith y Berdan, 2021, pp. 84-86, 92-93.
+S428 Alva Cortés Ixtlilxóchitl, 1892, p. 310.
+S429 Durán, 1867, p. 417.
+S430 Smith y Berdan, 2021, pp. 127-128.
+S431 López Austin, 1961, pp. 135-136.
+S432 Díaz del Castillo, 2011, pp. 292-293.
+S433 1 2 3 Bray, Warwick (1968).
+S434 Everyday Life of the Aztecs (en inglés).
+S435 Nueva York: Dorset Press.
+S436 pp. 110-112.
+S437 ISBN 0-88029-143-5.
+S438 Consultado el 4 de enero de 2024.
+S439 Sahagún, siglo XVI, libro 10, fol.
+S440 46r-47r.
+S441 1 2 Aranda Kilian, Lucía (2005).
+S442 «El uso del cacao como moneda en la época prehispánica y su pervivencia en la época colonial».
+S443 XIII Congreso Internacional de Numismática, Madrid, 2003: actas-proceedings-actes 2: 1439-1450.
+S444 ISBN 978-84-8181-238-1.
+S445 Consultado el 5 de enero de 2024.
+S446 1 2 Berdan, Frances F.
+S447 Aztec Archaeology and Ethnohistory (en inglés).
+S448 Cambridge University Press.
+S449 pp. 122-128.
+S450 ISBN 978-0-521-88127-2.
+S451 «tepoztli».
+S452 Nahuatl Dictionary (en inglés).
+S453 Consultado el 4 de enero de 2024.
+S454 Hosler, Dorothy; Lechtman, Heather; Holm, Olaf (1990).
+S455 «Axe-Monies and Their Relatives» [Monedas de hacha y sus familiares].
+S456 Studies in Pre-Columbian Art and Archaeology (en inglés) (Dumbarton Oaks, Trustees for Harvard University) (30): 17.
+S457 ISBN 0-88402-185-8.
+S458 Consultado el 4 de enero de 2024.
+S459 1 2 3 Cobb, Kim Cullen; Beekman, Christopher S.; Kaplan, Emily; Lam, Thomas (2022).
+S460 «The Craft, Use, and Distribution of Axe-Monies in Mesoamerica» [La fabricación, uso y distribución de monedas de hacha en Mesoamérica].
+S461 En Beekman, Christopher S.; McEwan, Colin, eds.
+S462 Waves of Influence: Pacific Maritime Networks Connecting Mexico, Central America, and Northwestern South America (en inglés) (Washington, DC: Dumbarton Oaks): 347-415.
+S463 ISBN 9780884024897.
+S464 Consultado el 4 de enero de 2024.
+S465 Peralta, Manuel M.
+S466 de (1883).
+S467 Costa Rica, Nicaragua y Panamá, en el siglo XVI.
+S468 Madrid: Librería de M.
+S469 Murillo.
+S470 pp. 3, 12.
+S471 Consultado el 4 de enero de 2024.
+S472 Berdan y Anawalt, 1997, pp. 79-82, 90.
+S473 1 2 Hosler, Dorothy (2008) [​1992​].
+S474 «La región huasteca: un segundo sitio de producción de aleaciones de bronce en la antigua Mesoamérica».
+S475 trad.
+S476 Angelines Torre.
+S477 Viaje a la Huasteca con Guy Stresser-Péan (México: Centro de estudios mexicanos y centroamericanos): 292-313.
+S478 ISBN 9791036532276. doi:10.4000/books.cemca.4002.
+S479 Consultado el 6 de enero de 2024.
+S480 «coyolli».
+S481 Gran Diccionario Náhuatl.
+S482 Universidad Nacional Autónoma de México.
+S483 Consultado el 6 de enero de 2024.
+S484 1 2 Hosler, Dorothy (1995).
+S485 «Sound, Color and Meaning in the Metallurgy of Ancient West Mexico» [Sonido, color y significado en la metalurgia del occidente antiguo de México].
+S486 World Archaeology (en inglés) (Taylor and Francis) 27 (1): 100-115.
+S487 JSTOR 124780.
+S488 1 2 Berdan y Anawalt, 1997, p. 231.
+S489 Sahagún, siglo XVI, libro 9, fol.
+S490 48v.
+S491 Berdan y Anawalt, 1997, pp. 78-82, 90-91.
+S492 Darra, Vérionque (1999).
+S493 Tecnologías prehispánicas de la obsidiana.
+S494 México: Centro de estudios mexicanos y centroamericanos.
+S495 pp. 71-91, 93-105.
+S496 ISBN 9782821846210. doi:10.4000/books.cemca.2401.
+S497 Consultado el 10 de enero de 2024.
+S498 Stark, Barbara L.; Boxt, Matthew A.; Gasco, Janine; González Lauck, Rebecca B.; Hedgepeth Balkin, Jessica D.
+S499 et al. (2016).
+S500 «Economic growth in Mesoamerica: Obsidian consumption in the coastal lowlands» [Crecimiento económico en Mesoamérica: consumo de obsidiana en las tierras bajas costeras] (PDF).
+S501 Journal of Anthropological Archaeology (en inglés) 41: 263-282.
+S502 ISSN 0278-4165.
+S503 doi:10.1016/j.jaa.2016.01.008.
+S504 Consultado el 12 de enero de 2024.
+S505 Cervera Obregón, Marco Antonio (2006).
+S506 «The macuahuitl: an innovative weapon of the Late Post-Classic in Mesoamerica» [El macuahuitl: un arma innovadora del Posclásico Tardío en Mesoamérica].
+S507 Arms and Armour (en inglés) 3 (2): 127-148.
+S508 ISSN 1741-6124.
+S509 doi:10.1179/174962606X136892.
+S510 Consultado el 12 de enero de 2024.
+S511 Fernández Sánchez, Pablo (2010).
+S512 «Introducción al estudio de la producción de jade en el mundo olmeca» (PDF).
+S513 @rqueología y Territorio (7): 93-104.
+S514 ISSN 1698-5664.
+S515 Consultado el 7 de enero de 2024.
+S516 Berdan y Anawalt, 1997, p. 81.
+S517 Berdan y Anawalt, 1997, pp. 81, 112, 116-118, 122, 131.
+S518 León-Portilla, Miguel (2006).
+S519 «VI.
+S520 La minería y la metalurgia en el México Antiguo» (PDF).
+S521 Obras de Miguel León-Portilla.
+S522 III.
+S523 Herencia cultural de México.
+S524 pp. 77-79.
+S525 ISBN 970-32-2627-2.
+S526 Consultado el 7 de enero de 2024.
+S527 1 2 Mastache, Alba Guadalupe (2005) [​1996​].
+S528 «El tejido en el México antiguo».
+S529 Arqueología Mexicana (19): 20-31.
+S530 Consultado el 15 de enero de 2024.
+S531 Berdan y Anawalt, 1997, pp. 145-146, 149, 162.
+S532 González Pérez, Damián (2017).
+S533 «Mujeres tejedoras, diosas guerreras.
+S534 Mitos de la tradición textil de comunidades zapotecas de la Sierra Sur de Oaxaca».
+S535 Desacatos: Revista de Antropología Social (Ciudad de México: Centro de Investigaciones y Estudios Superiores en Antropología Social) (54).
+S536 ISSN 2448-5144.
+S537 Consultado el 16 de enero de 2024.
+S538 Díaz del Castillo, 2011, pp. 227, 229.
+S539 Manzo, Diana (5 de octubre de 2022).
+S540 «El Añil, "el oro azul" que produce Niltepec Oaxaca para el mundo».
+S541 Pie de Página.
+S542 Consultado el 16 de enero de 2024.
+S543 Gómez Montes, Liliana María (2016).
+S544 «Sus cuerpos, nuestras vidas: torso desnudo y mandil en la historia mixteca de la costa».
+S545 Temas de Nuestra América 32 (60): 107-128.
+S546 ISSN 0259-2339.
+S547 doi:10.15359/tdna.32-60.6.
+S548 Consultado el 15 de enero de 2024.
+S549 1 2 «escaupil».
+S550 Diccionario de la lengua española.
+S551 Real Academia Española.
+S552 Consultado el 9 de enero de 2024.
+S553 Díaz Cárdenas, León, ed.
+S554 El conquistador anónimo: relación de algunas cosas de la Nueva España y de la gran ciudad de Temestitan México.
+S555 Escrita por un compañero de Hernán Cortés.
+S556 México, D. F.: Editorial América.
+S557 p. 23.
+S558 Consultado el 9 de enero de 2024.
+S559 Hassig, 1988, p. 88.
+S560 Baumgartner, Walter (2006).
+S561 «The Aztec Feather Shield in Vienna: Problems of Conservation».
+S562 Nuevo Mundo Mundos Nuevos (en inglés).
+S563 ISSN 1626-0252.
+S564 doi:10.4000/nuevomundo.1447.
+S565 Consultado el 14 de abril de 2024.
+S566 1 2 3 4 Castelló Yturbide, Teresa, ed.
+S567 El arte plumaria en México.
+S568 Fomento Cultural Banamex.
+S569 pp. 32-33, 45-49, 52.
+S570 ISBN 968-7009-35-7.
+S571 Consultado el 14 de abril de 2024.
+S572 Sahagún, siglo XVI, libro 8, fol.
+S573 5; libro 9, fol.
+S574 Durán, 1867, pp. 368-369.
+S575 Porro Gutiérrez, Jesús María (1996).
+S576 Sever-Cuesta, ed.
+S577 El simbolismo de los aztecas: su visión cosmogónica y pensamiento religioso.
+S578 pp. 27-48.
+S579 ISBN 9788485022649.
+S580 Alcina Franch, José (1989).
+S581 Los aztecas.
+S582 Cambio 16. p. 150.
+S583 ISBN 9788476791509.
+S584 Olivera Ravasi, Javier.
+S585 Que no te la cuenten, La falsificación de la historia.
+S586 Soustelle, Jacques (1962).
+S587 Daily life of the Aztecs.
+
+§41 Bibliografía
+S588 Alva Cortés Ixtlilxóchitl, Fernando de (1892).
+S589 Chavero, Alfredo, ed.
+S590 Obras históricas de don Fernando de Alva Ixtlilxóchitl (PDF).
+S591 II: Historia chichimeca.
+S592 México: Oficina Tip.
+S593 de la Secretaría de Fomento.
+S594 Consultado el 29 de diciembre de 2023.
+S595 Berdan, Frances F.; Anawalt, Patricia Rieff (1997).
+S596 The Essential Codex Mendoza (en inglés).
+S597 University of California Press.
+S598 ISBN 0-520-20454-9.
+S599 Carrasco, Pedro, Estructura político-territorial del Imperio tenochca.
+S600 La Triple Alianza de Tenochtitlan, Tetzcoco y Tlacopan.
+S601 Ciudad de México: Fondo de Cultura Económica, 1996.
+S602 Cervera Obregón, Marco A., Breve historia de los aztecas, Nowtilus, Madrid, 2008
+S603 Cervera Obregón, Marco A., El armamento entre los mexicas, Anejos de GLADIUS, 11, CSIC-Polifemo, Madrid, 2007.
+S604 Díaz del Castillo, Bernal (2011) [​1632​].
+S605 Serés, Guillermo, ed.
+S606 Historia verdadera de la conquista de la Nueva España (PDF).
+S607 Madrid: Real Academia Española.
+S608 Consultado el 1 de enero de 2023.
+S609 Durán, Diego (1867).
+S610 Ramírez, José F., ed.
+S611 Historia de las Indias de Nueva España y islas de Tierra Firme.
+S612 México: Imprenta de J.M.
+S613 Andrade y F.
+S614 Escalante.
+S615 Consultado el 29 de diciembre de 2023.
+S616 Hassig, Ross (1988).
+S617 Aztec Warfare: Imperial Expansion and Political Control (en inglés).
+S618 Norman y Londres: University of Oklahoma Press.
+S619 ISBN 0-8061-2121-1.
+S620 Consultado el 29 de diciembre de 2023.
+S621 Trabajos arqueológicos en el Centro de la Ciudad de México, SEP-INAH, México, 1979.
+S622 López Austin, Alfredo (1961).
+S623 La constitución real de México-Tenochtitlan.
+S624 México: Universidad Nacional Autónoma de México.
+S625 Consultado el 29 de diciembre de 2023.
+S626 Matos Moctezuma, Eduardo y Felipe Ehrenberg: Coyolxauhqui, SEP, segunda edición, México, 1980.
+S627 Matos Moctezuma, Eduardo: México-Tenochtitlan: su espacio y tiempo sagrados, Plaza y Valdés Editores, México, 1987.
+S628 Matos Moctezuma, Eduardo: Estudios Mexicas.
+S629 Volumen 1, Tomos 1 y 2.
+S630 El Colegio Nacional, México, 1999.
+S631 Sahagún, Bernardino de (Siglo XVI).
+S632 Historia general de las cosas de Nueva España.
+S633 Consultado el 3 de enero de 2024.
+S634 Durán, Diego (Siglo XVI).
+S635 Historia de las Indias de Nueva España y islas de Tierra Firme.
+S636 Consultado el 12 de noviembre de 2025.
+S637 Laurette Sejourné: Pensamiento y Religión en el México Antiguo.
+S638 Fondo de Cultura Económica.
+S639 Santamarina Novillo, Carlos, El sistema de dominación azteca: el Imperio Tepaneca.
+S640 Serie Historia, 11.
+S641 Madrid: Fundación Universitaria Española, 2006.
+S642 Smith, Michael E., «A Quarter-Century of Aztec Studies».
+S643 Mexicon 25: 4-10, 2003.
+S644 Smith, Michael E.
+S645 and Frances F. Berdan, «Archaeology and the Aztec Empire».
+S646 World Archaeology 23: 353-367, 1992.
+S647 Smith, Michael E.; Berdan, Frances F.
+S648 Everyday Life in the Aztec World (en inglés).
+S649 Cambridge University Press.
+S650 ISBN 978-0-521-51636-5.
+S651 LCCN 2019052441. doi:10.1017/9781139031844.
+
+§42 Enlaces externos
+S652 Wikimedia Commons alberga una categoría multimedia sobre Imperio azteca.
+S653 Datos: Q2608489

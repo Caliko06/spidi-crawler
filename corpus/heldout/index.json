@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mycorrhiza",
+    "title": "Mycorrhiza",
+    "url": "https://en.wikipedia.org/wiki/Mycorrhiza",
+    "credit": "Wikipedia."
+  },
+  {
+    "id": "cors",
+    "title": "Cross-Origin Resource Sharing (CORS)",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS",
+    "credit": "MDN."
+  },
+  {
+    "id": "pg-growth",
+    "title": "Startup = Growth",
+    "url": "https://paulgraham.com/growth.html",
+    "credit": "Paul Graham."
+  },
+  {
+    "id": "sourdough",
+    "title": "Sourdough",
+    "url": "https://en.wikipedia.org/wiki/Sourdough",
+    "credit": "Wikipedia."
+  },
+  {
+    "id": "python-venv",
+    "title": "12. Virtual Environments and Packages",
+    "url": "https://docs.python.org/3/tutorial/venv.html",
+    "credit": "Python docs."
+  },
+  {
+    "id": "imperio-azteca",
+    "title": "Imperio azteca",
+    "url": "https://es.wikipedia.org/wiki/Imperio_azteca",
+    "credit": "Wikipedia."
+  }
+]

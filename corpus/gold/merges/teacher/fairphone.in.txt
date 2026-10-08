@@ -1,0 +1,39 @@
+DOCUMENT: Fairphone Shop
+
+
+THEME "Keep it going for years with swappable parts"
+  s0 An old battery shouldn't mean a new device.
+  s1 [ESSENTIAL] With Fairphone, repairs are simple enough for anyone.
+  s2 [ESSENTIAL] Swap one part in minutes—no technical expertise required.
+  s3 [ESSENTIAL] We've designed over 40 components to be easily replaceable.
+  s4 [ESSENTIAL] From batteries to headbands, you're in control of your device's lifespan.
+
+THEME "Fairphone"
+  s5 [ESSENTIAL] Modular design with 12 replaceable parts.
+  s6 Five-year warranty.
+  s7 Software support till 2033.
+
+THEME "Privacy by design"
+  s8 App lounge for curated privacy-first apps
+  s9 Open-source European-made
+  s10 [ESSENTIAL] 12 modular parts, easy to repair
+
+THEME "Join now. Keep longer. Earn more."
+  s11 The only rewards program thats all about you keeping what you love for longer - and getting rewarded for it!
+  s12 We have a new edition of our award-winning Fairbuds XL now on sale.
+
+SUBJECT "Fairbuds" (under theme "Join now. Keep longer. Earn more.")
+  s13 Up to 30 hours of battery runtime
+
+THEME "Fairphone Shop"
+  s14 This item is out of stock
+  s15 [LEAD] Repair over Replace
+  s16 We don’t just assemble parts.
+  s17 We respect the people and the planet behind them.
+  s18 2,083 tons
+  s19 of CO₂e avoided in 2025
+  s20 €1.25M
+  s21 paid in living wage bonuses since 2019
+  s22 30 tons
+  s23 of e-waste collected in 2025
+  s24 e-waste neutral across all products by 2026

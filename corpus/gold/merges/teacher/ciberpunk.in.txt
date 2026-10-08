@@ -1,0 +1,62 @@
+DOCUMENT: Ciberpunk
+
+
+THEME "Ciberpunk"
+  s0 [LEAD] El ciberpunk (en inglés: cyberpunk; pronunciado /'saɪbəʳpʌŋk/) es un subgénero de la ciencia ficción, conocido por reflejar visiones distópicas del futuro en las cuales se combinan la tecnología avanzada con un bajo nivel de vida.
+  s1 En él, la ciencia (y sobre todo la informática y la cibernética) suele generar o interaccionar con algún tipo de cambio de paradigma social o cultural.
+  s2 [ESSENTIAL] En las tramas del género ciberpunk, el argumento suele estar centrado en los hipotéticos conflictos entre hackers, inteligencias artificiales y megacorporaciones, todo ello situado en un futuro cercano del planeta Tierra.
+
+SUBJECT "Bruce Bethke" (under theme "Ciberpunk")
+  s3 El escritor Bruce Bethke acuñó el término en 1980 para su historia corta Cyberpunk, aunque la historia no se publicó hasta noviembre de 1983, en Amazing Stories, Volumen 57, Número 4.
+
+SUBJECT "William Gibson" (under theme "Ciberpunk")
+  s4 William Gibson con su novela Neuromancer, es probablemente el más famoso escritor conectado con el término.
+
+THEME "Estilo y carácter distintivo"
+  s5 Las distopías posindustriales del ciberpunk, sin embargo, acostumbran a estar marcadas por un desarrollo cultural extraordinario, y por la subversión en el uso de las tecnologías, que son explotadas en ámbitos nunca previstos por sus creadores.
+  s6 Los escritores ciberpunk tienden a emplear elementos de la novela policíaca dura, del cine negro y de la prosa postmoderna para describir las características del lado clandestino de sus sociedades dominadas por la tecnología.
+  s7 Su visión de un futuro imperfecto puede ser vista como la antítesis del porvenir utópico que se anunciaba en las historias de la Edad de Oro de la ciencia ficción, populares en los años 1940 y 1950.
+  s8 En la escritura ciberpunk la mayor parte de la acción ocurre en línea, en el ciberespacio; atenuando cualquier frontera entre la realidad y la realidad virtual.
+  s9 Un tropo típico en estas obras es la conexión directa entre el cerebro humano y un sistema de cómputo.
+  s10 El mundo dominado por los sistemas informáticos es representado como un lugar oscuro, siniestro, donde las redes de comunicación controlan todos los aspectos de la vida.
+  s11 [ESSENTIAL] Las corporaciones multinacionales gigantes han tomado el papel de los gobiernos como centros del poder político, económico y militar.
+  s12 La lucha entre un personaje marginalizado y un sistema totalitario es un tema común en la ciencia ficción (por ejemplo, la novela 1984 de George Orwell) y particularmente en el ciberpunk, aunque en la ciencia ficción convencional los sistemas totalitarios tienden a ser estériles, ordenados y controlados por el Estado.
+  s13 El estilo enfático, la fascinación con la superficie, la «apariencia y sensación» de futuro y la atmósfera ya tradicional en la ciencia ficción son vistos como la ruptura y a veces como «el trabajo arquetípico del ciberpunk».
+
+SUBJECT "Sociedad y gobierno" (under theme "Estilo y carácter distintivo")
+  s14 El ciberpunk se sitúa como un defensor de la libre circulación de la información.
+  s15 Decididamente opuesto a los derechos de propiedad intelectual, se trata de un acérrimo defensor de las tecnologías de cifrado para garantizar la privacidad así como del dinero electrónico.
+  s16 La literatura ciberpunk suele servir frecuentemente como una metáfora de las preocupaciones actuales sobre los efectos y el control de las corporaciones sobre las personas, la corrupción de los gobiernos, la enajenación y la vigilancia tecnológica.
+  s17 El ciberpunk puede ser entendido como una advertencia a los lectores y una llamada a la acción.
+  s18 Esto a menudo expresa el sentido de rebelión, sugiriendo que uno podría describirlo como un tipo de ciencia ficción contracultural.
+  s19 Cuentos populares de ciencia ficción de Gibson, Cadigan y otros son una representación orwelliana de la acumulación del poder en el próximo siglo, pero casi siempre en manos secretas más adineradas o en corporaciones de élite.
+  s20 Es frecuente en las historias ciberpunk presentar una suerte de red de comunicaciones global combinada con representaciones multisensoriales de la información, semejantes a la realidad virtual.
+
+SUBJECT "Protagonistas" (under theme "Estilo y carácter distintivo")
+  s21 Los protagonistas de la escritura ciberpunk generalmente son hackers, quienes son moldeados frecuentemente en la idea de héroe solitario que combate la injusticia: vaqueros, rōnin, etc.
+  s22 A menudo son individuos marginalizados que se encuentran envueltos en situaciones extraordinarias, más que científicos brillantes o capitanes estrella buscando intencionalmente avances o aventura, y no siempre son verdaderos «héroes».
+  s23 ProtagonistasLos personajes del ciberpunk clásico son seres marginados, alejados, solitarios, que viven al margen de la sociedad, generalmente en futuros distópicos donde la vida diaria es impactada por el rápido cambio tecnológico, una atmósfera de información computarizada ubicua y la modificación invasiva del cuerpo humano.
+  s24 Como Case muchos protagonistas ciberpunk son manipulados, puestos en situaciones donde tienen poca o ninguna opción, y aunque ellos pueden verse en esto, no necesariamente llegan a estar más lejos de lo que previamente estaban.
+  s25 Estos antihéroes –«criminales, parias, visionarios, desertores e inadaptados»– no experimentan el «camino de héroe» de Joseph Campbell como un protagonista de la epopeya homérica o una novela de Alexandre Dumas.
+  s26 Este énfasis sobre los inadaptados y descontentos —que Thomas Pynchon llama el «pretérito» y Frank Zappa el «olvido de la Gran Sociedad»— es el componente «punk» del ciberpunk.
+
+THEME "Música y moda"
+  s27 El término «música ciberpunk» puede referirse a dos categorías algo superpuestas.
+  s28 El español José María Ávalos Oliveros, en su tesis de máster para la carrera de postproducción digital de la Universidad Politécnica de Valencia, llamada Distopía musical: La música en el Cyberpunk se sostiene que ningún compositor se amolda a unas reglas concretas para escribir o componer música ciberpunk.
+  s29 No hay un estilo preestablecido ni pautas a seguir y que cada músico aporta una novedad distinta, por lo general, en cada producción en la que hayan participado.
+  s30 En la actualidad, podemos decir que el género que representa a plenitud el espíritu ciberpunk es el futurepop, de la mano de bandas como Mind.In.A.Box, VNV Nation, Rotersand, Covenant, Colony 5 y bandas de synthpop como Neuroactive, Neuroticfish y Seabound.
+
+THEME "Variantes y herederos del ciberpunk"
+  s31 Entre los subgéneros del ciberpunk está el steampunk que se ubica en una era victoriana ucrónica pero con una visión negra del mundo.
+  s32 Los inicios de 1990 vieron el nacimiento del biopunk, un estilo derivado construido no sobre la base de la tecnología sino sobre la biología.
+  s33 El género emergente llamado postciberpunk continúa preocupándose por los efectos de los ordenadores, pero sin dar por supuesta la distopía ni dar tanta importancia a los implantes cibernéticos.
+
+THEME "Videojuegos"
+  s34 Los videojuegos usan frecuentemente el ciberpunk como fuente de inspiración, algunos de estos como Blade Runner o Enter the Matrix, están basados en películas del género, mientras que otros como Deus Ex y System Shock, Final Fantasy VII, Mega Man, Snatcher y Observer son trabajos originales.
+
+THEME "Ciberpunk en español"
+  s35 La primera calle de la soledad (1994), del entonces joven Gerardo Horacio Porcayo, sirvió de ancla para que muchos escritores de ciencia ficción tomaran al género como algo suyo, y aunque el ciberpunk mexicano nunca terminó por germinar completamente, ha perdurado más de una década después de su nacimiento.
+
+SUBJECT "movimiento literario" (under theme "Ciberpunk en español")
+  s36 Originalmente el término cyberpunk fue utilizado para referirse al movimiento literario encabezado por Bruce Sterling, William Gibson y John Shirley que surgió durante la década de 1980 en el seno de la literatura de ciencia ficción, siendo empleado por primera vez en ese sentido por Gardner Dozois en 1984.
+  s37 El editor de ciencia ficción Gardner Dozois es generalmente conocido como la persona que popularizó el uso del término «ciberpunk» como un tipo de literatura.

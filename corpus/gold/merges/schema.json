@@ -1,0 +1,5 @@
+{"type":"object","additionalProperties":false,"required":["folds","groups","beads"],
+ "properties":{
+  "folds":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["subject","into","why"],"properties":{"subject":{"type":"string"},"into":{"type":["string","null"]},"why":{"type":"string"}}}},
+  "groups":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["sentences","face","why"],"properties":{"sentences":{"type":"array","items":{"type":"string"}},"face":{"type":"string"},"why":{"type":"string"}}}},
+  "beads":{"type":"array","items":{"type":"string"}}}}

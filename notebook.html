@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semantic Crawler · Notebook</title>
+  <link rel="icon" href="data:,">
+  <link rel="preload" href="fonts/literata.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/plex-mono.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="notebook.css">
+  <script type="importmap">{ "imports": { "three": "/node_modules/three/build/three.module.js", "three/addons/": "/node_modules/three/examples/jsm/", "d3-force": "/node_modules/d3-force/src/index.js", "d3-quadtree": "/node_modules/d3-quadtree/src/index.js", "d3-dispatch": "/node_modules/d3-dispatch/src/index.js", "d3-timer": "/node_modules/d3-timer/src/index.js" } }</script>
+  <script type="module" src="src/notebook.js"></script>
+</head>
+<body>
+  <header id="bar">
+    <a class="name" href="/notebook">Semantic Crawler / Notebook</a>
+    <a class="other" href="/">Crawler</a>
+  </header>
+  <aside id="rail">
+    <section id="shelf">
+      <h2>Sources</h2>
+      <ol id="sources"></ol>
+      <label id="drop" tabindex="0">
+        <input type="file" id="file" accept=".pdf,.html,.htm,application/pdf,text/html" multiple hidden>
+        <span>Drop PDFs or pages here</span>
+        <small>or click to choose</small>
+      </label>
+      <form id="address">
+        <input type="url" name="url" placeholder="&gt; or paste an address" aria-label="Address of an article or a PDF">
+        <button>Add</button>
+      </form>
+      <select id="corpus" aria-label="A page of the corpus">
+        <option value="" disabled selected hidden>Or pick a page of the corpus</option>
+      </select>
+      <input type="text" id="focus" maxlength="300" placeholder="What are you after? (optional)" aria-label="What you are looking for in these sources">
+      <button id="run" disabled>Relate the sources</button>
+      <ol id="stages" aria-live="polite" hidden></ol>
+      <p id="log" aria-live="polite"></p>
+    </section>
+  </aside>
+  <main id="graph">
+    <header id="readout" hidden>
+      <div id="figures" class="figures"></div>
+      <div class="actions">
+        <button type="button" id="restore" hidden></button>
+        <label id="bondline" title="How far above the mean of all pairs a measured bond between two ideas has to stand to be drawn">
+          <output id="bondz">1.5</output><span>σ</span>
+          <input type="range" id="bondrange" min="1" max="3.5" step="0.1" value="1.5" aria-label="Bond threshold in standard deviations">
+        </label>
+        <button type="button" id="bonds" class="toggle" aria-pressed="true" title="The dashed hairlines: how alike two ideas are by their own sentences">Bonds</button>
+        <button type="button" id="only-shared" class="toggle" aria-pressed="false" title="Only the ideas more than one source says">Shared only</button>
+        <button type="button" id="summary" class="toggle" aria-pressed="false">Summary</button>
+        <button type="button" id="export" title="Download the notebook as markdown notes linked with [[wikilinks]]">Export to Obsidian</button>
+      </div>
+    </header>
+    <div id="stage">
+      <svg id="canvas"></svg>
+      <p id="tip" hidden></p>
+      <p id="empty">Add two or more sources and relate them: each source becomes a node, and what several of them say hangs between them.</p>
+    </div>
+  </main>
+  <aside id="drawer" hidden></aside>
+</body>
+</html>

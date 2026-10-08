@@ -1,0 +1,103 @@
+DOCUMENT: Cross-Origin Resource Sharing (CORS)
+
+
+THEME "What requests use CORS?"
+  s0 [ESSENTIAL] This cross-origin sharing standard can enable cross-origin HTTP requests for:
+  s1 Invocations of fetch() or XMLHttpRequest, as discussed above.
+  s2 Web Fonts (for cross-domain font usage in @font-face within CSS), as described in the font fetching requirements, so that servers can deploy TrueType fonts that can only be loaded cross-origin and used by websites that are permitted to do so.
+  s3 Images/video frames drawn to a canvas using drawImage().
+
+THEME "Functional overview"
+  s4 [ESSENTIAL] Additionally, for HTTP request methods that can cause side-effects on server data (in particular, HTTP methods other than GET, or POST with certain MIME types), the specification mandates that browsers "preflight" the request, soliciting supported methods from the server with the HTTP OPTIONS request method, and then, upon "approval" from the server, sending the actual request.
+  s5 Servers can also inform clients whether "credentials" (such as Cookies and HTTP Authentication) should be sent with requests.
+
+THEME "Cross-Origin Resource Sharing (CORS)"
+  s6 [LEAD] The Cross-Origin Resource Sharing standard works by adding new HTTP headers that let servers describe which origins are permitted to read that information from a web browser.
+
+THEME "Examples of access control scenarios"
+
+
+SUBJECT "Requests with credentials" (under theme "Examples of access control scenarios")
+  s7 The most interesting capability exposed by both fetch() or XMLHttpRequest and CORS is the ability to make "credentialed" requests that are aware of HTTP cookies and HTTP Authentication information.
+  s8 By default, in cross-origin fetch() or XMLHttpRequest calls, browsers will not send credentials.
+  s9 To ask for a fetch() request to include credentials, set the credentials option to "include".
+  s10 To ask for an XMLHttpRequest request to include credentials, set the XMLHttpRequest.withCredentials property to true.
+  s11 Since this is a simple GET request, it is not preflighted but the browser will reject any response that does not have the Access-Control-Allow-Credentials header set to true, and not make the response available to the invoking web content.
+  s12 Although the request's Cookie header contains the cookie destined for the content on https://bar.other, if bar.other did not respond with an Access-Control-Allow-Credentials with value true, as demonstrated in this example, the response would be ignored and not made available to the web content.
+
+SUBJECT "Simple requests" (under theme "Examples of access control scenarios")
+  s13 Some requests don't trigger a CORS preflight.
+  s14 However, the server still must opt-in using Access-Control-Allow-Origin to share the response with the script.
+  s15 A simple request is one that meets all the following conditions:
+  s16 Apart from the headers automatically set by the user agent (for example, Connection, User-Agent, or the forbidden request headers), the only headers which are allowed to be manually set are the CORS-safelisted request-headers, which are:
+  s17 Range (only with a single range header value; e.g., bytes=256- or bytes=127-255)
+  s18 The only type/subtype combinations allowed for the media type specified in the Content-Type header are:
+  s19 If the request is made using an XMLHttpRequest object, no event listeners are registered on the object returned by the XMLHttpRequest.upload property used in the request; that is, given an XMLHttpRequest instance xhr, no code has called xhr.upload.addEventListener() to add an event listener to monitor the upload.
+  s20 No ReadableStream object is used in the request.
+
+SUBJECT "Preflighted requests" (under theme "Examples of access control scenarios")
+  s21 Unlike simple requests, for "preflighted" requests the browser first sends an HTTP request using the OPTIONS method to the resource on the other origin, in order to determine if the actual request is safe to send.
+  s22 The Access-Control-Request-Method header notifies the server as part of a preflight request that when the actual request is sent, it will do so with a POST request method.
+  s23 The Access-Control-Request-Headers header notifies the server that when the actual request is sent, it will do so with X-PINGOTHER and Content-Type custom headers.
+  s24 The server also sends Access-Control-Allow-Headers with a value of X-PINGOTHER, Content-Type, confirming that these are permitted headers to be used with the actual request.
+  s25 Finally, Access-Control-Max-Age gives the value in seconds for how long the response to the preflight request can be cached without sending another preflight request.
+
+SUBJECT "Credentialed requests and wildcards" (under theme "Examples of access control scenarios")
+  s26 The server must not specify the * wildcard for the Access-Control-Allow-Origin response-header value, but must instead specify an explicit origin; for example: Access-Control-Allow-Origin: https://example.com
+  s27 The server must not specify the * wildcard for the Access-Control-Allow-Headers response-header value, but must instead specify an explicit list of header names; for example, Access-Control-Allow-Headers: X-PINGOTHER, Content-Type
+  s28 The server must not specify the * wildcard for the Access-Control-Allow-Methods response-header value, but must instead specify an explicit list of method names; for example, Access-Control-Allow-Methods: POST, GET
+  s29 The server must not specify the * wildcard for the Access-Control-Expose-Headers response-header value, but must instead specify an explicit list of header names; for example, Access-Control-Expose-Headers: Content-Encoding, Kuma-Revision
+  s30 If a request includes a credential (most commonly a Cookie header) and the response includes an Access-Control-Allow-Origin: * header (that is, with the wildcard), the browser will block access to the response, and report a CORS error in the devtools console.
+  s31 But if a request does include a credential (like the Cookie header) and the response includes an actual origin rather than the wildcard (like, for example, Access-Control-Allow-Origin: https://example.com), then the browser will allow access to the response from the specified origin.
+
+SUBJECT "Third-party cookies" (under theme "Examples of access control scenarios")
+  s32 Note that cookies set in CORS responses are subject to normal third-party cookie policies.
+  s33 Cookies set in CORS requests and responses are subject to normal third-party cookie policies.
+  s34 Third-party cookie policies may prevent third-party cookies being sent in requests, effectively stopping a site from making credentialed requests even if permitted by the third-party server (using Access-Control-Allow-Credentials).
+  s35 Even if credentialed requests are allowed, a browser may be configured to reject all third-party cookies in responses.
+
+SUBJECT "Preflight requests and credentials" (under theme "Examples of access control scenarios")
+  s36 CORS-preflight requests must never include credentials.
+  s37 The response to a preflight request must specify Access-Control-Allow-Credentials: true to indicate that the actual request can be made with credentials.
+
+SUBJECT "Preflighted requests and redirects" (under theme "Examples of access control scenarios")
+  s38 Not all browsers currently support following redirects after a preflighted request.
+
+THEME "The HTTP response headers"
+
+
+SUBJECT "Access-Control-Allow-Credentials" (under theme "The HTTP response headers")
+  s39 The Access-Control-Allow-Credentials header indicates whether or not the response to the request can be exposed when the credentials flag is true.
+  s40 When used as part of a response to a preflight request, this indicates whether or not the actual request can be made using credentials.
+  s41 Note that simple GET requests are not preflighted, and so if a request is made for a resource with credentials, if this header is not returned with the resource, the response is ignored by the browser and not returned to web content.
+
+SUBJECT "Access-Control-Allow-Headers" (under theme "The HTTP response headers")
+  s42 The Access-Control-Allow-Headers header is used in response to a preflight request to indicate which HTTP headers can be used when making the actual request.
+  s43 This header is the server side response to the browser's Access-Control-Request-Headers header.
+
+SUBJECT "Access-Control-Max-Age" (under theme "The HTTP response headers")
+  s44 The Access-Control-Max-Age header indicates how long the results of a preflight request can be cached.
+  s45 The delta-seconds parameter indicates the number of seconds the results can be cached.
+
+SUBJECT "Access-Control-Allow-Origin" (under theme "The HTTP response headers")
+  s46 Access-Control-Allow-Origin specifies either a single origin which tells browsers to allow that origin to access the resource; or else — for requests without credentials — the * wildcard tells browsers to allow any origin to access the resource.
+
+SUBJECT "Access-Control-Expose-Headers" (under theme "The HTTP response headers")
+  s47 The Access-Control-Expose-Headers header adds the specified headers to the allowlist that JavaScript (such as Response.headers) in browsers is allowed to access.
+
+SUBJECT "Access-Control-Allow-Methods" (under theme "The HTTP response headers")
+  s48 The Access-Control-Allow-Methods header specifies the method or methods allowed when accessing the resource.
+
+THEME "The HTTP request headers"
+
+
+SUBJECT "Access-Control-Request-Headers" (under theme "The HTTP request headers")
+  s49 The Access-Control-Request-Headers header is used when issuing a preflight request to let the server know what HTTP headers will be used when the actual request is made (for example, by passing them as the headers option).
+  s50 This browser-side header will be answered by the complementary server-side header of Access-Control-Allow-Headers.
+
+SUBJECT "Origin" (under theme "The HTTP request headers")
+  s51 The Origin header indicates the origin of the cross-origin access request or preflight request.
+  s52 The origin is a URL indicating the server from which the request is initiated.
+
+SUBJECT "Access-Control-Request-Method" (under theme "The HTTP request headers")
+  s53 The Access-Control-Request-Method is used when issuing a preflight request to let the server know what HTTP method will be used when the actual request is made.

@@ -1,0 +1,17 @@
+DOCUMENT: 10 Evidence-Based Benefits of Green Tea
+
+
+THEME "Green tea"
+  s0 Many of these benefits may be associated with certain compounds in green tea, such as catechins and L-theanine.
+  s1 [ESSENTIAL] Research suggests that drinking green tea may benefit cognition, mood, and brain function, possibly due to compounds in green tea like caffeine and L-theanine.
+  s2 While the evidence is mixed and inconsistent, research has linked drinking green tea with a reduced chance of developing some types of cancer, such as lung cancer or ovarian cancer.
+  s3 shows a modest beneficial effect, scientists could not conclude any consistent effects of green tea on overall cancer likelihood.
+  s4 A 2020 study showed that green tea was linked with lower levels of certain markers related to Alzheimer’s disease in people without current, known cognitive issues.
+  s5 While the evidence is mixed, studies seem to show health benefits with three to five cups (24 to 40 ounces) consumed daily.
+  s6 Drinking green tea has many benefits.
+  s7 It is high in antioxidants, which may help prevent or remedy cellular damage and support your overall health.
+  s8 It may even have some properties that help protect against cancer and heart disease.
+  s9 Some research-based evidence suggests drinking green tea can help reduce body fat, including in the abdomen.
+
+THEME "10 Evidence-Based Benefits of Green Tea"
+  s10 [LEAD] Green tea may help support cognition and weight management, boost energy, and offer some protection against cancer.

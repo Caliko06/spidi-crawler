@@ -1,0 +1,468 @@
+DOCUMENT: 20 Breakthroughs from 20 Years of Science aboard the International Space Station
+
+§0 (under the title)
+S0 Dive into 25 years of research aboard the space station here.
+S1 For 20 years, the astronauts aboard the International Space Station have conducted science in a way that cannot be done anywhere else.
+S2 Orbiting about 250 miles above our planet, the space station is the only laboratory available for long-duration microgravity research.
+S3 During the past two decades, the space station has supported numerous discoveries, scientific publications, unique opportunities, and historic breakthroughs.
+S4 This research not only helps us explore farther into space, it also benefits us back on Earth.
+S5 To mark 20 years of science, take a look at 20 scientific and technological breakthroughs we have achieved as a result of space station science.
+S6 Click on each breakthrough in the list below to learn more about it, why we conducted the research in microgravity, and why it matters.
+
+§1 20 Breakthroughs from 20 Years
+S7 Fundamental disease research: Alzheimer’s Disease.
+S8 Parkinson’s Disease.
+S9 Cancer.
+S10 Asthma.
+S11 Heart Disease.
+S12 If any of these conditions has affected your life, so has space station research.
+S13 Discovery of steadily burning cool flames: When scientists burned fuel droplets in the Flame Extinguishing Experiment (FLEX) study, something unexpected occurred.
+S14 A heptane fuel droplet appeared to extinguish, but actually continued to burn without a visible flame at temperatures two-and-a-half times cooler than a typical candle.
+S15 New water purification systems: Water is vital for human survival.
+S16 Unfortunately, many people around the world lack access to clean water.
+S17 At-risk areas can gain access to advanced filtration and purification systems through technology that was developed for the space station, enabling the astronauts living aboard to recycle 93% of their water.
+S18 Drug development using protein crystals: Protein crystal growth experiments conducted aboard the space station have provided insights into numerous disease treatments, from cancer to gum disease to Duchenne Muscular Dystrophy.
+S19 Methods to combat muscle atrophy and bone loss: Space studies have contributed greatly to our knowledge of bone and muscle loss in astronauts – and how to mitigate those effects.
+S20 The knowledge gained also applies to people on Earth dealing with diseases such as osteoporosis.
+S21 Exploring the fifth state of matter: 25 years ago, scientists first produced a fifth state of matter, called a Bose-Einstein condensate (BEC), on Earth.
+S22 In 2018, NASA’s Cold Atom Lab became the first facility to produce that state of matter in space.
+S23 This achievement may provide insight into fundamental laws of quantum mechanics.
+S24 Understanding how our bodies change in microgravity: When humans head to Mars, we need to know what challenges we face.
+S25 Long-term stays aboard the space station have uncovered unexpected ways that the human body changes in microgravity.
+S26 Testing tissue chips in space: Tissue chips are roughly thumb-drive-sized devices that contain human cells in a 3D matrix, representing functions of an organ.
+S27 Chips have been sent to station, seeking to better understand the impact of microgravity on human health and to translate that understanding to improved health on Earth.
+S28 Stimulating the low-Earth orbit economy: From satellite deployment to in-space research, a vibrant commercial space economy has developed, with a value that now exceeds $345 billion.
+S29 The space station has been a key part of supporting that growth.
+S30 Growing food in microgravity: The ability to grow supplemental food can help humans explore farther from Earth.
+S31 Many techniques for growing plants have been explored aboard the space station to prepare for these missions.
+S32 On August 10, 2015, astronauts sampled their first space-grown salad, and astronauts now are growing radishes in space.
+S33 Deployment of CubeSats from station: CubeSats are one of the smallest types of satellites and provide a cheaper way to perform science and technology demonstrations in space.
+S34 More than 250 CubeSats have now been deployed from the space station, jumpstarting research and satellite companies.
+S35 Monitoring our planet from a unique perspective: The capacity to host varying complements of instruments, both internal and external, has evolved the station into a robust platform for researchers studying Earth’s water, air, land masses, vegetation, and more while providing them additional views beyond those of NASA’s typical Earth remote-sensing satellites.
+S36 Collecting data on more than 100 billion cosmic particles: The Alpha Magnetic Spectrometer – 02 has provided researchers around the globe with data that can help determine what the universe is made of and how it began.
+S37 A better understanding of pulsars and black holes: Two tools installed on the outside of the space station, NICER and MAXI, have worked in tandem to advance our knowledge of pulsars and black holes.
+S38 Student access to an orbiting laboratory: Companies and professors are not the only ones using the space station for microgravity research.
+S39 Station has given elementary- to college-aged students access to science in space and the opportunity to study microgravity’s effects.
+S40 Capability to identify unknown microbes in space: Having the ability to identify microbes in real time in space without the need to send them back to Earth for identification would be revolutionary for the world of microbiology and space exploration.
+S41 The Genes in Space-3 team turned that possibility into reality in 2017.
+S42 Opening up the field of colloid research: Toothpaste, 3D printing, pharmaceuticals, and detecting shifting sands on Mars may not seem related to each other at all, yet each stands to benefit from improvements made thanks to research on colloids aboard the space station.
+S43 The evolution of fluid physics research: Fluids cover our planet, but sending them to space can help us better understand how they flow.
+S44 The study of fluids in space has progressed from fundamental research into the testing of technology applications ranging from advanced medical devices to heat transfer systems.
+S45 3D printing in microgravity: The first item was 3D printed on the space station in 2014.
+S46 Since then, we have explored 3D printing using recycled materials and even printing human tissue.
+S47 Responding to natural disasters: With crew handheld camera imagery as a core component, the station has become an active participant in orbital data collection to support disaster response activities both within the U.S. and abroad.
+S48 Explore all of these breakthroughs in more detail below
+
+§2 Fundamental disease research
+S49 Alzheimer’s Disease.
+S50 Parkinson’s Disease.
+S51 Cancer.
+S52 Asthma.
+S53 Heart Disease.
+S54 If any of these conditions have impacted your life, space station research has also affected you.
+S55 Microgravity research has provided new insights to scientists studying these diseases.
+S56 Without the interference of Earth’s gravity, Alzheimer’s researchers have studied protein clusters that can cause neurodegenerative diseases.
+S57 Cancer researchers studied the growth of endothelial cells on the space station.
+S58 Endothelial cells help supply blood in the body, and tumors need that blood to form.
+S59 Space station-grown cells grow better than those on Earth and can help test new cancer treatments.
+S60 Why do this in space?
+S61 Studying cells, organoids, and protein clusters without the influence of gravity – or even the forces of container walls – can help researchers get a clearer understanding of their properties, behaviors, and responses to treatments.
+S62 Why does it matter?
+S63 The space station is a tool that provides new perspectives to the fight against diseases affecting millions of people that we have been working to combat for generations.
+S64 Example experiments: Angiex Cancer Therapy, Ring Sheared Drop, Airway Monitoring, CCISS
+S65 Learn more:
+S66 Space Station Cell Study Seeks Causes of Major Diseases
+S67 NASA, Industry Partner for Space-based Study of Potential Alzheimer’s Key
+S68 Understanding Asthma from Space
+S69 Vascular Studies in Space: Good for Everyone’s Heart
+
+§3 Discovery of steadily burning cool flames
+S70 When we think about fire, we typically think about heat, but special flames created aboard the space station keep things a bit cooler.
+S71 When scientists burned fuel droplets in the Flame Extinguishing Experiment (FLEX) study, something unexpected occurred.
+S72 A fuel droplet appeared to extinguish but actually continued to burn without a visible flame.
+S73 The fire went out twice—once with and once without a visible flame.
+S74 This is the first time scientists observed large droplets of heptane fuel that had dual modes of combustion and extinction.
+S75 The second stage was sustained by what is known as cool flame chemical heat release.
+S76 Why do this in space?
+S77 Removing gravity from studies of combustion allows for exploration of the basic principles of flames.
+S78 Cool flames have been produced on Earth, but they quickly flicker out.
+S79 On station, cool flames can burn for minutes, giving scientists a better opportunity to study them.
+S80 Why does it matter?
+S81 Typical flames produce soot, carbon dioxide, and water.
+S82 Cool flames produce carbon monoxide and formaldehyde.
+S83 Learning more about the behavior of these chemically different flames could lead to the development of more efficient, less-polluting vehicles.
+S84 Example experiments: FLEX, FLEX-2, Cool Flames Investigation
+S85 Learn more:
+S86 ScienceCasts: Strange Flames on the International Space Station
+S87 An Old Theory Goes up in Cool Flames
+S88 Cool flame research aboard space station may lead to a cleaner environment on Earth
+
+§4 New water purification systems
+S89 The space station’s life support system was developed to provide the crew with clean air and water.
+S90 The Water Recovery System purifies and filters the station’s water, recovering and recycling 93% of the water astronauts use in space.
+S91 This technology has been licensed to adapt it into an Earth-based water treatment system.
+S92 The first of many ground-based water filtration systems using NASA technology was installed in Iraq in 2006.
+S93 Station research studies like AquaMembrane have also tested out other innovative water systems.
+S94 Why do this in space?
+S95 Efficiently recycling wastewater aboard the space station reduces the need to provide water through resupply missions.
+S96 As we travel deeper into space, resupply would be unachievable, making these systems a necessity.
+S97 The restrictions imposed by the requirements of space prompted innovation that was applied to Earth.
+S98 Why does it matter?
+S99 Water is vital for human survival.
+S100 Unfortunately, many people around the world lack access to clean water.
+S101 At-risk areas can gain access to advanced filtration and purification systems through technology developed for the space station, making a lifesaving difference in these communities.
+S102 Example experiments: AquaMembrane, Capillary Structures, JEM Water Recovery System
+S103 Learn more:
+S104 NASA Marshall Engineers Refine Hardware, Apply Innovative Solutions to More Reliably Recycle Space Station Wastewater
+S105 Life Support Upgrades Arrive at Station, Improve Reliability for Moon, Mars Missions
+S106 ECLSS
+S107 More Efficient, Lightweight Water Filtration Technologies in Space and on Earth
+S108 Advanced NASA Technology Supports Water Purification Efforts Worldwide
+
+§5 Drug development using protein crystals
+S109 Humans contain more than 100,000 types of proteins.
+S110 Each protein provides information related to our health.
+S111 Studying these proteins by crystallizing them helps us learn more about our bodies and potential disease treatments.
+S112 Protein crystal growth experiments conducted aboard the space station have provided insights into numerous diseases, from cancer to gum disease.
+S113 One of the most promising results of these station experiments has come from the study of a protein associated with Duchenne Muscular Dystrophy (DMD), an incurable genetic disorder.
+S114 A treatment for DMD based on this research is in clinical trials.
+S115 Another investigation, PCG-5, sought to grow the therapeutic antibody Keytruda® in a more uniform crystalline form.
+S116 The goal was to improve the drug such that it can be delivered by injection as opposed to IV treatment.
+S117 Why do this in space?
+S118 Protein crystals grown on Earth are affected by gravity, which may alter the way the molecules align on the crystal.
+S119 Researchers have discovered that growing crystals aboard the space station allows for slower growth and higher quality crystals.
+S120 This high-quality crystallization allows us to identify the structures of disease-causing proteins to develop a new medications and effective treatments.
+S121 Why does it matter?
+S122 The space station is a tool that could be key in the fight against diseases the medical community has been working to combat for generations.
+S123 DMD alone affects 1 in 3,600 young boys.
+S124 Example experiments: JAXA PCG, PCG-5
+S125 Learn more:
+S126 ISS Benefits for Humanity: Hope Crystalizes
+S127 Getting to the Bottom of Humans’ Greatest Infection: Periodontal Disease
+S128 Improving Treatments with Tiny Crystals
+S129 Finding the Keys in Space to Treat Diseases on Earth
+
+§6 Methods to combat muscle atrophy and bone loss
+S130 The effect of microgravity on bones and muscles provides unique opportunities for research.
+S131 Space studies have contributed greatly to our understanding of bone and muscle loss in astronauts, and in people on Earth.
+S132 Scientists have developed an exercise routine and diet regimen that significantly reduce the bone and muscle loss astronauts otherwise would experience during their stays on station.
+S133 These findings inform the physical activity and nutrition required on deep space missions.
+S134 OsteoOmics investigated mechanisms behind bone formation and loss.
+S135 Rodent Research-19 (RR-19) analyzed drugs that target myostatin, which influences the breakdown of muscles and bones.
+S136 Researchers have even tested tiny chips for delivering drugs to combat muscle loss.
+S137 Why do this in space?
+S138 Our bodies evolved within the constant pull of Earth’s gravity.
+S139 In microgravity, bones and muscles do not have to support the body’s mass.
+S140 This can cause bone and muscle loss without proper exercise.
+S141 This response to microgravity provides an opportunity for better understanding these changes.
+S142 Why does it matter?
+S143 Understanding how to mitigate the effects of microgravity on bones and muscles is important for future exploration in the partial gravity environments of the Moon and Mars.
+S144 On Earth, bone and muscle atrophy occurs from normal aging, sedentary lifestyles, and illnesses.
+S145 This condition may cause serious health issues from injuries due to falls or osteoporosis.
+S146 Studying these losses in microgravity can help us better understand them and potentially create treatments for people back on Earth.
+S147 Example experiments: RR-3, RR-6, RR-19, OsteoOmics, Medaka Osteoclast
+S148 Learn more:
+S149 Rodents and a rocket carried these researchers’ dreams to space
+S150 Implantable Device That Helped Grow Muscles of Mice in Space Could Change Lives on Earth
+S151 Bone and Muscle Loss in Microgravity
+S152 Fishing For Answers on Bone Loss in Space
+S153 Preventing Bone Loss in Spaceflight with Prophylactic use of Bisphosphonate
+
+§7 Exploring the 5th-state of matter
+S154 25 years ago, scientists on Earth first produced a fifth state of matter with properties totally unlike solids, liquids, gases, and plasmas.
+S155 The achievement garnered a Nobel Prize for those scientists and changed the field of physics.
+S156 In 2018, NASA’s Cold Atom Lab became the first facility to produce that fifth state of matter, called a Bose-Einstein condensate (BEC), in Earth’s orbit.
+S157 The Cold Atom Lab lowers atoms to ultracold temperatures in order to study their properties in ways not possible on Earth.
+S158 Why do this in space?
+S159 Chilling atoms is the only way to produce a BEC.
+S160 Ultracold atom facilities in space should be able to reach colder temperatures than labs on Earth.
+S161 Additionally, scientists produce BECs in a vacuum, so on Earth the atoms are pulled down by gravity and fall quickly toward the floor.
+S162 This movement typically limits observation times to less than a second without the help of magnetic or optical fields that influence the atoms’ behaviors.
+S163 In microgravity, BEC’s can float, providing longer observation times.
+S164 Why does it matter?
+S165 BECs serve as a valuable tool for scientists studying quantum physics.
+S166 BECs collectively exhibit properties typically displayed only by individual atoms, making those microscopic characteristics visible at a much larger scale.
+S167 This study can provide insight into fundamental laws of quantum mechanics and could support the development of quantum technologies such as ultraprecise sensing and timekeeping.
+S168 Example experiments: Cold Atom Lab – Bose-Einstein Condensate Bubble Dynamics, Cold Atom Lab – Few-Body Physics
+S169 Learn more:
+S170 Cold Atom Lab: The Coolest Spot in the Universe
+S171 NASA’s Cold Atom Lab Takes One Giant Leap for Quantum Science
+S172 The Space Station’s Coolest Experiment Gets Astronaut-Assisted Upgrade
+
+§8 Understanding how our bodies change in microgravity
+S173 Before humans head to Mars, we want to know what challenges we will face.
+S174 Long-term stays aboard the space station have allowed us to uncover and begin solving challenges that could be presented by the human body’s response to space.
+S175 For example, some space station astronauts unexpectedly developed vision changes, now known as Spaceflight-Associated Neuro-Ocular Syndrome (SANS).
+S176 Findings include swelling at the optic disc and flattening at the back of the eyeball.
+S177 After helping discover the issue, space station research has served as a platform to better understand SANS.
+S178 NASA’s Twins Study compared astronaut Scott Kelly during his year in space with his Earth-bound twin brother Mark Kelly.
+S179 It provided insights into the many ways long-term spaceflight affects a human body.
+S180 Findings showed that Scott’s gene expression changed and his body reacted appropriately to vaccines while in space.
+S181 Why do this in space?
+S182 The space station currently is the only place for performing research in long-duration microgravity.
+S183 There is no substitute for actually sending humans into orbit where they can serve as test subjects for the science.
+S184 Why does it matter?
+S185 Traveling deep into space means spending long periods of time in microgravity.
+S186 To figure out how to make those trips safer and more comfortable, it is important to study humans closer to Earth in a controlled environment.
+S187 Example experiments: Fluid Shifts, Twins Study, Vision Impairment and Intracranial Pressure, Direct ICP
+
+§9 Links
+S188 International Space Station Research Keeps an Eye on Vision Changes in Space
+S189 NASA’s Twins Study Results Published in Science Journal
+S190 Andrew Morgan: Last Man in Fluid Shifts
+S191 NASA Investigates How Dormant Viruses Behave during Spaceflight
+
+§10 Testing tissue chips in space
+S192 Tissue chips are roughly thumb-drive-sized devices that contain human cells in a 3D matrix, representing functions of an organ.
+S193 They represent a big step in the ability of scientists to test how those cells respond to stresses, drugs, and genetic changes.
+S194 The Tissue Chips in Space initiative seeks to use these devices in microgravity to better understand and improve human health and disease treatment on Earth.
+S195 Chips simulating lung, kidney, brain, and intestine behavior all have been sent to the space station by a branch of the National Institutes of Health and the ISS U.S. National Lab.
+S196 Why do this in space?
+S197 Many of the changes in the human body caused by microgravity resemble the effects of diseases associated with aging on Earth, such as bone and muscle loss.
+S198 In space, these changes occur much faster than they do on Earth.
+S199 That means scientists may be able to use tissue chips in space to model changes that might take months or years to happen on Earth.
+S200 Why does it matter?
+S201 These studies can provide insights into diseases that affect organs on Earth and in space, and potentially help inform the creation of treatments for them.
+S202 Example experiments: Gut on Chip, Organs-On-Chips as a Platform for Studying Effects of Microgravity on Human Physiology, Lung Host Defense in Microgravity, STaARS BioScience-7, Kidney Cells
+S203 Learn more:
+S204 Small Tissue Chips in Space a Big Leap Forward for Research
+S205 Houston We Have a Podcast: Organs on Chips in Space
+S206 Tissue Chips In Space
+
+§11 Stimulating the low-Earth orbit economy
+S207 From satellite deployment to in-space research, a vibrant commercial space economy has developed.
+S208 Through the ISS U.S. National Lab, many companies are able to access the space station and conduct research and technology development investigations in microgravity.
+S209 They include well-known corporations like Procter & Gamble, which has used the station to study colloids with a goal of improving products such as shampoo and fabric softener.
+S210 Smaller companies like LambdaVision have leveraged the microgravity environment on the space station to improve the processes used to create retinal implants.
+S211 Supporting research activities on station is becoming a significant business too.
+S212 Companies like Nanoracks and TechShot operate commercial research facilities housed on the station.
+S213 A cadre of 40 companies help researchers translate their experiments into hardware small and light enough to be housed on station.
+S214 Commercial resupply contracts to bring science and supplies to the space station also have helped support the development of launch services for companies such as Northrop Grumman and SpaceX.
+S215 Why do this in space?
+S216 Expanding use of the space station to commercial companies provides a new market, sparks economic development, and allows more groups to take advantage of this platform.
+S217 Why does it matter?
+S218 All of these commercial activities validate business models and expand the numbers of entities with experience in conducting business in space.
+S219 Commercialization of low-Earth orbit frees up resources NASA needs to continue its exploration of space.
+S220 By having companies join forces with government agencies, space exploration can continue, while providing access to a platform that helps create jobs, build revenues, and create new products and services for people on Earth.
+S221 Example experiments: Advanced Colloids Experiments, Optical Fiber Production in Microgravity, Layer-by-Layer Assembly of Protein-Based Artificial Retinas in Microgravity
+S222 Learn more:
+S223 A Growing Market at Gravity’s Edge
+S224 International Space Station Research on Tiny Colloid Particles Yields Big Results
+S225 Enabling Commercial Launch Providers
+S226 NASA Moving Forward to Enable a Low-Earth Orbit Economy
+S227 NASA Report Details How Agency Significantly Benefits US Economy
+
+§12 Growing food in microgravity
+S228 As humans explore farther from Earth, the ability to grow food is a solution to several challenges of long-duration missions.
+S229 Fresh produce provides nutritious meals over multiple years and reduces cargo requirements for the trip.
+S230 Many techniques for growing plants have been explored on station to prepare for these missions.
+S231 On August 10, 2015, astronauts sampled their first space-grown salad.
+S232 Eight types of leafy greens have been grown in the Veggie facility for astronauts to eat, fine tuning the best techniques.
+S233 Why do this in space?
+S234 New solutions for watering, lighting, and growing plants have to be tested to create a food crop in microgravity.
+S235 The space station has served as a platform for performing these tests, and for verifying what conditions allow the plants to grow most effectively.
+S236 Why does it matter?
+S237 The packaged diet used by crews in low-Earth orbit works well, but relies on frequent resupply missions.
+S238 During a mission to Mars, the vitamins and quality of packaged food would degrade over time, and couldn’t easily be restocked.
+S239 Supplementation with fresh crops provides necessary nutrients while giving astronauts more variety in their diet.
+S240 Example experiments: Plant Habitat-01, Veg-01, Veg-03, Veg-04B, Advanced Astroculture
+S241 Learn more:
+S242 Veggie Plant Growth System Activated on International Space Station
+S243 Historic Veggie Moment on the Space Station
+S244 Growing Plants in Space
+S245 Veggie Fact Sheet
+S246 Plant Growth on the International Space Station has Global Impacts on Earth
+
+§13 Deployment of CubeSats from station
+S247 CubeSats are one of the smallest types of satellites; they provide an inexpensive way to perform science and technology demonstrations in space.
+S248 One way these compact cubes can reach Earth orbit is hitching a ride to the space station, where they are deployed from an airlock.
+S249 Sharing the cost of a rocket launch with the other groups launching payloads to the space station can make deploying a CubeSat more affordable.
+S250 Some of the first CubeSats released from the station were thrown by Russian cosmonauts while they performed a spacewalk.
+S251 In 2012, crew members began using the Japanese Kibo module airlock to deploy CubeSats.
+S252 Soon after, American company NanoRacks started operating a more robust deployer.
+S253 One of NanoRacks’ first customers, Planet, deployed CubeSats to take high resolution photos of the entire Earth each day.
+S254 Planet deployed several generations of CubeSats, demonstrating the viability of their technology and business model.
+S255 NASA’s CubeSat Launch initiative provides a pathway to conduct research in space for CubeSats developed by educational institutions, non-profit organizations as well as NASA Centers and programs.
+S256 Why do this in space?
+S257 Putting these satellites into low-Earth orbit gives researchers and companies a unique perspective on our planet.
+S258 More than 250 CubeSats have been deployed from station, performing numerous technology demonstrations, providing internet services, and more.
+S259 Why it matters?
+S260 Deploying CubeSats from the space station provides a more accessible way to get new technologies to space.
+S261 Example experiments: NanoRacks-Planet Labs-Dove, AzTechSat-1, Phoenix CubeSat, NanoRacks-MinXSS
+S262 Learn more:
+S263 JEM Small Satellite Orbital Deployer
+S264 Jumpstarting the CubeSat Revolution with Reliable Launch From the ISS
+S265 Largest Flock of Earth-Imaging Satellites Launch into Orbit From Space Station
+S266 Small to Big: Enabling a Growing SmallSat Marketplace
+
+§14 Monitoring our planet from a unique perspective
+S267 The view of Earth from the space station is life-changing for the few who get to see and photograph it in person.
+S268 But this vantage point does more than create beautiful images: photos taken by astronauts can help track the evolution of our planet alongside the suite of tools inside and outside the space station.
+S269 The orbiting lab has evolved into a robust platform for researchers studying Earth’s water, air, land masses, vegetation, and more.
+S270 ECOSTRESS analyzes water stress in plants, while GEDI looks at the same areas of Earth, analyzing carbon stored in forests.
+S271 Though the many experiments collect data individually, together they provide a set of measurements that pushes the leading edge of environmental research.
+S272 Why do this in space?
+S273 At about 250 miles above Earth on a 90-minute orbit and an orbital path over 90 percent of Earth’s population, the station affords a unique perspective that cannot be obtained on the ground, and it can provide improved spatial resolution and variable lighting conditions compared to the sun-synchronous orbits of typical Earth remote-sensing satellites.
+S274 Why it matters: When scientists can better comprehend and monitor water and energy cycles, ecosystem changes, geological hazards, and population migrations, they can offer useful information regarding climate changes, as well as assist with natural disaster response.
+S275 Example experiments: Crew Earth Observations, ECOSTRESS, GEDI, OCO-3, DESIS, HISUI
+S276 Learn more:
+S277 Earth Observation From the Space Station
+S278 The Combined Power of Remote Earth Observations aboard the International Space Station
+S279 A Researcher’s Guide to: Earth Observations
+S280 Houston We Have a Podcast: The View from Above
+
+§15 Collecting data on more than 100 billion cosmic particles
+S281 Many scientists theorize that stars, planets, and the molecules that comprise them are less than five percent of the mass-energy content of the universe.
+S282 The rest is dark matter, invisible matter that cannot be detected directly but can be inferred.
+S283 The Alpha Magnetic Spectrometer – 02 (AMS-02) has been looking for evidence of this substance from the space station since 2011, collecting data on more than 100 billion cosmic particles.
+S284 AMS-02 has provided researchers around the globe with data that can help determine what the universe is made of and how it began.
+S285 It also has collected data on cosmic rays, how these rays travel through space, and what produces them.
+S286 Why do this in space?
+S287 AMS-02’s core is a massive magnet that bends incoming charged particles.
+S288 The direction they bend reveals their charge, which helps identify the type of particle.
+S289 Earth’s atmosphere has a significant effect on these particles, so a space-based observatory is essential to get accurate information.
+S290 Why it matters: In addition to helping unravel scientific mysteries of the universe, AMS-02 may also allow scientists to get a more complete picture of radiation in space.
+S291 It is collecting data over a complete solar cycle, which provides more information about the potential radiation exposure for astronauts headed to Mars.
+S292 Example experiments: AMS-02
+S293 Learn more:
+S294 NASA ScienceCasts: Finding the Invisible
+S295 Studying Dark Matter In Space: It Matters!
+S296 A Series of Spacewalks Four Years in the Making Will Attempt to Revive a Scientific Experiment
+
+§16 A better understanding of pulsars and black holes
+S297 Two tools installed on the outside of the space station have worked in tandem to advance our knowledge of pulsars and black holes: NASA’s Neutron star Interior Composition Explorer (NICER) and the Monitor of All-sky X-ray Image (MAXI) from the Japan Aerospace Exploration Agency (JAXA).
+S298 In 2018, MAXI detected a new X-ray source in the sky and named it “MAXI J1820+070”.
+S299 Shortly after, NICER began monitoring the source and determined it to be a black hole binary system containing a black hole with a mass several times that of our Sun.
+S300 Within days, MAXI J1820+070 became one of the brightest X-ray sources in the sky.
+S301 NICER tracked the evolution of this system.
+S302 Its measurements helped us understand how the inner edge of a black hole’s accretion disk (and the corona above it) change in size and shape as a black hole consumes material from a star.
+S303 Why do this in space?
+S304 From above Earth, we can get a better look at the rest of the universe.
+S305 Mounting multiple tools like NICER and MAXI on the same orbiting platform gives us more data on a large swath of the space around us.
+S306 Why it matters: NICER and MAXI enable new studies of neutron stars and other astrophysical sources of X-rays, advancing scientific understanding and technical development for the benefit of people on Earth.
+S307 Example experiments: NICER, MAXI
+S308 Learn more:
+S309 NASA’s NICER Catches Record-setting X-ray Burst
+S310 NASA’s NICER Mission Finds an X-ray Pulsar in a Record-fast Orbit
+S311 NASA’s NICER Mission Maps ‘Light Echoes’ of New Black Hole
+S312 Unlocking Secrets of Neutron Stars with NICER
+
+§17 Student access to an orbiting laboratory
+S313 Numerous programs have given elementary- to college-aged students access to space and the chance to take advantage of the microgravity environment aboard the space station.
+S314 More than 950,000 students have participated in the EarthKAM program, taking pictures of Earth using a station camera.
+S315 HUNCH has partnered with schools around the country to send more than 1,300 student-made items to station.
+S316 The Genes in Space and Guardians of the Galaxy Space Station Challenge competitions have given high school students the opportunity to design experiments flown into orbit.
+S317 Millions of children have also participated in Tomatosphere™, which provides students with tomato seeds exposed to space or space-simulated environments and seeds that have not, allowing classrooms to compare how the seeds grow.
+S318 In addition, students have the opportunity to talk with astronauts in space through NASA’s STEM on Station and amateur radio on the International Space Station.
+S319 Why do this in space?
+S320 Increasing access to space gives students the opportunity to develop new skills, gives them space research experience, and instills an appreciation of exploration.
+S321 Students also create meaningful datasets and results.
+S322 Why this matters: Providing students with access to an orbiting laboratory inspires the next generation of space researchers and explorers and creates an appreciation for science.
+S323 Example experiments: EarthKam, HUNCH, Tomatosphere, Genes in Space-3
+S324 Learn more:
+S325 A Generation Researching in Space: Twenty Years aboard the Space Station
+S326 High School Students Build Lockers for Trip to the International Space Station
+S327 Tomatosphere™: Sowing the Seeds of Discovery through Student Science
+S328 HUNCH about Student Success in Engineering?
+S329 Genes in Space-3 Successfully Identifies Unknown Microbes in Space
+S330 Students Photograph Earth from Space
+
+§18 Capability to identify unknown microbes in space
+S331 Being able to identify microbes in space in real time – without having to send them back to Earth for identification – is revolutionary for the world of microbiology and space exploration.
+S332 The Genes in Space-3 team proved this can be done when they completed the first-ever sample-to-sequence process entirely aboard the space station in 2017.
+S333 Crew members collected a sample, isolated the DNA, prepped it, and then sequenced the unknown DNA.
+S334 In the months leading up to this test, NASA astronaut Kate Rubins also conducted the first DNA sequencing in space.
+S335 Why do this in space?
+S336 Technology and scientific tools can behave differently in microgravity than on Earth.
+S337 Designing DNA and microbial sequencers for use in space and testing these devices aboard the space station is crucial to ensuring their reliability on long-duration missions.
+S338 Why it matters: A space-based DNA sequencer is an important tool to help protect astronaut health during long duration missions on the journey to Mars, aiding in the ability to diagnose and treat astronaut ailments in real time.
+S339 Future explorers also could use the technology to identify DNA-based life forms beyond Earth.
+S340 Example experiments: Genes in Space-3, Biomolecular Sequencer, Genes in Space-1
+S341 Learn more:
+S342 Sequencing the Station: Investigation Aims to Identify Unknown Microbes in Space
+S343 Genes in Space-3 Successfully Identifies Unknown Microbes in Space
+S344 First DNA Sequencing in Space a Game Changer
+S345 Sequencing DNA in the Palm of Your Hand
+
+§19 Opening up the field of colloid research
+S346 Toothpaste, 3D printing, pharmaceuticals, and detecting shifting sands on Mars may not seem related to each other at all, yet each stands to benefit from improvements made thanks to years of research on colloids aboard the space station.
+S347 Mixtures of tiny particles suspended in a liquid, colloids occur in many forms.
+S348 These forms include natural mixtures such as milk and muddy water as well as a range of manufactured products from shampoo to medicine to salad dressing.
+S349 Space station research has explored subjects such as stabilizing these mixtures and colloid behaviors that can be applied to products on Earth.
+S350 Why do this in space?
+S351 Studying colloids on Earth is complicated by gravity, which causes some particles to rise and others to sink.
+S352 Microgravity removes that complication and makes possible research that can help companies design better products.
+S353 Why it matters: This colloid research can help to improve products used in our everyday lives and create entirely new products, including some that could enable exploration farther into space.
+S354 Companies such as Procter & Gamble have used station research to study how to keep a product liquid enough to dispense easily and yet prevent ingredients, or particles, from clumping together and settling.
+S355 Example experiments: ACE-H-2, ACE-T-6, ACE-T-10, BCAT, EXPPCS
+S356 Learn more:
+S357 International Space Station Research on Tiny Colloid Particles Yields Big Results
+S358 Of Strawberry Jelly and Earthquakes: Space Station Investigation Studies Colloids in Microgravity
+S359 Advanced Colloids Experiments (ACE)
+
+§20 The evolution of fluid physics research
+S360 Fluid covers our planet, but sending fluids to space can help us better understand them.
+S361 Space station fluid research began with the fundamental analysis of how fluids behave in microgravity.
+S362 That research has evolved into the testing of advanced medical devices and heat transfer systems.
+S363 Rodent Research-6 tested tiny nanofluidic devices that, when implanted under the skin, could allow for the continuous delivery of drugs into a patient’s system.
+S364 This process reduces the need for frequent injections or pills.
+S365 A series of experiments used microgravity to study capillary forces, small forces that move a fluid along a narrow tube.
+S366 Systems using capillary forces can be simpler because they rely on shapes and fluid dynamics rather than machinery to move liquid.
+S367 Why do this in space?
+S368 On Earth, gravity is one of the main factors that affects how fluid flows.
+S369 However, there are additional smaller forces acting on fluids.
+S370 Studying fluids in space, where gravity is not a factor, helps us to better understand these small forces and use them to our advantage.
+S371 Why does it matter?
+S372 An understanding of fluid physics in microgravity can influence everything from medical technologies and heat transfer systems on Earth to life support systems in space.
+S373 Example experiments: Two-Phase Flow, Capillary Flow Experiment, Capillary Structures, Rodent Research-6, Dynamic Surf
+S374 Learn more:
+S375 Fruit Punch and Foam Could Help Us Learn to Manage Liquids in Space
+S376 Implantable Device That Helped Grow Muscles of Mice in Space Could Change Lives on Earth
+S377 Keeping Our Cool in Space
+S378 Space-tested Fluid Flow Concept Advances Infectious Disease Diagnoses
+
+§21 3D printing in microgravity
+S379 The first 3D printer flew to the space station in 2014.
+S380 Developed by Made in Space, the printer produced dozens of parts that researchers analyzed and compared with those made on the ground.
+S381 Analysis revealed that microgravity had no significant effects on the process, demonstrating that a 3D printer works normally in space.
+S382 Later experiments tested using recycled plastic to print objects and using a specialized bioprinter to print human tissue.
+S383 The BioFabrication Facility (BFF) took small steps toward printing human organs and tissues in microgravity, using ultra-fine layers of bioink.
+S384 Why do this in space?
+S385 Testing printers on the station paves the way for future space missions to be more independent of Earth.
+S386 Needed items could be 3D printed rather than sent from Earth and carried for the entire journey.
+S387 Why does it matter?
+S388 Using recycled material for printing could make use of material that otherwise would take up limited stowage space on long-duration missions and allow it to be used for creating needed parts.
+S389 Printing human tissue is a part of a long-term plan to manufacture entire human organs in space using refined biological 3D printing techniques.
+S390 This effort could help provide increased access to organs for transplants on Earth.
+S391 Example experiments: Additive Manufacturing Facility, Made in Space Recycler, 3D Printing in Zero-G, AMF-ABS Design Values, Refabricator, BioFabrication Facility
+S392 Learn more:
+S393 Solving the Challenges of Long Duration Space Flight with 3D Printing
+S394 NASA ScienceCasts: Cutting-edge Biomanufacturing Aboard the International Space Station
+S395 3-D Printer Could Turn Space Station into ‘Machine Shop’
+S396 Space Station 3-D Printer Builds Ratchet Wrench To Complete First Phase Of Operations
+
+§22 Responding to natural disasters
+S397 With crew handheld camera imagery as a core component, the station has become an active participant in orbital data collection to support disaster response activities both within the U.S. and abroad.
+S398 Astronauts snap images of disasters such as storms and fires throughout their progression, documenting cloud cover, flooding, and changes to the land.
+S399 Pictures also are taken using mounted station cameras like the SS-HDTV and HDTV-EF2.
+S400 SS-HDTV, developed to take night images of Earth, can be used to check if power has been restored to cities after a disaster.
+S401 The Lightning Imaging Sensor (LIS) mounted on station also detects the distribution and variability of lightning in order to improve severe weather forecasting.
+S402 The ISS SERVIR Environmental Research and Visualization System (ISERV) has helped developing countries enhance their environmental decision-making processes.
+S403 Why do this in space?
+S404 The space station has an inclined, low-Earth orbit that provides variable views and lighting over more than 90 percent of the inhabited surface of the Earth.
+S405 This is a useful complement to sensor systems in higher-altitude polar orbits for collecting imagery.
+S406 These pictures are referenced by teams on the ground.
+S407 Why does it matter?
+S408 These data allow for more informed responses to disasters from a perspective you cannot get on Earth, and assists with forecasting for future storms.
+S409 Example experiments: LIS, ISERV, Uragan-GC (Hurricane-GC), Crew Earth Observations, SS-HDTV, HDTV-EF2, Uragan-Zemlya (Hurricane-Earth
+
+§23 Learn more
+S410 Clear High-definition Images Aid Disaster Response
+S411 Space station camera captures Earthly disaster scenes
+S412 Investigation of Earth Catastrophes From the International Space Station: Uragan Program
+S413 NASA Tracking Florence From Every Angle and Wavelength
+S414 Benefits for Humanity: After the Storm
+S415 International Space Station Imagery for Disaster Response
+
+§24 International Space Station Program Research Office
+S416 Johnson Space Center

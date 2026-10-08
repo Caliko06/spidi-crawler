@@ -1,0 +1,194 @@
+{
+ "apparatus": [
+  "Funding and disclosures",
+  "References"
+ ],
+ "verdicts": [
+  {
+   "text": "In a two-year trial across eleven municipal offices, moving staff to a four-day week at full pay did not reduce the number of cases processed, lowered sick leave by a fifth and improved retention, but it lengthened waiting times for in-person services by about a day.",
+   "level": 3,
+   "prize": true,
+   "lead": true
+  },
+  {
+   "text": "We describe the design, the outcomes and the limits of what the trial can show.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Interest in shorter working weeks has grown since several private firms reported gains in productivity and wellbeing.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Evidence from public administration is thinner, because public offices cannot easily shift demand and must remain open to citizens for fixed hours.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Debate on the topic is often heated and rarely informed by data.",
+   "level": 0,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "This trial asked whether a four-day week could be introduced in municipal offices without lowering the service citizens receive.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Eleven offices were randomly assigned to the four-day schedule, and fourteen comparable offices kept the five-day week as controls.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Offices were stratified by size and by the share of work that is done at a counter.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Staff on the four-day schedule worked 32 hours across four days with no change in pay, and each office chose which weekday to close.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "The primary outcomes were the number of cases closed per employee per month, the days of sick leave, and the average waiting time for in-person services.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Secondary outcomes included staff turnover, a survey of citizen satisfaction and a validated measure of burnout.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Data were collected monthly for twenty-four months and analysed by an independent team that did not take part in the design.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "All offices consented to take part in the study.",
+   "level": 0,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Cases closed per employee per month did not differ between the groups, with a mean of 61.2 in the four-day offices and 60.4 in the controls.",
+   "level": 3,
+   "prize": true,
+   "lead": false
+  },
+  {
+   "text": "Sick leave fell by 21 percent in the four-day offices relative to controls, with the largest reductions among staff over fifty.",
+   "level": 3,
+   "prize": true,
+   "lead": false
+  },
+  {
+   "text": "Turnover fell from 11.8 percent to 7.1 percent a year in the four-day offices, while the controls were unchanged.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Waiting times for in-person services rose by an average of 0.9 days in the four-day offices, mainly in offices that closed on a Friday.",
+   "level": 3,
+   "prize": true,
+   "lead": false
+  },
+  {
+   "text": "Citizen satisfaction scores were slightly lower in the four-day offices in the first six months and equal to the controls afterwards.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Burnout scores improved by 0.4 standard deviations among staff on the four-day schedule.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Detailed tables for each office are available on request.",
+   "level": 0,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "The effect on sick leave was stable across all eleven offices and did not depend on which day they closed.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Offices knew which schedule they had, so neither staff nor managers were blind to the intervention, and some of the improvement in self-reported burnout may reflect expectation.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Eleven offices is a small sample, and the confidence intervals for turnover are wide.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "The trial ran in a single country, with a particular labour law and a particular culture of public service.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "We did not measure the quality of decisions, only their number and speed.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Further research is needed.",
+   "level": 0,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "The trial suggests that a four-day week can be introduced in municipal offices without losing output, with real gains in health and retention, but at a cost in access for people who need a counter.",
+   "level": 3,
+   "prize": true,
+   "lead": false
+  },
+  {
+   "text": "The waiting-time result is the one that matters most for policy, because it falls on citizens and not on staff.",
+   "level": 2,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "Offices that kept a rotating rota so the counter stayed open five days saw almost none of the increase, which points to a design fix rather than a fundamental limit.",
+   "level": 3,
+   "prize": true,
+   "lead": false
+  },
+  {
+   "text": "Whether the gains would hold beyond two years is unknown.",
+   "level": 1,
+   "prize": false,
+   "lead": false
+  },
+  {
+   "text": "We thank the staff of all participating offices for their patience.",
+   "level": 0,
+   "prize": false,
+   "lead": false
+  }
+ ]
+}

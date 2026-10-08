@@ -1,0 +1,44 @@
+[
+ {
+  "id": "authored-checkout-outage",
+  "title": "Postmortem: the checkout outage of 14 March",
+  "url": "https://example.org/checkout-outage",
+  "credit": "Written for this project, with its writer's verdicts."
+ },
+ {
+  "id": "authored-climate-evidence",
+  "title": "Evidence",
+  "url": "https://example.org/climate-evidence",
+  "credit": "Written for this project, with its writer's verdicts."
+ },
+ {
+  "id": "authored-dont-scale",
+  "title": "Do Things that Don't Scale",
+  "url": "https://example.org/dont-scale",
+  "credit": "Written for this project, with its writer's verdicts."
+ },
+ {
+  "id": "authored-four-day-week",
+  "title": "A four-day week in municipal offices: results of a two-year trial",
+  "url": "https://example.org/four-day-week",
+  "credit": "Written for this project, with its writer's verdicts."
+ },
+ {
+  "id": "authored-frictionless",
+  "title": "The Quiet Cost of Frictionless Things",
+  "url": "https://example.org/frictionless",
+  "credit": "Written for this project, with its writer's verdicts."
+ },
+ {
+  "id": "authored-hn-dropbox",
+  "title": "My YC app: Dropbox - Throw away your USB drive",
+  "url": "https://example.org/hn-dropbox",
+  "credit": "Written for this project, with its writer's verdicts."
+ },
+ {
+  "id": "authored-http-caching",
+  "title": "HTTP caching",
+  "url": "https://example.org/http-caching",
+  "credit": "Written for this project, with its writer's verdicts."
+ }
+]

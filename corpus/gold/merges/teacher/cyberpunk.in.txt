@@ -1,0 +1,56 @@
+DOCUMENT: Cyberpunk
+
+
+THEME "History and origins"
+  s0 The origins of cyberpunk are rooted in the New Wave science fiction movement of the 1960s and 1970s, where New Worlds, under the editorship of Michael Moorcock, began inviting and encouraging stories that examined new writing styles, techniques, and archetypes.
+  s1 Reacting to conventional storytelling, New Wave authors attempted to present a world where society coped with a constant upheaval of new technology and culture, generally with dystopian outcomes.
+  s2 In 1984, William Gibson's novel Neuromancer was published, delivering a glimpse of a future encompassed by what became an archetype of cyberpunk "virtual reality", with the human mind being fed light-based worldscapes through a computer interface.
+
+SUBJECT "Neuromancer" (under theme "History and origins")
+  s3 William Gibson with his novel Neuromancer (1984) is arguably the most famous writer connected with the term cyberpunk.
+
+THEME "Etymology"
+  s4 The term "cyberpunk" first appeared as the title of a short story by Bruce Bethke, written in 1980 and published in Amazing Stories in 1983.
+  s5 Bethke says he made two lists of words, one for technology, one for troublemakers, and experimented with combining them variously into compound words, consciously attempting to coin a term that encompassed both punk attitudes and high technology.
+  s6 Minnesota writer Bruce Bethke coined the term in 1983 for his short story "Cyberpunk", which was published in an issue of Amazing Science Fiction Stories.
+
+THEME "Anime and manga"
+  s7 The Japanese cyberpunk subgenre began in 1982 with the debut of Katsuhiro Otomo's manga series Akira, with its 1988 anime film adaptation, which Otomo directed, later popularizing the subgenre.
+  s8 In contrast to Western cyberpunk which has roots in New Wave science fiction literature, Japanese cyberpunk has roots in underground music culture, specifically the Japanese punk subculture that arose from the Japanese punk music scene in the 1970s.
+
+THEME "Influence"
+  s9 Akira (1982 manga) and its 1988 anime film adaptation have influenced numerous works in animation, comics, film, music, television and video games.
+  s10 Ghost in the Shell (1995) influenced a number of prominent filmmakers, most notably the Wachowskis in The Matrix (1999) and its sequels.
+
+SUBJECT "Reception and impact" (under theme "Influence")
+  s11 Cyberpunk made science fiction more attractive to academics, argues Brin; in addition, it made science fiction more profitable to Hollywood and to the visual arts generally.
+
+SUBJECT "Society and counterculture" (under theme "Influence")
+  s12 Several subcultures have been inspired by cyberpunk fiction.
+
+SUBJECT "Social impact" (under theme "Influence")
+
+
+THEME "Cyberpunk"
+  s13 [LEAD] Cyberpunk is a subgenre of science fiction set in a dystopian future.
+  s14 [ESSENTIAL] It features a range of futuristic technological and scientific achievements, including artificial intelligence and cyberware, which are juxtaposed with societal collapse, dystopia or decay.
+
+SUBJECT "Registered trademark status" (under theme "Cyberpunk")
+  s15 In the United States, the term "Cyberpunk" is a registered trademark owned by CD Projekt SA who obtained it from the previous owner R.
+  s16 Within the European Union, the "Cyberpunk" trademark is owned by two parties: CD Projekt SA for "games and online gaming services" (particularly for the video game adaptation of the former) and by Sony Music for use outside games.
+
+THEME "Style and ethos"
+  s17 [ESSENTIAL] It is characterized by its focus on a combination of "lowlife and high tech".
+  s18 [ESSENTIAL] Classic cyberpunk characters were marginalized, alienated loners who lived on the edge of society in generally dystopic futures where daily life was impacted by rapid technological change, an ubiquitous datasphere of computerized information, and invasive modification of the human body.
+  s19 Cyberpunk can be intended to disquiet readers and call them to action.
+  s20 It often expresses a sense of rebellion, suggesting that one could describe it as a type of cultural revolution in science fiction.
+  s21 Popular science fiction tales by Gibson, Williams, Cadigan and others do depict Orwellian accumulations of power in the next century, but nearly always clutched in the secretive hands of a wealthy or corporate elite.
+
+SUBJECT "Setting" (under theme "Style and ethos")
+  s22 [ESSENTIAL] Cyberpunk plots often involve conflict between artificial intelligence, hackers, and megacorporations, and tend to be set in a near-future Earth, rather than in far-future settings or galactic vistas.
+  s23 The settings are usually post-industrial dystopias but tend to feature extraordinary cultural ferment and the use of technology in ways never anticipated by its original inventors ("the street finds its own uses for things").
+  s24 Much of the genre's atmosphere echoes film noir, and written works in the genre often use techniques from detective fiction.
+  s25 Cyberpunk writers tend to use elements from crime fiction—particularly hardboiled detective fiction and film noir—and postmodernist prose to describe an often nihilistic underground side of an electronic society.
+  s26 The genre's vision of a troubled future is often called the antithesis of the generally utopian visions of the future popular in the 1940s and 1950s.
+  s27 In some cyberpunk writing, much of the action takes place online, in cyberspace, blurring the line between actual and virtual reality.
+  s28 Cyberpunk settings are dystopias with corruption, computers, and computer networks.

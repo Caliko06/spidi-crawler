@@ -1,0 +1,336 @@
+{
+  "apparatus": [],
+  "sentences": [
+    {
+      "id": "S0",
+      "level": 3,
+      "leans": null
+    },
+    {
+      "id": "S1",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S2",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S3",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S4",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S5",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S6",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S7",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S8",
+      "level": 1,
+      "leans": "S7"
+    },
+    {
+      "id": "S9",
+      "level": 3,
+      "leans": null
+    },
+    {
+      "id": "S10",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S11",
+      "level": 2,
+      "leans": "S10"
+    },
+    {
+      "id": "S12",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S13",
+      "level": 3,
+      "leans": null
+    },
+    {
+      "id": "S14",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S15",
+      "level": 2,
+      "leans": "S14"
+    },
+    {
+      "id": "S16",
+      "level": 1,
+      "leans": "S15"
+    },
+    {
+      "id": "S17",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S18",
+      "level": 1,
+      "leans": "S17"
+    },
+    {
+      "id": "S19",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S20",
+      "level": 2,
+      "leans": "S19"
+    },
+    {
+      "id": "S21",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S22",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S23",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S24",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S25",
+      "level": 0,
+      "leans": null
+    },
+    {
+      "id": "S26",
+      "level": 2,
+      "leans": "S25"
+    },
+    {
+      "id": "S27",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S28",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S29",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S30",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S31",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S32",
+      "level": 2,
+      "leans": "S31"
+    },
+    {
+      "id": "S33",
+      "level": 2,
+      "leans": "S30"
+    },
+    {
+      "id": "S34",
+      "level": 3,
+      "leans": null
+    },
+    {
+      "id": "S35",
+      "level": 1,
+      "leans": "S34"
+    },
+    {
+      "id": "S36",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S37",
+      "level": 2,
+      "leans": null
+    },
+    {
+      "id": "S38",
+      "level": 1,
+      "leans": null
+    },
+    {
+      "id": "S39",
+      "level": 0,
+      "leans": null
+    }
+  ],
+  "essentials": [
+    "S0",
+    "S9",
+    "S13",
+    "S17",
+    "S22",
+    "S24",
+    "S34"
+  ],
+  "lead": "S0",
+  "subjects": [
+    {
+      "name": "10 Evidence-Based Benefits of Green Tea",
+      "theme": null
+    },
+    {
+      "name": "Cognition, mood, and brain function",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "name": "Cancer",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "name": "Alzheimer’s disease",
+      "theme": "Cognition, mood, and brain function"
+    },
+    {
+      "name": "Blood sugar",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "name": "live longer",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "name": "Body fat",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "name": "Caffeine",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "name": "Green tea",
+      "theme": "10 Evidence-Based Benefits of Green Tea"
+    }
+  ],
+  "filing": [
+    {
+      "id": "S0",
+      "subject": "10 Evidence-Based Benefits of Green Tea"
+    },
+    {
+      "id": "S2",
+      "subject": "Caffeine"
+    },
+    {
+      "id": "S9",
+      "subject": "Cognition, mood, and brain function"
+    },
+    {
+      "id": "S11",
+      "subject": "Cognition, mood, and brain function"
+    },
+    {
+      "id": "S13",
+      "subject": "Cancer"
+    },
+    {
+      "id": "S15",
+      "subject": "Cancer"
+    },
+    {
+      "id": "S17",
+      "subject": "Alzheimer’s disease"
+    },
+    {
+      "id": "S20",
+      "subject": "Alzheimer’s disease"
+    },
+    {
+      "id": "S22",
+      "subject": "Blood sugar"
+    },
+    {
+      "id": "S24",
+      "subject": "live longer"
+    },
+    {
+      "id": "S26",
+      "subject": "live longer"
+    },
+    {
+      "id": "S27",
+      "subject": "live longer"
+    },
+    {
+      "id": "S28",
+      "subject": "Green tea"
+    },
+    {
+      "id": "S29",
+      "subject": "Green tea"
+    },
+    {
+      "id": "S31",
+      "subject": "Green tea"
+    },
+    {
+      "id": "S32",
+      "subject": "Cognition, mood, and brain function"
+    },
+    {
+      "id": "S33",
+      "subject": "live longer"
+    },
+    {
+      "id": "S34",
+      "subject": "Body fat"
+    },
+    {
+      "id": "S36",
+      "subject": "Green tea"
+    },
+    {
+      "id": "S37",
+      "subject": "Caffeine"
+    }
+  ],
+  "repeats": []
+}

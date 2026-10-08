@@ -1,0 +1,585 @@
+DOCUMENT: Ciberpunk
+
+§0 (under the title)
+S0 El ciberpunk (en inglés: cyberpunk; pronunciado /'saɪbəʳpʌŋk/) es un subgénero de la ciencia ficción, conocido por reflejar visiones distópicas del futuro en las cuales se combinan la tecnología avanzada con un bajo nivel de vida.
+S1 Originalmente el término cyberpunk fue utilizado para referirse al movimiento literario encabezado por Bruce Sterling, William Gibson y John Shirley que surgió durante la década de 1980 en el seno de la literatura de ciencia ficción, siendo empleado por primera vez en ese sentido por Gardner Dozois en 1984.
+S2 Dozois probablemente se inspiró en el título de un relato de Bruce Bethke.
+S3 El ciberpunk recibe su nombre de la adjunción del prefijo ciber- (relacionado con redes informáticas) al vocablo punk (en referencia a su carácter rebelde).
+S4 En él, la ciencia (y sobre todo la informática y la cibernética) suele generar o interaccionar con algún tipo de cambio de paradigma social o cultural.
+S5 En las tramas del género ciberpunk, el argumento suele estar centrado en los hipotéticos conflictos entre hackers, inteligencias artificiales y megacorporaciones, todo ello situado en un futuro cercano del planeta Tierra.
+S6 Este contexto se opone al de muchas narraciones clásicas de la ciencia ficción, como Fundación de Isaac Asimov o Dune de Frank Herbert, que generalmente se sitúan en un futuro distante y en planetas y estrellas extrasolares.
+S7 Las distopías posindustriales del ciberpunk, sin embargo, acostumbran a estar marcadas por un desarrollo cultural extraordinario, y por la subversión en el uso de las tecnologías, que son explotadas en ámbitos nunca previstos por sus creadores.
+S8 Según las palabras de William Gibson en la colección de cuentos Quemando cromo, «la calle encuentra sus propios usos para las cosas».
+S9 La atmósfera del género también se inspira en el cine negro, y reutiliza técnicas comunes en las novelas policíacas.
+S10 Entre sus primeros escritores notables se pueden contar William Gibson, Bruce Sterling, Pat Cadigan, Rudy Rucker y John Shirley.
+S11 El término ciberpunk fue acuñado en los años 1980, y aún es utilizado hoy en día.
+S12 A diferencia de la ciencia ficción de la nueva ola, que importó en su seno las técnicas y las preocupaciones estilísticas preexistentes en la literatura y la cultura, el origen primigenio del ciberpunk se sitúa en la ciencia ficción, antes de que aumentara su popularidad.
+S13 A comienzos y a mediados de los años ochenta, el ciberpunk se convirtió en uno de los temas de modas de los círculos académicos, donde comenzó a ser objeto de investigación por parte del postmodernismo.
+S14 Durante ese mismo período, el cine de Hollywood tomó interés por el género, incorporándolo a sus producciones de ciencia ficción.
+S15 En las películas más influyentes del ciberpunk, como Blade Runner, The Terminator, Ghost in the Shell (1995), RoboCop, Total Recall, The Matrix, Metrópolis o Akira, se puede apreciar la continuación de los temas y estilos más importantes del género.
+S16 Los videojuegos, los juegos de mesa y los juegos de rol ciberpunk, tales como Shadowrun o el apropiadamente nombrado Cyberpunk 2020, ofrecen a menudo guiones fuertemente influenciados por las películas y la literatura ciberpunk.
+S17 A partir de los años 1990, ciertas tendencias en los campos de la moda y de la música fueron calificadas como ciberpunk.
+S18 En el mismo periodo en el que escritores muy diversos comenzaron a trabajar con conceptos del ciberpunk, nuevos subgéneros emergieron, centrándose en la tecnología y en sus efectos sociales de una manera diferente.
+S19 Entre sus ejemplos están el steampunk, iniciado por Tim Powers, Kevin Wayne Jeter y James Blaylock, y el biopunk (o alternativamente ribofunk), en el que destaca Paul Di Filippo.
+S20 Asimismo, algunas personas consideran novelas como La era del diamante de Neal Stephenson como el inicio de la categoría postciberpunk.
+
+§1 Estilo y carácter distintivo
+S21 Los escritores ciberpunk tienden a emplear elementos de la novela policíaca dura, del cine negro y de la prosa postmoderna para describir las características del lado clandestino de sus sociedades dominadas por la tecnología.
+S22 Su visión de un futuro imperfecto puede ser vista como la antítesis del porvenir utópico que se anunciaba en las historias de la Edad de Oro de la ciencia ficción, populares en los años 1940 y 1950.
+S23 Ciberpunk Cualquier cosa que se le pueda hacer a una rata se le puede hacer a un ser humano.
+S24 Y podemos hacer casi cualquier cosa a las ratas.
+S25 Es duro pensar en esto, pero es la verdad.
+S26 Esto no cambiará con cubrirnos los ojos.
+S27 Esto es ciberpunk.
+S28 En la escritura ciberpunk la mayor parte de la acción ocurre en línea, en el ciberespacio; atenuando cualquier frontera entre la realidad y la realidad virtual.
+S29 Un tropo típico en estas obras es la conexión directa entre el cerebro humano y un sistema de cómputo.
+S30 El mundo dominado por los sistemas informáticos es representado como un lugar oscuro, siniestro, donde las redes de comunicación controlan todos los aspectos de la vida.
+S31 Las corporaciones multinacionales gigantes han tomado el papel de los gobiernos como centros del poder político, económico y militar.
+S32 La lucha entre un personaje marginalizado y un sistema totalitario es un tema común en la ciencia ficción (por ejemplo, la novela 1984 de George Orwell) y particularmente en el ciberpunk, aunque en la ciencia ficción convencional los sistemas totalitarios tienden a ser estériles, ordenados y controlados por el Estado.
+
+§2 Protagonistas
+S33 Los protagonistas de la escritura ciberpunk generalmente son hackers, quienes son moldeados frecuentemente en la idea de héroe solitario que combate la injusticia: vaqueros, rōnin, etc.
+S34 A menudo son individuos marginalizados que se encuentran envueltos en situaciones extraordinarias, más que científicos brillantes o capitanes estrella buscando intencionalmente avances o aventura, y no siempre son verdaderos «héroes».
+S35 ProtagonistasLos personajes del ciberpunk clásico son seres marginados, alejados, solitarios, que viven al margen de la sociedad, generalmente en futuros distópicos donde la vida diaria es impactada por el rápido cambio tecnológico, una atmósfera de información computarizada ubicua y la modificación invasiva del cuerpo humano.
+S36 —Notas hacia un Manifiesto de Postciberpunk, por Lawrence Person (1998).
+S37 Uno de los personajes prototípicos del género ciberpunk es Case, de la novela Neuromante de William Gibson.
+S38 Case es un «vaquero de la consola», un hacker brillante, que traiciona a sus socios del crimen organizado.
+S39 Robado su talento con una lesión que lo deja lisiado; infligida en venganza por sus socios criminales, Case recibe una inesperada única oportunidad en la vida de ser curado con asistencia médica experta; pero a cambio de su participación en otra empresa criminal con un nuevo equipo.
+S40 Como Case muchos protagonistas ciberpunk son manipulados, puestos en situaciones donde tienen poca o ninguna opción, y aunque ellos pueden verse en esto, no necesariamente llegan a estar más lejos de lo que previamente estaban.
+S41 Estos antihéroes –«criminales, parias, visionarios, desertores e inadaptados»– no experimentan el «camino de héroe» de Joseph Campbell como un protagonista de la epopeya homérica o una novela de Alexandre Dumas.
+S42 Ellos en cambio, traen a la memoria el investigador privado de la novela policíaca, que podría solucionar los casos más complejos, pero nunca recibir una recompensa justa.
+S43 Este énfasis sobre los inadaptados y descontentos —que Thomas Pynchon llama el «pretérito» y Frank Zappa el «olvido de la Gran Sociedad»— es el componente «punk» del ciberpunk.
+
+§3 Sociedad y gobierno
+S44 El ciberpunk se sitúa como un defensor de la libre circulación de la información.
+S45 Decididamente opuesto a los derechos de propiedad intelectual, se trata de un acérrimo defensor de las tecnologías de cifrado para garantizar la privacidad así como del dinero electrónico.
+S46 La literatura ciberpunk suele servir frecuentemente como una metáfora de las preocupaciones actuales sobre los efectos y el control de las corporaciones sobre las personas, la corrupción de los gobiernos, la enajenación y la vigilancia tecnológica.
+S47 El ciberpunk puede ser entendido como una advertencia a los lectores y una llamada a la acción.
+S48 Esto a menudo expresa el sentido de rebelión, sugiriendo que uno podría describirlo como un tipo de ciencia ficción contracultural.
+S49 En las palabras del autor y crítico David Brin:
+S50 Sociedad...una mirada más cercana, [de los autores ciberpunk], revela que retratan casi siempre a sociedades futuras con gobiernos absurdos y patéticos...
+S51 Cuentos populares de ciencia ficción de Gibson, Cadigan y otros son una representación orwelliana de la acumulación del poder en el próximo siglo, pero casi siempre en manos secretas más adineradas o en corporaciones de élite.
+S52 —The Transparent Society, Basic Books, 1998.
+S53 Es frecuente en las historias ciberpunk presentar una suerte de red de comunicaciones global combinada con representaciones multisensoriales de la información, semejantes a la realidad virtual.
+S54 Algunos de sus personajes son expertos y prestigiosos usuarios (hackers) de estas redes, frecuentemente en contraste con sus precarias condiciones de vida en el mundo real.
+S55 Aunque puedan considerarse como pronósticos ficticios de la evolución del Internet, el «ciberespacio», «la Red», «el Metaverso» o «la Matriz» del ciberpunk con más entornos de realidad virtual online que extrapolaciones de nuestras redes de información actuales.
+S56 En este contexto es importante observar que las descripciones más tempranas de una red global de comunicaciones aparecieron mucho antes de que la World Wide Web se incorporara al conocimiento popular, aunque no antes de que los escritores tradicionales de la ciencia ficción tales como Arthur Charles Clarke y en algunos comentaristas sociales como James Burke comenzaran a predecir que tales redes finalmente se formarían.
+
+§4 Literatura
+S57 El editor de ciencia ficción Gardner Dozois es generalmente conocido como la persona que popularizó el uso del término «ciberpunk» como un tipo de literatura.
+S58 El escritor Bruce Bethke acuñó el término en 1980 para su historia corta Cyberpunk, aunque la historia no se publicó hasta noviembre de 1983, en Amazing Stories, Volumen 57, Número 4.
+S59 El término fue rápidamente acogido como una etiqueta aplicada a los trabajos de William Gibson, Bruce Sterling, John Shirley, Rudy Rucker, Michael Swanwick, Pat Cadigan, Lewis Shiner, Richard Kadrey y otros.
+S60 De estos, Sterling inició el movimiento, liderando la ideología, gracias a su fanzine Cheap Truth (Verdad barata).
+S61 (Véase también los artículos de John Shirley sobre Sterling y Rucker).
+S62 Los elementos del ciberpunk están presentes en Los Cantos de Hyperion de Dan Simmons; el planeta Lusus posee muchas características del mundo distópico de Neuromante (Neuromancer) y los niveles cibernéticos de la vida y la existencia de inteligencia artificial tienen obvias influencias de los trabajos de Gibson.
+S63 William Gibson con su novela Neuromancer, es probablemente el más famoso escritor conectado con el término.
+S64 El estilo enfático, la fascinación con la superficie, la «apariencia y sensación» de futuro y la atmósfera ya tradicional en la ciencia ficción son vistos como la ruptura y a veces como «el trabajo arquetípico del ciberpunk».
+S65 Neuromancer fue galardonada con los premios Hugo, Nébula y Philip K. Dick.
+S66 De acuerdo con el archivo de la jerga, «la total ignorancia de Gibson acerca de computadoras y la cultura hacker actual le permitieron especular sobre el rol de las computadoras y hackers en el futuro de modo que ambas son desde entonces irritantemente ingenuas y tremendamente estimulantes».
+S67 Tempranamente, el ciberpunk fue aclamado como una ruptura radical de los estándares de la ciencia ficción y una nueva manifestación de vitalidad, sin embargo poco tiempo después surgieron muchos críticos para cambiar su estatus a «movimiento revolucionario».
+S68 Estos críticos dicen que la ciencia ficción de la «nueva ola» de los años 60 era mucho más innovadora en cuanto a estilo y técnicas narrativas.
+S69 Además mientras el narrador de Neuromancer pudo haber tenido una «voz» inusual para la ciencia ficción, se pueden encontrar muchos otros ejemplos anteriores a este: la voz narrativa de Gibson, por ejemplo se asemeja a la del actualísimo Raymond Chandler en su novela El gran sueño (1939).
+S70 Otros consideran que los rasgos considerados únicos del ciberpunk, de hecho se pueden encontrar en trabajos más antiguos de otros escritores, de los que podemos citar James Graham Ballard, Philip K. Dick, Harlan Ellison, Stanisław Lem, Samuel R. Delany e incluso William Burroughs.
+S71 Por ejemplo, los trabajos de Philip K. Dick contienen temas recurrentes de decaimiento social, inteligencia artificial, paranoia y líneas ocultas entre la realidad y una especie de realidad virtual; la película ciberpunk Blade Runner está basada en su novela ¿Sueñan los androides con ovejas eléctricas?
+S72 y la trama de los humanos vinculados con máquinas son el cimiento de la novela Wolfbane de Frederik Pohl y Cyril M. Kornbluth (1959) y Criaturas de luz y oscuridad de Roger Zelazny (1986).
+S73 En 1994 el académico Brian Stonehill insinuó que la novela El arco iris de gravedad de Thomas Pynchon «no solo insulta, sino plagia a los precursores del ciberespacio».
+S74 Otros importantes predecesores incluyen a dos novelas muy celebradas de Alfred Bester, El hombre demolido y Las estrellas, mi destino, así como la novela Nombres verdaderos de Vernor Vinge.
+S75 En esta década, el escritor brasileño Fausto Fawcett publica sus primeras novelas.
+S76 El escritor de ciencia ficción David Brin describe el ciberpunk como «(...) la campaña de promoción gratuita más fina emprendida a nombre de la ciencia ficción».
+S77 Esto pudo no haber atraído a los «verdaderos punks», pero atrajo a muchos nuevos lectores y dispuso la clase de movimiento que la literatura postmodernista buscaba comentar (una ilustración de esto es el Manifiesto Cyborg de Donna Haraway, un intento de construir un «mito político» usando cyborgs como metáforas de la «realidad social» contemporánea).
+S78 El ciberpunk hizo más atractiva la ciencia ficción para los académicos, argumenta Brin.
+S79 Además hizo a la ciencia ficción más lucrativa para Hollywood y las artes visuales en general.
+S80 Aun cuando su «importancia retórica y quejas de persecución» por parte de los aficionados al ciberpunk era irritante en el peor y chistoso en el mejor de los casos, Brin declara que «los rebeldes pusieron las cosas patas arriba; estamos en deuda con ellos [...]».
+S81 Pero, él pregunta: «¿Fueron ellos originales?».
+S82 El futuro ciberpunk inspiró a muchos escritores profesionales que no se encontraban entre los ciberpunk «originales» al incorporar ideas ciberpunk en sus propios trabajos, tales como Walter Jon Williams con Hardwired y Voz del torbellino, y George Alec Effinger con su obra Cuando la gravedad falla.
+S83 Mientras nuevos escritores y artistas empezaron a experimentar con ideas ciberpunk, nuevas variedades de ficción emergieron, a veces manejando el mismo nivel de crítica que las historias del ciberpunk original.
+S84 Lawrence Person escribió en un ensayo publicado en el foro de Internet Slashdot:
+S85 Muchos escritores que crecieron leyendo en 1980 ahora están publicando sus historias y novelas.
+S86 Para ellos el ciberpunk no fue una revolución o una filosofía alíen que invadió la ciencia ficción, sino que era otro sabor de la ciencia ficción.
+S87 Como los escritores de los años 1970 y 1980 que asimilaron las obras clásicas y técnicas estilísticas de la nueva ola sin necesariamente conocer o conservar el estilo de los manifiestos y las ideologías que nacieron con ellos, los nuevos escritores muy bien pudieron haber leído Neuromancer al tiempo que la Fundación de Asimov, Todos sobre Zanzíbar de John Brunner, o Mundo Anillo de Larry Niven y no ver una discontinuidad, sino una serie continua.
+S88 El ensayo de Person aboga usando el término «postciberpunk» para etiquetar los nuevos trabajos que estos escritores producen.
+S89 En esta visión, las historias típicas del postciberpunk continúan enfocándose en una atmósfera de datos ubicua de información computarizada y el aumento cibernético en el cuerpo humano, pero sin asumir la distopía.
+S90 Buenos ejemplos pueden ser La era del diamante de Neal Stephenson o Transmetropolitan de Warren Ellis y Darick Robertson.
+S91 Como todas las categorías incluidas en la ciencia ficción, los límites del postciberpunk son susceptibles de cambiar o ser mal definidos.
+S92 Para complicar el asunto, hay un mercado continuo de novelas ciberpunk «puras» fuertemente influenciadas por el trabajo temprano de Gibson, como Carbono alterado de Richard Morgan y Cyberpunk 2077: No hay coincidencias de Rafał Kosik.
+
+§5 Comienzos del subgénero
+S93 En 1965, Jean-Luc Godard estrena Alphaville, un filme de ciencia ficción con elementos de novelas de ese mismo género, en la cual aparece un futuro distópico propio del ciberpunk, basado, probablemente en el que aparece en Un mundo feliz de Aldous Huxley.
+S94 Un año después, se estrenó la película Fahrenheit 451, siendo la supuesta adaptación de la novela homónima de Ray Bradbury y considerada como uno de los primeros largometrajes del cine distópico del ciberpunk.
+S95 La película Blade Runner (1982), adaptada del libro ¿Sueñan los androides con ovejas eléctricas?
+S96 de Philip K. Dick, se ubica en una distopía futura en la cual seres manufacturados llamados replicantes (en la novela, «andys» o «andrillos» dependiendo de la traducción) son usados como esclavos en colonias del espacio, y en la Tierra presa de varios cazadores de recompensas, quienes se encargan de «retirarlos» (matarlos).
+S97 Aunque Blade Runner no fue un éxito en su lanzamiento, encontró un gran nicho en el mercado de alquiler de películas.
+S98 Puesto que la película omite los elementos religiosos y míticos de la novela de Dick (por ejemplo, cajas de empatía y Wilbur Mercer), cae más estrictamente dentro del género ciberpunk que la novela.
+S99 William Gibson revelaría después que la primera vez que vio la película, se había sorprendido mucho de cómo la apariencia de esta película era similar a su visión cuando estaba trabajando en Neuromancer.
+S100 Aunque no fue hasta principios de los noventa cuando se consagró como un género de denominación popular, gracias a numerosas películas, entre las que destacan Hardware o Death Machine.
+S101 Según lo mencionado anteriormente, la serie de televisión Max Headroom también expandió el ciberpunk, quizá con un éxito más popular que los primeros trabajos escritos del género.
+S102 El número de películas de este género, o por lo menos de uno de sus elementos ha crecido constantemente desde Blade Runner.
+S103 Varios de los trabajos de Philip K. Dick se han adaptado a la pantalla gigante, con elementos ciberpunk llegando a ser típicamente dominantes, los ejemplos incluyen Screamers (1996), Minority Report (2002), Paycheck (2003) y Una mirada a la oscuridad (2006).
+S104 Pero desafortunadamente para el argumento original, la película Johnny Mnemonic (1995) fue un fracaso, comercialmente y para la crítica.
+S105 Los fanes de Gibson reclaman que el argumento se desvió sustancialmente del trabajo original, aún cuando el mismo Gibson escribió el guion final.
+S106 El director Darren Aronofsky ubica su ópera prima π (1998) en una Nueva York actual, pero construyó el libreto con influencias de la estética ciberpunk.
+S107 De acuerdo con comentarios del DVD, él hizo esta producción usando deliberadamente máquinas antiguas (como el disquete de 5¼ de pulgada), imitando el estilo tecnológico de Brazil (1985), para crear una «sensación» ciberpunk.
+S108 Aronofsky describe el Chinatown, donde se ubica la película, como «el vecindario ciberpunk después de Nueva York».
+S109 Se encuentran otras películas prácticamente coetáneas a Blade Runner, que también reflejan este mundo ciberpunk, como por ejemplo, Cielo líquido (1982), pues tiene un argumento de ciencia ficción urbanita con protagonistas bastante marginales, también merece mención la película Max Headroom: 20 minutos en el futuro (1985), ya que en una época como los años 80, un argumento como el de esta película era muy llamativo, en ella, una inteligencia artificial tenía el papel protagonista, se convertiría, además, en una serie televisiva.
+S110 Por otro lado, también encontramos la película Días extraños (1995) tratando un apocalipsis de realidad virtual en 1999, aunque fue un filme con muy poca acogida, lo mismo que ocurrió con la ya comentada película Johnny Mnemonic.
+S111 La película Demolition Man (1993) describe una sociedad futurista donde la delincuencia ha sido prácticamente erradicada y sus habitantes viven conforme a su programación de nacimiento con base a características predeterminadas (inspirado en la novela Un mundo feliz de Aldous Huxley), de hecho el nombre de la protagonista Lenina Huxley, es un guiño al personaje principal de dicha obra y el apellido del autor.
+S112 Los valores de la sociedad del futuro han sufrido un proceso de infantilización, ya que sus habitantes prácticamente carecen de maldad a priori, así como de libre albedrío.
+S113 Un dato curioso de esta cinta se debe a que en el lapso de historia acontecido entre los años 1996 y 2032, se habla que en los Estados Unidos experimentó un período de anarquía y violencia extrema que duró hasta la segunda década del siglo XXI, donde tal escenario casi destruyó a la humanidad.
+S114 Por lo tanto, el entorno ha sido refundado la sociedad con base a su proyecto de edén terrenal que se convertiría en la ciudad de San Ángeles.
+S115 La serie RoboCop se ajusta más al futuro cercano donde hay por lo menos una corporación, Omni Productos de Consumo, que es una empresa todopoderosa en la ciudad de Detroit.
+S116 Hasta el fin del mundo (1991) muestra otro ejemplo donde el ciberpunk es el tema de fondo, y una estrategia de argumento, para verla de otro modo y dirigir el personaje de la historia.
+S117 Gattaca (1997) dirigida por Andrew Niccol es un filme negro futurista cuyo empapado modo distópico provee un buen ejemplo del biopunk.
+S118 La serie Matrix, que inició en 1999 con The Matrix (conformada también por The Matrix Reloaded, The Matrix Revolutions, The Matrix Resurrections y The Animatrix) usan una amplia variedad de elementos ciberpunk.
+S119 La película Yo, robot (2004), contiene elementos de varios de los trabajos del autor Isaac Asimov, entre ellas, las tres leyes de la robótica y algunas ideas extraídas de los relatos provienen de El robot perdido.
+S120 La compañía ficticia U.S.
+S121 Robots and Mechanical Men (USR) es citada en las novelas y relatos cortos del mismo autor y el argumento se ubica en una distópica ciudad de Chicago en el año 2035, donde los robots humanoides forman parte de la vida cotidiana en la Tierra y son la fuerza laboral de la raza humana.
+S122 Una película titulada 2033: La ilusión de un futuro mejor, fue considerada la primera cinta de ciencia ficción mexicana de temática ciberpunk, producida por la productora La Casa del Cine.
+S123 La película contiene algunas referencias a personajes de orientación socialista en el pasado de México: primero, la pintura en el comedor del general Benavides es un trabajo del muralista David Alfaro Siqueiros, un bien conocido miembro del Partido Popular Socialista (PPS); el nombre del gobernante tirano, Pec, forma las iniciales de Plutarco Elías Calles, un presidente mexicano que, de hecho, trató de prohibir los cultos y con ello causó la Guerra Cristera.
+S124 El nombre del personaje Goros hace referencia a Enrique Gorostieta Velarde, líder y estratega militar que logró unificar a las distintas facciones cristeras.
+S125 Finalmente, el nombre del líder de la rebelión, Padre Miguel, es una referencia a Miguel Agustín Pro, un sacerdote rebelde que fue fusilado durante la Guerra Cristera y décadas después canonizado por Juan Pablo II.
+S126 Es decir, las figuras antagónicas están relacionadas con el gobierno y el pensar socialista, y las figuras protagónicas lo están con la religión, particularmente con la simbología cristiana.
+S127 La prisión criogénica (que apareció previamente en Demolition Man), donde Goros se encuentra encerrado, es mostrada brevemente en la película.
+S128 El estilo ciberpunk y el diseño futurista han encontrado una gran acogida (y vasta exposición) en el anime, incluyendo Akira (primer referente anime del género) es un manga en el que también se basa la película homónima de animación japonesa.
+S129 Ambas obras tuvieron un reconocimiento instantáneo como clásicos dentro de sus respectivos géneros.
+S130 El manga, de más de dos mil páginas, fue escrito y dibujado por Katsuhiro Otomo entre los años 1982 y 1993 obteniendo un éxito significativo en Japón y en el resto del mundo.
+S131 Premiada con el Premio Kōdansha al mejor manga en 1984 en la categoría general (一般部門).
+S132 El largometraje homónimo se separa de la línea argumental del manga por causas claras: la película fue estrenada cinco años antes de la conclusión del manga.
+S133 Akira se ambienta en la ciudad futurista de Neo-Tokio, representada con profundo detalle en la película de animación (se invirtieron cerca de siete millones de dólares solo en los decorados).
+S134 Otros animes en abordar esta temática son: Ghost in the Shell, este anime es uno de los que más importancia presenta dentro de este subgénero, presentando conexiones con el cine negro y reflexiones existencialistas sobre un mundo donde distinguir máquina de humano es cada vez más difícil.
+S135 Al lado de este potencial encontramos otras obras como Cyber City Oedo 808, Battle Angel Alita, BLAME!, Bubblegum Crisis, Armitage III, Armitage Dual Matrix, Silent Möbius, Serial Experiments Lain, Texhnolyze, Appleseed, Ergo Proxy, Eden: It's an Endless World!
+S136 y Psycho-Pass, siendo esta última la que más ha influenciado la juventud contemporánea japonesa que vive con una relativa cercanía a la ambientación de la serie, que muestra un Japón con tecnologías punta y que advierte sobre los riesgos que puede causar esto ante una posible perdida de identidad humana.
+S137 El anime también ha proporcionado ejemplos de los subgéneros steampunk, como es el caso del manga Clover de CLAMP, también en muchos de los trabajos de Hayao Miyazaki, pero también notablemente en Last Exile (2003), creado por el estudio Gonzo y dirigido por Koichi Chigira, que ofrece una curiosa mezcla de sociedad victoriana y batallas futuristas entre naves aéreas.
+
+§6 Actualidad
+S138 Este subgénero también sigue plasmándose en las películas, series de televisión y animes de la actualidad, un ejemplo de ello es la película Inception del año 2010 dirigida por Christopher Nolan e interpretada por Leonardo Di Caprio, se puede relacionar con este subgénero ya que este versátil director sin tener que tratar la socorrida realidad virtual, hace entrar al espectador en una realidad lejana, haciendo que el protagonista junto con sus secuaces se introduzcan en sueños ajenos, algo que encaja con los patrones de este subgénero a tratar.
+S139 In Time, dirigida por Andrew Niccol, es una película que combina el cine negro con elementos ciberpunk y está ambientado en el año 2161, donde el gen del envejecimiento humano ha sido desactivado; ya que al cumplir los veinticinco años, los humanos dejan de envejecer.
+S140 Cuando un año transcurre, mueren de un ataque al corazón a menos de que «ganen» tiempo y rellenen con él sus «relojes de vida», que llevan la cuenta regresiva con la forma de un reloj digital en sus antebrazos izquierdos, programado desde que nacen.
+S141 Aunque la película fue un éxito al recaudar más de 173 millones de dólares frente a un presupuesto de cuarenta millones de dólares, un mes atrás el 15 de septiembre de 2011, un informe del The Hollywood Reporter mencionó que los abogados del novelista Harlan Ellison presentaron una demanda en la corte federal de California debido a que el argumento estaba asemejado a su aclamado relato ¡Arrepiéntete, Arlequín!, dijo el señor Tic-tac de 1965.
+S142 La demanda, que acusaba a la compañía New Regency Productions, al director de la cinta entre otros, se basaba en la similitud de ambas historias, ambientadas en un futuro distópico donde las personas cuentan con una cantidad de tiempo de vida, el cual puede ser revocado por una autoridad gubernamental conocida como «Timekeepers».
+S143 El objetivo de Ellison era impedir el estreno de la película (por motivos de acusaciones de plagio), pero después cambió de opinión y exigió que se incluyera su nombre en los créditos finales.
+S144 La nueva película de Total Recall, dirigida por Len Wiseman y protagonizada por Colin Farrell, fue estrenada en 2012 y es considerada como una nueva versión y no una adaptación, dado la diferencia entre el cuento de Dick y la versión de 1990, dirigida por Paul Verhoeven y protagonizada por Arnold Schwarzenegger.
+S145 Del mismo modo, el anime y la novela ligera Sword Art Online Alternative: Gun Gale Online, siendo un spin-off de la franquicia Sword Art Online, ofrecen elementos de la temática ciberpunk.
+S146 Blade Runner 2049, dirigida por Denis Villeneuve, es un claro ejemplo de ciberpunk en la actualidad, siendo una secuela de la aclamada Blade Runner.
+S147 Esta película se sitúa treinta años después de los acontecimientos de la primera película, y muestra un futuro distópico y lleno de referencias a la cultura ciberpunk.
+S148 También puede destacarse la película Dredd del año 2012, dirigida por Pete Travis, ya que a pesar del poco éxito comercial, es un buen ejemplo de estas claves del ciberpunk establecidas, pues se representa un futuro violento y distópico.
+S149 Beatless, una novela serial que tuvo una adaptación al anime por el estudio Diomedéa, fue estrenada en su bloque de programación Animeism del canal MBS, y su trama se sitúa en el año 2105, en un entorno futurista mediante el avance de la tecnología a gran escala, mostrando a los hIE (Elementos de Interfaz Humanoide), robots similares a humanos inventados en el año 2057 y se utilizan como servidores públicos y personales de la sociedad humana.
+S150 La nueva versión del anime Night Head 2041, basada en su drama japonés homónimo de 1992 y el anime Night Head Genesis de 2006, se encuentra ambientado en una distópica ciudad de Tokio durante el año 2041, en donde la existencia de energía mental y de cualquier cosa desde libros o imágenes que describieran los fenómenos naturales (incluidos los psíquicos), son completamente censurados.
+S151 Fue estrenada el 15 de julio de 2021 en Plus Ultra, uno de los bloques de programación del canal Fuji TV y fue adquirida por Crunchyroll, quien obtuvo la licencia de la serie.
+S152 La película Ghost in the Shell, protagonizada por Scarlett Johansson y estrenada en 2017, es una adaptación en acción real del manga homónimo de Masamune Shirow, ambientado en la Sección 9 en un Japón futurista, donde la protagonista tiene un alias que le asignaron tras haber sido alterada tanto de su memoria como de su cuerpo, hasta que más tarde se da cuenta no sólo de quién es ella realmente, sino que también había sido una japonesa que había perdido la vida y cómo le habían borrado de sus recuerdos reales.
+S153 A pesar de su éxito de taquilla, también generó controversias mediante la elección de Johansson por acusaciones de whitewashing, ya que los cineastas en algún momento hicieron uso de CGI y otros efectos visuales de prueba para alterar la apariencia de Johansson con el fin de hacer que su personaje tuviera rasgos asiáticos, estimulando más las reacciones negativas a la película.
+S154 La productora y distribuidora Paramount Pictures declaró que las pruebas duraron poco y no involucraron a Johansson.
+S155 Algunos fanes, así como personas que trabajan en la industria, han afirmado que la controversia es un síntoma de un problema más grande, y que los temores modernos de Hollywood de lanzar actores no blancos traerían menos audiencias que los actores blancos.
+S156 En Japón, algunos fanes del manga se sorprendieron de que el casting causara controversia, ya que muchos asumieron que en una producción de Hollywood elegirían a una actriz blanca en el papel principal, y consideraron que no se debería prestar demasiada atención a la apariencia física del protagonista principal porque los temas dominantes en Ghost in the Shell son la naturaleza de la identidad propia y cómo se ve afectada con el uso de diferentes cuerpos cyborg que alojan humanos cibernéticos.
+S157 Mahōka Kōkō no Rettōsei, una anime inspirado en la serie de novelas ligeras homónima, está situado en una historia alternativa futurista, donde la magia existe (sin ser un producto de leyendas fantásticas y de cuentos de hadas) y se pule a través de la tecnología avanzada y moderna en un futuro lejano y distópico.
+S158 Sin embargo, la capacidad de usar la magia está determinada por la genética, lo que limita el número de magos que existen.
+S159 Después de la Tercera Guerra Mundial que duró veinte años y que redujo la población mundial a tres mil millones, las superpotencias del mundo se trasladaron a estas cuatro naciones: Estados Unidos de América del Norte (USNA), Nueva Unión Soviética, la Gran Alianza Asiática y Japón.
+S160 En este país, la comunidad mágica está gobernada informalmente por los Diez Clanes Maestros en lugar del gobierno.
+S161 Debido al número limitado de magos, son tratados como una mercancía y se ven obligados a ingresar a escuelas y profesiones relacionadas con la magia.
+S162 Existen nueve escuelas secundarias mágicas en Japón; cada uno de ellos se especializa en diferentes aspectos de la magia y simplemente se hace referencia a ellos por su número.
+S163 La serie ha generado una franquicia que obtuvo varios spin-offs, videojuegos y una película estrenada en los cines de Japón.
+S164 Dimension W, un manga escrito e ilustrado por Yūji Iwahara, sacó una adaptación al anime producida por 3Hz y Orange fue emitida en Japón entre enero y marzo de 2016.
+S165 La serie se encuentra abarcado en el año 2072 y la historia sigue a un aficionado a la mecánica automotriz llamado Kyōma Mabuchi y a una chica robot llamada Mira Yurizaki, quienes son «recolectores», cazadores de recompensas encargados de confiscar bobinas ilegales, dispositivos peligrosos que pueden aprovechar el poder de otra dimensión.
+S166 A medida que se unen a regañadientes para su misión, comienzan a descubrir la verdad detrás de New Tesla Energy, el proveedor multinacional de energía eléctrica mundial.
+S167 La serie de anime Akudama Drive está ambientado en un futuro distópico en Kansai, cuya historia sigue a una joven ordinaria que accidentalmente se convierte en una criminal que es perseguida por el gobierno, aunque decide adoptar una identidad falsa para sobrevivir después de conocer al mensajero de Kansai.
+S168 La serie se emitió de octubre a diciembre de 2020, por motivos de la pandemia de COVID-19 y el anime fue inspirado por las películas Reservoir Dogs (1992) y Pulp Fiction (1994); ambas de Quentin Tarantino y The Usual Suspects (1995) de Bryan Singer.
+S169 En 2016, la serie de televisión Westworld fue producida y distribuida en su cadena original de HBO, cuya trama se basó en la película homónima de 1973 de Michael Crichton y en menor medida, en su secuela Futureworld (1976).
+S170 La historia comienza en Westworld, un parque de atracciones ficticio y tecnológicamente avanzado con temática del Viejo Oeste poblado por androides, denominados «anfitriones».
+S171 El parque atiende a «invitados» que pagan mucho y que pueden satisfacer sus fantasías más salvajes dentro del parque sin temor a represalias de los anfitriones, a quienes su programación les impide dañar a los humanos.
+S172 Más tarde, la trama de la serie se expande al mundo real, a mediados del siglo XXI (con elementos de temática ciberpunk), donde las vidas de las personas son llevadas y controladas por una poderosa inteligencia artificial llamada Roboam (Rehoboam).
+S173 A pesar de haberse estrenado solamente cuatro temporadas, la serie fue cancelada tras los bajos niveles de audiencia de la tercera y cuarta temporada.
+S174 La película británica negro-futurista Anon se encuentra localizado en un futuro cercano donde el gobierno requiere que todos reciban un implante ocular que registre todo lo que ven.
+S175 El implante proporciona al usuario una pantalla de visualización frontal de realidad aumentada con información sobre cualquier persona y cualquier cosa que pueda ver, además de registrar la vista del usuario.
+S176 Las investigaciones de delitos equivalen a detectives que revisan videos y evalúan si un presunto perpetrador es inocente o culpable.
+S177 En 2018, se estrenó en Netflix la serie de televisión Altered Carbon, basada en la novela Carbono alterado de Richard Morgan.
+S178 Esta serie está relacionado con este subgénero junto con el postciberpunk, tomado de los elementos de la franquicia Blade Runner.
+S179 La trama está ambientada en el año 2384, donde la identidad humana se puede almacenarse en un soporte digital y transferirse de un cuerpo al otro, lo que les otorga a los seres humanos superar a la muerte física al asegurarse que sus recuerdos sean insertados en nuevos cuerpos.
+S180 El protagonista es un mercenario y exmiembro de las unidades militares especiales, que es asesinado e insertado doscientos cincuenta años después, en el cuerpo que antes era propiedad de Elias Ryker, un oficial de policía de Bay City, a instancias de Laurens Bancroft, un rico y poderoso aristócrata de 365 años de edad que aparentemente se suicidó, perdiendo todos los recuerdos de los eventos previos a la muerte.
+S181 Bancroft está convencido de que no se ha suicidado y lo contrata para investigar lo que él considera un asesinato.
+S182 La primera temporada consta de diez episodios, desde su estreno el 2 de febrero de 2018.
+S183 Fue renovada para una segunda temporada, estrenada en 2020, pero en agosto del mismo año se anunció su cancelación sin final.
+S184 Una película de anime Altered Carbon: Reenfundados, sirvió como un spin-off de la serie original de Netflix, estableciéndose tiempo antes de los eventos de la primera y segunda temporada.
+S185 La nueva versión cinematográfica de Fahrenheit 451 dirigida por Ramin Bahrani y protagonizada por Michael B. Jordan y Michael Shannon se ambienta en una versión futurista de los Estados Unidos donde los «bomberos» son operados por una dictadura totalitaria que le echa la culpa a la infelicidad, la enfermedad mental y las opiniones contradictorias de leer la literatura «equivocada» mediante la quema de libros.
+S186 A pesar de sus críticas mixtas, con elogios por las actuaciones y las imágenes, fue criticado negativamente por el guion y la falta de fidelidad al libro original de Bradbury.
+S187 La serie de televisión rusa Mejores que nosotros (Лучше, чем люди) transcurre en 2029, en un mundo donde los androides sirven a los humanos en diversos puestos, incluso reemplazándolos en muchos trabajos humildes.
+S188 El anime Ghost in the Shell: SAC_2045, es un ONA original de Netflix que se encuentra ambientada en la subcontinuidad del arco Ghost in the Shell: Stand Alone Complex, procedente del manga homónimo de Masamune Shirow y aunque se estrenó mundialmente en Netflix, ha recibido críticas generalmente negativas y los críticos la consideraron inferior a los medios anteriores de Ghost in the Shell.
+S189 Otro anime que también puede destacar es el ONA original Cyberpunk: Edgerunners, basado en el polémico videojuego Cyberpunk 2077 y distribuido también por Netflix en colaboración con CD Projekt RED y Studio Trigger.
+S190 El entorno se desarrolla en la ficticia ciudad distópica de Night City, California y su trama es en realidad una precuela, ambientado un año antes de los eventos del videojuego original.
+S191 La serie de novelas ligeras Demon Lord 2099, que también tuvieron adaptaciones al manga (una pérdida y una reciente versión) y anime, describen un entorno futurista fantástico en el que el mundo de fantasía de Alneath se fusionó con el planeta Tierra durante el año 2023 tras un fenómeno catastrófico conocido como "Fantasion" y con ello, la integración de la tecnología avanzada moderna, causando prejuicios entre las razas fantásticas y la humana, el colapso de las fronteras nacionales y guerras entre ciudades-estado recién establecidas.
+S192 Finalmente, luego de varios periodos de guerra, estalló una paz relativa y la magia de Alneath se combinó con la industria de la Tierra para crear ingeniería mágica conocida como "maquinaria".
+S193 Blade Runner: Black Lotus, es una serie de anime licenciado por Alcon Television Group y distribuida por Crunchyroll y Adult Swim.
+S194 El anime está basado en la franquicia Blade Runner y el entorno se sitúa entre los sucesos ocurridos en los cortometrajes Blade Runner Black Out 2022, 2036: Nexus Dawn, 2048: Nowhere to Run y la película Blade Runner 2049, en el año 2032 y contiene personajes familiares dentro de la franquicia.
+S195 Blue Beetle, una película de superhéroes estadounidense dirigida por Ángel Manuel Soto y producida por DC Films (perteneciente al Universo extendido de DC), se encuentra ambientado en la ciudad ficticia y futurista de Palmera City, una creación original de la película, en lugar de El Paso, Texas como aparece en los cómics.
+S196 Soto dijo que esto era para crear un mundo específico para Jaime Reyes en un nivel similar a Metrópolis para Superman y Gotham City para Batman, y para ayudar a posicionar al personaje como un «líder potencial» en la nueva franquicia basada en DC.
+S197 Su inspiración visual para el entorno futurista de Palmera City proviene de los largometrajes japoneses Akira (1988) y Neo Tokyo (1987), y en la ciudad de Miami, Florida como telón de fondo.
+S198 El largometraje The Creator dirigido por Gareth Edwards es considerado un film nostálgico posmoderno y un remix porno de múltiples referencias tanto a las películas de ciencia ficción (Westworld, Blade Runner, The Terminator, Akira y Avatar) como el space opera (franquicia Star Wars) y el bélico (Apocalypse Now, Amanecer rojo, District 9 y Battle: Los Angeles).
+S199 Originalmente titulado True Love, Edwards cambió el título y explica que «sonaba demasiado a una comedia romántica y ese mensaje confundiría a las audiencias potenciales que no estaban familiarizadas con la trama o el avance de la película».
+
+§7 Música y moda
+S200 El término «música ciberpunk» puede referirse a dos categorías algo superpuestas.
+S201 El primer ejemplo puede denotar la amplia gama de los trabajos musicales que las películas ciberpunk utilizan como banda sonora.
+S202 Estos trabajos varían en género desde la música clásica y el jazz —usada en Blade Runner, y que por otra parte evoca el ambiente del cine negro— hasta el noise y la música electrónica.
+S203 Típicamente las películas hacen uso de la electrónica, electronic body music, música industrial, noise, futurepop, rock alternativo, rock gótico, synthpop, retrowave, synthwave, vaporwave e intelligent dance music, derivados y fusiones para crear la sensación «apropiada».
+S204 El mismo principio se aplica a los videojuegos y por supuesto, mientras los trabajos escritos no están asociados a bandas sonoras con tanta frecuencia como las películas, la alusión a trabajos musicales es usada para el mismo efecto.
+S205 Por ejemplo la novela gráfica Kling Klang Klatch (1992), una fantasía oscura sobre un mundo de juguetes vivos, donde un oso de peluche amargado tiene una adicción hacia el azúcar y una predilección por el jazz.
+S206 El segundo ejemplo de la «música ciberpunk» también describe los trabajos asociados con la tendencia de la moda que emergió del desarrollo de la ciencia ficción.
+S207 El libro Future Shock de Alvin Toffler influyó tanto en los creadores del techno en Detroit a principios de los años 1980, como Juan Atkins y su grupo Cybotron, como a los pioneros europeos del sintetizador Kraftwerk, produciendo canciones de clara inspiración distópica.
+S208 La banda canadiense de thrash/punk/progressive metal Voivod fue una de las primeras en autodenominarse ciberpunk.
+S209 En los años 1990, la cultura popular comenzó a incluir un movimiento en la música y en la moda que llamaron también «ciberpunk» y que llegó a ser particularmente asociada con las subculturas rave y techno.
+S210 Con el nuevo milenio, llegó un nuevo movimiento de bandas industriales que hacían música de «portátil».
+S211 Los punks y okupas se armaron con equipo digital y fusionaron la tecnología con sonidos callejeros.
+S212 La subcultura hacker documentada en lugares como el archivo de la jerga contempla este movimiento con sentimientos encontrados, desde los autoproclamados ciberpunks que están frecuentemente «inclinados» hacia el cuero negro y el cromo quienes hablan entusiasmados de tecnología en lugar de aprender o verse involucrados en esto.
+S213 Sin embargo, estos autoproclamados ciberpunks al menos están «emocionados con las cosas correctas» y típicamente respetan a las personas que actualmente trabajan con esto de «la naturaleza hacker».
+S214 El español José María Ávalos Oliveros, en su tesis de máster para la carrera de postproducción digital de la Universidad Politécnica de Valencia, llamada Distopía musical: La música en el Cyberpunk se sostiene que ningún compositor se amolda a unas reglas concretas para escribir o componer música ciberpunk.
+S215 No hay un estilo preestablecido ni pautas a seguir y que cada músico aporta una novedad distinta, por lo general, en cada producción en la que hayan participado.
+S216 También hay que tener en cuenta factores como la época en la que se compone la música, las canciones, en caso de haber, que se utilizan en la banda sonora junto al carácter comercial y la influencia que puede tener sobre otras producciones del género.
+S217 Ciertos géneros musicales como el drum and bass fueron directamente influenciados por el ciberpunk, incluso generando un subgénero completo llamado neurofunk.
+S218 Un claro ejemplo de la influencia ciberpunk en la música son la banda Sigue Sigue Sputnik y el video musical del sencillo Union of the Snake de Duran Duran.
+S219 El álbum de estudio de 1982 del grupo electrónico The Cassandra Complex, se llama Cyber Punk.
+S220 En la actualidad, podemos decir que el género que representa a plenitud el espíritu ciberpunk es el futurepop, de la mano de bandas como Mind.In.A.Box, VNV Nation, Rotersand, Covenant, Colony 5 y bandas de synthpop como Neuroactive, Neuroticfish y Seabound.
+S221 Estos grupos destacan por el intenso uso del Vocoder (sintetizador de voz) en sus canciones, ritmos bailables entre 120‑140 bpm, letras futuristas, y melodías pegadizas que provoca un efecto adecuado a la atmósfera ciberpunk.
+S222 La portada del álbum Somewhere in Time (1986) de la banda Iron Maiden tiene una clara estética ciberpunk, retratando a los miembros de la banda y a Eddie the Head en un escenario futurista y distópico.
+S223 El sencillo Fortnight de Taylor Swift y Post Malone, lanzado como primer sencillo del álbum The Tortured Poets Department de Swift, es una canción en downtempo y electropop que rinde homenaje a la «música ciberpunk» de la década de 1980 y el video musical del sencillo MotorSport del trío de hip hop estadounidense Migos en su álbum de estudio Culture II muestra algunas escenas futuristas de una megalópolis urbanizada y la atmósfera de fondo del cine negro relacionadas con las películas del cine de ciencia ficción distópica, en especial, al largometraje Blade Runner de 1982.
+S224 La portada del álbum Data (2024) del productor Tainy tiene como referencia a una cíborg protagonista llamada "Sena" y el diseño de la portada se asemeja al largometraje de anime Ghost in the Shell (1995).
+S225 El mismo productor explicó que los sonidos del synthpop y el ritmo del reggaeton latino se fusionaron para crear un ambiente rítmico completamente futurista y un "feeling" retro.
+S226 Los álbumes de estudio Drones (2015) y Simulation Theory (2018) de la banda Muse poseen artes conceptuales que rinden homenaje a los estereotipos de la ciencia ficción.
+S227 El álbum Drones es un arte conceptual que relata la historia del abandono de un individuo desde el momento en que es indoctrinado para convertirse en un "dron humano" hasta su eventual defección, haciendo también abordar el programa de drones de la administración Obama.
+S228 La portada del álbum Simulation Theory fue diseñada por Kyle Lambert (quien participó en el arte de portada de la serie Stranger Things de Netflix) e incorpora influencias más ligeras de la ciencia ficción y la cultura pop de los años 1980 en sus canciones y en sus videos musicales tales como la trilogía de películas Back to the Future, el video musical Thriller de Michael Jackson y el largometraje Teen Wolf.
+S229 La banda expresó que en sus letras explora el rol de la simulación en la sociedad y la hipótesis de la simulación, que propone que la realidad es una simulación.
+S230 En Brasil destaca el cantautor Fausto Fawcett, también escritor.
+S231 Comenzó su carrera musical en 1986, por sugestión de uno de sus amigos de la facultad, el cineasta Cacá Diegues, y firmó con la Warner Music Group para lanzar su álbum debut, Fausto Fawcett e os Robôs Efêmeros (Fausto fawcett y los Robots Efímeros) al año siguiente.
+S232 El álbum ha sido descrito como una «obra conceptual sobre una Copacabana Blade Runner».
+S233 En el Reino Unido, la banda Gunship, compuesta por el vocalista Alex Westaway, el teclista Dan Haigh y el baterista Alex Gingell, es uno de los más destacados en este país.
+S234 Sus influencias varían entre la música de las series de televisión y las películas de ciencia ficción de los años 1980, pero también en los videojuegos, pues Dan además es desarrollador de videojuegos y especialista en SFX.
+S235 No obstante, el nombre de la banda se inspira en el videojuego Gunship, que tuvo una gran popularidad en los salones recreativos de los años 1980 y 1990.
+S236 La fuerza de esta banda radica en la intensidad de su voz cinematográfica y en las melodías realizadas con sintetizador analógico, que le dan un estilo ciberpunk muy estilizado.
+
+§8 Videojuegos
+S237 Los videojuegos usan frecuentemente el ciberpunk como fuente de inspiración, algunos de estos como Blade Runner o Enter the Matrix, están basados en películas del género, mientras que otros como Deus Ex y System Shock, Final Fantasy VII, Mega Man, Snatcher y Observer son trabajos originales.
+S238 Algunas franquicias multimedia entran al terreno de los videojuegos como el caso de Shadowrun o Ghost in the Shell, mientras que otras tienden a incluir ambiente y temas del género ciberpunk como un elemento más en torno a la construcción de su mundo y narrativa, como es el caso de la saga .hack, la trilogía de Xenosaga, algunos títulos de las franquicias Metal Gear y Megami Tensei, a la vez que novelas visuales como VA-11 Hall-A recurren al género como un medio tanto de homenaje como sátira a sus tropos narrativos.
+S239 El ciberpunk también ha sido usado en videojuegos de aventura para computadoras, destacan el ahora freeware Beneath a Steel Sky, publicado por Revolution Software, Neuromancer, publicado por Interplay en 1988, BloodNet, publicado por Microprose en 1993 y Hell: A Cyberpunk Thriller, por GameTek en 1994.
+S240 También el ahora abandonware, Flashback.
+S241 El videojuego de acción y aventura Neuromancer está basado directamente en la novela, incluyendo Chiba City, algunos de los personajes, hacking de bases de datos y plataformas ciberespaciales.
+S242 Este estilo llegó a influenciar el desarrollo de videojuegos y mods de disparos en primera persona.
+S243 Algo que se puede apreciar, por ejemplo, en Neotokyoº, un mod del videojuego Half-Life 2 (cuya historia y complejidad lo clasificaron como un mod independiente), situado en un Japón futurista y donde se aprecian referencias a Akira, Ghost in the Shell y distintos rasgos que definen al género ciberpunk.
+S244 En la serie Deus Ex se centran no solo en los temas futuristas del ciberpunk, la tecnología avanzada y sus efectos en el mundo, sino también en las teorías de conspiración y los conflictos entre organizaciones secretas como los Iluminatti, la FEMA y los caballeros templarios.
+S245 El videojuego Sword Art Online: Fatal Bullet, inspirado en el arco Phantom Bullet de la novela ligera y el manga del mismo nombre, contiene elementos del ciberpunk y de la ficción apocalíptica, además de tener una historia alternativa del anime que tiene finales dependiendo de la elección del jugador.
+S246 Otros ejemplos que se pueden destacar son los videojuegos Battlefield 2042 y Call of Duty: Infinite Warfare, los cuales también son unos de los mejores ejemplos del ciberpunk, pues se encuentran ambientados en un futuro violento y distópico (similar a la película Dredd).
+S247 Durante la década de 2020, CD Projekt lanzó el videojuego Cyberpunk 2077, basado en el juego de rol homónimo de Mike Pondsmith.
+S248 Aunque su estreno tuvo un decepcionante desempeño de la mecánica del juego por sus numerosos bugs y glitches en las consolas de octava generación que provocaron un reembolso total, ha logrado recuperar buena fama mundial al corregir y solucionar los problemas del desempeño en las consolas de novena generación, así como un aumento en las unidades vendidas del 18% a 94% por parte del ONA Cyberpunk: Edgerunners, convirtiéndose así en el mejor juego de acción futurista del siglo XXI.
+S249 El videojuego de carreras y combate vehicular Screamer, lanzado en marzo de 2026 y hecho en colaboración internacional en Italia, Estados Unidos y Japón, se encuentra ambientado en el entorno futurista y distópica de Neo-Rey, donde se localiza una megacorporación llamada Anaconda Corp, considerado como uno de los conglomerados masivos más poderosos de la ciudad.
+S250 En Japón, Square Enix estrenó Final Fantasy VII Remake y su secuela Final Fantasy VII Rebirth, cuyos juegos pretenden ser una adaptación y recreación de la trama original de Final Fantasy VII, conocida como Compilation of Final Fantasy VII.
+S251 En China, Hotta Studio (una subsidiaria de la distribuidora Perfect World) desarrolló y estrenó el videojuego de rol Tower of Fantasy, y su entorno se encuentra situado en el planeta habitable Aida, donde la fantasía científica se entremezcla con la ficción apocalíptica, mostrando algunas ciudades completamente futuristas en diferentes escenarios del mundo en el juego.
+
+§9 Juegos de rol
+S252 Existen varios juegos de rol titulados Cyberpunk: por ejemplo Cyberpunk 2013, Cyberpunk 2020, Cyberpunk V.3 y Cyberpunk Red, son las cuatro ediciones de un mismo juego, publicado por Talsorian Games, y existe también un suplemento para el sistema genérico GURPS (GURPS Cyberpunk), publicado por Steve Jackson Games.
+S253 Cyberpunk 2020 fue diseñado con el argumento de los escritos de William Gibson en mente, y hasta cierto punto con su aprobación, diferente de la aproximación (quizá más creativa) hecha por la FASA en la producción del juego Shadowrun.
+S254 Ambos juegos se ambientan en un futuro cercano, en un mundo donde la cibernética es prominente.
+S255 Netrunner es un juego de cartas coleccionables introducido en 1996, basado en el juego de rol Cyberpunk 2020; fue lanzado junto a un popular juego de realidad alternativa en línea llamado Webrunner, que permite a los jugadores ingresar al mainframe de una perversa organización futurista.
+S256 También Iron Crown Enterprises lanzó un juego de rol, titulado Cyberspace, ahora descatalogado.
+S257 En 1990, en una inusual unión entre la realidad y la ficción del ciberpunk, el Servicio Secreto de los Estados Unidos llegó a las instalaciones de Steve Jackson Games y confiscaron todas sus computadoras bajo la Operación Sundevil, que fue un masivo golpe a los hackers y crackers de computadoras.
+S258 Esto se debió a que —supuestamente— el libro de GURPS Cyberpunk podría ser usado para preparar crímenes por ordenador.
+S259 Esta, en efecto, no fue la principal razón para la redada, pero tras el evento, ya fue muy tarde para corregir la impresión del público.
+S260 Más tarde, Steve Jackson Games ganó el juicio contra el Servicio Secreto, ayudados por la Electronic Frontier Foundation, de mente más amplia.
+S261 Este evento alcanzó algo de notoriedad, lo que se extendió también al libro.
+S262 Todas las ediciones publicadas de GURPS Cyberpunk contienen una cita en la cubierta que dice «¡El libro que fue decomisado por el Servicio Secreto de los Estados Unidos!».
+S263 En su interior el libro provee un resumen de la redada y sus consecuencias.
+S264 El 2004 trajo numerosas publicaciones nuevas de juegos de rol ciberpunk, destacó entre ellas Ex Machina, un juego más cinematográfico con cuatro escenarios completos y enfocado en actualizar el lado lúdico del género a temas corrientes dentro de la ficción ciberpunk.
+S265 Estos cambios incluyen un mayor ángulo político, transfiriendo la alineación del género e incluso incorporando temas transhumanos.
+S266 El 2006 vio la largamente esperada publicación de Cyberpunk V.3 de Talsorian Games, la secuela de Cyberpunk 2020, sin embargo, muchos la vieron más como una edición transhumanista o postciberpunk que realmente ciberpunk.
+S267 Los juegos de rol también han producido una de las más originales tomas del género en la forma de la serie de juegos Shadowrun de 1989.
+S268 Aquí, el escenario es un distópico futuro cercano; sin embargo, también incorpora elementos de la fantasía y la literatura, como magia, espíritus, duendes y dragones.
+S269 Las facetas ciberpunk de Shadowrun fueron modeladas en gran parte basadas en los escritos de William Gibson, y la FASA, quienes lo publicaron originalmente, han sido acusados por algunos de copiar el trabajo de Gibson sin siquiera mencionar su influencia.
+S270 Gibson, mientras tanto, ha mostrado su desagrado por la inclusión de elementos de fantasía dentro de los escenarios que él ayudó a desarrollar.
+S271 Sin embargo, Shadowrun ha introducido a muchos al género, y sigue siendo popular entre los jugadores.
+S272 El juego de rol Torg, publicado por West End Games en 1990, también incluyó una variante del escenario (cosmos) ciberpunk llamado Cyberpapado.
+S273 Este escenario se presentó inicialmente como una distopía religiosa medieval que experimenta importantes avances tecnológicos.
+S274 En vez de corporaciones y gobiernos corruptos, el Cyberpapado es dominado por el «Falso Papado de Avignon».
+S275 En lugar de Internet, los hackers navegan por la GodNet, una red informática con directo simbolismo religioso, hogar de ángeles, demonios, y otras figuras bíblicas.
+S276 Otro escenario (cosmos) aparte del mismo juego Torg fue el Nippon Tech, el cual incorporaba otros aspectos distintos del ciberpunk como corporaciones dominantes con asesinos profesionales, sin embargo no incluía redes informáticas como parte fundamental del escenario.
+
+§10 Ciberpunk en español
+S277 El primer libro cubano ciberpunk fue Nova de Cuarzo (1999), de Vladimir Hernández Pacín.
+S278 Otra novela «cyber» publicada fue Dioses de neón (2002), de Michel Encinosa Fú.
+S279 Uno de los grupos españoles que se autodenomina ciberpunk aparece en Berlín en 1989 con autores de diversos fanzines underground que, en 1996, pasarían a publicar en la Web uno de los primeros ezines españoles.
+S280 Tras constituirse como asociación en 2002 sus publicaciones evolucionarán hacia el ciberactivismo abandonando prácticamente la publicación de relatos.
+S281 Literariamente la única aportación reconocida de este grupo han sido las primeras novelas escritas en español para teléfonos móviles: Lía, MAD phreaker, de David de Ugarte y BCN No Future de Javier Lorente.
+S282 En un contexto más futurista está 2123: El año de Moebius, con booktráiler de Ángel De Aluart.
+S283 El sueño del Rey Rojo, del autor asturiano Rodolfo Martínez, suele considerarse también dentro del género.
+S284 El filósofo y escritor Jonás Barnaby, bajo el seudónimo Albert Mut, puede contarse entre las emergentes personalidades del género en los últimos años, con relatos claramente distópicos y tecnológicos como La gallina temporal o Phobos B-101.
+S285 En el cine, pocas son las películas españolas que hacen uso de este estilo.
+S286 Un ejemplo lo encontramos en Natalie_Net, dirigida por Chico Morera que cuenta la historia de una videoblogger de fama que empieza a desarrollar características de computadora.
+S287 La película muestra un ambiente insano, en un entorno distópico y atemporal en el que la tecnología, los virus informáticos y las relaciones humanas toman el protagonismo y muestran su lado más oscuro.
+S288 En cuanto al desarrollo del movimiento en México, se considera que este se introdujo por medio de la literatura y de allí partió para encontrar otros medios de expresión más populares, como la música.
+S289 La primera obra literaria escrita en México y que puede enmarcarse dentro del ciberpunk es el cuento La red de Isidro Ávila.
+S290 Sin embargo, la obra que se considera que originó el movimiento en México, fue una novela publicada un par de años después que el cuento de Ávila.
+S291 La primera calle de la soledad (1994), del entonces joven Gerardo Horacio Porcayo, sirvió de ancla para que muchos escritores de ciencia ficción tomaran al género como algo suyo, y aunque el ciberpunk mexicano nunca terminó por germinar completamente, ha perdurado más de una década después de su nacimiento.
+S292 La primera novela de ciencia ficción que podría considerarse ciberpunk en Paraguay es La Sociedad de las Mentes (2001), de Juan de Urraza, que si bien contiene elementos utópicos que resultan disonantes con el género, en realidad los une al mundo virtual, sobre todo si se tiene en cuenta como un todo y se mira como unidad con su segunda novela Yronia (2005), que es la continuación de la misma.
+S293 En España, en el año 2018 se publica Capitán Cid: Artemis, asentando la base de la historia en la ficticia ciudad de «Nuevo Madrid», donde existe una sociedad futurista dominada por corporaciones poderosas, la presencia de tecnologías avanzadas, la exploración de la relación entre humanos y máquinas y una narrativa que cuestiona el poder y la corrupción.
+S294 Uno de los exponentes más claros del ciberpunk en Chile es Jorge Baradit, quien ha escrito las novelas Ygdrasil, Kalfukura y Synco, además de participar o promover proyectos artísticos como PDK: Policía del Karma, Ucronía Chile y Lluscuma.
+S295 En Chile, la novela Electrocante de Boris Quercia puede ser considerada un ejemplo del desarrollo de la narración ciberpunk latinoamericana.
+S296 Electrocante (editada en Francia como Les rêves qui nous restent) narra la historia de Natalio, un policía clase 5 que intenta resolver un caso de robo de identidad en una factoría de sueños, mientras la sociedad ultra desigual en la que habita se va desmoronando.
+S297 Natalio es acompañado en todo momento por su electrocante, una máquina pensante que debido a una anomalía tiende peligrosamente a volverse autónoma.
+S298 Otro exponente chileno es Jesús Todemun, quién ha publicado Valpunk 2127, novela de ciencia ficción ciberpunk ambientada en un Chile futurista y distópico y el cómic Temu 2069, novela gráfica en colaboración con los ilustradores Gastón Blanko en los dibujos y Nihil en los colores.
+S299 En 2024 se publica Corceles Azules, una antología ciberpunk fix-up por el escritor chileno I.
+S300 A. Galdames, bajo el sello de ciencia ficción Kaneda, de la editorial peruana Speedwagon Media Works.
+S301 Seguido por Corceles Rojos, una continuación de los cuentos en la ciudad de Santiago de Neo Extremadura, publicado el 2025.
+S302 También fue publicado en la revista Neon Dystopia el cuento "Damnatio Memoriae" en el mismo universo.
+
+§11 Arte y arquitectura
+S303 Algunas obras de arte y paisajes urbanos neo-futuristas han sido influenciados por el ciberpunk.
+S304 Los escritores David Suzuki y Holly Dressel describen las cafeterías, las tiendas de marca y las salas de videojuegos del Sony Center en la plaza pública Potsdamer Platz de Berlín, Alemania, como «una visión de un futuro urbano corporativo ciberpunk».
+
+§12 Sociedad y contracultura
+S305 Varias subculturas se han inspirado en la ficción ciberpunk.
+S306 Estos incluyen la contracultura ciberdelica de finales de la década de 1980 y principios de la de 1990.
+S307 Cyberdelic, cuyos seguidores se referían a sí mismos como ciberpunks, intentó combinar el arte psicodélico y el movimiento de las drogas con la tecnología de la cibercultura.
+S308 Los primeros seguidores incluyeron a Timothy Leary, Mark Frauenfelder y R.
+S309 U. Sirius.
+S310 El movimiento se desvaneció en gran medida tras la implosión del Dot-com bubble en 2000.
+S311 El cybergoth es una subcultura de la moda y la danza que se inspira en la ficción ciberpunk, así como en las subculturas rave y gótica.
+S312 Además, una moda ciberpunk distinta ha surgido en los últimos años que rechaza las influencias raver y goth del cybergoth, y se inspira en la moda urbana, postapocalíptica, ropa funcional, ropa deportiva de alta tecnología, uniforme táctico y multifunción.
+S313 Esta moda se le conoce como tech wear, goth ninja o tech ninja.
+S314 La ciudad amurallada de Kowloon en Hong Kong, China (demolida en 1994), a menudo se hace referencia como el modelo ciberpunk / barrio marginal distópico ya que, dadas sus malas condiciones de vida en ese momento, junto con el aislamiento político, físico y económico de la ciudad, ha provocado que muchos en el mundo académico se sientan mal fascinados por el ingenio de su desove.
+
+§13 Variantes y herederos del ciberpunk
+S315 Entre los subgéneros del ciberpunk está el steampunk que se ubica en una era victoriana ucrónica pero con una visión negra del mundo.
+S316 El término fue acuñado originalmente en 1987 como broma para describir algunas de las novelas de Tim Powers, James Blaylock y Kevin Wayne Jeter, pero con el tiempo William Gibson y Bruce Sterling ingresaron en el subgénero con su novela en colaboración La máquina diferencial, y el término fue empezado a tomarse en serio.
+S317 El silkpunk sería un derivado de este último, con la diferencia de que se enfoca en un contexto ambientado en la China de la Dinastía Han.
+S318 Siendo Ken Liu y su libro La Gracia de los Reyes un referente de esta tendencia.
+S319 Otro subgénero similar de aun muy reciente clasificación es el que se ha venido a llamar wirepunk, heredero del steampunk, que en lugar de tomar como partida el siglo XIX, se centra en la tecnología del siglo XX, ahora que ya supone un tiempo pasado.
+S320 Un ejemplo claro es la saga literaria de Jeanne DuPrau iniciada con City of Ember.
+S321 Los inicios de 1990 vieron el nacimiento del biopunk, un estilo derivado construido no sobre la base de la tecnología sino sobre la biología.
+S322 En estas historias la gente es cambiada de varias formas, pero no por medios mecánicos, sino por manipulación genética de varios de sus cromosomas.
+S323 Paul di Filipo es visto como el más prominente escritor biopunk, aunque Shaper/Mechanist de Bruce Sterling es su mayor influencia.
+S324 El género emergente llamado postciberpunk continúa preocupándose por los efectos de los ordenadores, pero sin dar por supuesta la distopía ni dar tanta importancia a los implantes cibernéticos.
+S325 También heredero del ciberpunk podemos considerar el concepto de singularidad tecnológica utilizado en la ciencia ficción más reciente, que recoge su preocupación por el desarrollo de la inteligencia artificial hasta el extremo, y el rol que los humanos podríamos adoptar en tales circunstancias.
+
+§14 Véase también
+S326 Steampunk
+S327 Dieselpunk
+S328 Posciberpunk
+S329 Biopunk
+S330 Arcología
+S331 Cibercultura
+S332 Punk
+S333 Movimiento punk
+S334 Tecnocracia
+S335 Transhumanismo
+S336 Meme
+S337 Noosfera
+S338 Posthumanismo
+S339 Criptoanarquismo
+S340 Noocracia
+S341 Realidad aumentada
+S342 Infoanarquismo
+S343 Distopía
+S344 Ciencia ficción
+S345 Tech noir
+S346 Parásitos en la ficción
+
+§15 Referencias y notas
+S347 «Pronunciation of ciberpunk».
+S348 Macmillan Dictionary (en inglés).
+S349 Consultado el 5 de enero de 2014. (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+S350 1 2 Stableford, Brian (2004).
+S351 Historical Dictionary of Science Fiction Literature (en inglés).
+S352 Scarecrow Press.
+S353 pp. 81-82.
+S354 ISBN 0-8108-4938-0.
+S355 Dozois, Gardner (30 de diciembre de 1984).
+S356 «Science Fiction in the Eighties».
+S357 The Washington Post (en inglés).
+S358 Consultado el 4 de agosto de 2018.
+S359 Real Academia Española.
+S360 «ciber».
+S361 Diccionario de la lengua española (23.ª edición).
+S362 1 2 Bethke, Bruce (1997).
+S363 «Cyberpunk» (en inglés).
+S364 Consultado el 12 de febrero de 2018.
+S365 1 2 Bethke, Bruce (2010).
+S366 «The Etymology of "Cyberpunk"» (en inglés).
+S367 Archivado desde el original el 16 de julio de 2013.
+S368 Consultado el 12 de febrero de 2018.
+S369 1 2 Wheeler, Isaac L.
+S370 (13 de noviembre de 2016).
+S371 «The Early Life of the Word “Cyberpunk”» (en inglés).
+S372 Archivado desde el original el 10 de noviembre de 2022.
+S373 Consultado el 12 de febrero de 2018.
+S374 DOWD Tom, Shadowrun, segunda edición, Diseños Orbitales, Barcelona, 1993, 304 p. il., cart., ISBN 84-87423-74-4
+S375 DOWD Tom, Shadowrun, segunda edición corregida, Ediciones Zinco, Barcelona, 1994, ISBN 84-468-0215-5
+S376 KENSON Stephen, PIRON-GELMAN Diane, SZETO Jonathan, MULVIHILL Michael A., BILLS Randall N.
+S377 y BOYLE Robert, Shadowrun, tercera edición, La Factoría de Ideas, Madrid, febrero de 2001, traducción al castellano de Félix Fernández-Castro, ISBN 84-8421-081-2
+S378 PONDSMITH Mike, Ciberpunk 2020, M+D Editores, Madrid, primera edición en español: diciembre de 1993, traducción del inglés al castellano de Óscar Díaz García, 256 p., 28x21 cm, rúst., ISBN 84-88765-01-0
+S379 Gibson refleja la antipatía de los autores ciberpunk hacia la ciencia ficción de la Edad de Oro en su relato de 1981 The Gernsback Continuum, en el cual se burla y condena hasta cierto punto las novelas utópicas.
+S380 una comparación conveniente puede ser la ambigüedad moral del personaje de Clint Eastwood en la Trilogía del dólar
+S381 Lawrence Person,"Notas hacia un Manifiesto de Postciberpunk", primera publicación en Nova Express edición 16 (1998), posteriormente publicada en Slashdot.
+S382 Hidden Tokyo
+S383 How did Japan become the favored default setting for so many ciberpunk writers?
+S384 John Shirley (1999).
+S385 Two Cyberpunks: Sterling and Rucker Archivado el 31 de diciembre de 2008 en Wayback Machine.
+S386 1 2 Lawrence Person (1998).
+S387 Notes Toward a Postciberpunk Manifesto.
+S388 Publicado por primera vez en el número 16 de Nova Express (1998) y posteriormente publicado en Slashdot.
+S389 Jargon File definition (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).; see also «Ciberpunk» en el Jargon Wiki (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última)..
+S390 James, Edward.
+S391 Science Fiction in the 20th Century, Oxford University Press, Oxford & New York, 1994. p. 197
+S392 Avedon, Nicholas (29 de diciembre de 2016).
+S393 «Ciberpunk: 10 curiosidads que no conocías» (html).
+S394 Nicholas Avedon site.
+S395 Archivado desde el original el 21 de junio de 2019.
+S396 Consultado el 19 de junio de 2019. «El escritor de ciencia ficción con más películas ciberpunk adaptadas sobre su obra (novelas y cuentos) es sin duda Phillip K. Dick, sin embargo nunca se le ha considerado dentro del movimiento ciberpunk».
+S397 Brian Stonehill (1994).
+S398 Pynchon's Prophecies of Cyberspace.
+S399 Discurso ofrecido en la Primera Conferencia Internacional de Pynchon, en la University of Warwick, England, November 1994.
+S400 Donna Haraway (1991).
+S401 A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century .
+S402 En Simians, Cyborgs and Women: The Reinvention of Nature (Routledge, 1991), pp. 149-181.
+S403 ISBN 0-415-90386-6.
+S404 David Brin, Review of The Matrix.
+S405 «IMDb: 2033 Trivia».
+S406 IMDb (en inglés).
+S407 Consultado el 26 de julio de 2013.
+S408 1 2 Gardner, Eriq (15 de septiembre de 2011).
+S409 «Harlan Ellison sues claiming Fox's 'In Time' rips off sci-fi story (exclusive)».
+S410 The Hollywood Reporter (en inglés).
+S411 Consultado el 18 de septiembre de 2011.
+S412 Moore, Roger (4 de noviembre de 2011).
+S413 «Ellison wants ‘In Time’ concessions — only asks for credit?».
+S414 Orlando Sentinel (en inglés).
+S415 Archivado desde el original el 6 de noviembre de 2011.
+S416 Consultado el 12 de noviembre de 2011.
+S417 Brown, Tracey (10 de enero de 2015).
+S418 «‘Ghost in the Shell’: Scarlett Johansson casting called ‘whitewashing’» (en inglés estadounidense).
+S419 Hero Complex.
+S420 Consultado el 14 de abril de 2016.
+S421 Child, Ben (16 de enero de 2015).
+S422 «DreamWorks accused of 'whitewashing' Ghost in the Shell by casting Scarlett Johansson».
+S423 The Guardian.
+S424 Consultado el 14 de abril de 2016.
+S425 «Is Scarlett Johansson casting Hollywood 'whitewashing'?».
+S426 BBC News.
+S427 19 de abril de 2016.
+S428 Consultado el 4 de abril de 2017.
+S429 Fuster, Jeremy (14 de abril de 2016).
+S430 «‘Ghost In The Shell’ Fans Not Happy About ‘Whitewashed’ American Remake».
+S431 TheWrap.
+S432 Consultado el 14 de abril de 2016.
+S433 Sampson, Mike (14 de abril de 2016).
+S434 «Exclusive: ‘Ghost in the Shell’ Producers Reportedly Tested Visual Effects That Would Make White Actors Appear Asian».
+S435 ScreenCrush.
+S436 Consultado el 19 de abril de 2016.
+S437 1 2 Child, Ben (18 de abril de 2016).
+S438 «Max Landis: there are ‘no A-list female Asian celebrities’ who could have taken Scarlett Johansson’s Ghost in a Shell role».
+S439 The Guardian (en inglés estadounidense).
+S440 Consultado el 18 de abril de 2016.
+S441 Chow, Keith (22 de abril de 2016).
+S442 «Why Won’t Hollywood Cast Asian Actors?».
+S443 The New York Times.
+S444 Consultado el 28 de mayo de 2016.
+S445 Blair, Gavin J.
+S446 (19 de abril de 2016).
+S447 «Scarlett Johansson in 'Ghost in the Shell': Japanese Industry, Fans Surprised by "Whitewashing" Outrage».
+S448 The Hollywood Reporter.
+S449 Consultado el 20 de abril de 2016. «Some Japanese commentators on Twitter suggested that not too much attention should be paid to the physical appearance of the actress, because the dominant themes in Ghost in the Shell are the nature of identity and cyborgs used to host cyber-brains.
+S450 "There's been a lot of criticism from foreign fans about the casting of Scarlett Johansson as Motoko Kusanagi in the movie adaptation of Ghost in the Shell", wrote @janyojanyo.
+S451 "It's about artificial bodies, so you may as well think of it as her using a white cyborg...".».
+S452 Pastor, Javier (4 de diciembre de 2017).
+S453 «“Altered Carbon” es la prometedora (y carísima) serie de Netflix que nos enfrenta a la vida eterna».
+S454 Consultado el 12 de enero de 2018.
+S455 FayerWayer (11 de enero de 2018).
+S456 «Altered Carbon es la nueva apuesta ciberpunk de Netflix - FayerWayer».
+S457 FayerWayer (en inglés estadounidense).
+S458 Consultado el 12 de enero de 2018.
+S459 Altered Carbon - Renewed for 2nd Season by Netflix with Anthony Mackie Starring.
+S460 «Gareth Edwards Explains the Meaning Behind 'The Creator's Title Change».
+S461 Collider.
+S462 20 de julio de 2023.
+S463 Consultado el 27 de julio de 2023.
+S464 José María Ávalos Oliveros (2013).
+S465 Distopía musical: La música en el Cyberpunk.
+S466 Valencia, Universidad Politécnica de Valencia, 2013.
+S467 Patricia Guerrero (16 de junio de 2023).
+S468 «Tainy anuncia su álbum debut Data, con múltiples colaboraciones».
+S469 Rolling Stone en Español.
+S470 Consultado el 26 de junio de 2023.
+S471 José Manuel Gúzman (enero de 2022).
+S472 «Cover Story: TAINY, adelantado a su tiempo».
+S473 UMOMAG.
+S474 Consultado el 26 de junio de 2023.
+S475 retro-synthwave.com (ed.).
+S476 «Gunship en Retro Synthwave».
+S477 Consultado el 15 de febrero de 2021.
+S478 Allmusic (ed.).
+S479 «Biografía de Gunship en Allmusic».
+S480 Consultado el 15 de febrero de 2021.
+S481 «Cyberpunk 2077 is CD Projekt RED's Next Game».
+S482 IGN.com.
+S483 18 de octubre de 2012.
+S484 Consultado el 5 de noviembre de 2012.
+S485 Madridiario.
+S486 «Tomás Elías González Benítez: “Cyberpunk 2077 supondrá un antes y un después en la industria del videojuego”».
+S487 Madridiario.
+S488 Consultado el 8 de octubre de 2021.
+S489 Valentine, Rebekah (30 de marzo de 2023).
+S490 «Cyberpunk 2077's Turnaround Just Gave CD Projekt Its Second-Best Revenue Year Ever».
+S491 IGN (en inglés).
+S492 Consultado el 24 de agosto de 2023.
+S493 Álvaro Castellano (14 de enero de 2020).
+S494 «Square Enix anuncia que Final Fantasy VII Remake retrasa su fecha de lanzamiento».
+S495 3DJuegos.
+S496 «FINAL FANTASY VII REBIRTH announced | Square Enix Blog».
+S497 square-enix-games.com (en inglés).
+S498 Consultado el 17 de junio de 2022.
+S499 «Final Fantasy VII Rebirth Continues Retelling The RPG Classic In Winter 2023».
+S500 Kotaku (en inglés estadounidense).
+S501 16 de junio de 2022.
+S502 Consultado el 17 de junio de 2022.
+S503 Bradford, Joseph (27 de julio de 2022).
+S504 «Tower of Fantasy Launching Globally On August 10th On PC And Mobile».
+S505 MMORPG.com (en inglés).
+S506 Wood, Austin (27 de julio de 2022).
+S507 «Tower of Fantasy global release date set for August».
+S508 gamesradar (en inglés).
+S509 Bradford, Joseph (15 de marzo de 2022).
+S510 «Sci-Fi Shared Open World RPG Tower Of Fantasy Is Coming To PC And Mobile Globally In 2022».
+S511 MMORPG.com (en inglés).
+S512 Jackson, Steve 19 de abril de 1990 SJ Games Raided website.
+S513 Loser, Jorge (26 de noviembre de 2020).
+S514 «'Natalie_Net': una pesadilla sobre videoblogging creada por dos youtubers españoles desde los márgenes del underground».
+S515 Espinof.
+S516 Consultado el 18 de septiembre de 2022.
+S517 José Luis Ramírez, Ciberpunk: El movimiento en México del sitio de Ciencia Ficción Mexicana
+S518 Tynjala, Tanya (16 de noviembre de 2020).
+S519 «Blogger Invitado.
+S520 Cristian Londoño: Valpunk 2127, puro cyberpunk latino».
+S521 Amazing Stories (en inglés estadounidense).
+S522 Consultado el 10 de febrero de 2025.
+S523 Tynjala, Tanya (3 de agosto de 2024).
+S524 «Novedades de Julio 3».
+S525 Amazing Stories (en inglés estadounidense).
+S526 Consultado el 7 de enero de 2025.
+S527 Suzuki, David (2003).
+S528 Good News for a Change:How Everyday People Are Helping the Planet.
+S529 Greystone Books.
+S530 p. 332.
+S531 ISBN 1-55054-926-X.
+S532 «A New Look at Kowloon Walled City, the Internet's Favorite Cyberpunk Slum».
+S533 3 de abril de 2014.
+S534 Archivado desde el original el 27 de diciembre de 2016.
+S535 Consultado el 3 de octubre de 2021.
+S536 Michael Berry (1987).
+S537 «Wacko Victorian Fantasy Follows 'Ciberpunk' Mold».
+S538 En The San Francisco Chronicle, 25 June, 1987; citado en línea por Wordspy.
+S539 Archivado el 26 de diciembre de 2008 en Wayback Machine..
+
+§16 Enlaces externos
+S540 The Ciberpunk Project (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).: Web enteramente dedicada a la cultura ciberpunk (inglés).
+S541 Manifiesto ciberpunk: Traducción al Español del Manifiesto Ciberpunk (español).
+S542 ciberpunk Manifiesto e historia del grupo ciberpunk español.
+S543 Ciberpunkreview Archivado el 18 de agosto de 2022 en Wayback Machine.: Completa web sobre obras y noticias relacionadas con el Ciberpunk.
+S544 Proyecto Líquido - H2blOg (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).: Definiciones Ciberpunk y Post-Ciberpunk por Bruce Sterling, James Patrick Kelly y John Kessel.
+S545 CyPunk: Web enteramente dedicada a la cultura ciberpunk (inglés).
+S546 Ciberpunk Mundo: Completa web sobre obras y noticias relacionadas con el Ciberpunk (ruso).
+S547 Cyberpunk City: Archivado el 17 de mayo de 2019 en Wayback Machine.
+S548 Web con la definición del ciberpunk y listas de las mejores películas, novelas, etc. de este género.
+S549 (español).

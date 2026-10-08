@@ -1,0 +1,51 @@
+DOCUMENT: Evidence
+
+
+THEME "The rate of change since the mid-20th century is unprecedented over millennia."
+  s0 [ESSENTIAL] It is undeniable that human activities have produced the atmospheric gases that have trapped more of the Sun’s energy in the Earth system.
+  s1 [ESSENTIAL] This extra energy has warmed the atmosphere, ocean, and land, and widespread and rapid changes in the atmosphere, ocean, cryosphere, and biosphere have occurred.
+  s2 From the measured impacts of increases in these gases, there is no question that increased greenhouse gas levels warm Earth in response.
+
+THEME "warming"
+  s3 [ESSENTIAL] While Earth’s climate has changed throughout its history, the current warming is happening at a rate not seen in the past 10,000 years.
+
+SUBJECT "Snow Cover Is Decreasing" (under theme "warming")
+  s4 Satellite observations reveal that the amount of spring snow cover in the Northern Hemisphere has decreased over the past five decades and the snow is melting earlier.
+
+SUBJECT "Arctic Sea Ice" (under theme "warming")
+  s5 Both the extent and thickness of Arctic sea ice has declined rapidly over the last several decades.
+
+THEME "Scientific evidence for warming of the climate system is unequivocal."
+  s6 [ESSENTIAL] According to the Intergovernmental Panel on Climate Change (IPCC), "Since systematic scientific assessments began in the 1970s, the influence of human activity on the warming of the climate system has evolved from theory to established fact."1
+  s7 This ancient, or paleoclimate, evidence reveals that current warming is occurring roughly 10 times faster than the average rate of warming after an ice age.
+  s8 Carbon dioxide from human activities is increasing about 250 times faster than it did from natural sources after the last Ice Age.3
+
+THEME "Global Temperature Is Rising"
+  s9 [ESSENTIAL] The planet's average surface temperature has risen about 2 degrees Fahrenheit (1 degrees Celsius) since the late 19th century, a change driven largely by increased carbon dioxide emissions into the atmosphere and other human activities.
+  s10 Most of the warming occurred in the past 40 years, with the seven most recent years being the warmest.
+
+SUBJECT "Extreme Events Are Increasing in Frequency" (under theme "Global Temperature Is Rising")
+  s11 The number of record high temperature events in the United States has been increasing, while the number of record low temperature events has been decreasing, since 1950.
+  s12 The U.S. has also witnessed increasing numbers of intense rainfall events.
+
+THEME "The Ocean Is Getting Warmer"
+  s13 The ocean has absorbed much of this increased heat, with the top 100 meters (about 328 feet) of ocean showing warming of 0.67 degrees Fahrenheit (0.33 degrees Celsius) since 1969.
+  s14 Earth stores 90% of the extra energy in the ocean.
+
+SUBJECT "Ocean Acidification" (under theme "The Ocean Is Getting Warmer")
+  s15 Since the beginning of the Industrial Revolution, the acidity of surface ocean waters has increased by about 30%.
+  s16 The ocean has absorbed between 20% and 30% of total anthropogenic carbon dioxide emissions in recent decades (7.2 to 10.8 billion metric tons per year).
+
+THEME "Ice Sheets"
+  s17 The Greenland and Antarctic ice sheets have decreased in mass.
+  s18 Data from NASA's Gravity Recovery and Climate Experiment show Greenland lost an average of 279 billion tons of ice per year between 1993 and 2019, while Antarctica lost about 148 billion tons of ice per year.
+
+SUBJECT "Sea Level Is Rising" (under theme "Ice Sheets")
+  s19 Global sea level rose about 8 inches (20 centimeters) in the last century.
+  s20 The rate in the last two decades, however, is nearly double that of the last century and accelerating slightly every year.
+
+SUBJECT "Glaciers" (under theme "Ice Sheets")
+  s21 Glaciers are retreating almost everywhere around the world — including in the Alps, Himalayas, Andes, Rockies, Alaska, and Africa.
+
+THEME "Evidence"
+  s22 [LEAD] The current warming trend is different because it is clearly the result of human activities since the mid-1800s, and is proceeding at a rate not seen over many recent millennia.

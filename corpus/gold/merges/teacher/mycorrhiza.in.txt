@@ -1,0 +1,160 @@
+DOCUMENT: Mycorrhiza
+
+
+THEME "Mycorrhiza"
+  s0 [LEAD] A mycorrhiza (from Ancient Greek μύκης (múkēs) 'fungus' and ῥίζα (rhíza) 'root'; pl. mycorrhizae, mycorrhiza, or mycorrhizas) is a symbiotic association between a fungus and a plant, in which fungal hyphae and plant roots become interconnected and form an interface on the cellular level.
+
+THEME "Function"
+  s1 [ESSENTIAL] Mycorrhizae play important roles in plant nutrition, soil biology, and soil chemistry.
+  s2 The association is normally mutualistic.
+  s3 [ESSENTIAL] Mycorrhizal fungi form a mutualistic relationship with the roots of most plant species.
+  s4 Relatively few of the mycorrhizal relationships between plant species and fungi have been examined to date, but 95% of the plant families investigated are predominantly mycorrhizal either in the sense that most of their species associate beneficially with mycorrhizae, or are absolutely dependent on mycorrhizae.
+  s5 Recent research into ectomycorrhizal plants in boreal forests has indicated that mycorrhizal fungi and plants have a relationship that may be more complex than simply mutualistic.
+  s6 Researchers argue that some mycorrhizae distribute nutrients based upon the environment with surrounding plants and other mycorrhizae.
+
+SUBJECT "Disease, drought and salinity resistance and its correlation to mycorrhizae" (under theme "Function")
+  s7 Mycorrhizal plants are often more resistant to diseases, such as those caused by microbial soil-borne pathogens.
+  s8 These associations have been found to assist in plant defense both above and belowground.
+  s9 Mycorrhizas have been found to secrete enzymes that are toxic to soil borne organisms such as nematodes.
+  s10 More recent studies have shown that mycorrhizal associations result in a priming effect of plants that essentially acts as a primary immune response.
+  s11 When this association is formed a defense response is activated similarly to the response that occurs when the plant is under attack.
+  s12 As a result of this inoculation, defense responses are stronger in plants with mycorrhizal associations.
+  s13 Furthermore, mycorrhizal fungi was significantly correlated with soil physical variable, but only with water level and not with aggregate stability and can lead also to more resistant to the effects of drought.
+  s14 Moreover, the significance of mycorrhizal fungi also includes alleviation of salt stress and its beneficial effects on plant growth and productivity.
+  s15 Although salinity can negatively affect mycorrhizal fungi, many reports show improved growth and performance of mycorrhizal plants under salt stress conditions.
+
+SUBJECT "Sugar-water/mineral exchange" (under theme "Function")
+  s16 The mycorrhizal mutualistic association provides the fungus with relatively constant and direct access to carbohydrates, such as glucose and sucrose.
+  s17 The carbohydrates are translocated from their source (usually leaves) to root tissue and on to the plant's fungal partners.
+  s18 In return, the plant gains the benefits of the mycelium's higher absorptive capacity for water and mineral nutrients, partly because of the large surface area of fungal hyphae, which are much longer and finer than plant root hairs, and partly because some such fungi can mobilize soil minerals unavailable to the plants' roots.
+  s19 The effect is thus to improve the plant's mineral absorption capabilities.
+  s20 Unaided plant roots may be unable to take up nutrients that are chemically or physically immobilised; examples include phosphate ions and micronutrients such as iron.
+  s21 One form of such immobilization occurs in soil with high clay content, or soils with a strongly basic pH. The mycelium of the mycorrhizal fungus can, however, access many such nutrient sources, and make them available to the plants they colonize.
+  s22 Thus, many plants are able to obtain phosphate without using soil as a source.
+
+SUBJECT "Formation" (under theme "Function")
+  s23 To successfully engage in mutualistic symbiotic relationships with other organisms, such as mycorrhizal fungi and any of the thousands of microbes that colonize plants, plants must discriminate between mutualists and pathogens, allowing the mutualists to colonize while activating an immune response towards the pathogens.
+  s24 In plants, the mycorrhizal symbiosis is regulated by the common symbiosis signaling pathway (CSSP), a set of genes involved in initiating and maintaining colonization by endosymbiotic fungi and other endosymbionts such as Rhizobia in legumes.
+  s25 In arbuscular mycorrhizal fungi, the presence of strigolactones, a plant hormone, secreted from roots induces fungal spores in the soil to germinate, stimulates their metabolism, growth and branching, and prompts the fungi to release chemical signals the plant can detect.
+  s26 Once the plant and fungus recognize one another as suitable symbionts, the plant activates the common symbiotic signaling pathway, which causes changes in the root tissues that enable the fungus to colonize.
+  s27 While the signals emitted by the fungi are less understood, it has been shown that chitinaceous molecules known as Myc factors are essential for the formation of arbuscular mycorrhizae.
+  s28 Many factors are involved in the initiation of mycorrhizal symbiosis, but particularly influential is the plant's need for phosphorus.
+
+SUBJECT "Mechanisms" (under theme "Function")
+  s29 The mechanisms by which mycorrhizae increase absorption include some that are physical and some that are chemical.
+  s30 Physically, most mycorrhizal mycelia are much smaller in diameter than the smallest root or root hair, and thus can explore soil material that roots and root hairs cannot reach, and provide a larger surface area for absorption.
+  s31 Mycorrhizae are especially beneficial for the plant partner in nutrient-poor soils.
+
+SUBJECT "Resistance to insects" (under theme "Function")
+  s32 Plants connected by mycorrhizal fungi in mycorrhizal networks can use these underground connections to communicate warning signals.
+  s33 Both the host plant and those connected to it release volatile organic compounds that repel aphids and attract parasitoid wasps, predators of aphids.
+
+SUBJECT "Colonization of barren soil" (under theme "Function")
+  s34 Plants grown in sterile soils and growth media often perform poorly without the addition of spores or hyphae of mycorrhizal fungi to colonise the plant roots and aid in the uptake of soil mineral nutrients.
+  s35 The absence of mycorrhizal fungi can also slow plant growth in early succession or on degraded landscapes.
+
+SUBJECT "Resistance to toxicity" (under theme "Function")
+  s36 Fungi have a protective role for plants rooted in soils with high metal concentrations, such as acidic and contaminated soils.
+
+THEME "Climate change"
+  s37 CO2 released by human activities is causing climate change and possible damage to mycorrhizae, but the direct effect of an increase in the gas should be to benefit plants and mycorrhizae if other factors are not limiting.
+  s38 Since mycorrhizae tend to do better in cooler temperatures, warming could be detrimental to them.
+  s39 Gases such as SO2, NOx, and O3 produced by human activity may harm mycorrhizae, causing reduction in "propagules, the colonization of roots, degradation in connections between trees, reduction in the mycorrhizal incidence in trees, and reduction in the enzyme activity of ectomycorrhizal roots."
+
+THEME "Definition"
+  s40 The term mycorrhiza refers to the role of the fungus in the plant's rhizosphere, the plant root system and its surroundings.
+  s41 [ESSENTIAL] The plant makes organic molecules by photosynthesis and supplies them to the fungus in the form of sugars or lipids, while the fungus supplies the plant with water and mineral nutrients, such as phosphorus, nitrogen, or zinc, taken from the soil.
+
+THEME "Types"
+  s42 [ESSENTIAL] In a mycorrhizal association, the fungus colonizes the host plant's root tissues, either intracellularly as in arbuscular mycorrhizal fungi, or extracellularly as in ectomycorrhizal fungi.
+  s43 The largest division is between ectomycorrhizas and endomycorrhizas.
+  s44 The two types are differentiated by the fact that the hyphae of ectomycorrhizal fungi do not penetrate individual cells within the root, while the hyphae of endomycorrhizal fungi penetrate the cell wall into the root's cell membrane.
+
+SUBJECT "Arbutoid mycorrhiza" (under theme "Types")
+  s45 This type of mycorrhiza involves plants of the Ericaceae subfamily Arbutoideae.
+  s46 It is however different from ericoid mycorrhiza and resembles ectomycorrhiza, both functionally and in terms of the fungi involved.
+  s47 It differs from ectomycorrhiza in that some hyphae actually penetrate into the root cells, making this type of mycorrhiza an ectendomycorrhiza.
+
+SUBJECT "Monotropoid mycorrhiza" (under theme "Types")
+  s48 This type of mycorrhiza occurs in the subfamily Monotropoideae of the Ericaceae, as well as several genera in the Orchidaceae.
+  s49 These plants are heterotrophic or mixotrophic and derive their carbon from the fungus partner.
+  s50 This is thus a non-mutualistic, parasitic type of mycorrhizal symbiosis.
+
+SUBJECT "Dual mycorrhiza" (under theme "Types")
+  s51 However, a few species, known as dual-mycorrhizal plants, can simultaneously associate with both arbuscular and ectomycorrhizal fungi within the same root system.
+  s52 Dual-mycorrhizal plants often occupy broader geographical ranges and environmental niche spaces compared to plants restricted to a single mycorrhizal type.
+  s53 Due to their unique capabilities, dual-mycorrhizal plants are increasingly recognised as key components in ecological restoration and reforestation, especially in regions where woodland tree species face limited access to mycorrhizal fungal inoculum.
+
+SUBJECT "Similar symbiotic relationships" (under theme "Types")
+  s54 Endophytes are defined as organisms that can live within plant cells without causing harm to the plant.
+  s55 They are distinguishable from mycorrhizal fungi by the absence of nutrient-transferring structures for bringing in nutrients from outside the plant.
+
+SUBJECT "Mucoromycotina fine root endophytes" (under theme "Types")
+  s56 Mycorrhizal fungi belonging to Mucoromycotina, known as "fine root endophytes" (MFREs), were mistakenly identified as arbuscular mycorrhizal fungi until recently.
+  s57 While similar to AMF, MFREs are from subphylum Mucoromycotina instead of Glomeromycotina.
+
+SUBJECT "Orchid mycorrhiza" (under theme "Types")
+  s58 All orchids are myco-heterotrophic at some stage during their lifecycle, meaning that they can survive only if they form orchid mycorrhizae.
+  s59 The OM relationship is asymmetric; the plant seems to benefit more than the fungus, and some orchids are entirely mycoheterotrophic, lacking chlorophyll for photosynthesis.
+
+THEME "Conservation and mapping"
+  s60 SPUN is a science-based initiative to map and protect the mycorrhizal networks regulating Earth's climate and ecosystems.
+  s61 Its stated goals are mapping, protecting, and harnessing mycorrhizal fungi.
+
+THEME "History of research"
+  s62 Mycorrhizal fungi were first formally described and named in 1885 by German botanist A.B.
+
+THEME "Evolution"
+
+
+SUBJECT "Arbuscular mycorrhizae" (under theme "Evolution")
+  s63 The phylum Glomeromycota, which forms the arbuscular mycorrhizal symbiosis, is the oldest mycorrhizal lineage.
+  s64 The arbuscular mycorrhizal symbiosis evolved only once in fungi; all arbuscular mycorrhizal fungi belong to Glomeromycota and share a common ancestor.
+  s65 Arbuscular mycorrhizal fungi are considered to be generalists, with minimal host plant specificity.
+  s66 AM symbiosis has been observed in almost every seed plant taxonomic division, or around 67% of species.
+  s67 Arbuscular mycorrhizas, (formerly known as vesicular-arbuscular mycorrhizas), have hyphae that penetrate plant cells, producing branching, tree-like structures called arbuscules within the plant cells for nutrient exchange.
+  s68 The structure of the arbuscules greatly increases the contact surface area between the hypha and the host cell cytoplasm to facilitate the transfer of nutrients between them.
+  s69 Arbuscular mycorrhizas are obligate biotrophs, meaning that they depend upon the plant host for both growth and reproduction; they have lost the ability to sustain themselves by decomposing dead plant material.
+  s70 Twenty percent of the photosynthetic products made by the plant host are consumed by the fungi, the transfer of carbon from the terrestrial host plant is then exchanged by equal amounts of phosphate from the fungi to the plant host.
+  s71 Contrasting with the pattern seen in ectomycorrhizae, the species diversity of AMFs is very low, but the diversity of plant hosts is very high; an estimated 78% of all plant species associate with AMFs.
+  s72 Arbuscular mycorrhizas are formed only by fungi in the division Glomeromycota.
+  s73 Mycorrhizas are present in 92% of plant families studied (80% of species), with arbuscular mycorrhizas being the ancestral and predominant form, and the most prevalent symbiotic association found in the plant kingdom.
+  s74 The structure of arbuscular mycorrhizas has been highly conserved since their first appearance in the fossil record, with both the development of ectomycorrhizas and the loss of mycorrhizas, evolving convergently on multiple occasions.
+
+SUBJECT "Ectomycorrhizae" (under theme "Evolution")
+  s75 Ectomycorrhizal fungi evolved from free-living saprotrophs, mostly in Basidiomycota and Ascomycota, and some became dependent on plant hosts when they lost genes necessary for decaying lignin and other plant materials.
+  s76 The main evolutionary driver for ectomycorrhizae is switching of nutritional modes from saprotrophs.
+  s77 Ectomycorrhizae are distinct in that they do not penetrate into plant cells, but instead form a structure called a Hartig net that penetrates between cells.
+  s78 Ectomycorrhizas consist of a hyphal sheath, or mantle, covering the root tip and the Hartig net of hyphae surrounding the plant cells within the root cortex.
+  s79 Ectomycorrhizas, or EcM, are symbiotic associations between the roots of around 10% of plant families, mostly woody plants including the birch, dipterocarp, eucalyptus, oak, pine, and rose families, orchids, and fungi belonging to the Basidiomycota, Ascomycota, and Zygomycota.
+  s80 Ectomycorrhizae associate with relatively few plant species, only about 2% of plant species on Earth, but the species they associate with are mostly trees and woody plants that are highly dominant in their ecosystems, meaning plants in ectomycorrhizal relationships make up a large proportion of plant biomass.
+
+SUBJECT "Fossil record and genomic analysis" (under theme "Evolution")
+  s81 The earliest direct fossil evidence of early mycorrhizal symbiosis is found in the 407 million year old Rhynie chert, which contains an assemblage of "exceptionally preserved" fossil plants colonized by multiple para-mycorrhizal fungi.
+  s82 The Rhynie chert fossils show Glomeromycotan and Mucoromycotan fungi engaged in mycorrhiza-like associations with cells of the plants Aglaophyton major and Horneophyton lignieri.
+  s83 The fossils suggest a mutualistic association between the plants and the colonizing fungi, because distinctive nutrient exchange structures (arbuscules and hyphal coils, in Glomeromycotina and Mucoromycotina respectively) are preserved and the colonized cells appear to have been alive at the time of infection by the fungus.
+  s84 The earliest fossils of arbuscular mycorrhizal fungi in plant roots originate from 315-303 million years ago, and show fungi belonging to Glomeromycotina in the root systems of a giant lycophyte, Lepidodendron, and an early relative of the conifers, Cordaites.
+  s85 Ectomycorrhizae developed substantially later, during the Jurassic period, while most other modern forms of mycorrhizal symbiosis, including orchid and ericoid mycorrhizae, date to the period of angiosperm radiation in the Cretaceous period.
+  s86 Ectomycorrhizae appear in the fossil record 48.7 million years ago, in the Eocene, with a fossil of ectomycorrhizal fungi colonizing Pinus roots.
+  s87 Ericoid mycorrhizae are estimated to have the most recent evolutionary origins of mycorrhizal types, evolving around 118 million years ago from free-living saprotrophic ancestors.
+
+SUBJECT "Ericoid mycorrhizae" (under theme "Evolution")
+  s88 Ericoid mycorrhizal associations have the most recent origins and the lowest species richness among both plant and fungal partners.
+  s89 Ericoid mycorrhizae have apparently evolved to conserve minerals in nutrient deficient sclerophyllous litter by directly cycling these nutrients throughout the mycorrhiza system.
+  s90 Ericoid mycorrhizae also retain saprotrophic abilities, allowing them to extract nitrogen and phosphorus from unmineralized organic material, and resist negative outcomes from high concentrations of toxic cations in the acidic soil environment.
+  s91 Ericoid mycorrhizae, or ErMs, involve only plants in Ericales and are the most recently evolved of the major mycorrhizal relationships.
+  s92 Whereas AMFs have lost their saprotrophic capabilities, and EcM fungi have significant variation in their ability to produce enzymes needed for a saprotrophic lifestyle, fungi involved in ErMs have fully retained the ability to decompose plant material for sustenance.
+
+SUBJECT "Emergence alongside terrestrial plants" (under theme "Evolution")
+  s93 Fossil and genetic evidence indicate that mycorrhizae emerged as early as 450-500 million years ago, potentially between fungus-like protists and algae.
+  s94 Arbuscular mycorrhizal relationships appeared earliest, coinciding with the terrestrialization of plants.
+  s95 Genetic evidence indicates that all land plants share a single common ancestor, which appears to have quickly adopted mycorrhizal symbiosis, and research suggests that proto-mycorrhizal fungi were a key factor enabling plant terrestrialization.
+  s96 There is a strong consensus among paleomycologists that mycorrhizal fungi served as a primitive root system for early terrestrial plants.
+
+SUBJECT "Origins in plants" (under theme "Evolution")
+  s97 In plants, the genes for forming mycorrhizal symbiosis are highly conserved and originate from a common ancestor, meaning that the ability to form mycorrhizae is ancestral to all land plants.
+  s98 The earliest mycorrhizae were arbuscular mycorrhizae, and other forms, such as ectomycorrhizae and orchid mycorrhizae, evolved when plant hosts switched from symbiosis with Glomeromycotina to symbiosis with different fungal lineages.
+
+SUBJECT "Origins in fungi" (under theme "Evolution")
+  s99 In fungi, mycorrhizal symbiosis had multiple independent origins among different lineages of fungi.
+  s100 Arbuscular mycorrhizal fungi form their own monophyletic phylum, whereas other mycorrhizal fungi convergently evolved similar lifestyles.

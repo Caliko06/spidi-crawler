@@ -1,0 +1,202 @@
+DOCUMENT: Imperio azteca
+
+
+THEME "Imperio azteca"
+  s0 [LEAD] El Imperio mexica o Triple Alianza (del náhuatl: Exkan Tlahtoloyan o Ēxcān Tlahtōlōyān ‘Los tres lugares donde se dan órdenes’), llamado también Imperio azteca y —con más precisión— Imperio tenochca, fue un imperio organizado en una confederación compleja, multiétnica y flexible de ciudades estado con situaciones políticas diversas, que existió en el área central de Mesoamérica durante el Posclásico Tardío hasta la Conquista española.
+  s1 La fundación y posterior expansión de la Triple Alianza tuvo lugar en 1430, una vez fue derrotado Azcapotzalco, capital del Imperio tepaneca, hasta entonces dominante en el valle de México (Santamarina 2006).
+  s2 Azcapotzalco fue vencido por la alianza de mexicas, acolhuas y tlacopanecas, hasta entonces todos ellos vasallos suyos.
+  s3 El fin del Imperio azteca ocurrió el 13 de agosto de 1521, cuando los españoles —en alianza con los tlaxcaltecas y totonacas, entre otros pueblos indígenas— derrotaron la resistencia mexica en Tenochtitlan y Tlatelolco.
+
+SUBJECT "Etimología, nombres y definiciones" (under theme "Imperio azteca")
+  s4 La palabra «azteca» es de uso moderno.
+  s5 No fue usada por mexicas de la Triple Alianza para referirse a sí mismos, sino a sus antepasados.
+  s6 Se ha utilizado de diversas maneras para referirse al imperio de la Triple Alianza, a las personas de habla náhuatl del centro de México antes de la conquista española, o específicamente a la etnia mexica de las personas de habla náhuatl.
+  s7 El nombre proviene de una palabra náhuatl que significa «gente de Aztlán», que refleja el lugar mítico de origen de los pueblos nahuas.
+  s8 No obstante, es más correcta y precisa la palabra mexica.
+  s9 El nombre Excan Tlahtoloyan se puede traducir como «Triple Sede» (tlahtolo, pasivo del verbo tlahtoa, que significa «hablar» o «gobernar». Palabras como tlahtoloc y tlahtoloyan se traducen entonces como «lugar donde se gobierna»).
+  s10 El Códice Osuna, por otra parte, usa un término distinto para referirse a la alianza entre México-Tenochtitlan, Tetzcoco y Tlacopan.
+  s11 En general, aunque actualmente se usa típicamente el término en español «Triple Alianza», no existía una forma única de referirse a ésta en la lengua náhuatl ni era un término exclusivo de esta alianza en particular.
+  s12 Aun así, se prefiere la utilización de Excan Tlahtoloyan, que es vista como la descripción más breve y precisa de la naturaleza del gobierno del imperio.
+
+SUBJECT "Procedencia" (under theme "Imperio azteca")
+  s13 Los mexicas fueron una tribu de nómadas que formaron uno de los imperios más grandes e importantes de la América precolombina en solo 200 años.
+  s14 Hacia el siglo XIII los mexicas se asentaron en Chapultepec, desde donde fueron expulsados por una coalición de enemigos.
+  s15 Luego de ser expulsados constituyeron su asentamiento definitivo en Tenochtitlan hacia 1325.
+  s16 Tenochtitlan se transformó en la principal ciudad de la zona, formando alianza con otras dos ciudades de habla náhuatl: Texcoco (acolhuas) y Tlacopan (tepanecas).
+  s17 Esta alianza, conocida como Triple Alianza, logró desarrollar un gran poderío militar.
+  s18 Con Moctezuma II (1502-1520), los mexicas se habían transformado en uno de los principales imperios que dominaba un vasto territorio y millones de súbditos.
+  s19 [ESSENTIAL] La Triple Alianza (mexicas, acolhuas y tepanecas), comúnmente llamada Imperio mexica, fue la formación política mexica derivada del proceso de expansión territorial del dominio económico de la ciudad-estado México-Tenochtitlan, que floreció en el siglo XIV en Mesoamérica.
+  s20 Fue encabezado por los mexicas —mal conocidos como aztecas—, un pueblo que, de acuerdo con algunos documentos históricos como la Tira de la Peregrinación, era originario de un sitio —tal vez mítico— conocido como Aztlán, al que se suele ubicar fuera de los confines de Mesoamérica.
+
+SUBJECT "Contexto histórico y geográfico" (under theme "Imperio azteca")
+  s21 [ESSENTIAL] En este tiempo la entidad política de mayor complejidad llegó a ser México-Tenochtitlan (Carrasco 1996), cuyo ascenso al poder se remonta a una coalición militar establecida en 1428 y conocida como la Triple Alianza, que vinculó a tres estados emergentes: los mexicas, cuya ciudad capital fue México-Tenochtitlan, que sería el centro rector en lo político y en lo militar; los Acolhua con Texcoco como ciudad primordial, considerada centro cultural por excelencia; y Tlacopan, un centro secesionista tepaneca.
+  s22 Los mexicas impusieron con astucia su jerarquía sobre sus aliados, y extendieron su dominio hasta las costas del océano Pacífico y del golfo de México.
+  s23 Adquirieron riqueza y poder a partir de la imposición de un estricto sistema de tributación, de tal manera que, a la llegada de los españoles en los inicios del siglo XVI, su capital era considerada la urbe más importante y magnificente de su época.
+  s24 Los aztecas se establecieron en el centro del valle de México, expandiendo su control hacia ciudades-estado ubicadas en los actuales estados de México, Morelos, Veracruz, y otros; la costa de Chiapas e Hidalgo.
+
+THEME "Organización económica"
+  s25 La economía era próspera.
+  s26 La organización económica mexica estaba regida por el calpolli, un grupo de familias a las cuales se les asignaba una cantidad de tierras para trabajarla, de forma que la producción se repartía entre las familias, el Estado, los sacerdotes y el jefe del calpolli.
+  s27 Por otra parte, el cobro de tributo hizo que los mexicas tuviesen abundancia de materias primas y productos.
+  s28 Otro factor que posibilitó la prosperidad fue la utilización de avanzadas técnicas agrícolas.
+  s29 Los mexicas usaron el sistema de cultivo conocido como chinampas, y con este sistema llevaban la tierra al agua.
+
+SUBJECT "Monedas" (under theme "Organización económica")
+  s30 El cacao y las monedas en forma de hacha son dos ejemplos de objetos usados como moneda en los mercados mexicas.
+  s31 En el México prehispánico no había un tipo de moneda usado de manera oficial, pues la mayoría de adquisiciones se hacían mediante trueque, como describió Bernal Díaz del Castillo.
+  s32 Sin embargo, sí había ciertos objetos que eran usados como un tipo de moneda, pues podían ser usados para comprar diversos tipos de productos dependiendo de su cantidad y calidad.
+  s33 El cacao era ampliamente usado como moneda en la época prehispánica, a tal punto que hubo una crisis en el Imperio relacionada con la falsificación de granos.
+  s34 Como se puede observar, el cacao continuó siendo usado como moneda oficial a lo largo del siglo XVI, décadas después de la Conquista, a pesar de que la Casa de Moneda de México se fundó en 1535 y se comenzaron a acuñar las primeras monedas de plata oficiales al año siguiente.
+  s35 El cacao era usado para compras pequeñas diarias, mientras que mantas blancas, llamadas cuachtli, se usaban para compras más grandes al tener un valor más alto.
+  s36 Otro tipo de moneda usada eran pequeñas piezas en forma de hachas hechas de aleaciones de cobre (tepoztli).
+
+SUBJECT "Comercio" (under theme "Organización económica")
+  s37 El comercio de los mexicas se basaba principalmente en el trueque.
+  s38 Normalmente los comerciantes mexicas (pochtecas) intercambiaban productos de Tenochtitlan y alrededores para conseguir productos de lujo de las otras ciudades y naciones.
+  s39 Por la cantidad de población y los datos indirectos se cree que Tenochtitlan en su época de esplendor era el mercado más grande del mundo, y se ubicaba en la plaza central de Tlatelolco comercializaban con esclavos, prisioneros de guerra, cacao, frutas exóticas, etc.
+
+SUBJECT "Industrias" (under theme "Organización económica")
+  s40 Minería: La obsidiana (piedra cristalina de origen volcánico) se obtenía de la Sierra Madre Sur y Occidental y se empleaba para elaborar armas y objetos cotidianos (cuchillos, platos, collares).
+  s41 Textilería: Industria de gran importancia entre los habitantes del imperio azteca, la cual tenía entre sus principales productos la fabricación de tejidos de algodón y fibra de maguey.
+  s42 Plumaria: la creación de obras usando plumas de diversas aves era una industria de gran valor entre los mexicas.
+
+THEME "Religión"
+  s43 Para asegurar la consolidación de su grandeza, Tlacaélel llevó a cabo una serie de reformas ideológicas, manipuló y destruyó todo lo que obstaculizaba la creación de un gran imperio, vinculó a los mexicas con la antigua nobleza tolteca e impulsó reformas religiosas para acomodar a Huitzilopochtli en un plano superior que lo identifica con el sol.
+  s44 Se suponía que esta divinidad se alimentaba de sangre humana y aceptaba los corazones de las personas sacrificadas en su honor, desempeñando así un papel crucial en la ideología de los aztecas.
+  s45 Su máxima manifestación como dios de la guerra se dio en los mexicas, por lo que se permitían dominar a otros pueblos.
+  s46 La religión mexica se basaba en la asimilación de la herencia popular de la tradición nahua.
+  s47 Los aztecas intentaron combinar dos sistemas religiosos en conflicto: la tradición de los guerreros y cazadores chichimecas y la herencia de los agricultores sedentarios.
+
+SUBJECT "Rituales" (under theme "Religión")
+  s48 Los sacerdotes arrancaban el corazón del prisionero para que su sangre bañara el suelo, pues se suponía que aumentaba la fertilidad de la tierra y la probabilidad de lluvia.
+  s49 Para ellos, el hombre debía alimentar al sol a través de la sangre y el corazón del hombre, lo que se había convertido en un compromiso y una necesidad, normalmente las víctimas de este ritual eran guerreros enemigos capturados y previamente se les adornaba y pintaba ya que se les veía como mensajeros para los dioses, pero también niños, mujeres y esclavos.
+
+THEME "Organización militar"
+  s50 La expansión del dominio mexica fue resultado de su organización militar, del valor de sus soldados en las batallas y de la habilidad de sus gobernantes, quienes inicialmente se apoyaron en la Triple Alianza.
+  s51 Aprovecharon las divisiones que existían entre sus adversarios y convencieron de forma coercitiva a muchos altépetl (señoríos) que les convenía más ser vasallos de Tenochtitlan que enfrentarse a los riesgos terribles de una guerra.
+  s52 Por lo general, la mayoría de altépetl circundantes a México-Tenochtitlan aceptaron pagar tributo a los mexicas y conservaron la administración a cargo de la nobleza local, que debía rendir cuentas ante los gobernantes de la capital.
+  s53 Los tributos llegaban a Tenochtitlan de todas las regiones del imperio: alimentos, tejidos, artículos preciosos, y también seres humanos cautivos destinados al sacrificio.
+
+SUBJECT "Mexicas en Tlaxcala" (under theme "Organización militar")
+  s54 A la llegada de los españoles a Tlaxcala, los mexicas llevaban imponiendo un bloqueo comercial sobre los tlaxcaltecas desde hacía 60 años.
+  s55 Pero eso no siempre fue así, ya que los tlaxcaltecas antes ya habían ayudado a los mexicas a derrotar a los tepanecas, que en ese entonces controlaban el centro de México.
+  s56 Después de haber derrotado al enemigo, los mexicas tomaron el control y los tlaxcaltecas se rebelaron.
+  s57 A esto los mexicas respondieron con un bloqueo comercial.
+  s58 Para lograr ser liberados del bloqueo, negociaron un acuerdo mediante el cual se les permitía conservar su independencia a cambio de que participaran en las guerras floridas.
+  s59 Con este trato, Tlaxcala no pagaba ni tributos, ni cedía su gobierno si participaba en estos eventos, que servían a los mexicas para entrenar a sus ejércitos.
+
+SUBJECT "Mexicas en Michoacán" (under theme "Organización militar")
+  s60 Su nombre proviene del náhuatl Michhuahcan (lugar de pescadores), una de las cuatro provincias del Reino Purépecha con capital en Tzintzuntzan, muy cerca del lago de Pátzcuaro.
+  s61 Debido a esto, los mexicas solo conquistaron una fracción de este estado, por aquí es donde se localiza la mayor cantidad de fortalezas y guarniciones mexicas.
+  s62 Cerca de 1473 las tropas mexicas fueron a la frontera este del reino tarasco, precisamente en Taximaroa, encabezados por Axayacatl, mismo que recibió una herida mortal en la cabeza.
+  s63 Esta fue la única tentativa de imposición militar por parte de los mexicas en Michoacán.
+
+SUBJECT "Mexicas en Oaxaca" (under theme "Organización militar")
+  s64 Hacia 1458 los mexicas inician campañas expansionistas bajo los reinados de Tizoc, Ahuizotl y Moctezuma y con ello la decadencia de los mixtecos, que ocupaban hasta Tuxtepec.
+  s65 De aquí también se llevaba al imperio el cacao, junto con el maíz y otros productos de esta provincia.
+  s66 Pero por lo que mayormente fue conocido fue por la gran habilidad que tenían de trabajar los metales como el oro, plata y platino.
+
+SUBJECT "Conquistas y pueblos tributarios de los mexicas" (under theme "Organización militar")
+  s67 Después de 20 años de haber llegado a la Cuenca del Valle del Anáhuac hoy Valle de México, a partir de la derrota de Azcapotzalco, los mexicas iniciaron una serie de conquistas sin precedentes en América.
+  s68 Como se consigna en la Matrícula de Tributos, los pueblos sometidos tenían que pagar diversos tributos: maíz, frijol, amaranto, chía, mantas y telas, copal, liquidámbar, sal, trajes militares, productos que se elaboraban en la región, y contribuir con hombres para la guerra.
+
+SUBJECT "Mexicas en Guerrero" (under theme "Organización militar")
+  s69 Pero en menor medida ya que esta zona no tenía la misma importancia, aunque de aquí se extraía el oro y la plata que tanto apreciaban los mexicas.
+  s70 Junto con los artesanos que la trabajaban, prácticamente todo el estado fue conquistado por los mexicas y aquellos lugares que se resistieron hicieron un pacto similar al de los mexicas con los tlaxcaltecas.
+
+SUBJECT "Mexicas en Puebla" (under theme "Organización militar")
+  s71 Puebla fue una provincia de los mexicas de la cual salían productos que servían para alimentar a la población.
+
+SUBJECT "Mexicas en Veracruz" (under theme "Organización militar")
+  s72 Los mexicas lograron controlar gran parte del actual estado de Veracruz.
+
+SUBJECT "Mexicas en Tabasco" (under theme "Organización militar")
+  s73 Aquí los mexicas se limitaron a construir un campamento comercial, el cual era el medio de contacto entre el Imperio azteca y los reinos fragmentados de los mayas.
+
+SUBJECT "Mexicas en el Estado de México" (under theme "Organización militar")
+  s74 El actual territorio del estado México fue el principal y mayor tributario de maderas, carnes y vegetales del Imperio azteca.
+
+SUBJECT "Mexicas en Ciudad de México" (under theme "Organización militar")
+  s75 En el siglo XIV, después de una peregrinación de más de un siglo, los mexicas llegaron a la cuenca del valle de Anáhuac (o valle de México) para asentarse primero en sus orillas y después en un islote de donde salieron para crear su imperio.
+
+SUBJECT "Mexicas en Morelos" (under theme "Organización militar")
+  s76 Los mexicas obtenían de esta región, en su mayoría, productos del campo.
+
+SUBJECT "Mexicas en Hidalgo" (under theme "Organización militar")
+  s77 los mexicas, procedentes de Aztlán, se establecieron en Tula, antes de seguir por Atlitlalaquia y Apizaco.
+
+SUBJECT "Mexicas en Querétaro" (under theme "Organización militar")
+  s78 Los únicos lugares que se conoce hasta el momento que fueron conquistados por los mexicas en el estado de Querétaro fueron zonas fronterizas con otros estados de México conquistados por los Mexicas.
+
+THEME "Organización social"
+  s79 La sociedad se dividió en veinte clanes llamados calpolli, donde la religión influía de un modo preponderante, constituidos por grupos de personas vinculadas por parentesco, divisiones territoriales, la advocación a un dios en particular y continuación de antiguas familias unidas por un lazo de parentesco biológico y religioso que derivaba del culto al dios titular.
+  s80 Se dividían en tres clases: nobles, gente común y esclavos.
+
+SUBJECT "Esclavos (tlatlacohtin)" (under theme "Organización social")
+  s81 Los tlatlacohtin (alternativamente tlacohtin, forma plural de tlacohtli, «esclavo», aunque el historiador Frederic Hicks propone que el término también había sido empleado para prisioneros de guerra no esclavizados) eran prisioneros de guerra, personas que habían cometido un delito o bien personas con grandes deudas a las que no les era posible pagar a corto plazo y se autoempleaban como sirvientes de aquellos a quienes les debían.
+  s82 A excepción de otras sociedades con esclavitud, donde se veía un gran número de esclavos trabajando en los campos, solo una muy pequeña parte de la población mexica era esclava, al menos en zonas rurales.
+  s83 Además, según los arqueólogos Michael E. Smith y Frances F. Berdan, la mayoría del tiempo los tlatlacohtin trabajaban en tareas domésticas dentro del hogar y rara vez hacían trabajos pesados.
+  s84 Sin embargo, aunque sus circunstancias, en ciertos aspectos, no eran tan desfavorables como en las sociedades esclavistas de la Antigua Roma o los Estados Unidos, como ejemplifican Smith y Berdan, seguían siendo propiedad sin libertad e incluso podían ser sacrificados si sus dueños lo permitían.
+  s85 Los tlatlacohtin masculinos realizaban trabajos, y tenían derecho a casarse y a poseer propiedad.
+  s86 Los derechos de las mujeres tlatlacohtin son menos claros, y normalmente eran usadas para hacer servicios sexuales y para ser concubinas (temecauh, en singular; temecahuan, en plural), aunque el concubinato era «mal visto por la sociedad», el adulterio aun así era castigado con la pena de muerte, y la poligamia solo estaba permitida para «los que se distinguían en los campos de batalla», según López Austin.
+
+SUBJECT "Nobles (pipiltin)" (under theme "Organización social")
+  s87 Los pipiltin (forma plural por reduplicación a partir del singular: pilli, «noble») eran la élite dirigente que controlaba tanto el gobierno, como la religión.
+  s88 Efectivamente, existían privilegios los cuales no podían ser alcanzados, aun siendo noble, si no se cumplían ciertos requisitos.
+  s89 En el ámbito militar, un noble no podía entrar en las órdenes de los guerreros jaguar (ocelomeh) o águila (cuauhtin) sin haber mostrado sus habilidades en combate, necesitando capturar a más de cuatro enemigos en batalla.
+
+SUBJECT "macehualtin" (under theme "Organización social")
+  s90 Los macehualtin (forma plural de macehualli, que Alfredo López Austin interpreta como «el que hace merecimientos o penitencia») era la gente común, conformaban la mayoría de la población.
+  s91 La mayoría de macehualtin vivían con muchas restricciones impuestas por las clases más altas.
+
+THEME "Gobierno"
+  s92 El Estado mexica fue una teocracia encabezada por el Huey Tlahtoani, gobernante máximo electo por un consejo de gobierno integrado por representantes de los veinte grupos de personas emparentadas o clanes en que se dividía la sociedad.
+
+SUBJECT "Estructura de dominio" (under theme "Gobierno")
+  s93 A partir de entonces, los territorios del Imperio azteca se fueron ampliando hasta llegar a ocupar el centro de México, la zona central de Oaxaca, la costa del golfo de México, Guerrero y el Soconusco.
+  s94 Los mexicas y sus aliados establecieron su dominio sobre numerosos pueblos, especialmente en el centro de México, la región de Guerrero y la costa del golfo de México, así como algunas zonas de Oaxaca.
+  s95 [ESSENTIAL] Los mexicas expandieron su control económico, principalmente mediante tributación, a través de una amplia región del centro del actual México, con excepciones importantes de control político en altépetl disidentes o fronterizos.
+  s96 [ESSENTIAL] Formalmente, se trataba de un conjunto de dominios inicialmente regidos de los tres estados integrantes de la Triple Alianza —Texcoco, Tlacopan y México-Tenochtitlan—, aunque es verdad que los mexicas de Tenochtitlan encabezaron esta confederación y fueron el estado más expansionista de los tres mencionados.
+  s97 Por otra parte, los mexicas nunca establecieron un dominio directo sobre los pueblos conquistados.
+  s98 Exactamente, la Triple Alianza se apropiaba de una parte de la producción de las otras naciones mesoamericanas mediante la imposición de un tributo, que era fijado de acuerdo con la especialización económica y geográfica de los dominados y recolectado por un calpixqui, o recaudador.
+  s99 Los dominadores no impusieron su religión ni su lengua a los dominados.
+  s100 Los estados subordinados mantenían su autonomía política y administrativa, bajo un gobierno local.
+  s101 Solo en algunos casos, los mexicas establecieron un control militar en ciertos puntos estratégicos de sus dominios.
+  s102 El modo en que los mexicas impusieron su dominio sobre otros pueblos mesoamericanos fue diverso, no ajustándose a una estructura imperial tradicional como en las monarquías europeas.
+  s103 Aunque se suele señalar el carácter militar de varias conquistas mexicas, también establecieron una complicada red de alianzas matrimoniales con las élites locales para asegurar la lealtad hacia el poder de México-Tenochtitlan.
+  s104 El dominio del Estado mexica en Mesoamérica no fue total.
+  s105 Varios estados mesoamericanos fueron capaces de resistir el empuje de los tenochcas y sus aliados, entre ellos los popolocas de Teotitlán del Camino, los tlapanecos de Yopitzinco, el señorío de Metztitlán (norte de Hidalgo), los mixtecos de Tututepec, la confederación tlaxcalteca y el estado tarasco de Michoacán.
+  s106 El fin del régimen de dominio internacional de los mexicas y sus aliados en Mesoamérica concluyó con la Conquista española de México-Tenochtitlan.
+  s107 En este suceso, que se suele tomar como punto final del desarrollo independiente de la civilización indígena mesoamericana, participaron no solo los expedicionarios europeos, sino, decisivamente, sus aliados indígenas provenientes de numerosas naciones tributarias de la Triple Alianza que vieron en los recién llegados una oportunidad de poner fin al dominio tenochca.
+
+SUBJECT "Estructura provincial" (under theme "Gobierno")
+  s108 [ESSENTIAL] Estaba integrada por los dominios de la Triple Alianza (conformada por Texcoco, Tlacopan y México-Tenochtitlan), establecida a partir de las facciones victoriosas de La Guerra Tepaneca que se libró entre la ciudad de Azcapotzalco y las antiguas provincias tributarias de la misma, constituyéndose como una alianza de tres ciudades-estado autónomas, entre las cuales Tenochtitlan destacó como potencia comercial y militar.
+  s109 [ESSENTIAL] A diferencia de otros modelos imperiales, este estaba configurado como un mosaico de ciudades.
+  s110 Originalmente, el imperio azteca era una alianza suelta entre tres ciudades: Tenochtitlan, Texcoco y el socio menor, Tlacopan.
+  s111 Sin embargo, con el tiempo fue Tenochtitlan quien asumió una autoridad suprema en la alianza, y aunque cada ciudad socia compartía los despojos de guerra y los derechos a los tributos regulares de las provincias y fue gobernada por su propio tlahtoani, fue Tenochtitlan el que se convirtió en la más grande, la más poderosa, y la más influyente de las tres ciudades.
+  s112 Fue el centro reconocido de facto del imperio.
+  s113 Aunque no fueron descritos por los mexicas de esta manera, según algunos autores (Smith y Berdan 1992) había dos tipos de provincias: tributarias y estratégicas.
+  s114 Las provincias estratégicas eran esencialmente estados clientes subordinados que proporcionaban tributo o ayuda al estado azteca bajo “consentimiento mutuo”.
+  s115 Las provincias tributarias, por otro lado, proporcionaban un tributo regular al imperio; Las obligaciones de las provincias tributarias eran obligatorias en lugar de consensuales.
+
+SUBJECT "altépetl" (under theme "Gobierno")
+  s116 Cuando los conquistadores españoles llegaron en 1519, célula fundamental de la estructura política en Mesoamérica era el altépetl, una unidad base autónoma, que se asociaba o subordinaba a otras.
+
+SUBJECT "Organización política" (under theme "Gobierno")
+  s117 La figura política principal era el huey tlahtoani (tlahtoani, «el que habla»), una especie de monarquía hereditaria, de origen tolteca, que gobernaba con un consejo de nobles prominentes.
+  s118 El huey tlahtoani (hueyi tlahtoani, «gran orador») o tlacatecutli (tlacateuctli, «señor de los hombres») era el máximo gobernante ejerciendo funciones de jefe de Estado y de Gobierno, además era la máxima autoridad política, religiosa y militar, fungiendo como comandante en jefe de las Fuerzas Armadas del Imperio Mexica.
+
+SUBJECT "Elección de los cargos públicos" (under theme "Gobierno")
+  s119 Los cargos públicos fueron designados por la nobleza de Tenochtitlan, Texcoco y Tlacopan.
+  s120 Por lo regular eran elegidos a partir de una línea de sangre dominante.
+
+SUBJECT "Sistema judicial" (under theme "Gobierno")
+  s121 Los principales tribunales judiciales se establecieron en México-Tenochtitlan y en Texcoco, en donde debían dirimirse los pleitos territoriales y criminales que no tenían solución con la justicia local y administrativa cada uno de los altépetl.
+
+SUBJECT "Gobernantes mexicas" (under theme "Gobierno")
+  s122 El nombre huey tlahtoani es una expresión en náhuatl usada para denominar a los gobernantes (tlahtoani significa literalmente «el que habla») de México-Tenochtitlan, Texcoco y Tlacopan, que ejercían su poder sobre el valle de México.
+
+SUBJECT "Tribunales mexicas" (under theme "Gobierno")
+  s123 Los mexicas tenían una organización judicial jerarquizada, que variaba del tecutli, especie de juez de elección popular, para un lapso de un año, competente para conocer de negocios menores, hasta un tribunal de tres jueces vitalicios, diríamos hoy profesionales, designados por el cihuacóatl.
+
+SUBJECT "Gobernantes" (under theme "Gobierno")

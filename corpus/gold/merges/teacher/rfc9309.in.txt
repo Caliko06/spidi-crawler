@@ -1,0 +1,79 @@
+DOCUMENT: RFC 9309: Robots Exclusion Protocol
+
+
+THEME "RFC 9309: Robots Exclusion Protocol"
+  s0 [LEAD] This document specifies and extends the "Robots Exclusion Protocol" method originally defined by Martijn Koster in 1994 for service owners to control how content served by their services may be accessed, if at all, by automatic clients known as crawlers.
+  s1 Specifically, it adds definition language for the protocol, instructions for handling errors, and instructions for caching.
+  s2 This document applies to services that provide resources that clients can access through URIs as defined in [RFC3986].
+  s3 [ESSENTIAL] This document specifies the rules originally defined by the "Robots Exclusion Protocol" [ROBOTSTXT] that crawlers are requested to honor when accessing URIs.
+  s4 These rules are not a form of access authorization.
+
+THEME "3. Security Considerations"
+  s5 The Robots Exclusion Protocol is not a substitute for valid content security measures.
+  s6 Listing paths in the robots.txt file exposes them publicly and thus makes the paths discoverable.
+  s7 To control access to the URI paths in a robots.txt file, users of the protocol should employ a valid security measure relevant to the application layer on which the robots.txt file is served -- for example, in the case of HTTP, HTTP Authentication as defined in [RFC9110].
+
+THEME "2. Specification"
+  s8 The protocol language consists of rule(s) and group(s) that the service makes available in a file named "robots.txt" as described in Section 2.3:
+
+SUBJECT "2.2.2. The "Allow" and "Disallow" Lines" (under theme "2. Specification")
+  s9 These lines indicate whether accessing a URI that matches the corresponding path is allowed or disallowed.
+  s10 To evaluate if access to a URI is allowed, a crawler MUST match the paths in "allow" and "disallow" rules against the URI.
+  s11 The matching SHOULD be case sensitive.
+  s12 The matching MUST start with the first octet of the path.
+  s13 The most specific match found MUST be used.
+  s14 The most specific match is the match that has the most octets.
+  s15 If an "allow" rule and a "disallow" rule are equivalent, then the "allow" rule SHOULD be used.
+  s16 If no match is found amongst the rules in a group for a matching user-agent or there are no rules in the group, the URI is allowed.
+  s17 The /robots.txt URI is implicitly allowed.
+  s18 Octets in the URI and robots.txt paths outside the range of the ASCII coded character set, and those in the reserved range defined by [RFC3986], MUST be percent-encoded as defined by [RFC3986] prior to comparison.
+  s19 If a percent-encoded ASCII octet is encountered in the URI, it MUST be unencoded prior to comparison, unless it is a reserved character in the URI as defined by [RFC3986] or the character is outside the unreserved character range.
+  s20 The match evaluates positively if and only if the end of the path from the rule is reached before a difference in octets is encountered.
+
+SUBJECT "User-Agent" (under theme "2. Specification")
+  s21 Crawlers set their own name, which is called a product token, to find relevant groups.
+  s22 The product token MUST contain only uppercase and lowercase letters ("a-z" and "A-Z"), underscores ("_"), and hyphens ("-").
+  s23 The product token SHOULD be a substring of the identification string that the crawler sends to the service.
+  s24 Crawlers MUST use case-insensitive matching to find the group that matches the product token and then obey the rules of the group.
+  s25 If there is more than one group matching the user-agent, the matching groups' rules MUST be combined into one group and parsed according to Section 2.2.2.
+  s26 If no matching group exists, crawlers MUST obey the group with a user-agent line with the "*" value, if present.
+  s27 If no group matches the product token and there is no group with a user-agent line with the "*" value, or no groups are present at all, no rules apply.
+
+SUBJECT "2.3.1.2. Redirects" (under theme "2. Specification")
+  s28 The crawlers SHOULD follow at least five consecutive redirects, even across authorities (for example, hosts in the case of HTTP).
+  s29 If a robots.txt file is reached within five consecutive redirects, the robots.txt file MUST be fetched, parsed, and its rules followed in the context of the initial authority.
+  s30 If there are more than five consecutive redirects, crawlers MAY assume that the robots.txt file is unavailable.
+
+SUBJECT "2.2.3. Special Characters" (under theme "2. Specification")
+  s31 Crawlers MUST support the following special characters:
+  s32 If crawlers match special characters verbatim in the URI, crawlers SHOULD use "%" encoding.
+
+SUBJECT "2.3. Access Method" (under theme "2. Specification")
+  s33 The rules MUST be accessible in a file named "/robots.txt" (all lowercase) in the top-level path of the service.
+  s34 The file MUST be UTF-8 encoded (as defined in [RFC3629]) and Internet Media Type "text/plain" (as defined in [RFC2046]).
+
+SUBJECT "2.3.1.3. "Unavailable" Status" (under theme "2. Specification")
+  s35 "Unavailable" means the crawler tries to fetch the robots.txt file and the server responds with status codes indicating that the resource in question is unavailable.
+  s36 If a server status code indicates that the robots.txt file is unavailable to the crawler, then the crawler MAY access any resources on the server.
+
+SUBJECT "2.3.1.4. "Unreachable" Status" (under theme "2. Specification")
+  s37 If the robots.txt file is unreachable due to server or network errors, this means the robots.txt file is undefined and the crawler MUST assume complete disallow.
+  s38 If the robots.txt file is undefined for a reasonably long period of time (for example, 30 days), crawlers MAY assume that the robots.txt file is unavailable as defined in Section 2.3.1.3 or continue to use a cached copy.
+
+SUBJECT "2.3.1.5. Parsing Errors" (under theme "2. Specification")
+  s39 Crawlers MUST try to parse each line of the robots.txt file.
+  s40 Crawlers MUST use the parseable rules.
+
+SUBJECT "2.4. Caching" (under theme "2. Specification")
+  s41 Crawlers MAY cache the fetched robots.txt file's contents.
+  s42 Crawlers SHOULD NOT use the cached version for more than 24 hours, unless the robots.txt file is unreachable.
+
+SUBJECT "2.5. Limits" (under theme "2. Specification")
+  s43 Crawlers SHOULD impose a parsing limit to protect their systems; see Section 3.
+  s44 The parsing limit MUST be at least 500 kibibytes [KiB].
+
+SUBJECT "2.2.4. Other Records" (under theme "2. Specification")
+  s45 Parsing of other records MUST NOT interfere with the parsing of explicitly defined records in Section 2.
+
+SUBJECT "2.3.1.1. Successful Access" (under theme "2. Specification")
+  s46 If the crawler successfully downloads the robots.txt file, the crawler MUST follow the parseable rules.

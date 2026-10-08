@@ -1,0 +1,122 @@
+DOCUMENT: Marie Curie
+
+§0 Who Was Marie Curie?
+S0 Marie Curie became the first woman to win a Nobel Prize and the first person to win the award twice.
+S1 Marie’s efforts, with help from husband Pierre Curie, led to the discovery of polonium and radium and, after Pierre’s death, the further development of X-rays.
+S2 The famed scientist died in 1934 of aplastic anemia, likely caused by exposure to radiation.
+
+§1 Quick Facts
+S3 FULL NAME: Marie Salomea Skodowska-CurieBORN: November 7, 1867BIRTHPLACE: Warsaw, PolandDEATH: July 4, 1934SPOUSE: Pierre Curie (m. 1895-1906)CHILDREN: Irène Joliot-Curie, Ève CurieASTROLOGICAL SIGN: Cancer
+
+§2 Early Life and Education
+S4 Marya Sklodowska, later Marie Curie, was born on November 7, 1867, in Warsaw (modern-day Poland).
+S5 Curie was the youngest of five children, following siblings Zosia, Józef, Bronya, and Hela.
+S6 Both of Curie’s parents were teachers.
+S7 Her father, Wladyslaw, was a math and physics instructor.
+S8 When she was only 11, Curie lost her mother, Bronislawa, to tuberculosis and her oldest sister to typhus.
+S9 As a child, Curie took after her father.
+S10 She had a bright and curious mind and excelled at school.
+S11 Despite being a top student in her secondary school, Curie could not attend the male-only University of Warsaw.
+S12 She instead continued her education in Warsaw’s “floating university,” a set of underground, informal classes held in secret.
+S13 Both Curie and her sister Bronya dreamed of going abroad to earn an official degree, but they lacked the financial resources to pay for more schooling.
+S14 Undeterred, Curie worked out a deal with her sister: She would work to support Bronya while she was in school, and Bronya would return the favor after completing her studies.
+S15 For roughly five years, Curie worked as a tutor and a governess.
+S16 She used her spare time to study, reading about physics, chemistry, and math.
+S17 In 1891, Curie finally made her way to Paris and enrolled at Sorbonne University, a famed research institution in Paris.
+S18 She threw herself into her studies, but this dedication had a personal cost: With little money, Curie survived on buttered bread and tea, and her health sometimes suffered because of her poor diet.
+S19 Curie completed her master’s degree in physics in 1893 and earned another degree in mathematics the following year.
+
+§3 Husband Pierre Curie and Children
+S20 Marie and Pierre Curie work in their laboratory.
+S21 Marie married French physicist Pierre Curie on July 26, 1895.
+S22 They were introduced by a colleague of Marie’s after she graduated from Sorbonne University—Marie had received a commission to perform a study on different types of steel and their magnetic properties and needed a lab for her work.
+S23 A romance developed between the brilliant pair, and they became a scientific dynamic duo, completely devoted to one another.
+S24 At first, Marie and Pierre worked on separate projects.
+S25 But after Marie discovered radioactivity, Pierre put aside his own work to support her research.
+S26 In 1897, Marie and Pierre welcomed a daughter, Irène.
+S27 The couple had a second daughter, Ève, in 1904.
+S28 Irène followed in her mother’s footsteps, winning the Nobel Prize in Chemistry in 1935.
+S29 Known as Irène Joliot-Curie, she shared the honor with her husband, Frédéric Joliot, for their work on the synthesis of new radioactive elements.
+S30 Marie suffered a tremendous loss in 1906 when Pierre was killed in Paris after accidentally stepping in front of a horse-drawn wagon.
+S31 Despite her grief, she took over his teaching post at the Sorbonne, becoming the institution’s first female professor.
+S32 In 1911, Curie’s relationship with her husband’s former student, Paul Langevin, became public.
+S33 Curie was derided in the press for breaking up Langevin’s marriage, the negativity in part stemming from rising xenophobia in France.
+
+§4 What Did Marie Curie Discover?
+S34 Marie discovered radioactivity and, together with husband Pierre, the radioactive elements polonium and radium while working with the mineral pitchblende.
+S35 She also championed the development of X-rays after Pierre’s death.
+
+§5 Radioactivity: Creating Polonium and Radium
+S36 Fascinated with the work of Henri Becquerel, a French physicist who discovered that uranium casts off rays weaker than the X-rays found by Wilhelm Conrad Röntgen, Curie took his work a few steps further.
+S37 Curie conducted her own experiments on uranium rays and discovered they remained constant, no matter the condition or form of the uranium.
+S38 The rays, she theorized, came from the element’s atomic structure.
+S39 This revolutionary idea created the field of atomic physics.
+S40 Curie herself coined the word “radioactivity” to describe the phenomena.
+S41 Following Curie’s discovery of radioactivity, Pierre joined Marie’s work on her research.
+S42 Working with the mineral pitchblende, the pair discovered a new radioactive element in 1898.
+S43 They named the element polonium, after Curie’s native country of Poland.
+S44 They also detected the presence of another radioactive material in the pitchblende and called that radium.
+S45 In 1902, the Curies announced they had produced a decigram of pure radium, demonstrating its existence as a unique chemical element.
+
+§6 Development of X-rays
+S46 When World War I broke out in 1914, Curie devoted her time and resources to help the cause.
+S47 She championed the use of portable X-ray machines in the field, and these medical vehicles earned the nickname “Little Curies.”
+S48 After the war, Curie used her celebrity to advance her research.
+S49 She traveled to the United States twice—in 1921 and 1929—to raise funds to buy radium and to establish a radium research institute in Warsaw.
+
+§7 Nobel Prizes
+S50 Curie won two Nobel Prizes: The Nobel Prize in Physics in 1903 and The Nobel Prize in Chemistry in 1911.
+S51 She was the first woman to win a Nobel Prize and the first person to win the prestigious award twice.
+S52 She remains the only person to be honored for accomplishments in two separate sciences.
+S53 Curie received the Nobel Prize in Physics in 1903, along with her husband and Henri Becquerel, for their work on radioactivity.
+S54 With their win, the Curies developed an international reputation for their scientific efforts, and the pair used their prize money to continue their research.
+S55 In 1911, Curie won her second Nobel Prize, this time in Chemistry, for her discovery of radium and polonium.
+S56 She received the prize alone, but shared the honor jointly with her late husband in her acceptance lecture.
+S57 Around this time, Curie joined with other famous scientists, including Albert Einstein and Max Planck, to attend the first Solvay Congress in Physics and discuss the many groundbreaking discoveries in their field.
+
+§8 How Did Marie Curie Die?
+S58 Marie Curie died of aplastic anemia in 1934, likely from exposure to radiation during her research.
+S59 Curie died on July 4, 1934, of aplastic anemia, believed to be caused by prolonged exposure to radiation.
+S60 She was known to carry test tubes of radium around in the pocket of her lab coat.
+S61 Her many years working with radioactive materials took a toll on her health.
+S62 Both Marie and Pierre Curie are buried in lead-lined tombs because their remains are still radioactive, according to the National Park Service.
+S63 Many of Marie’s personal items, including lab equipment, research papers, and cookbooks, are also radioactive and unable to be handled without precautions.
+S64 In 1995, Marie and Pierre’s remains were interred in the Panthéon in Paris, the final resting place of France’s greatest minds.
+S65 Marie became the first woman, one of only five, to be laid to rest there.
+S66 In 2017, the Panthéon hosted an exhibition to honor the 150th birthday of the pioneering scientist.
+S67 Curie made many breakthroughs in her lifetime.
+S68 Remembered as a leading figure in science and a role model for women, she has received numerous posthumous honors.
+S69 Several educational and research institutions and medical centers bear the Curie name, including the Curie Institute and Pierre and Marie Curie University (UPMC).
+S70 In 2025, the European Central Bank announced a proposed redesign of its banknotes may feature Curie, as well as Maria Callas, Ludwig van Beethoven, Miguel de Cervantes, and Leonardo da Vinci.
+
+§9 Movies About Marie Curie
+S71 In 1937, Ève Curie wrote the first of many biographies devoted to her famous mother, Madame Curie.
+S72 The work was adapted for the big screen as the aptly titled Madame Curie in 1943.
+S73 Actor and singer Greer Garson portrayed Marie, while Walter Pidgeon played her husband, Pierre.
+S74 The film received seven Academy Award nominations, including for Outstanding Motion Picture (now Best Picture).
+S75 The story of the Nobel laureate was back on the big screen decades later in 2017 with Marie Curie: The Courage of Knowledge, featuring Polish actress Karolina Gruszka.
+S76 In 2018, Amazon announced the development of another biopic of Curie, with British actress Rosamund Pike in the starring role.
+S77 The project officially released a year later as Radioactive, and also featured Sam Riley as Pierre Curie and Anya Taylor-Joy as their daughter Irène.
+
+§10 Quotes
+S78 I believe that science has great beauty.
+S79 A scientist in his laboratory is not a mere technician; he is also a child confronting natural phenomena that impress him as though they were fairy tales.
+S80 One never notices what has been done; one can only see what remains to be done.
+S81 In science, we must be interested in things, not in persons.
+S82 All my life through, the new sights of nature made me rejoice like a child.
+S83 In the education of children the requirement of their growth and physical evolution should be respected, and that some time should be left for their artistic culture.
+S84 Nothing in life is to be feared, it is only to be understood.
+S85 I was taught that the way of progress was neither swift nor easy.
+S86 Life is not easy for any of us.
+S87 But what of that?
+S88 We must have perseverance and above all confidence in ourselves.
+S89 You cannot hope to build a better world without improving the individuals.
+S90 It is important to make a dream of life and a dream reality.
+S91 There are sadistic scientists who hurry to hunt down errors instead of establishing the truth.
+S92 Fact Check: We strive for accuracy and fairness.
+S93 If you see something that doesn’t look right, contact us!
+S94 The Biography.com staff is a team of people-obsessed and news-hungry editors with decades of collective experience.
+S95 We have worked as daily newspaper reporters, major national magazine editors, and as editors-in-chief of regional media publications.
+S96 Among our ranks are book authors and award-winning journalists.
+S97 Our staff also works with freelance writers, researchers, and other contributors to produce the smart, compelling profiles and articles you see on our site.
+S98 To meet the team, visit our About Us page: https://www.biography.com/about/a43602329/about-us

@@ -1,0 +1,821 @@
+DOCUMENT: Cyberpunk
+
+§0 (under the title)
+S0 Cyberpunk is a subgenre of science fiction set in a dystopian future.
+S1 It is characterized by its focus on a combination of "lowlife and high tech".
+S2 It features a range of futuristic technological and scientific achievements, including artificial intelligence and cyberware, which are juxtaposed with societal collapse, dystopia or decay.
+S3 Much of cyberpunk comes from the New Wave science fiction movement of the 1960s and '70s.
+S4 Writers such as Philip K. Dick, Michael Moorcock, Roger Zelazny, John Brunner, J. G. Ballard, Philip José Farmer, and Harlan Ellison explored the impact of technology, drug culture, and the sexual revolution.
+S5 These authors diverged from the utopian tendencies of earlier science fiction.
+S6 Comics exploring cyberpunk themes began appearing as early as Judge Dredd, first published in 1977 in the British comics anthology 2000 AD.
+S7 Released in 1984, William Gibson's influential debut novel Neuromancer helped solidify cyberpunk as a genre, drawing influence from punk subculture and early hacker culture.
+S8 Frank Miller's Ronin is an example of a cyberpunk graphic novel.
+S9 Other influential cyberpunk writers include Bruce Sterling and Rudy Rucker.
+S10 The Japanese cyberpunk subgenre began in 1982 with the debut of Katsuhiro Otomo's manga series Akira, with its 1988 anime film adaptation (also directed by Otomo) popularizing the subgenre.
+S11 Early films in the genre include Ridley Scott's 1982 film Blade Runner, one of several film adaptations of Philip K. Dick's books (in this case, Do Androids Dream of Electric Sheep?).
+S12 RoboCop (1987), Total Recall (1990), Judge Dredd (1995), and The Matrix trilogy (1999–2003) were also successful cyberpunk films.
+S13 The 1987 show Max Headroom is considered the first cyberpunk TV series, taking place in a futuristic dystopia ruled by an oligarchy of television networks, with computer hacking playing a central role in many storylines.
+S14 Newer cyberpunk media includes Tron: Ares (2025) and Tron: Legacy (2010), sequels to the original Tron (1982); Blade Runner 2049 (2017), a sequel to the 1982 film; Dredd (2012), which was not a sequel to the original movie; Ghost in the Shell (2017), a live-action adaptation of the original manga; Alita: Battle Angel (2019), based on the 1990s Japanese manga Battle Angel Alita; the 2018 Netflix TV series Altered Carbon, based on Richard K. Morgan's 2002 novel of the same name; and the video game Cyberpunk 2077 (2020) and original net animation (ONA) miniseries Cyberpunk: Edgerunners (2022), both based on R.
+S15 Talsorian Games's 1988 tabletop role-playing game Cyberpunk.
+
+§1 Overview
+S16 Cyberpunk plots often involve conflict between artificial intelligence, hackers, and megacorporations, and tend to be set in a near-future Earth, rather than in far-future settings or galactic vistas.
+S17 The settings are usually post-industrial dystopias but tend to feature extraordinary cultural ferment and the use of technology in ways never anticipated by its original inventors ("the street finds its own uses for things").
+S18 Much of the genre's atmosphere echoes film noir, and written works in the genre often use techniques from detective fiction.
+S19 Over time, cyberpunk has shifted from a literary movement to a subgenre of science fiction.
+S20 Writer Lawrence Person has attempted to define the content and ethos of the cyberpunk literary movement, saying:
+S21 Classic cyberpunk characters were marginalized, alienated loners who lived on the edge of society in generally dystopic futures where daily life was impacted by rapid technological change, an ubiquitous datasphere of computerized information, and invasive modification of the human body.
+
+§2 Etymology
+S22 The term "cyberpunk" first appeared as the title of a short story by Bruce Bethke, written in 1980 and published in Amazing Stories in 1983.
+S23 The name was picked up by Gardner Dozois, editor of Isaac Asimov's Science Fiction Magazine, and popularized in his editorials.
+S24 Bethke says he made two lists of words, one for technology, one for troublemakers, and experimented with combining them variously into compound words, consciously attempting to coin a term that encompassed both punk attitudes and high technology.
+S25 He described the idea thus:
+S26 The kids who trashed my computer; their kids were going to be Holy Terrors, combining the ethical vacuity of teenagers with a technical fluency we adults could only guess at.
+S27 Further, the parents and other adult authority figures of the early 21st Century were going to be terribly ill-equipped to deal with the first generation of teenagers who grew up truly "speaking computer".
+S28 Afterward, Dozois began using this term in his own writing, most notably in a 1984 Washington Post article where he said "About the closest thing here to a self-willed esthetic 'school' would be the purveyors of bizarre hard-edged, high-tech stuff, who have on occasion been referred to as 'cyberpunks' — Sterling, Gibson, Shiner, Cadigan, Bear."
+
+§3 History and origins
+S29 The origins of cyberpunk are rooted in the New Wave science fiction movement of the 1960s and 1970s, where New Worlds, under the editorship of Michael Moorcock, began inviting and encouraging stories that examined new writing styles, techniques, and archetypes.
+S30 Reacting to conventional storytelling, New Wave authors attempted to present a world where society coped with a constant upheaval of new technology and culture, generally with dystopian outcomes.
+S31 Writers like Roger Zelazny, J. G. Ballard, Philip José Farmer, Samuel R. Delany, and Harlan Ellison often examined the impact of drug culture, technology, and the ongoing sexual revolution, drawing themes and influence from experimental literature of Beat Generation authors such as William S. Burroughs, and art movements like Dadaism.
+S32 Ballard, a notable critic of literary archetypes in science fiction, instead employs metaphysical and psychological concepts, seeking greater relevance to readers of the day.
+S33 Ballard's work is considered have had a profound influence on cyberpunk's development, as evidenced by the term "Ballardian" becoming used to ascribe literary excellence amongst science fiction social circles.
+S34 Ballard, along with Zelazny and others continued the popular development of "realism" within the genre.
+S35 Delany's 1968 novel Nova, considered a forerunner of cyberpunk literature, includes neural implants, a now popular cyberpunk trope for human-computer interfaces.
+S36 Philip K. Dick's novel Do Androids Dream of Electric Sheep?, first published in 1968, shares common dystopian themes with later works by Gibson and Sterling; it is praised for its "realist" exploration of cybernetic and artificial intelligence ideas and ethics.
+S37 In 1984, William Gibson's novel Neuromancer was published, delivering a glimpse of a future encompassed by what became an archetype of cyberpunk "virtual reality", with the human mind being fed light-based worldscapes through a computer interface.
+S38 Some, perhaps ironically including Bethke, the originator of the term "cyberpunk", argued at the time that the writers whose style Gibson's books epitomized should be called "Neuromantics", a pun on the name of the novel plus "New Romantics", a term used for a New Wave pop music movement that had just occurred in Britain.
+S39 Bethke later paraphrased Michael Swanwick's argument for the term: "the movement writers should properly be termed neuromantics, since so much of what they were doing was clearly imitating Neuromancer".
+S40 Sterling was another writer who played a central role, often consciously, in the cyberpunk genre, variously seen as either keeping it on track, or distorting its natural path into a stagnant formula.
+S41 In 1986, he edited a volume of cyberpunk stories called Mirrorshades: The Cyberpunk Anthology, an attempt to establish what cyberpunk was, from Sterling's perspective.
+S42 In the subsequent decade, the motifs of Gibson's Neuromancer became formulaic, climaxing in the satirical extremes of Neal Stephenson's Snow Crash in 1992.
+S43 Bookending the cyberpunk era, Bethke himself published a novel in 1995 called Headcrash, like Snow Crash a satirical attack on the genre's excesses.
+S44 Fittingly, it won an honor named after cyberpunk's spiritual founder, the Philip K. Dick Award.
+S45 It satirized the genre in this way:
+S46 ...full of young guys with no social lives, no sex lives and no hope of ever moving out of their mothers' basements ...
+S47 They're total wankers and losers who indulge in Messianic fantasies about someday getting even with the world through almost-magical computer skills, but whose actual use of the Net amounts to dialing up the scatophilia forum and downloading a few disgusting pictures.
+S48 You know, cyberpunks.
+
+§4 Style and ethos
+S49 Primary figures in the cyberpunk movement include William Gibson, Neal Stephenson, Bruce Sterling, Bruce Bethke, Pat Cadigan, Rudy Rucker, and John Shirley.
+S50 Philip K. Dick (author of Do Androids Dream of Electric Sheep?, from which the film Blade Runner was adapted) is also seen by some as prefiguring the movement.
+S51 Blade Runner can be seen as a quintessential example of the cyberpunk style and theme.
+S52 Video games, board games, and tabletop role-playing games, such as Cyberpunk and Shadowrun, often feature storylines that are heavily influenced by cyberpunk writing and movies.
+S53 Beginning in the early 1990s, some trends in fashion and music were also labeled as cyberpunk.
+S54 Cyberpunk is also featured prominently in anime and manga (Japanese cyberpunk), with Akira, Ghost in the Shell and Cowboy Bebop being among the most notable.
+
+§5 Setting
+S55 Cyberpunk writers tend to use elements from crime fiction—particularly hardboiled detective fiction and film noir—and postmodernist prose to describe an often nihilistic underground side of an electronic society.
+S56 The genre's vision of a troubled future is often called the antithesis of the generally utopian visions of the future popular in the 1940s and 1950s.
+S57 Gibson defined cyberpunk's antipathy towards utopian science fiction in his 1981 short story "The Gernsback Continuum", which pokes fun at and, to a certain extent, condemns utopian science fiction.
+S58 In some cyberpunk writing, much of the action takes place online, in cyberspace, blurring the line between actual and virtual reality.
+S59 A typical trope in such work is a direct connection between the human brain and computer systems.
+S60 Cyberpunk settings are dystopias with corruption, computers, and computer networks.
+S61 The economic and technological state of Japan is a regular theme in the cyberpunk literature of the 1980s.
+S62 Of Japan's influence on the genre, William Gibson said, "Modern Japan simply was cyberpunk." Cyberpunk is often set in urbanized, artificial landscapes, and "city lights, receding" was used by Gibson as one of the genre's first metaphors for cyberspace and virtual reality.
+S63 The cityscapes of Hong Kong has had major influences in the urban backgrounds, ambiance and settings in many cyberpunk works such as Blade Runner and Shadowrun.
+S64 Ridley Scott envisioned the landscape of cyberpunk Los Angeles in Blade Runner to be "Hong Kong on a very bad day".
+S65 The streetscapes of the Ghost in the Shell film were based on Hong Kong.
+S66 Its director Mamoru Oshii felt that Hong Kong's strange and chaotic streets where "old and new exist in confusing relationships" fit the theme of the film well.
+S67 Hong Kong's Kowloon Walled City is particularly notable for its disorganized hyper-urbanization and breakdown in traditional urban planning to be an inspiration to cyberpunk landscapes.
+S68 During the British rule of Hong Kong, it was an area neglected by both the British and Qing administrations, embodying elements of liberalism in a dystopian context.
+S69 Portrayals of East Asia and Asians in Western cyberpunk have been criticized as Orientalist and promoting racist tropes playing on American and European fears of East Asian dominance; this has been referred to as "techno-Orientalism".
+S70 The city Chongqing in mainland China is often referred to as a "cyberpunk city".
+
+§6 Society and government
+S71 Cyberpunk can be intended to disquiet readers and call them to action.
+S72 It often expresses a sense of rebellion, suggesting that one could describe it as a type of cultural revolution in science fiction.
+S73 In the words of author and critic David Brin:
+S74 a closer look [at cyberpunk authors] reveals that they nearly always portray future societies in which governments have become wimpy and pathetic ...
+S75 Popular science fiction tales by Gibson, Williams, Cadigan and others do depict Orwellian accumulations of power in the next century, but nearly always clutched in the secretive hands of a wealthy or corporate elite.
+S76 Cyberpunk stories have also been seen as fictional forecasts of the evolution of the Internet.
+S77 The earliest descriptions of a global communications network came long before the World Wide Web entered popular awareness, though not before traditional science-fiction writers such as Arthur C. Clarke and some social commentators such as James Burke began predicting that such networks would eventually form.
+S78 Some observers cite that cyberpunk tends to marginalize sectors of society such as women and people of colour.
+S79 It is claimed that, for instance, cyberpunk depicts fantasies that ultimately empower masculinity using fragmentary and decentered aesthetic that culminate in a masculine genre populated by male outlaws.
+S80 Critics also note the absence of any reference to Africa or black characters in the quintessential cyberpunk film Blade Runner, while other films reinforce stereotypes.
+
+§7 Literature
+S81 Minnesota writer Bruce Bethke coined the term in 1983 for his short story "Cyberpunk", which was published in an issue of Amazing Science Fiction Stories.
+S82 The term was quickly appropriated as a label to be applied to the works of William Gibson, Bruce Sterling, Pat Cadigan and others.
+S83 Of these, Sterling became the movement's chief ideologue, thanks to his fanzine Cheap Truth.
+S84 John Shirley wrote articles on Sterling and Rucker's significance.
+S85 John Brunner's 1975 novel The Shockwave Rider is considered by many to be the first cyberpunk novel with many of the tropes commonly associated with the genre, some five years before the term was popularized by Dozois.
+S86 William Gibson with his novel Neuromancer (1984) is arguably the most famous writer connected with the term cyberpunk.
+S87 He emphasized style, a fascination with surfaces, and atmosphere over traditional science-fiction tropes.
+S88 Regarded as ground-breaking and sometimes as "the archetypal cyberpunk work", Neuromancer was awarded the Hugo, Nebula, and Philip K. Dick Awards.
+S89 Count Zero (1986) and Mona Lisa Overdrive (1988) followed after Gibson's popular debut novel.
+S90 According to the Jargon File, "Gibson's near-total ignorance of computers and the present-day hacker culture enabled him to speculate about the role of computers and hackers in the future in ways hackers have since found both irritatingly naïve and tremendously stimulating."
+S91 Early on, cyberpunk was hailed as a radical departure from science-fiction standards and a new manifestation of vitality.
+S92 Shortly thereafter, some critics arose to challenge its status as a revolutionary movement.
+S93 These critics said that the science fiction New Wave of the 1960s was much more innovative as far as narrative techniques and styles were concerned.
+S94 While Neuromancers narrator may have had an unusual "voice" for science fiction, much older examples can be found: Gibson's narrative voice, for example, resembles that of an updated Raymond Chandler, as in his novel The Big Sleep (1939).
+S95 Others noted that almost all traits claimed to be uniquely cyberpunk could in fact be found in older writers' works—often citing J.
+S96 G. Ballard, Philip K. Dick, Harlan Ellison, Stanisław Lem, Samuel R. Delany, and even William S. Burroughs.
+S97 For example, Philip K. Dick's works contain recurring themes of social decay, artificial intelligence, paranoia, and blurred lines between objective and subjective realities.
+S98 The influential cyberpunk movie Blade Runner (1982) is based on his book, Do Androids Dream of Electric Sheep?.
+S99 Transhumanism and technologically augmented humans are also a main feature of Roger Zelazny's Creatures of Light and Darkness (1968).
+S100 In 1994, scholar Brian Stonehill suggested that Thomas Pynchon's 1973 novel Gravity's Rainbow "not only curses but precurses what we now glibly dub cyberspace." Other important predecessors include Alfred Bester's two most celebrated novels, The Demolished Man and The Stars My Destination, as well as Vernor Vinge's novella True Names.
+
+§8 Reception and impact
+S101 Science-fiction writer David Brin describes cyberpunk as "the finest free promotion campaign ever waged on behalf of science fiction".
+S102 It may not have attracted the "real punks", but it did ensnare many new readers, and it provided the sort of movement that postmodern literary critics found alluring.
+S103 Cyberpunk made science fiction more attractive to academics, argues Brin; in addition, it made science fiction more profitable to Hollywood and to the visual arts generally.
+S104 Although the "self-important rhetoric and whines of persecution" on the part of cyberpunk fans were irritating at worst and humorous at best, Brin declares that the "rebels did shake things up. We owe them a debt."
+S105 Fredric Jameson considers cyberpunk the "supreme literary expression if not of postmodernism, then of late capitalism itself".
+S106 Cyberpunk further inspired many later writers to incorporate cyberpunk ideas into their own works, such as George Alec Effinger's When Gravity Fails.
+S107 Wired magazine, created by Louis Rossetto and Jane Metcalfe, mixes new technology, art, literature, and current topics in order to interest today's cyberpunk fans, which Paula Yoo claims "proves that hardcore hackers, multimedia junkies, cyberpunks and cellular freaks are poised to take over the world".
+
+§9 Film and television
+S108 The film Blade Runner (1982) is set in 2019 in a dystopian future in which manufactured beings called replicants are slaves used on space colonies and are legal prey on Earth to various bounty hunters who "retire" (kill) them.
+S109 Although Blade Runner was largely unsuccessful in its first theatrical release, it found a viewership in the home video market and became a cult film.
+S110 Since the movie omits the religious and mythical elements of Dick's original novel (e.g. empathy boxes and Wilbur Mercer), it falls more strictly within the cyberpunk genre than the novel does.
+S111 William Gibson later revealed that upon first viewing the film, he was surprised at how the look of this film matched his vision for Neuromancer, a book he was then working on.
+S112 The film's tone has since been the staple of many cyberpunk movies, such as The Matrix trilogy (1999–2003), which uses a wide variety of cyberpunk elements.
+S113 A sequel to Blade Runner was released in 2017.
+S114 The TV series Max Headroom (1987) is an iconic cyberpunk work, taking place in a futuristic dystopia ruled by an oligarchy of television networks.
+S115 Computer hacking played a central role in many of the story lines.
+S116 Max Headroom has been called "the first cyberpunk television series".
+S117 More recently, the animated series Batman Beyond (1999–2001) is considered a noteworthy example of the cyberpunk genre.
+S118 The number of films in the genre has grown steadily since Blade Runner.
+S119 Several of Philip K. Dick's works have been adapted to the silver screen.
+S120 The films Johnny Mnemonic (1995) and New Rose Hotel (1998), both based on short stories by William Gibson, flopped commercially and critically.
+S121 Other cyberpunk films include RoboCop (1987), Total Recall (1990), Hardware (1990), The Lawnmower Man (1992), 12 Monkeys (1995), Hackers (1995), and Strange Days (1995).
+S122 Some cyberpunk films have been described as tech-noir, a hybrid genre combining neo-noir and science fiction or cyberpunk.
+
+§10 Anime and manga
+S123 The Japanese cyberpunk subgenre began in 1982 with the debut of Katsuhiro Otomo's manga series Akira, with its 1988 anime film adaptation, which Otomo directed, later popularizing the subgenre.
+S124 Akira inspired a wave of Japanese cyberpunk works, including manga and anime series such as Ghost in the Shell, Battle Angel Alita, and Cowboy Bebop.
+S125 Other early Japanese cyberpunk works include the 1982 film Burst City, and the 1989 film Tetsuo: The Iron Man.
+S126 According to Paul Gravett, when Akira began to be published, cyberpunk literature had not yet been translated into Japanese.
+S127 Otomo has distinct inspirations, such as Mitsuteru Yokoyama's manga series Tetsujin 28-go (1956–1966) and Mœbius.
+S128 In contrast to Western cyberpunk which has roots in New Wave science fiction literature, Japanese cyberpunk has roots in underground music culture, specifically the Japanese punk subculture that arose from the Japanese punk music scene in the 1970s.
+S129 The filmmaker Sogo Ishii introduced this subculture to Japanese cinema with the punk film Panic High School (1978) and the punk biker film Crazy Thunder Road (1980), both portraying the rebellion and anarchy associated with punk, and the latter featuring a punk biker gang aesthetic.
+S130 Ishii's punk films paved the way for Otomo's seminal cyberpunk work Akira.
+S131 Cyberpunk themes are widely visible in anime and manga.
+S132 In Japan, where cosplay is popular and not only teenagers display such fashion styles, cyberpunk has been accepted and its influence is widespread.
+S133 William Gibson's Neuromancer, whose influence dominated the early cyberpunk movement, was also set in Chiba, one of Japan's largest industrial areas, although at the time of writing the novel Gibson did not know the location of Chiba and had no idea how perfectly it fit his vision in some ways.
+S134 The exposure to cyberpunk ideas and fiction in the 1980s has allowed it to seep into the Japanese culture.
+S135 Cyberpunk anime and manga draw upon a futuristic vision which has elements in common with Western science fiction and therefore have received wide international acceptance outside Japan.
+S136 "The conceptualization involved in cyberpunk is more of forging ahead, looking at the new global culture. It is a culture that does not exist right now, so the Japanese concept of a cyberpunk future, seems just as valid as a Western one, especially as Western cyberpunk often incorporates many Japanese elements." William Gibson is now a frequent visitor to Japan, and he came to see that many of his visions of Japan have become a reality:
+S137 Modern Japan simply was cyberpunk.
+S138 The Japanese themselves knew it and delighted in it.
+S139 I remember my first glimpse of Shibuya, when one of the young Tokyo journalists who had taken me there, his face drenched with the light of a thousand media-suns—all that towering, animated crawl of commercial information—said, "You see? You see? It is Blade Runner town." And it was.
+S140 It so evidently was.
+
+§11 Influence
+S141 Akira (1982 manga) and its 1988 anime film adaptation have influenced numerous works in animation, comics, film, music, television and video games.
+S142 Akira has been cited as a major influence on Hollywood films such as The Matrix, Chronicle, Looper, Midnight Special, and Inception, as well as cyberpunk-influenced video games such as Hideo Kojima's Snatcher and Metal Gear Solid, Valve's Half-Life series and Dontnod Entertainment's Remember Me.
+S143 Akira has also influenced the work of musicians such as Kanye West, who paid homage to Akira in the "Stronger" music video, and Lupe Fiasco, whose album Tetsuo & Youth is named after Tetsuo Shima.
+S144 The popular bike from the film, Kaneda's Motorbike, appears in Steven Spielberg's film Ready Player One, and CD Projekt's video game Cyberpunk 2077.
+S145 Ghost in the Shell (1995) influenced a number of prominent filmmakers, most notably the Wachowskis in The Matrix (1999) and its sequels.
+S146 The Matrix series took several concepts from the film, including the Matrix digital rain, which was inspired by the opening credits of Ghost in the Shell and a sushi magazine the wife of the senior designer of the animation, Simon Witheley, had in the kitchen at the time, and the way characters access the Matrix through holes in the back of their necks.
+S147 Other parallels have been drawn to James Cameron's Avatar, Steven Spielberg's A.I. Artificial Intelligence, and Jonathan Mostow's Surrogates.
+S148 James Cameron cited Ghost in the Shell as a source of inspiration, citing it as an influence on Avatar.
+S149 The original video animation Megazone 23 (1985) has a number of similarities to The Matrix.
+S150 Battle Angel Alita (1990) has had a notable influence on filmmaker James Cameron, who was planning to adapt it into a film since 2000.
+S151 It was an influence on his TV series Dark Angel, and he is the producer of the 2019 film adaptation Alita: Battle Angel.
+
+§12 Comics
+S152 In 1975, artist Moebius collaborated with writer Dan O'Bannon on a story called The Long Tomorrow, published in the French magazine Métal Hurlant.
+S153 One of the first works featuring elements now seen as exemplifying cyberpunk, it combined influences from film noir and hardboiled crime fiction with a distant sci-fi environment.
+S154 Author William Gibson stated that Moebius' artwork for the series, along with other visuals from Métal Hurlant, strongly influenced his 1984 novel Neuromancer.
+S155 The series had a far-reaching impact in the cyberpunk genre, being cited as an influence on Ridley Scott's Alien (1979) and Blade Runner.
+S156 In an interview, Gibson recalled a lunch with Scott during which both acknowledged their shared debt to Moebius's work in Métal Hurlant.
+S157 Moebius expanded upon The Long Tomorrow's aesthetic with The Incal, a graphic novel collaboration with Alejandro Jodorowsky published from 1980 to 1988.
+S158 The story centers around the exploits of a detective named John Difool in various science fiction settings, and while not confined to the tropes of cyberpunk, it features many elements of the genre.
+S159 Moebius was one of the designers of Tron (1982), a movie that shows a world inside a computer.
+S160 Concurrently with many other foundational cyberpunk works, DC Comics published Frank Miller's six-issue miniseries Rōnin from 1983 to 1984.
+S161 The series, incorporating aspects of Samurai culture, martial arts films and manga, is set in a dystopian near-future New York.
+S162 It explores the link between an ancient Japanese warrior and the apocalyptic, crumbling cityscape he finds himself in.
+S163 The comic also bears several similarities to Akira, with highly powerful telepaths playing central roles, as well as sharing many key visuals.
+S164 Rōnin would go on to influence many later works, including Samurai Jack and the Teenage Mutant Ninja Turtles, as well as video games such as Cyberpunk 2077.
+S165 Two years later, Miller himself would incorporate several toned-down elements of Rōnin into his acclaimed 1986 miniseries The Dark Knight Returns, in which a retired Bruce Wayne once again takes up the mantle of Batman in a Gotham that is increasingly becoming more dystopian.
+S166 Paul Pope's Batman: Year 100, published in 2006, also exhibits several traits typical of cyberpunk fiction, such as a rebel protagonist opposing a future authoritarian state, and a distinct retrofuturist aesthetic that makes callbacks to both The Dark Knight Returns and Batman's original appearances in the 1940s.
+
+§13 Games
+S167 There are many cyberpunk video games.
+S168 Popular series include the Megami Tensei series, Kojima's Snatcher and Metal Gear series, Deus Ex series, Syndicate series, and System Shock and its sequel.
+S169 Other games, like Blade Runner, Ghost in the Shell, and the Matrix series, are based upon genre movies, or role-playing games (for instance the various Shadowrun games).
+S170 Several RPGs called Cyberpunk exist: Cyberpunk (later known as Cyberpunk 2013), Cyberpunk 2020, Cyberpunk v3.0 and Cyberpunk Red written by Mike Pondsmith and published by R.
+S171 Talsorian Games, and GURPS Cyberpunk, published by Steve Jackson Games as a module of the GURPS family of RPGs.
+S172 Cyberpunk 2020 was designed with the settings of William Gibson's writings in mind, and to some extent with his approval, unlike the approach taken by FASA in producing the transgenre Shadowrun game and its various sequels, which mixes cyberpunk with fantasy elements such as magic and fantasy races such as orcs and elves.
+S173 Both are set in the near future, in a world where cybernetics are prominent.
+S174 Iron Crown Enterprises released an RPG named Cyberspace, which was out of print for several years until recently being re-released in online PDF form.
+S175 CD Projekt Red released Cyberpunk 2077, a cyberpunk open world first-person shooter/role-playing video game (RPG) based on the tabletop RPG Cyberpunk, on December 10, 2020.
+S176 In 1990, in a convergence of cyberpunk art and reality, the United States Secret Service raided Steve Jackson Games's headquarters and confiscated all their computers.
+S177 Officials denied that the target had been the GURPS Cyberpunk sourcebook, but Jackson later wrote that he and his colleagues "were never able to secure the return of the complete manuscript; [...] The Secret Service at first flatly refused to return anything – then agreed to let us copy files, but when we got to their office, restricted us to one set of out-of-date files – then agreed to make copies for us, but said "tomorrow" every day from March 4 to March 26.
+S178 On March 26 we received a set of disks which purported to be our files, but the material was late, incomplete and well-nigh useless." Steve Jackson Games won a lawsuit against the Secret Service, aided by the new Electronic Frontier Foundation.
+S179 This event has achieved a sort of notoriety, which has extended to the book itself as well.
+S180 All published editions of GURPS Cyberpunk have a tagline on the front cover, which reads "The book that was seized by the U.S. Secret Service!" Inside, the book provides a summary of the raid and its aftermath.
+S181 Cyberpunk has also inspired several tabletop, miniature and board games such as Necromunda by Games Workshop.
+S182 Netrunner is a collectible card game introduced in 1996, based on the Cyberpunk role-playing game.
+S183 Tokyo NOVA, debuting in 1993, is a cyberpunk role-playing game that uses playing cards instead of dice.
+
+§14 Music
+S184 Much of the industrial/dance heavy album "Cyberpunk"—recorded in Billy Idol's Macintosh-run studio—revolves around Idol's theme of the common man rising up to fight against a faceless, soulless, corporate world.
+S185 — Julie Romandetta
+S186 The first overtly cyberpunk song is The Rezillos' "2000 AD", on their 1978 album Can't Stand the Rezillos.
+S187 Cyberpunk music was popularized by the synthesizer-heavy scores of cyberpunk films such as Escape from New York (1981) and Blade Runner (1982).
+S188 Some musicians and acts have been classified as cyberpunk due to their aesthetic style and musical content.
+S189 Often dealing with dystopian visions of the future or biomechanical themes, some fit more squarely in the category than others.
+S190 Bands whose music has been classified as cyberpunk include Psydoll, Front Line Assembly, Clock DVA, Angelspit and Sigue Sigue Sputnik.
+S191 Some musicians not normally associated with cyberpunk have at times been inspired to create concept albums exploring such themes.
+S192 Albums such as the British musician and songwriter Gary Numan's Tubeway Army, Replicas, The Pleasure Principle and Telekon were heavily inspired by the works of Philip K. Dick.
+S193 Kraftwerk's The Man-Machine and Computer World albums both explored the theme of humanity becoming dependent on technology.
+S194 Nine Inch Nails' concept album Year Zero also fits into this category.
+S195 Fear Factory concept albums are heavily based upon future dystopia, cybernetics, clash between man and machines, virtual worlds.
+S196 Billy Idol's Cyberpunk drew heavily from cyberpunk literature and the cyberdelic counter culture in its creation.
+S197 1. Outside, a cyberpunk narrative fueled concept album by David Bowie, was warmly met by critics upon its release in 1995.
+S198 Many musicians have also taken inspiration from specific cyberpunk works or authors, including Sonic Youth, whose albums Sister and Daydream Nation take influence from the works of Philip K. Dick and William Gibson respectively.
+S199 Madonna's 2001 Drowned World Tour opened with a cyberpunk section, where costumes, aesthetics and stage props were used to accentuate the dystopian nature of the theatrical concert.
+S200 Lady Gaga used a cyberpunk-persona and visual style for her sixth studio album Chromatica (2020).
+S201 Vaporwave and synthwave are also influenced by cyberpunk.
+S202 The former has been inspired by one of the messages of cyberpunk and is interpreted as a dystopian critique of capitalism in the vein of cyberpunk and the latter is more surface-level, inspired only by the aesthetic of cyberpunk as a nostalgic retrofuturistic revival of aspects of cyberpunk's origins.
+
+§15 Art and architecture
+S203 Writers David Suzuki and Holly Dressel describe the cafes, brand-name stores and video arcades of the Center Potsdamer Platz in the Potsdamer Platz public square of Berlin, Germany, as "a vision of a cyberpunk, corporate urban future".
+
+§16 Society and counterculture
+S204 Several subcultures have been inspired by cyberpunk fiction.
+S205 These include the cyberdelic counterculture of the late 1980s and early 1990s.
+S206 Cyberdelic, whose adherents referred to themselves as "cyberpunks", attempted to blend the psychedelic art and drug movement with the technology of cyberculture.
+S207 Early adherents included Timothy Leary, Mark Frauenfelder and R.
+S208 U. Sirius.
+S209 The movement largely faded following the dot-com bubble implosion of 2000.
+S210 Cybergoth is a fashion and dance subculture which draws its inspiration from cyberpunk fiction, as well as rave and Gothic subcultures.
+S211 A distinct cyberpunk fashion emerged in the 2020s which rejects the raver and goth influences of cybergoth, and draws inspiration from urban street fashion, "post-apocalypse", functional clothing, high-tech sports wear, tactical uniform and multifunction.
+S212 This fashion goes by names like "tech wear", "goth ninja" or "tech ninja".
+S213 Angus Tsui's fashion designs have been described as cyberpunk.
+S214 The Kowloon Walled City in Hong Kong, demolished in 1994, is often referenced as the model cyberpunk/dystopian slum as, given its poor living conditions at the time coupled with the city's political, physical, and economic isolation has caused many in academia to be fascinated by the ingenuity of its spawning.
+
+§17 Cyberpunk derivatives
+S215 As a wider variety of writers began to work with cyberpunk concepts, new subgenres of science fiction emerged, some of which could be considered as playing off the cyberpunk label, others which could be considered as legitimate explorations into newer territory.
+S216 These focused on technology and its social effects in different ways.
+S217 One prominent subgenre is "steampunk," which is set in an alternate history Victorian era that combines anachronistic technology with cyberpunk's bleak film noir world view.
+S218 The term was originally coined around 1987 as a joke to describe some of the novels of Tim Powers, James P. Blaylock, and K.W.
+S219 Jeter, but by the time Gibson and Sterling entered the subgenre with their collaborative novel The Difference Engine the term was being used earnestly as well.
+S220 Another subgenre is "biopunk" (cyberpunk themes dominated by biotechnology) from the early 1990s, a derivative style building on biotechnology rather than informational technology.
+S221 In these stories, people are changed in some way not by mechanical means, but by genetic manipulation.
+
+§18 Registered trademark status
+S222 In the United States, the term "Cyberpunk" is a registered trademark owned by CD Projekt SA who obtained it from the previous owner R.
+S223 Talsorian Games Inc. who originally registered it for its tabletop role-playing game.
+S224 R.
+S225 Talsorian Games currently used the trademark under license from CD Projekt SA for the tabletop role-playing game.
+S226 Within the European Union, the "Cyberpunk" trademark is owned by two parties: CD Projekt SA for "games and online gaming services" (particularly for the video game adaptation of the former) and by Sony Music for use outside games.
+
+§19 See also
+S227 Cyborg
+S228 Digital dystopia
+S229 Postcyberpunk
+S230 Posthumanization
+S231 Solarpunk
+S232 Utopian and dystopian fiction
+S233 Cyberdeck
+
+§20 References
+S234 Sterling, Bruce (1987).
+S235 "Preface".
+S236 Burning Chrome by William Gibson.
+S237 Ace Books, New York.
+S238 p. xii.
+S239 ISBN 0441089348.
+S240 Thomas Michaud, "Science fiction and politics: Cyberpunk science fiction as political philosophy", pp. 65–77 in Hassler, Donald M.
+S241 New Boundaries in Political Science Fiction.
+S242 University of South Carolina Press.
+S243 ISBN 978-1-57003-736-8.
+S244 See pp. 75–76.
+S245 "Bibliography for GURPS Cyberpunk".
+S246 sjgames.com.
+S247 Steve Jackson Games.
+S248 Retrieved 13 July 2019.
+S249 The world of the British Judge Dredd is quintessentially cyberpunk...
+S250 1 2 Hague, Angela (2002).
+S251 Teleparody: Predicting/preventing the TV Discourse of Tomorrow.
+S252 London New York: Wallflower Press.
+S253 p. 68.
+S254 ISBN 1-903364-39-6.
+S255 OCLC 50497381.
+S256 1 2 Graham, Stephen (2004).
+S257 The Cybercities Reader.
+S258 Routledge.
+S259 p. 389.
+S260 ISBN 978-0-415-27956-7.
+S261 Gibson, William (1981).
+S262 Burning Chrome.
+S263 Gillis, Stacy (2005).
+S264 The Matrix Trilogy:Cyberpunk Reloaded.
+S265 Wallflower Press.
+S266 p. 75.
+S267 ISBN 978-1-904764-32-8.
+S268 1 2 Murphy, Graham; Schmeink, Lars (2017).
+S269 Cyberpunk and Visual Culture.
+S270 London: Routledge.
+S271 ISBN 978-1-351-66515-5.
+S272 Landon, Brooks (2014).
+S273 Science Fiction After 1900: From the Steam Man to the Stars.
+S274 New York: Routledge.
+S275 p. 164.
+S276 ISBN 978-0-415-93888-4.
+S277 Gillis, Stacy (2005).
+S278 The Matrix Trilogy: Cyberpunk Reloaded.
+S279 London: Wallflower Press.
+S280 p. 3.
+S281 ISBN 978-1-904764-33-5.
+S282 1 2 "Notes Toward a Postcyberpunk Manifesto".
+S283 Slashdot.
+S284 October 8, 1999.
+S285 Originally published in Nova Express, issue 16 (1998).
+S286 "Definition of cyberpunk".
+S287 www.merriam-webster.com.
+S288 Retrieved 2020-09-19.
+S289 "Cyberpunk".
+S290 www.sf-encyclopedia.com.
+S291 Retrieved 2020-09-20.
+S292 Cruz, Décio Torres (2014).
+S293 "Blurring Genres: Dissolving Literature and Film in Blade Runner".
+S294 Postmodern Metanarratives.
+S295 London: Palgrave Macmillan UK.
+S296 pp. 30, 32. doi:10.1057/9781137439734_4.
+S297 ISBN 978-1-349-49431-6.
+S298 Retrieved 2023-01-08.
+S299 Lavigne, Carlen (2013).
+S300 Cyberpunk Women, Feminism and Science Fiction: A Critical Study.
+S301 McFarland & Company.
+S302 p. 9.
+S303 ISBN 978-0-7864-6653-5.
+S304 Retrieved 19 September 2020.
+S305 "The Early Life of the Word "Cyberpunk" - Neon Dystopia".
+S306 NeonDystopia.com.
+S307 13 November 2016.
+S308 Archived from the original on 10 November 2022.
+S309 Retrieved 28 December 2017.
+S310 Dozois, Gardner (30 December 1984).
+S311 "Science Fiction in the Eighties".
+S312 Retrieved 28 December 2017 – via www.WashingtonPost.com.
+S313 Parker, John R.
+S314 (20 August 2011).
+S315 "'New Worlds': One of the Most Influential Sci-Fi Magazines Returns This Fall".
+S316 ComicsAlliance.
+S317 Retrieved 2022-12-29.
+S318 Ballard's amazing kink-think-pieces on the intrusion of technology and media — "The Atrocity Exhibition", "Notes Towards a Mental Breakdown", "The Assassination of John Fitzgerald Kennedy Considered as a Downhill Motor Race" (collected with others as The Atrocity Exhibition with illustrations by Phoebe Gloeckner) — paved the way for cyberpunk.
+S319 Brian Aldiss practically populated his own subgenre with quirky epics like Acid Head War, a messianic tale of freestyle narrative set in a post-war Europe in which hallucinogenic drugs had affected entire populations, and Report on Probability A, an experimental story about the observations of three characters named G, S, and C.
+S320 McCaffery, Larry (1991).
+S321 Storming the Reality Studio: A Casebook of Cyberpunk & Postmodern Science Fiction.
+S322 Duke University Press.
+S323 p. 216. doi:10.2307/j.ctv1168ch3.
+S324 ISBN 978-0-8223-9822-6.
+S325 JSTOR j.ctv1168ch3.
+S326 OCLC 972009012.
+S327 Elhefnawy, Nader (2015-06-14).
+S328 Cyberpunk, Steampunk and Wizardry: Science Fiction Since 1980.
+S329 Nader Elhefnawy.
+S330 "'Unblinking, clinical': From Ballard to cyberpunk".
+S331 Ballardian.com.
+S332 Archived from the original on 2017-12-28.
+S333 Retrieved 28 December 2017.
+S334 Ashley, Mike (2016-07-01).
+S335 Science Fiction Rebels.
+S336 doi:10.5949/liverpool/9781781382608.001.0001.
+S337 ISBN 9781781382608.
+S338 McCaffery, Larry (1991).
+S339 Storming the Reality Studio : a Casebook of Cyberpunk & Postmodern Science Fiction.
+S340 Duke University Press.
+S341 pp. 20, 208, 216, 264, 279, 331.
+S342 ISBN 978-0-8223-9822-6.
+S343 OCLC 972009012.
+S344 Brown, Alan (2018-03-29).
+S345 "Destruction and Renewal: Nova by Samuel R. Delany".
+S346 Tor.com.
+S347 Retrieved 2021-08-12.
+S348 "Postmodern Metanarratives: Blade Runner and Literature in the Age of Image" (PDF).
+S349 AthabascaU.ca.
+S350 Archived from the original (PDF) on 16 May 2018.
+S351 Retrieved 28 December 2017.
+S352 Jesse (27 January 2013).
+S353 "Speculiction...: Review of "Mirrorshades: The Cyberpunk Anthology" Edited by Bruce Sterling".
+S354 Speculiction.Blogspot.com.
+S355 Retrieved 28 December 2017.
+S356 "Bethke crashes the cyberpunk system - October 8, 1997".
+S357 wc.arizona.edu.
+S358 Archived from the original on November 14, 2015.
+S359 "The Cyberpunk Movement – Cyberpunk authors".
+S360 Humanities Advanced Technology and Information Institute.
+S361 Archived from the original on 2009-07-20.
+S362 Retrieved 2009-03-20.
+S363 Chaudhuri, Shohini (2005).
+S364 Contemporary World Cinema: Europe, the Middle East, East Asia and South Asia.
+S365 Edinburgh University Press.
+S366 p. 104.
+S367 ISBN 978-0-7486-1799-9.
+S368 James, Edward; Mendlesohn, Farah (2003).
+S369 The Cambridge Companion to Science Fiction.
+S370 Cambridge University Press.
+S371 p. 221.
+S372 ISBN 978-0-521-01657-5.
+S373 Campbell, Neil (2000).
+S374 The Cultures of the New American West.
+S375 Routledge.
+S376 p. 159.
+S377 ISBN 978-1-57958-288-3.
+S378 Seed, David (2005).
+S379 Publishing.
+S380 Blackwell.
+S381 p. 220.
+S382 ISBN 978-1-4051-1218-5.
+S383 "Cyberpunk 2021".
+S384 Archived from the original on 2009-12-12.
+S385 Retrieved 2011-04-20.
+S386 1 2 Gibson, William (30 April 2001).
+S387 "The Future Perfect".
+S388 Time.
+S389 Gibson, William (August 1984).
+S390 Neuromancer.
+S391 Ace Books.
+S392 p. 51.
+S393 ISBN 978-0-441-56956-4.
+S394 1 2 Redmond, Sean (2004).
+S395 Liquid Metal: The Science Fiction Film Reader.
+S396 Wallflower Press.
+S397 pp. 101–112.
+S398 Wheale, Nigel (1995).
+S399 The Postmodern Arts: An Introductory Reader.
+S400 Routledge.
+S401 p. 107.
+S402 ISBN 978-0-415-07776-7.
+S403 Retrieved July 27, 2011.
+S404 Hashimoto, Kazuma (30 January 2021).
+S405 "The cyberpunk genre has been Orientalist for decades — but it doesn't have to be".
+S406 Polygon.
+S407 Retrieved 2021-09-24.
+S408 Yang, George.
+S409 "Orientalism, 'Cyberpunk 2077,' and Yellow Peril in Science Fiction".
+S410 Wired.
+S411 ISSN 1059-1028.
+S412 Retrieved 2021-09-24 – via www.wired.com.
+S413 Gharagozli, Saba (19 May 2021).
+S414 "Detriments of Techno-Orientalism".
+S415 Imprint.
+S416 University of Waterloo.
+S417 Retrieved 2021-09-24.
+S418 "The mindbending 'cyberpunk city' in China that exists on so many levels".
+S419 David, Brin (1999).
+S420 The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?.
+S421 Basic Books.
+S422 ISBN 978-0-465-02790-3.
+S423 OCLC 798534246.
+S424 Clarke, Arthur C.
+S425 "The Last Question".
+S426 Science Fiction Quarterly.
+S427 Flanagan, Mary; Booth, Austin, eds.
+S428 Reload: Rethinking Women + Cyberculture.
+S429 Cambridge, Massachusetts: MIT Press.
+S430 pp. 7–8.
+S431 ISBN 978-0-262-06227-5.
+S432 Lavigne, Carlen (2013).
+S433 Cyberpunk Women, Feminism and Science Fiction: A Critical Study.
+S434 Jefferson, North Carolina: McFarland.
+S435 p. 51.
+S436 ISBN 978-0-7864-6653-5.
+S437 "Cyberpunk - a short story by Bruce Bethke".
+S438 www.infinityplus.co.uk.
+S439 Retrieved 2022-12-29.
+S440 Shirley, John (1999).
+S441 "Two Cyberpunks: Sterling and Rucker".
+S442 Archived from the original on 2008-12-31.
+S443 Blue, Violet (6 August 2015).
+S444 Wetware: Cyberpunk Erotica (First ed.).
+S445 Digita Publications.
+S446 Retrieved 20 February 2016.
+S447 "Jargon File definition".
+S448 1 2 3 Brians, Paul (1984).
+S449 Study Guide for William Gibson: Neuromancer.
+S450 Washington State University.
+S451 Archived from the original on 2006-12-24.
+S452 James, Edward.
+S453 Science Fiction in the 20th Century, Oxford University Press, Oxford & New York, 1994. p. 197
+S454 Eiss, Harry Edwin (2014-03-25).
+S455 Electric sheep slouching towards Bethlehem: speculative fiction in a post modern world.
+S456 Cambridge Scholars.
+S457 ISBN 978-1-4438-5636-2.
+S458 Retrieved 26 November 2016.
+S459 Maustuad, Tom (1994-08-21).
+S460 "Dark Vision lingers on 'Blade Runner' 15 years later".
+S461 Asbury Park Press.
+S462 Dallas Morning News.
+S463 p. 75.
+S464 Retrieved 2024-06-08.
+S465 Perez, Amir Saffar (2024).
+S466 "Roger Zelazny's Creatures of Light and Darkness: Exploring the Binary of the Body".
+S467 Aegyptiaca.
+S468 Journal of the History of Reception of Ancient Egypt (8): 52–73.
+S469 doi:10.11588/aegyp.2024.1.105646.
+S470 ISSN 2566-9419.
+S471 Stonehill, Brian.
+S472 "Pynchon's Prophecies of Cyberspace".
+S473 www.pynchon.pomona.edu.
+S474 Retrieved 2022-12-29.
+S475 Delivered at the first international conference on Pynchon, the University of Warwick, England, November 1994.
+S476 Booker, M. Keith (2001).
+S477 Monsters, Mushroom Clouds, and the Cold War:American Science Fiction and the Roots of Postmodernism, 1946–1964.
+S478 Greenwood Publishing Group.
+S479 p. 60.
+S480 ISBN 978-0-313-31873-3.
+S481 Grebowicz, Margret (2007).
+S482 SciFi in the Mind's Eye: Reading Science Through Science Fiction.
+S483 Open Court Publishing Company.
+S484 p. 147.
+S485 ISBN 978-0-8126-9630-1.
+S486 David Brin, Review of The Matrix Archived 2008-03-22 at the Wayback Machine
+S487 Jameson, Fredric (1991).
+S488 Postmodernism, or, the Cultural Logic of Late Capitalism (PDF).
+S489 Duke University Press.
+S490 p. 419.
+S491 ISBN 978-1-61723-002-8.
+S492 Archived from the original (PDF) on 2015-04-02.
+S493 Yoo, Paula (1993-02-18).
+S494 "Cyberpunk - In Print -- Hacker Generation Gets Plugged Into New Magazine".
+S495 The Seattle Times.
+S496 p.
+S497 G.3.
+S498 Retrieved 2022-12-29.
+S499 Ramkarran, Karishma (August 1, 2022).
+S500 "Tales of the Future: Cyberpunk".
+S501 The Science Survey.
+S502 Retrieved 2026-01-31.
+S503 Fox Jr., Kevin (June 24, 2022).
+S504 "How Blade Runner Made Metropolis' Sci-Fi Vision Immortal".
+S505 Paste Magazine.
+S506 Retrieved 2026-01-31.
+S507 Kerman, Judith (1997).
+S508 Retrofitting Blade Runner: Issues in Ridley Scott's Blade Runner and Philip K. Dick's Do Androids Dream of Electric Sheep?.
+S509 Popular Press.
+S510 p. 132.
+S511 ISBN 978-0-87972-510-5.
+S512 Barnett, P. Chad.
+S513 "Reviving cyberpunk:(Re) Constructing the subject and mapping cyberspace in the Wachowski brothers' film The Matrix." Extrapolation 41.4 (2000): 359-374.
+S514 "CTheory.net".
+S515 CTheory.net.
+S516 Archived from the original on 2009-07-22.
+S517 Retrieved 2009-03-20.
+S518 "DVD Verdict Review – New Rose Hotel".
+S519 Dvdverdict.com.
+S520 Archived from the original on 2008-12-28.
+S521 Retrieved 2009-03-20.
+S522 "'New Rose Hotel': Corporate Intrigue, Steamy Seduction".
+S523 The New York Times.
+S524 Retrieved 2009-03-20.
+S525 1 2 "What is cyberpunk?".
+S526 Polygon.
+S527 August 30, 2018.
+S528 "Katsuhiro Otomo | PAUL GRAVETT".
+S529 www.paulgravett.com.
+S530 Retrieved 2023-12-03.
+S531 Player, Mark (13 May 2011).
+S532 "Post-Human Nightmares – The World of Japanese Cyberpunk Cinema".
+S533 Midnight Eye.
+S534 Retrieved 23 April 2020.
+S535 Ruh, Brian (December 2000).
+S536 "Liberating Cels: Forms of the Female in Japanese Cyberpunk Animation".
+S537 AnimeResearch.com.
+S538 Archived from the original on 2007-09-27.
+S539 1 2 3 "How 'Akira' Has Influenced All Your Favourite TV, Film and Music".
+S540 VICE.
+S541 September 21, 2016.
+S542 Covill, Max (April 3, 2017).
+S543 "'Akira' Is Frequently Cited as Influential. Why Is That?".
+S544 Film School Rejects.
+S545 "200 Things That Rocked Our World: Bullet Time".
+S546 Empire (200).
+S547 EMAP: 136.
+S548 February 2006.
+S549 Woerner, Meredith (2 February 2012).
+S550 "Chronicle captures every teen's fantasy of fighting back, say film's creators".
+S551 io9.
+S552 Archived from the original on 26 February 2014.
+S553 Retrieved 25 May 2012.
+S554 "Rian Johnson Talks Working with Joseph Gordon-Levitt on LOOPER, Hollywood's Lack of Originality, Future Projects and More".
+S555 Collider.
+S556 Hopper, Ben (February 20, 2001).
+S557 "Great Games Snatcher".
+S558 GameCritics.com.
+S559 Retrieved 2011-08-24.
+S560 "Half-Life tiene varias referencias a Akira".
+S561 MeriStation (in Spanish).
+S562 Diario AS.
+S563 August 29, 2018.
+S564 "The most impressive PC mods ever made".
+S565 TechRadar.
+S566 June 14, 2018.
+S567 "Feature: "Life is Strange" Interview and Hands-on Impressions".
+S568 Crunchyroll.
+S569 January 28, 2015.
+S570 "Lupe Fiasco's 'Tetsuo & Youth' Avoiding Politics – Rolling Stone".
+S571 Rolling Stone.
+S572 Archived from the original on 17 November 2014.
+S573 Retrieved 2 December 2014.
+S574 Francisco, Eric (30 March 2018).
+S575 "'Ready Player One' Anime Easter Eggs Include Gundam, Voltron and Much More".
+S576 inverse.com.
+S577 "Cyberpunk 2077 devs "will be significantly more open"".
+S578 PCGamesN.
+S579 June 12, 2018.
+S580 Silver, Joel.
+S581 "interviewed in "Making The Matrix" featurette on The Matrix DVD" (Interview).
+S582 "The Matrix Code Sushi Recipe".
+S583 Wired.
+S584 1 2 Rose, Steve (19 October 2009).
+S585 "Hollywood is haunted by Ghost in the Shell".
+S586 The Guardian.
+S587 Retrieved 26 July 2013.
+S588 Rose, Steve (October 19, 2009).
+S589 "Hollywood is haunted by Ghost in the Shell".
+S590 The Guardian.
+S591 Archived from the original on March 8, 2013.
+S592 Retrieved July 27, 2011.
+S593 Schrodt, Paul (1 April 2017).
+S594 "How the original 'Ghost in the Shell' changed sci-fi and the way we think about the future".
+S595 Business Insider.
+S596 Retrieved 14 June 2019.
+S597 "Megazone 23 - Retroactive Influence".
+S598 A.D. Vision.
+S599 Archived from the original on 2005-02-04.
+S600 Retrieved 2010-03-20.
+S601 "Live-Action "Alita: Battle Angel" Finally Shows Its Hand".
+S602 Crunchyroll.
+S603 December 8, 2017.
+S604 Archived from the original on January 16, 2020.
+S605 Retrieved October 16, 2018.
+S606 "The Long Tomorrow – Moebius Odyssey".
+S607 30 August 2017.
+S608 Pordzik, Ralph (2009).
+S609 Futurescapes: Space in Utopian and Science Fiction Discourses.
+S610 Rodopi.
+S611 ISBN 978-90-420-2602-5.
+S612 "The Profound Influence of Moebius on Cyberpunk Art and Aesthetics #cyberpunk".
+S613 Adafruit Industries - Makers, hackers, artists, designers and engineers!.
+S614 10 April 2020.
+S615 Frauenfelder, Mark.
+S616 "Moebius".
+S617 Wired.
+S618 Murphy 2024, p. 16.
+S619 "The Incal: Classic, weird-ass French space-opera comic drawn by Moebius, reprinted in English".
+S620 13 February 2012.
+S621 Boucher, Geoff (2 April 2011).
+S622 "Moebius on his art, fading eyesight and legend: 'I am like a unicorn'".
+S623 Los Angeles Times.
+S624 "Ronin Review: Frank Miller's Samurai, Demon & AI Run Amok in NY".
+S625 Leviathyn.
+S626 28 August 2013.
+S627 "Katsuhiro Otomo, Akira".
+S628 12 December 2018.
+S629 "15 Things You Didn't Know About Samurai Jack".
+S630 Screen Rant.
+S631 17 February 2017.
+S632 "Heavy Metal - the Illustrated Adult Fantasy Art Magazine".
+S633 metaltv.com.
+S634 Archived from the original on 3 January 2010.
+S635 Retrieved 11 January 2022.
+S636 "How Frank Miller's Ronin Influenced Cyberpunk 2077".
+S637 27 December 2020.
+S638 "Popular culture and the ecological gothic: Frank Miller's Batman: The Dark Knight Returns - Document - Gale Academic OneFile".
+S639 "Review: Batman: Year 100 by Paul Pope and Jose Villarrubia".
+S640 TheGuardian.com.
+S641 4 March 2007.
+S642 Allison, Peter Ray (26 February 2020).
+S643 "'Making Cyberpunk Red almost killed us': Mike Pondsmith on the return of the tabletop RPG, catching up with 2020's future and Cyberpunk 2077".
+S644 Dicebreaker.
+S645 Archived from the original on 13 July 2020.
+S646 Retrieved 23 May 2020.
+S647 Although many assume William Gibson's Neuromancer was a source of inspiration for Cyberpunk, it was only much later that Pondsmith read Gibson's groundbreaking novel.
+S648 Instead, the designer cites his own key reference points for the game as the film Blade Runner and the novel Hardwired by Walter John Williams, who also helped playtest the RPG.
+S649 "Everything we know about Cyberpunk 2077".
+S650 pcgamer.
+S651 Retrieved 2018-06-16.
+S652 Fillari, Alessandro (2018-06-14).
+S653 "E3 2018: Here's Why Cyberpunk 2077 Had To Be A First-Person Game".
+S654 GameSpot.
+S655 Retrieved 2018-06-16.
+S656 "Cyberpunk 2077 is CD Projekt Red's Next Game".
+S657 IGN.com.
+S658 Retrieved 2012-11-05.
+S659 Jackson, Steve (19 April 1990).
+S660 "SJ Games Raided! A Reality Check on GURPS Cyberpunk".
+S661 Roleplayer: The GURPS Newsletter.
+S662 Retrieved 2022-12-29.
+S663 Romandetta, Julie (1993-06-25).
+S664 "Cyber Sound: Old Fashioned Rock Gets a Future Shock from New Technology".
+S665 Boston Herald.
+S666 Boston, Mass.
+S667 United States.
+S668 "Cyberpunk Music: Origins and Evolution".
+S669 shellzine.net.
+S670 December 26, 2019.
+S671 Retrieved February 10, 2020.
+S672 "Interview with Japanese cyberpunks PSYDOLL".
+S673 The Midlands Rocks.
+S674 Retrieved 2025-09-17.
+S675 "Front Line Assembly".
+S676 Vinyl Castle.
+S677 Retrieved 2025-09-17.
+S678 Valerio, Paul (2025-03-24).
+S679 "Clock DVA - Cypher (De-Cyphered)".
+S680 Stigmata Video Dance Party.
+S681 Retrieved 2025-09-17.
+S682 "Angelspit – Metropolis Records".
+S683 www.metropolis-records.com.
+S684 Retrieved 2025-09-17.
+S685 "Sigue Sigue Sputnik - History".
+S686 Sigue Sigue Sputnik.
+S687 Retrieved 2025-09-17.
+S688 Kretowicz, Steph (2023-11-03).
+S689 "BILLY IDOL: NEUROMANCER".
+S690 INDIE Magazine.
+S691 Retrieved 2026-01-04.
+S692 Lewis, Jon (2020-05-22).
+S693 "In Their First Collaboration, Lady Gaga And Ariana Grande Get Exuberantly Dystopic".
+S694 NPR.
+S695 Retrieved 2025-09-13.
+S696 Pinder, Jaeden (2025-03-07).
+S697 "6 Takeaways From Lady Gaga's New Album MAYHEM".
+S698 Pitchfork.
+S699 Retrieved 2025-09-13.
+S700 Ham, Robert.
+S701 "Exo - Gatekeeper".
+S702 AllMusic.
+S703 Retrieved January 3, 2015.
+S704 Ward, Christian (January 29, 2014).
+S705 "Vaporwave: Soundtrack to Austerity".
+S706 Stylus.com.
+S707 Retrieved February 8, 2014.
+S708 Suzuki, David (2003).
+S709 Good News for a Change:How Everyday People Are Helping the Planet.
+S710 Greystone Books.
+S711 p. 332.
+S712 ISBN 978-1-55054-926-3.
+S713 Giustino, Maria (December 6, 2022).
+S714 "Key Trend 2023: Cyberpunk".
+S715 WGSN.
+S716 Retrieved June 22, 2026.{{cite web}}: CS1 maint: url-status (link)
+S717 Cameron, Lewis (2025-02-24).
+S718 "Angus Tsui Brought Sci-Fi Chic to London Fashion Week with 'GIGER Vol. 2'".
+S719 KALTBLUT Magazine.
+S720 Retrieved 2026-06-12.
+S721 "A New Look at Kowloon Walled City, the Internet's Favorite Cyberpunk Slum".
+S722 Berry, Michael (25 June 1987).
+S723 "Wacko Victorian Fantasy Follows 'Cyberpunk' Mold".
+S724 The San Francisco Chronicle.
+S725 Quoted online by "Steampunk".
+S726 Wordspy.
+S727 Archived from the original on 2008-12-26.
+S728 "CYBERPUNK Trademark of CD PROJEKT S.A. - Registration Number 5184170 - Serial Number 85681741".
+S729 Justia.
+S730 Retrieved 2022-12-29.
+S731 As can be seen in copyright statement within PDFs for Cyberpunk tabletop role-playing game, i.e. https://rtalsoriangames.com/wp-content/uploads/2022/11/RTG-CPR-TalesoftheRed-Erratav1.0.pdf
+S732 "Cyberpunk".
+S733 European Union Intellectual Property Office.
+S734 Archived from the original on 2017-05-29.
+S735 Frank, Allegra (6 April 2017).
+S736 "The Witcher studio assuages concerns over 'Cyberpunk' trademark".
+S737 Polygon.
+S738 Vox Media.
+S739 Retrieved 14 May 2020.
+
+§21 Further reading
+S740 Bould, Mark (2005).
+S741 "Cyberpunk".
+S742 A Companion to Science Fiction.
+S743 John Wiley & Sons.
+S744 pp. 217–231.
+S745 doi:10.1002/9780470997055.ch15.
+S746 ISBN 978-0-470-99705-5.
+S747 O'Connell, Hugh Charles (2022).
+S748 "Cyberpunk".
+S749 In O'Donnell, Patrick; Burn, Stephen J.; Larkin, Lesley (eds.).
+S750 The Encyclopedia of Contemporary American Fiction 1980–2020.
+S751 John Wiley & Sons.
+S752 pp. 1–11.
+S753 doi:10.1002/9781119431732.ecaf0155.
+S754 ISBN 978-1-119-43173-2.
+S755 McFarlane, Anna; Schmeink, Lars; Murphy, Graham, eds.
+S756 The Routledge Companion to Cyberpunk Culture (1st ed.).
+S757 New York: Routledge.
+S758 doi:10.4324/9781351139885.
+S759 ISBN 9781351139885.
+S760 Murphy, Graham; Schmeink, Lars, eds.
+S761 Cyberpunk and visual culture (1st ed.).
+S762 New York: Routledge.
+S763 ISBN 9781138062917.
+S764 Murphy, Graham J.
+S765 William Gibson's "Neuromancer": A Critical Companion.
+S766 Palgrave Science Fiction and Fantasy: A New Canon (1st ed. 2024 ed.).
+S767 Cham: Springer Nature Switzerland.
+S768 ISBN 978-3-031-56626-4.
+
+§22 External links
+S769 This audio file was created from a revision of this article dated 11 January 2006, and does not reflect subsequent edits.
+S770 Cyberpunk in The Encyclopedia of Science Fiction
+S771 The Cyberpunk Directory—Comprehensive directory of cyberpunk resources
+S772 Cyberpunk Media Archive—Archive of cyberpunk media
+S773 The Cyberpunk Project—A project dedicated toward maintaining a cyberpunk database, library, and other information

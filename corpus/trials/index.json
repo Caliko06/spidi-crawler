@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pancakes",
+    "title": "Easy pancakes",
+    "url": "https://www.bbcgoodfood.com/recipes/easy-pancakes",
+    "credit": "BBC Good Food."
+  },
+  {
+    "id": "mozilla-terms",
+    "title": "Websites & Communications Terms of Use",
+    "url": "https://www.mozilla.org/en-US/about/legal/terms/mozilla/",
+    "credit": "Mozilla."
+  },
+  {
+    "id": "iss-breakthroughs",
+    "title": "20 Breakthroughs from 20 Years of Science aboard the International Space Station",
+    "url": "https://www.nasa.gov/humans-in-space/20-breakthroughs-from-20-years-of-science-aboard-the-international-space-station/",
+    "credit": "NASA. Public domain."
+  },
+  {
+    "id": "fairphone",
+    "title": "Fairphone Shop | Fairphone",
+    "url": "https://www.fairphone.com/en/fairphone-5/",
+    "credit": "Fairphone."
+  },
+  {
+    "id": "using-fetch",
+    "title": "Using the Fetch API",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+    "credit": "MDN contributors, CC BY-SA 2.5."
+  },
+  {
+    "id": "hn-dropbox",
+    "title": "My YC app: Dropbox - Throw away your USB drive",
+    "url": "https://news.ycombinator.com/item?id=8863",
+    "credit": "Hacker News."
+  },
+  {
+    "id": "readability-readme",
+    "title": "GitHub - mozilla/readability: A standalone version of the readability lib",
+    "url": "https://github.com/mozilla/readability",
+    "credit": "Mozilla, GitHub."
+  },
+  {
+    "id": "marie-curie",
+    "title": "Marie Curie",
+    "url": "https://www.biography.com/scientists/marie-curie",
+    "credit": "Biography.com."
+  },
+  {
+    "id": "tacos-al-pastor",
+    "title": "Taco al pastor",
+    "url": "https://es.wikipedia.org/wiki/Tacos_al_pastor",
+    "credit": "Wikipedia, CC BY-SA 4.0."
+  },
+  {
+    "id": "green-tea",
+    "title": "10 Evidence-Based Benefits of Green Tea",
+    "url": "https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea",
+    "credit": "Healthline."
+  },
+  {
+    "id": "register-to-vote",
+    "title": "Register to vote",
+    "url": "https://www.gov.uk/register-to-vote",
+    "credit": "GOV.UK, Open Government Licence."
+  }
+]

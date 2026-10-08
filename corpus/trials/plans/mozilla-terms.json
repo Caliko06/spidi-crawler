@@ -1,0 +1,112 @@
+{
+ "title": "Websites & Communications Terms of Use",
+ "kept": "924 of 1551 words (60%), 34 sentences",
+ "themes": {
+  "3. Content Licensing (8)": [],
+  "4. Content Submissions (6)": [],
+  "10. Disclaimer; Limitation of Liability (6)": [
+   "9. Indemnification (1)"
+  ],
+  "8. Term; Termination (4)": [
+   "11. Modifications to these Terms (3)",
+   "2. Account Registration (2)"
+  ],
+  "Terms (1)": [],
+  "Websites & Communications Terms of Use (1)": [
+   "6. Communications and Events (2)"
+  ]
+ },
+ "subjects": {
+  "3. Content Licensing": [
+   "Content authored by Mozilla is generally made available for public sharing and reuse through open licenses such as Creative Commons (for expressive material) or the Mozilla Public License (for software code).",
+   "In most cases we ask Mozilla contributors to release Content under open licenses.",
+   "Some Content in our Communications is acquired from sources that prohibit further use of their Content without advance permission.",
+   "Where possible, the Content or Website footer will display a notice with the applicable license.",
+   "You agree to abide by such notices.",
+   "Some Content expressly indicates that the author does not intend for an open license to apply.",
+   "You should contact the author or author’s agent for permission to use such Content.",
+   "Except for a few limited circumstances, Trademarks cannot be used without advance written permission of the owner of the Trademark."
+  ],
+  "4. Content Submissions": [
+   "You agree to license your Submission under the terms of the corresponding license of the particular open source project to which you are contributing.",
+   "You represent and warrant that your Submission will comply with these Terms, the Mozilla Acceptable Use Policy, and any additional terms that may govern your Submission.",
+   "You hereby grant us a nonexclusive, royalty-free, worldwide, sublicensable (to those we work with) license to use your Submission in connection with the Communications and online and offline promotion of Mozilla’s mission, products and services.",
+   "If your Submission contains expressive material or software code, you agree to license it in a manner that is compatible with the particular Website you are making a Submission to.",
+   "You represent and warrant that you have the rights necessary to grant the rights granted herein, and further, that the uses contemplated under these Terms will not infringe the proprietary or intellectual property rights of any third party.",
+   "You understand and agree that Mozilla reserves the right, at its discretion, to review, modify, or remove any Submission that it deems is objectionable or in violation of these Terms."
+  ],
+  "10. Disclaimer; Limitation of Liability": [
+   "THE COMMUNICATIONS ARE PROVIDED \"AS IS\" WITH ALL FAULTS.",
+   "TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE COMMUNICATIONS ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.",
+   "YOU BEAR THE ENTIRE RISK AS TO USING THE COMMUNICATIONS FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE COMMUNICATIONS, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR HARDWARE, SOFTWARE, OR CONTENT IS DELETED OR CORRUPTED, THAT SOMEONE ELSE GAINS UNAUTHORIZED ACCESS TO YOUR INFORMATION, OR THAT ANOTHER USER MISUSES OR MISAPPROPRIATES YOUR SUBMISSION.",
+   "THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY.",
+   "EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE COMMUNICATIONS, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED.",
+   "THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS)."
+  ],
+  "8. Term; Termination": [
+   "These Terms will continue to apply until ended by either you or Mozilla.",
+   "You can choose to end them at any time for any reason by discontinuing your use of our Communications and, if applicable, deleting your account.",
+   "We may suspend or terminate your access to our Communications at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, our Acceptable Use Policy, or other relevant policy; (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Communications to you is no longer commercially viable.",
+   "In all such cases, these Terms shall terminate, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous."
+  ],
+  "11. Modifications to these Terms": [
+   "We may update these Terms from time to time to address a new feature of the Communications or to clarify a provision.",
+   "If the changes are substantive, we will announce the update through our usual channels for such announcements such as blog posts, banners, emails, or forums.",
+   "Your continued use of our Communications after the effective date of such changes constitutes your acceptance of such changes."
+  ],
+  "Terms": [
+   "By accessing or signing up to receive Communications, you agree to be bound by these Terms."
+  ],
+  "2. Account Registration": [
+   "Some Websites require you to register for an account in order to access additional features of a Website or another Mozilla service.",
+   "You are responsible for all activities under your account."
+  ],
+  "6. Communications and Events": [
+   "Some of our Websites have online tools that allow you to send emails to others.",
+   "You agree not to misuse others’ email addresses (for example, by spamming them)."
+  ],
+  "9. Indemnification": [
+   "You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners; and the respective directors, officers, employees and agents of the foregoing (\"Indemnified Parties\") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of our Communications (including, but not limited to, from your Submissions or from your violation of any these Terms)."
+  ],
+  "Websites & Communications Terms of Use": [
+   "LEAD Please read the terms of this entire document (“Terms”) carefully because it explains your rights and responsibilities when you visit any of Mozilla’s websites (“Websites”), or related feeds, social media, newsletters, source code repositories, and emails (together with Websites, these are collectively referred to as “Communications”)."
+  ]
+ },
+ "links": [
+  "3. Content Licensing — 4. Content Submissions 0.61",
+  "10. Disclaimer; Limitation of Liability — 9. Indemnification 0.49",
+  "8. Term; Termination — 11. Modifications to these Terms 0.35",
+  "11. Modifications to these Terms — Terms 0.70",
+  "8. Term; Termination — 2. Account Registration 0.54",
+  "2. Account Registration — 6. Communications and Events 0.24"
+ ],
+ "pulls": [
+  "0.67 Please read the terms of this entire document (“Terms”) care — By accessing or signing up to receive Communications, you ag",
+  "0.35 By accessing or signing up to receive Communications, you ag — Some Websites require you to register for an account in orde",
+  "0.63 You are responsible for all activities under your account. — You agree to defend, indemnify and hold harmless Mozilla, it",
+  "0.54 Content authored by Mozilla is generally made available for  — If your Submission contains expressive material or software ",
+  "0.66 In most cases we ask Mozilla contributors to release Content — You agree to license your Submission under the terms of the ",
+  "0.62 Some Content in our Communications is acquired from sources  — You represent and warrant that you have the rights necessary",
+  "0.39 Where possible, the Content or Website footer will display a — If your Submission contains expressive material or software ",
+  "0.17 You agree to abide by such notices. — You represent and warrant that you have the rights necessary",
+  "0.44 Some Content expressly indicates that the author does not in — You represent and warrant that you have the rights necessary",
+  "0.56 You should contact the author or author’s agent for permissi — You represent and warrant that you have the rights necessary",
+  "0.58 Except for a few limited circumstances, Trademarks cannot be — You represent and warrant that you have the rights necessary",
+  "0.66 You represent and warrant that your Submission will comply w — We may suspend or terminate your access to our Communication",
+  "0.50 In most cases we ask Mozilla contributors to release Content — You hereby grant us a nonexclusive, royalty-free, worldwide,",
+  "0.66 You represent and warrant that you have the rights necessary — You agree to defend, indemnify and hold harmless Mozilla, it",
+  "0.49 You understand and agree that Mozilla reserves the right, at — We may suspend or terminate your access to our Communication",
+  "0.47 Please read the terms of this entire document (“Terms”) care — Some of our Websites have online tools that allow you to sen",
+  "0.63 You agree not to misuse others’ email addresses (for example — We may suspend or terminate your access to our Communication",
+  "0.63 By accessing or signing up to receive Communications, you ag — These Terms will continue to apply until ended by either you",
+  "0.52 Some Websites require you to register for an account in orde — You can choose to end them at any time for any reason by dis",
+  "0.66 In all such cases, these Terms shall terminate, except that  — You agree to defend, indemnify and hold harmless Mozilla, it",
+  "0.40 You agree to defend, indemnify and hold harmless Mozilla, it — THE COMMUNICATIONS ARE PROVIDED \"AS IS\" WITH ALL FAULTS.",
+  "0.59 In all such cases, these Terms shall terminate, except that  — TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED ",
+  "0.48 You agree to defend, indemnify and hold harmless Mozilla, it — YOU BEAR THE ENTIRE RISK AS TO USING THE COMMUNICATIONS FOR ",
+  "0.43 You agree to defend, indemnify and hold harmless Mozilla, it — EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTI",
+  "0.55 You agree to defend, indemnify and hold harmless Mozilla, it — THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PART",
+  "0.51 By accessing or signing up to receive Communications, you ag — We may update these Terms from time to time to address a new",
+  "0.63 By accessing or signing up to receive Communications, you ag — Your continued use of our Communications after the effective"
+ ]
+}

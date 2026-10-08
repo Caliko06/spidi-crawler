@@ -1,0 +1,171 @@
+{
+ "subjects": {
+  "checkout outage": {
+   "parent": null
+  },
+  "root cause": {
+   "parent": null
+  },
+  "contributing factors": {
+   "parent": null
+  },
+  "impact": {
+   "parent": "checkout outage"
+  },
+  "timeline": {
+   "parent": "checkout outage"
+  },
+  "what went well": {
+   "parent": "checkout outage"
+  },
+  "what went badly": {
+   "parent": "checkout outage"
+  },
+  "retry policy": {
+   "parent": "root cause"
+  },
+  "monitoring": {
+   "parent": "contributing factors"
+  },
+  "paging channel": {
+   "parent": "contributing factors"
+  },
+  "load tests": {
+   "parent": "contributing factors"
+  }
+ },
+ "sentences": [
+  {
+   "text": "On 14 March a configuration change to the payment router sent most card traffic to a single processor that was already close to its limit, and checkout failed for 71 minutes for roughly 38 percent of customers.",
+   "subject": "checkout outage"
+  },
+  {
+   "text": "The change was safe in isolation but interacted with a retry setting that multiplied the load on that processor within seconds.",
+   "subject": "checkout outage"
+  },
+  {
+   "text": "We lost an estimated 412,000 euros in orders that did not come back, and no customer data was exposed.",
+   "subject": "checkout outage"
+  },
+  {
+   "text": "The incident was detected by a customer-facing alert rather than by our own monitoring. ## Impact",
+   "subject": "monitoring"
+  },
+  {
+   "text": "Between 09:12 and 10:23 UTC, 38 percent of checkout attempts returned an error, concentrated in the three largest markets.",
+   "subject": "impact"
+  },
+  {
+   "text": "The mobile apps failed more often than the web site, because they retry aggressively and made the throttling worse.",
+   "subject": "impact"
+  },
+  {
+   "text": "About 9,100 customers contacted support during the incident, roughly four times the usual volume.",
+   "subject": "impact"
+  },
+  {
+   "text": "Refunds for double charges were completed by the following Monday. ## Timeline",
+   "subject": "impact"
+  },
+  {
+   "text": "At 09:04 a routine change moved the card router to a new weighting that favoured the cheapest processor.",
+   "subject": "timeline"
+  },
+  {
+   "text": "At 09:12 error rates on checkout began to climb.",
+   "subject": "timeline"
+  },
+  {
+   "text": "At 09:31 a customer-facing alert from the support tooling, not our own monitoring, told the incident commander that something was wrong.",
+   "subject": "timeline"
+  },
+  {
+   "text": "At 09:40 the team rolled back the weighting change, but errors did not fall.",
+   "subject": "timeline"
+  },
+  {
+   "text": "At 09:58 an engineer noticed that the retry queue held more than two million pending requests.",
+   "subject": "timeline"
+  },
+  {
+   "text": "At 10:11 the team drained the queue and manually pinned traffic to the second processor, and errors fell within minutes.",
+   "subject": "timeline"
+  },
+  {
+   "text": "At 10:23 checkout returned to normal, and the incident was closed at 10:50. ## Root cause",
+   "subject": "timeline"
+  },
+  {
+   "text": "The root cause was an unbounded retry policy in the payment router, which resends a failed request immediately and without a limit.",
+   "subject": "root cause"
+  },
+  {
+   "text": "When the cheapest processor began throttling, every rejected request came straight back, so the load we sent grew faster than the processor's limit, and the throttling got worse instead of better.",
+   "subject": "retry policy"
+  },
+  {
+   "text": "The weighting change was the trigger but not the cause, because any slowdown at that processor would have produced the same spiral.",
+   "subject": "root cause"
+  },
+  {
+   "text": "Rolling the change back did not help because the queue of retries kept the pressure up on its own. ## Contributing factors",
+   "subject": "retry policy"
+  },
+  {
+   "text": "Our monitoring watched error rates per market but not retry queue depth, so the signal that mattered most was invisible.",
+   "subject": "monitoring"
+  },
+  {
+   "text": "The page went to a muted channel, which cost us about twelve minutes of response time.",
+   "subject": "paging channel"
+  },
+  {
+   "text": "A load test had been run for the new weighting, but it simulated a slow processor and not a throttling one.",
+   "subject": "load tests"
+  },
+  {
+   "text": "The runbook for the router had not been updated since the previous quarter. ## What went well",
+   "subject": "contributing factors"
+  },
+  {
+   "text": "The incident commander declared a major incident within minutes of the alert and kept a written log.",
+   "subject": "what went well"
+  },
+  {
+   "text": "The second processor was already integrated, so pinning traffic to it took one command.",
+   "subject": "what went well"
+  },
+  {
+   "text": "We found out from a customer-facing alert and not from our own monitoring.",
+   "subject": "monitoring"
+  },
+  {
+   "text": "The rollback was the wrong first move, and it cost nearly half an hour.",
+   "subject": "what went badly"
+  },
+  {
+   "text": "We were also unlucky that two of the three people who know the router were out that day. ## Action items -",
+   "subject": "what went badly"
+  },
+  {
+   "text": "Cap retries in the payment router at three attempts with exponential backoff, owned by the payments team and due by 28 March. -",
+   "subject": "retry policy"
+  },
+  {
+   "text": "Add retry queue depth to the dashboards and alert on it, due by 31 March. -",
+   "subject": "monitoring"
+  },
+  {
+   "text": "Audit every muted paging channel and require a quarterly review of the routing, due by 11 April. -",
+   "subject": "paging channel"
+  },
+  {
+   "text": "Extend load tests to cover throttling as well as slowness, due by the end of April. -",
+   "subject": "load tests"
+  },
+  {
+   "text": "The retry cap is the one that would have prevented this incident, and it ships first. ## Related links - Incident ticket and chat log. - Payment router design document. - Previous postmortem: webhook backlog, January.",
+   "subject": "retry policy"
+  }
+ ]
+}

@@ -1,0 +1,640 @@
+{
+ "subjects": {
+  "Dropbox": {
+   "parent": null
+  },
+  "USB drive": {
+   "parent": null
+  },
+  "S3": {
+   "parent": null
+  },
+  "competition": {
+   "parent": null
+  },
+  "demo": {
+   "parent": null
+  },
+  "online drives": {
+   "parent": "Dropbox"
+  },
+  "offline": {
+   "parent": "Dropbox"
+  },
+  "Drop Box": {
+   "parent": "Dropbox"
+  },
+  "Linux port": {
+   "parent": "Dropbox"
+  },
+  "server folder": {
+   "parent": "Dropbox"
+  },
+  "admin rights": {
+   "parent": "Dropbox"
+  },
+  "encryption": {
+   "parent": "Dropbox"
+  },
+  "conflicts": {
+   "parent": "Dropbox"
+  },
+  "trademark": {
+   "parent": "Dropbox"
+  },
+  "idea": {
+   "parent": "Dropbox"
+  },
+  "single founder": {
+   "parent": "Dropbox"
+  },
+  "revenue model": {
+   "parent": "Dropbox"
+  },
+  "storage scaling": {
+   "parent": "S3"
+  },
+  "own storage": {
+   "parent": "S3"
+  },
+  "FTP": {
+   "parent": "competition"
+  },
+  "GDrive": {
+   "parent": "competition"
+  },
+  "user experience": {
+   "parent": "competition"
+  },
+  "user adoption": {
+   "parent": "competition"
+  },
+  "marketing": {
+   "parent": "competition"
+  },
+  "story": {
+   "parent": "demo"
+  },
+  "launch": {
+   "parent": "demo"
+  }
+ },
+ "sentences": [
+  {
+   "text": "1. For a Linux user, you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem.",
+   "subject": "FTP"
+  },
+  {
+   "text": "From Windows or Mac, this FTP account could be accessed through built-in software.",
+   "subject": "FTP"
+  },
+  {
+   "text": "2. It doesn't actually replace a USB drive.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "Most people I know e-mail files to themselves or host them somewhere online to be able to perform presentations, but they still carry a USB drive in case there are connectivity problems.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "This does not solve the connectivity issue.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "3. It does not seem very \"viral\" or income-generating.",
+   "subject": "revenue model"
+  },
+  {
+   "text": "I know this is premature at this point, but without charging users for the service, is it reasonable to expect to make money off of this?",
+   "subject": "revenue model"
+  },
+  {
+   "text": "1. re: the first part, many people want something plug and play.",
+   "subject": "online drives"
+  },
+  {
+   "text": "and even if they were plug and play, the problem is that the user experience (on windows at least) with online drives generally sucks, and you don't have disconnected access.",
+   "subject": "online drives"
+  },
+  {
+   "text": "windows for sure doesn't hide latency well (CIFS is bad, webdav etc. are worse), and most apps are written as if the disk was local, and assume, for example, accessing a file only takes a few ms. if the server is 80ms away, and you do 100 accesses (e.g. the open file common dialog listing a directory and poking files for various attributes or icons) serially, suddenly your UI locks up for _seconds_ (joel spolsky summarizes this well in his article on leaky abstractions.) ditto saving any file; you change one character in your 20mb word file and hit save, and your upstream-capped 40k/sec comcast connection is hosed for 8 minutes.",
+   "subject": "online drives"
+  },
+  {
+   "text": "sure for docs of a few hundred k it's fine, but doing work on large docs on an online drive feels like walking around with cinder blocks tied to your feet.",
+   "subject": "online drives"
+  },
+  {
+   "text": "anyway, the point of that rant was that dropbox uses a _local_ folder with efficient sync in the background, which is an important difference :)",
+   "subject": "online drives"
+  },
+  {
+   "text": "2. true, if you're both not at your computer and on another computer without net access, this won't replace a usb drive :) but the case i'm worried about is being, for example, on a plane, and dropbox will let you get to the most recent version of your docs at the time you were last connected, and will sync everything up when you get back online (without you having to copy anything or really do anything.)",
+   "subject": "USB drive"
+  },
+  {
+   "text": "3. there are some unannounced viral parts i didn't get to show in there :) it'll be a freemium model.",
+   "subject": "revenue model"
+  },
+  {
+   "text": "up to x gb free, tiered plans above that.",
+   "subject": "revenue model"
+  },
+  {
+   "text": "I have noticed some minor lagging using curlftpfs in Linux, and that might be something that would make for a better solution in the Linux world, so thanks for that idea.",
+   "subject": "FTP"
+  },
+  {
+   "text": "Your use-case described in #2 does make sense, but I still agree with others' comments here that claiming that it replaces USB drives is a bad idea in general.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "Are you planning on having a Linux port as well, or is too early to talk about that?",
+   "subject": "Linux port"
+  },
+  {
+   "text": "a linux port is doable (mac will come first) -- everything's written in python and was designed from the outset to be portable.",
+   "subject": "Linux port"
+  },
+  {
+   "text": "although this isn't the initial focus of dropbox, a linux port would be interesting for maintaining small web sites or web apps -- instead of using scp/sftp or equivalent you could just modify the files on your desktop and have them synced to your web host.",
+   "subject": "Linux port"
+  },
+  {
+   "text": "A linux port would be great for servers - I'm always rsyncing stuff between my linux boxes.",
+   "subject": "Linux port"
+  },
+  {
+   "text": "For those who don't have shell access though, it would be cool if you integrated the service with (S)FTP.",
+   "subject": "server folder"
+  },
+  {
+   "text": "I don't even think you'd need to sync to the server.",
+   "subject": "server folder"
+  },
+  {
+   "text": "Just giving the user the ability push his/her dropbox public folder to a server using (S)FTP would give your software several new use cases.",
+   "subject": "server folder"
+  },
+  {
+   "text": "+1 on being able to specify a folder inside the dropbox as a \"server\" folder, which means it has it's own ftp address, user, and password settings.",
+   "subject": "server folder"
+  },
+  {
+   "text": "Anything dragged there is automatically synched with that account.",
+   "subject": "server folder"
+  },
+  {
+   "text": "I thought of this as well as soon as I read that post about Linux support, as this would work with shared hosting without expecting hosts to install dropbox on their linux boxes.",
+   "subject": "server folder"
+  },
+  {
+   "text": "And the data would be backed up as well automatically in a third place (the drop box.) And, you'd have access to retrieve an older version of a file.",
+   "subject": "server folder"
+  },
+  {
+   "text": "This basically replaces the need for FTP clients if you also add a way to chmod the folders inside the \"server\" folder.",
+   "subject": "server folder"
+  },
+  {
+   "text": "You might want to check out FUSE for Linux.",
+   "subject": "FTP"
+  },
+  {
+   "text": "There are various programs built on top of it which allow remote filesystems to look exactly like local ones.",
+   "subject": "FTP"
+  },
+  {
+   "text": "Two that I use are curlftpfs and sshfs.",
+   "subject": "FTP"
+  },
+  {
+   "text": "Of course, you would need to have an FTP or SSH login somewhere, but you can get free FTP access from e.g.",
+   "subject": "FTP"
+  },
+  {
+   "text": "In short, I guess I'm curious what separates Dropbox from using a free FTP service which is connected either through Windows' built-in Network Places or Linux's curlftpfs.",
+   "subject": "FTP"
+  },
+  {
+   "text": "There are obvious differences, but are they enough to warrant fees?",
+   "subject": "FTP"
+  },
+  {
+   "text": "Then it occured to me - who the hell is this guy, and why should I trust my code to be on his server!?",
+   "subject": "encryption"
+  },
+  {
+   "text": "Why would people feel comfortable leaving their valuable stuff on \"Drews\" server?",
+   "subject": "encryption"
+  },
+  {
+   "text": "data's stored on s3, and encrypted before storage -- there'll be another option to enter in an additional passphrase (or private key) when installing in order to encrypt your data before it leaves your computer (kind of like what mozy does.)",
+   "subject": "encryption"
+  },
+  {
+   "text": "Maybe, but the encryption is entirely in the hands of the client application that dropbox provides (I suppose it is not open source), so it is still a matter of faith.",
+   "subject": "encryption"
+  },
+  {
+   "text": "The only problem is that you have to install something.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "Most corporate laptops are locked and you can't install anything on them.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "Also, another point where your USB comparison fails is that USB works in places where you don't have internet access.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "My suggestion is to drop the \"Throw away your USB drive\" tag line and use something else...",
+   "subject": "USB drive"
+  },
+  {
+   "text": "it will just muddy your vision.",
+   "subject": "USB drive"
+  },
+  {
+   "text": "Your Drop Box is a File Cabinet that Follows You Around Everywhere You Want to Go, Across Your Computers, or Across The Country.",
+   "subject": "Drop Box"
+  },
+  {
+   "text": "Your Drop Box includes your own Secretary who Files and Photocopies Every Document You Make or Edit, So You Can See What Each Document Looked Like Yesterday, Two Days Ago, or at Any Point In Time.",
+   "subject": "Drop Box"
+  },
+  {
+   "text": "Any file and folder (Word documents, spreadsheets, family photos, etc) you add to your Drop Box folder is automatically synchronized and saved remotely.",
+   "subject": "Drop Box"
+  },
+  {
+   "text": "Only suggestion I would have is go slower on the demo.",
+   "subject": "demo"
+  },
+  {
+   "text": "If you are looking for a wider audience than those who already know the context of dropbox, make a video where you lay out the case for use of dropbox using simple examples from user point of view(think a college student) and then in the demo show just the basic features.",
+   "subject": "demo"
+  },
+  {
+   "text": "I got the feeling you tried to show too many features too quickly.",
+   "subject": "demo"
+  },
+  {
+   "text": "In general, I have realized it is much better to launch with something that does a few things REALLY well rather than a lot of things with little focus.",
+   "subject": "launch"
+  },
+  {
+   "text": "When you launch with whole lot of features people assume you are competing with the big companies.",
+   "subject": "launch"
+  },
+  {
+   "text": "When you launch small and do it well, it is easier to attract a user-base and THEN keep feeding it more advance features in form of updates.",
+   "subject": "launch"
+  },
+  {
+   "text": "One thing they teach at YC, and in one of pg's essays (http://www.paulgraham.com/investors.html), is to present a story instead of a list of features.",
+   "subject": "story"
+  },
+  {
+   "text": "That way you answer the question of \"Why would I use this product?\" simultaneously to answering \"What does this product do?\".",
+   "subject": "story"
+  },
+  {
+   "text": "I love that approach (my weblog is called \"Story-Driven\" after all) because it automatically breaks technical people out of a taxonomic, procedural mindset.",
+   "subject": "story"
+  },
+  {
+   "text": "So many descriptions of things are on the order of \"well, it's a set of pliers with a light on it\" instead of \"it's how I change fuses in my rusty fusebox in the middle of the night.\"",
+   "subject": "story"
+  },
+  {
+   "text": "You can't emphasize enough to people to tell a story, and the screencast is a great crucible for whether you have a good story to tell.",
+   "subject": "story"
+  },
+  {
+   "text": "Screencasts aren't appreciated enough for the way they've helped people understand concepts that are a little more technical than they normally would sit still for.",
+   "subject": "demo"
+  },
+  {
+   "text": "I dont know if users can have administrative rights installing this features on some random computers, cant u incorporate something like web based interface?",
+   "subject": "admin rights"
+  },
+  {
+   "text": "it should degrade gracefully and work without admin rights; in addition you can download (and soon, upload) via the web interface if you're not at one of your computers.",
+   "subject": "admin rights"
+  },
+  {
+   "text": "How are you going to scale up your storage to meet the demands of the users?",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "Are you doing something clever, like Google Filesystem?",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "This is not an easy problem, if you aren't prepared for it in advance.",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "you might be very very hosed, as opposed to very very happy.",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "The linked computers can be used for a kind of distributed storage system (like GFS).",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "Say each user shares an amount of storage resources and can use a specific amount of storage of the system.",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "A major problem of course is the reliability of the system.",
+   "subject": "storage scaling"
+  },
+  {
+   "text": "$0.15 per GB-Month of storage used.",
+   "subject": "S3"
+  },
+  {
+   "text": "$0.20 per GB of data transferred.",
+   "subject": "S3"
+  },
+  {
+   "text": "So, that means Dropbox is going to have to resell S3 at a premium for the added value of these nice Coda-like features.",
+   "subject": "S3"
+  },
+  {
+   "text": "Would you pay a premium for these Dropbox features?",
+   "subject": "S3"
+  },
+  {
+   "text": "my bill will pennies every month (going on S3 prices).",
+   "subject": "S3"
+  },
+  {
+   "text": "You cannot transact pennies per user per month.",
+   "subject": "S3"
+  },
+  {
+   "text": "If you could, then you've cracked the micropayments problem wide open.",
+   "subject": "S3"
+  },
+  {
+   "text": "Maybe there would be a base fee?",
+   "subject": "revenue model"
+  },
+  {
+   "text": "Would people pay that much for online storage?",
+   "subject": "revenue model"
+  },
+  {
+   "text": "I don't know how other revenue generation models can be applied.",
+   "subject": "revenue model"
+  },
+  {
+   "text": "I think the larger issue is about getting user adoption.",
+   "subject": "user adoption"
+  },
+  {
+   "text": "It is actually great case to have a situation where users overwhelm your service in a way that it outgrows a system such as this.",
+   "subject": "user adoption"
+  },
+  {
+   "text": "If he ever gets that large, obviously there will be plenty of people looking to help him figure out how to make the storage portion feasible.",
+   "subject": "user adoption"
+  },
+  {
+   "text": "More interesting is the user experience.",
+   "subject": "user experience"
+  },
+  {
+   "text": "Creating something users can enjoy, agree with, and possibly part money for is a much more difficult problem to solve than figuring out to make large scale storage cost effective.",
+   "subject": "user experience"
+  },
+  {
+   "text": "I think user experience can and will be duplicated.",
+   "subject": "user experience"
+  },
+  {
+   "text": "I did post a link to an SVN front-end that has a very similar interface.",
+   "subject": "user experience"
+  },
+  {
+   "text": "Maybe the competitors are locked-in to some bad design decisions and can't quite recreate the same user experience...",
+   "subject": "user experience"
+  },
+  {
+   "text": "Anyway you slice it, you need to have a profit margin.",
+   "subject": "S3"
+  },
+  {
+   "text": "And with a commodity like storage (and the soon-to-be commodity of online storage), you have to be competitve with market prices.",
+   "subject": "S3"
+  },
+  {
+   "text": "The reason that most YC startups can worry about user adoption is because they aren't tied down to this problem.",
+   "subject": "user adoption"
+  },
+  {
+   "text": "That's why Dropbox needs to plan for moving off S3.",
+   "subject": "own storage"
+  },
+  {
+   "text": "There is so much innovation in storage backends...",
+   "subject": "own storage"
+  },
+  {
+   "text": "It makes storage very very very cheap.",
+   "subject": "own storage"
+  },
+  {
+   "text": "Use S3 as a secondary solution.",
+   "subject": "own storage"
+  },
+  {
+   "text": "The primary storage should be local to them (servers running a filesystem that takes advantage of unique properties of the workload... like Google does).",
+   "subject": "own storage"
+  },
+  {
+   "text": "They can migrate the data from S3 to local storage at will.",
+   "subject": "own storage"
+  },
+  {
+   "text": "And now, their customers can be charged a flexible price, because they control their own expenses.",
+   "subject": "own storage"
+  },
+  {
+   "text": "In other words, think of S3 as \"datacenter outsourcing\".",
+   "subject": "own storage"
+  },
+  {
+   "text": "But I think it might be easy to build a storage implementation that runs local and exposes the same exact interface as S3.",
+   "subject": "own storage"
+  },
+  {
+   "text": "And, poof, we just abstract the whole backend away, and just flip a switch when we want to go one way or the other.",
+   "subject": "own storage"
+  },
+  {
+   "text": "Then you go after zero-downtime data migration from S3 to your local systems...",
+   "subject": "own storage"
+  },
+  {
+   "text": "How about making up to X GB free, and come up with a tiered charging plan for more than X?",
+   "subject": "revenue model"
+  },
+  {
+   "text": "informally came up with and tossed around 6 or 7 ideas at the same time -- not so much coding as investigating/talking to potential customers and bouncing them off other friends and entrepreneurs.",
+   "subject": "idea"
+  },
+  {
+   "text": "this was crucial -- ideas don't really fall out of the sky, they evolve.",
+   "subject": "idea"
+  },
+  {
+   "text": "there were several times where i'd get really excited about one idea -- like pacing in my living room at 5:30am excited -- and then 5 days later find out (via a different set of search terms or something) there were 3 other people doing the same thing, with a head start and more money.",
+   "subject": "idea"
+  },
+  {
+   "text": "ultimately they say scratch your own itch -- this was a problem (syncing a 3gb file across several computers efficiently) i routinely had working on a prior company i had started and i was frustrated that no one had solved it well, and it turned out to be more promising than my original company :)",
+   "subject": "idea"
+  },
+  {
+   "text": "Here's a suggestion for a future revision: give the ability for office documents to open with online office apps when clicked on in the public folder.",
+   "subject": "Dropbox"
+  },
+  {
+   "text": "But, your demo video does not do it justice: (a) It is too long; (b) your folders that you use in the video have too many files in them; you say about 10x more words than necessary; and (d) your voice, combined with the bad microphone input, make the explanation sounds pad.",
+   "subject": "demo"
+  },
+  {
+   "text": "Your main competition is not USB drives: it is HotMail, GMail, and Yahoo! Mail.",
+   "subject": "competition"
+  },
+  {
+   "text": "Once people are taught the \"email it to yourself\" trick, they love to use it--I think because it is not so intuitive for people, yet it is so simple, that they are proud that they are doing something so clever.",
+   "subject": "competition"
+  },
+  {
+   "text": "I sure hope he gets in, because it shows that you don't always need a team if you can invision, design, draw, code, and test your idea yourself.",
+   "subject": "single founder"
+  },
+  {
+   "text": "Too many cooks can spoil the broth, sometimes.",
+   "subject": "single founder"
+  },
+  {
+   "text": "1) i have other people working with me on this.",
+   "subject": "single founder"
+  },
+  {
+   "text": "i did prototype it alone, but i don't intend to be a single founder.",
+   "subject": "single founder"
+  },
+  {
+   "text": "i won't belabor it here, but it's really a good idea to get other people on board and the reasons yc and everyone have for not encouraging single founders are valid.",
+   "subject": "single founder"
+  },
+  {
+   "text": "your odds are much worse, and playing superman gets old after a while when you're trying to do everything -- and it's more fun to have more people involved and excited about the idea anyway.",
+   "subject": "single founder"
+  },
+  {
+   "text": "Nice Application...the question I have is on the marketing side- how are you going to attract users?",
+   "subject": "marketing"
+  },
+  {
+   "text": "and how are you going to differentiate yourself from the hordes of other online storage vendors, esp. to the newbie users who can't tell them apart easy?",
+   "subject": "marketing"
+  },
+  {
+   "text": "(so you have to have a simple, compelling story for them)",
+   "subject": "marketing"
+  },
+  {
+   "text": "I like the app; but instead of telling people to throw away their USB drive maybe you could incorporate a sync feature that would allow users to work on their files offline.",
+   "subject": "offline"
+  },
+  {
+   "text": "Sometimes you just dont have internet access.",
+   "subject": "offline"
+  },
+  {
+   "text": "yup -- i didn't get to mention it, but a big piece of dropbox is that it's a local/\"normal\" folder that's synced in the background -- you can work on your files offline (that, among other things, drove me nuts about typical online drives) and get local IO speeds (good for photoshop, film, etc.)",
+   "subject": "offline"
+  },
+  {
+   "text": "You might want to check on the trademark 'dropbox'.",
+   "subject": "trademark"
+  },
+  {
+   "text": "I know dropsend used to be called dropbox but had to change due to trademark difficulties.",
+   "subject": "trademark"
+  },
+  {
+   "text": "I especially like the right-click, \"copy link location\" feature: really useful and should help user adoption.",
+   "subject": "Dropbox"
+  },
+  {
+   "text": "Well there doesn't seem to be a GDrive at the moment...",
+   "subject": "GDrive"
+  },
+  {
+   "text": "but there are many other similar online storage solutions.",
+   "subject": "competition"
+  },
+  {
+   "text": "It's a pretty crowded space.",
+   "subject": "competition"
+  },
+  {
+   "text": "And XDrive gets you 5 GB for free, 50 GB for $9.95 a month.",
+   "subject": "competition"
+  },
+  {
+   "text": "I can't expect Dropbox to charge those prices, given S3 as a backend.",
+   "subject": "S3"
+  },
+  {
+   "text": "The margin just isn't really there, especially given the number of uses that will want free storage.",
+   "subject": "S3"
+  },
+  {
+   "text": "And I think competitors can duplicate Dropbox's nice front end.",
+   "subject": "user experience"
+  },
+  {
+   "text": "In fact, here's an open source front end to SVN which is similar to Dropbox's:",
+   "subject": "user experience"
+  },
+  {
+   "text": "Well, the fact that GDrive is not materialising makes this idea a great aquisition target.",
+   "subject": "GDrive"
+  },
+  {
+   "text": "Then again Google might squash it like it did Kiko if/when it rolls out GDrive.",
+   "subject": "GDrive"
+  },
+  {
+   "text": "you have chosen a great setup.",
+   "subject": "S3"
+  },
+  {
+   "text": "S3 is a robust , reliable, and easy way to handle the intial ramp up should hoards of users sign up, a concern I raised in another post.",
+   "subject": "S3"
+  },
+  {
+   "text": "You probably have plans to get onto your own backend in the long-run.",
+   "subject": "S3"
+  },
+  {
+   "text": "How are conflicts handled?",
+   "subject": "conflicts"
+  },
+  {
+   "text": "If you take your laptop offline, modify your image, then modify the same image on your desktop, then plug your laptop back in, what happens?",
+   "subject": "conflicts"
+  }
+ ]
+}

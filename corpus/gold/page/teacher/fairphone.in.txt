@@ -1,0 +1,115 @@
+DOCUMENT: Fairphone Shop
+
+§0 Switch to fair. Switch to better.
+S0 Smartphone
+
+§1 The Fairphone (Gen. 6+)
+S1 Modular design with 12 replaceable parts.
+S2 Five-year warranty.
+S3 Software support till 2033.
+S4 Holds up to three cards right on the back of your Fairphone.
+
+§2 Out of stock
+S5 This item is out of stock
+S6 Enter your email address, and we will notify you when this item gets back in stock.
+S7 Input Error state
+S8 notify me
+
+§3 You’ll be notified when product is back in stock.
+S9 Create copy for success BACK TO SHOP
+S10 With an ergonomic design that fits directly on your device, the Finger Loop is sleek, flexible, and grippy in all the right ways.
+
+§4 Out of stock
+S11 This item is out of stock
+S12 Enter your email address, and we will notify you when this item gets back in stock.
+S13 Input Error state
+S14 notify me
+
+§5 You’ll be notified when product is back in stock.
+S15 Create copy for success BACK TO SHOP
+S16 This useful accessory keeps your Fairphone handy and hands-free.
+
+§6 Out of stock
+S17 This item is out of stock
+S18 Enter your email address, and we will notify you when this item gets back in stock.
+S19 Input Error state
+S20 notify me
+
+§7 You’ll be notified when product is back in stock.
+S21 Create copy for success BACK TO SHOP
+S22 Lightweight and low-profile, get everyday protection for your Fairphone, and extra freedom to add accessories.
+
+§8 Out of stock
+S23 This item is out of stock
+S24 Enter your email address, and we will notify you when this item gets back in stock.
+S25 Input Error state
+S26 notify me
+
+§9 You’ll be notified when product is back in stock.
+S27 Create copy for success BACK TO SHOP
+
+§10 Privacy by design
+S28 App lounge for curated privacy-first apps
+S29 Open-source European-made
+S30 12 modular parts, easy to repair
+S31 Audio
+
+§11 Premium sound. Built to last.
+S32 Up to 30 hours of battery runtime
+
+§12 Small in size. Big on impact
+S33 Titanium-coated 11mm drivers
+S34 Repair over Replace
+
+§13 Keep it going for years with swappable parts
+S35 An old battery shouldn't mean a new device.
+S36 With Fairphone, repairs are simple enough for anyone.
+S37 Swap one part in minutes—no technical expertise required.
+S38 We've designed over 40 components to be easily replaceable.
+S39 From batteries to headbands, you're in control of your device's lifespan.
+
+§14 Real impact. Real innovation.
+S40 We don’t just assemble parts.
+S41 We respect the people and the planet behind them.
+S42 2,083 tons
+S43 of CO₂e avoided in 2025
+S44 €1.25M
+S45 paid in living wage bonuses since 2019
+S46 30 tons
+S47 of e-waste collected in 2025
+S48 e-waste neutral across all products by 2026
+S49 Explore the impact Fairphone makes every year
+S50 Keep Club
+
+§15 Join now. Keep longer. Earn more.
+S51 The only rewards program thats all about you keeping what you love for longer - and getting rewarded for it!
+S52 LEARN MORE
+S53 We just released the industry’s first ever nature report.
+S54 Like it or not, capitalism and nature are deeply linked.
+S55 Think about it.
+S56 Over half of the world’s GDP depends on natural capital.
+S57 We need unpolluted land, clean water, pollution-free air.
+S58 Read more
+S59 The Fairbuds XL were already good.
+S60 We made them better.
+S61 It’s time to turn up the volume.
+S62 We have a new edition of our award-winning Fairbuds XL now on sale.
+S63 Launched in 2023, our first over-ear wireless Bluetooth headphones turned heads everywhere, thanks to their unique repairable and modular design, long-lasting battery life, and natural sound.
+S64 Read more
+S65 Summing up our 2025 Impact Report
+S66 Every year, we release our Impact Report, which deep-dives into all our efforts to make our supply chain fairer in superfine detail.
+S67 However, we also understand a 60-page report (not counting the annexes) might be quite daunting.
+S68 Read more
+S69 See all stories
+
+§16 Stay connected
+S70 Unlock exclusive deals, fresh stories and your shot to make a difference.
+S71 Your e-mail Error state
+S72 Yes, I would like to receive recurring e-mails from Fairphone.
+S73 I can update my preferences, choose my favourite topics, or withdraw permission at any time.
+S74 I can find more information in Fairphone’s Privacy Policy.
+S75 SUBSCRIBE
+
+§17 You’re signed up!
+S76 Get ready for real impact stories, fair offers, and tech designed for life.
+S77 Let’s make a conscious choice together.

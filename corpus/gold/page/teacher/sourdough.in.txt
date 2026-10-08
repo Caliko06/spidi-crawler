@@ -1,0 +1,849 @@
+DOCUMENT: Sourdough
+
+§0 (under the title)
+S0 Sourdough is a leavening agent containing naturally occurring yeast and lactobacillus bacteria.
+S1 The term is used to describe bread baked with sourdough, while the sourdough itself is referred to as a starter.
+S2 In addition to leavening the bread, the fermentation process produces lactic acid, which gives the bread its distinctive sour taste and improves its keeping qualities.
+
+§1 History
+S3 Sourdough is one of the most ancient and popular forms of leavening bread.
+S4 It was the standard method of breadmaking for most of human history until the Middle Ages, when it was replaced by barm.
+S5 Barm, in turn, was replaced in the late 19th and early 20th centuries by industrially produced baker's yeast.
+S6 The Encyclopedia of Food Microbiology states: "One of the oldest sourdough breads dates from 3700 BC and was excavated in Switzerland, but the origin of sourdough fermentation likely relates to the origin of agriculture in the Fertile Crescent and Egypt several thousand years earlier", and "Bread production relied on the use of sourdough as a leavening agent for most of human history; the use of baker's yeast as a leavening agent dates back less than 150 years from the year of 2014".
+S7 Pliny the Elder described several methods of sourdough leavening to make bread.
+S8 Sourdough remained the usual form of leavening down into the European Middle Ages until being replaced by barm from the beer-brewing process, and after 1871 by purpose-cultured yeast.
+S9 French bakers brought sourdough techniques to Northern California during the California Gold Rush, and it remains a part of the culture of San Francisco today.
+S10 (The nickname remains in "Sourdough Sam", the mascot of the San Francisco 49ers.) Sourdough has long been associated with the 1849 gold prospectors, though they were more likely to make bread with commercial yeast or baking soda.
+S11 The "celebrated" San Francisco sourdough is a white bread characterized by a pronounced sourness, and indeed the strain of Lactobacillus in sourdough starters is named Fructilactobacillus sanfranciscensis (previously Lactobacillus sanfranciscensis), alongside the sourdough yeast Kasachstania humilis (previously Candida milleri) found in the same cultures.
+S12 The sourdough tradition was carried into the Department of Alaska in the United States and the Yukon Territory in Canada during the Klondike Gold Rush of 1898.
+S13 Conventional leavenings, such as yeast and baking soda, were much less reliable in the conditions faced by the prospectors.
+S14 Experienced miners and other settlers frequently carried a pouch of starter either around their neck or on a belt; these were fiercely guarded to keep them from freezing.
+S15 However, freezing does not kill a sourdough starter; excessive heat does.
+S16 Old hands came to be called "sourdoughs", a term that is still applied to any Alaskan or Klondike old-timer.
+S17 The significance of the nickname's association with Yukon culture was immortalized in the writings of Robert Service, particularly his collection of "Songs of a Sourdough".
+S18 In English-speaking countries, where wheat-based breads predominate, sourdough is no longer the standard method for bread leavening.
+S19 It was gradually replaced, first by the use of barm from beer making, then, after the confirmation of germ theory by Louis Pasteur, by cultured yeasts.
+S20 Although sourdough bread was superseded in commercial bakeries in the 20th century, it has undergone a revival among artisan bakers and, more recently, in industrial bakeries.
+S21 In countries where there is no legal definition of sourdough bread, the dough for some products named or marketed as such is leavened using baker's yeast or chemical raising agents as well as, or instead of, a live sourdough starter culture.
+S22 The term sourfaux has been applied to such breads by the Real Bread Campaign, an initiative that has advised against the consumption of most modern breads (sourdough and otherwise) because of such preparation techniques plus the inclusion of leavening agents, such as baking soda and baking powder, which may be linked to celiac disease.
+
+§2 Starter
+S23 Sourdough leavening requires a pre-ferment (the starter or leaven, variously known as the chief, chef, head, mother, or sponge), a live mixture of flour and water, containing a colony of microorganisms including wild yeast and lactobacilli.
+S24 The purpose of the starter is to produce a vigorous leavening and to develop the flavour of the bread.
+S25 In practice there are several kinds of starters, as the ratio of water to flour in the starter (hydration) varies.
+S26 A starter may be a liquid batter or a stiff dough.
+S27 To initially create the pre-ferment, water and flour are mixed and left in a warm place for a week or two.
+S28 When wheat flour comes into contact with water, the naturally occurring enzyme amylase breaks down the starch into the sugars glucose and maltose, which sourdough's natural yeast can metabolize.
+S29 With sufficient time, temperature, and refreshments with new or fresh dough, the mixture develops a stable culture.
+S30 This culture will cause a dough to rise.
+S31 The bacteria ferment starches that the yeast cannot metabolise, and the by-products, chiefly maltose, are metabolised by the yeast, which produces carbon dioxide gas, leavening the dough.
+
+§3 Refreshment or feeding of the starter
+S32 As it ferments, sometimes for several days, the volume of the starter is increased by periodic additions of flour and water, called refreshments or referred to as a feeding.
+S33 As long as this starter culture is fed flour and water regularly, it will remain active.
+S34 The ratio of fermented starter to fresh flour and water is critical in the development and maintenance of a starter.
+S35 This ratio is called the refreshment ratio.
+S36 Higher refreshment ratios are associated with greater microbial stability in the sourdough.
+S37 In San Francisco sourdough, the ratio is 40% of the total weight, which is roughly equivalent to 67% of the new-dough's weight.
+S38 A high refreshment ratio keeps the pH of the refreshed dough relatively low (making it more acidic).
+S39 pH levels below 4.0 inhibit lactobacilli and favor acid-tolerant yeasts.
+S40 A starter prepared from scratch with a salted wheat-rye dough takes about 54 hours at 27 °C (81 °F) to stabilise at a pH between 4.4 and 4.6.
+S41 4% salt inhibits L.
+S42 sanfranciscensis, while C.
+S43 milleri can withstand 8%.
+S44 A drier and cooler starter has less bacterial activity and more yeast growth, which results in the bacterial production of more acetic acid relative to lactic acid.
+S45 Conversely, a wetter and warmer starter has more bacterial activity and less yeast growth, with more lactic acid relative to acetic acid.
+S46 The yeasts produce mainly CO2 and ethanol.
+S47 High amounts of lactic acid are desired in rye and mixed-rye fermentations, while relatively higher amounts of acetic acid are desired in wheat fermentations.
+S48 A dry, cool starter produces a sourer loaf than a wet, warm one.
+S49 Firm starters (such as the Flemish Desem starter, which may be buried in a large container of flour to prevent drying out) tend to be more resource-intensive than wet ones.
+
+§4 Intervals between refreshments
+S50 A stable culture in which F.
+S51 sanfranciscensis is the dominant bacterium requires a temperature between 25–30 °C (77–86 °F) and refreshments every 24 hours for about two weeks (336 hours).
+S52 Refreshment intervals of longer than three days acidify the dough and may change the microbial ecosystem.
+S53 The intervals between refreshments of the starter may be reduced in order to increase the rate of gas (CO2) production, a process described as "acceleration." In this process, the ratio of yeasts to lactobacilli may be altered.
+S54 Generally, if once-daily refreshment-intervals have not been reduced to several hours, the percentage amount of starter in the final dough should be reduced to obtain a satisfactory rise during proof.
+S55 Faster starter processes, requiring fewer refreshments, have been devised, sometimes using commercial sourdough starters as inoculants.
+S56 These starters generally fall into two types.
+S57 One is made from traditionally maintained and stable starter doughs, often dried, in which the ratios of microorganisms are uncertain.
+S58 Another is made from microorganisms carefully isolated from petri dishes, grown into large, homogeneous populations in fermentors, and processed into combined baker's products with numerically defined ratios and known quantities of microorganisms well suited to particular bread styles.
+S59 Maintaining metabolically active sourdough with high leavening activity typically requires several refreshments per day, which is achieved in bakeries that use sourdough as sole leavening agents but not by amateur bakers that use the sourdough only weekly or even less frequently.
+
+§5 Local methods
+S60 Bakers have devised several ways of encouraging a stable culture of microorganisms in the starter.
+S61 Unbleached, unbromated flour contains more microorganisms than more processed flours.
+S62 Bran-containing (wholemeal) flour provides the greatest variety of organisms and additional minerals, though some cultures use an initial mixture of white flour and rye or whole wheat flour or "seed" the culture using unwashed organic grapes (for the wild yeasts on their skins).
+S63 Grapes and grape must are also sources of lactic acid bacteria, as are many other edible plants.
+S64 Basil leaves are soaked in room-temperature water for an hour to seed traditional Greek sourdough.
+S65 Using water from boiled potatoes is said to increase the activity of the bacteria by providing additional starch.
+S66 The piped drinking water supplied in most urban areas is treated by chlorination or chloramination, adding small amounts of substances that inhibit potentially dangerous microorganisms but are harmless to animals.
+S67 Some bakers recommend unchlorinated water for feeding cultures.: 353 Because a sourdough fermentation relies on microorganisms, using water without these agents may produce better results.
+S68 Bottled drinking water is suitable; chlorine, but not chloramines, can be removed from tap water by boiling it for a time, or simply by leaving it uncovered for at least 24 hours.
+S69 Chlorine and chloramines can both be removed by activated carbon filters.
+S70 Adding a small quantity of diastatic malt provides maltase and simple sugars to support the yeasts initially.
+S71 The flavor of sourdough bread varies from place to place according to the method used, the hydration of the starter and the final dough, the refreshment ratio, the length of the fermentation periods, ambient temperature, humidity, and elevation, all of which contribute to the microbiology of the sourdough.
+
+§6 Mixing and shaping the bread
+S72 The starter is typically fed 4 to 12 hours prior to being added to dough.
+S73 Feeding means mixing flour and water into the starter.
+S74 This creates an active leaven, which should grow in size and is ready to use when it is bubbly and floats in water.
+S75 A portion of the leaven is mixed with flour and water to make a final dough of the desired consistency.
+S76 The starter weight is usually 13–25% of the total flour weight, though formulas may vary.
+S77 Using a smaller ratio of cold unfed starter (called sourdough discard) in the range of 5% to 10% can also create good sourdough loaves; the fermentation time will be longer and can result in improved flavor.
+S78 A number of 'no knead' methods are available for sourdough bread.
+S79 The dough is shaped into loaves, left to proof (the final resting period before baking), and then baked.
+S80 Due to the length of time sourdough bread takes to proof, many bakers may refrigerate their loaves prior to baking.
+S81 This process is known as retardation to slow down the proofing process.
+S82 This process has the added benefit of developing a richer flavoured bread.
+S83 Obtaining a satisfactory rise from sourdough takes longer than a dough leavened with baker's yeast because the yeast in a sourdough is less vigorous.
+S84 In the presence of lactic acid bacteria, however, some sourdough yeasts have been observed to produce twice the gas of baker's yeast.
+S85 The acidic conditions in sourdough, along with the bacteria also producing enzymes that break down proteins, result in weaker gluten and may produce a denser finished product.
+S86 Because the rise time of most sourdough starters is longer than that of breads made with baker's yeasts, traditional sourdough starters are generally unsuitable for use in a bread machine.
+S87 However, bread machine manufacturers may offer recipes specifically optimized for their devices, with the starter made directly in the machine's pan using a dedicated setting and then supplemented later with ingredients such as apple cider vinegar.
+S88 Also, sourdough that has been proofed over many hours, using a sourdough starter or mother dough, may be transferred to a bread machine to be used only with the baking segment of the bread-making program, bypassing the timed mechanical kneading by the machine's paddle.
+S89 This may be convenient for single loaf production, but the complex blistered and slashed crust characteristics of oven-baked sourdough bread cannot be achieved in a bread making machine, as this usually requires the use of a baking stone in the oven and misting of the dough to produce steam.
+S90 In sourdough baking, one or more deep primary cuts are often made to allow controlled expansion during oven spring, and additional shallow slashes are added for decorative effect.
+S91 Once baked, sourdough products keep fresh for a longer time than many other breads, and are good at resisting spoilage and mold without the additives required to retard spoiling of other types of bread.
+
+§7 Continuing the cycle
+S92 Bakers almost never make a new starter every time they bake.
+S93 They generally maintain an unbroken line of starter from the original first batch.
+S94 This line is called the mother dough, mother sponge, chef, or seed sour), There are two ways to continue the sourdough cycle after the bread dough is mixed.
+S95 The first simply reserves a portion of the starter culture for another day.
+S96 Because of their pH level and the presence of antibacterial agents, such cultures are stable and able to prevent colonization by unwanted yeasts and bacteria, and the original starter culture may be many years old.
+S97 Flour, water, and sometimes other ingredients (e.g., sugar, milk, apples, potatoes) are stirred in to the reserved portion to feed it.
+S98 A portion of this starter is used on subsequent days for baking more bread, while always saving some for future use.
+S99 The other approach is the French-style levain technique.
+S100 Instead of preserving a portion of the sourdough starter, it preserves a portion of raw, unbaked bread dough.
+S101 The next day, the dough is put into a bowl with the other ingredients for a loaf of bread.
+S102 Before shaping and baking the new loaf, a portion is pulled out and set aside so that it will be available to leaven the next batch of dough.
+
+§8 Biology and chemistry
+S103 Sourdough is a stable culture of lactic acid bacteria and yeast in a mixture of flour and water.
+S104 Broadly speaking, the yeast produces gas (carbon dioxide) which leavens the dough, and the lactic acid bacteria produce lactic acid, which contributes flavor in the form of sourness.
+S105 The lactic acid bacteria metabolize sugars that the yeast cannot, while the yeast metabolizes the by-products of lactic acid fermentation.
+S106 During sourdough fermentation, many cereal enzymes, particularly phytases, proteases and pentosanases, are activated through acidification and contribute to biochemical changes during sourdough fermentation.
+
+§9 Lactic acid bacteria
+S107 Every starter consists of different lactic acid bacteria which are introduced to the starter through the environment, water, and flour used to create the starter.
+S108 The lactic acid bacteria are a group of gram-positive bacteria capable of converting carbohydrate substrates into organic acids and producing a wide range of metabolites.
+S109 Organic acids, including propionic, formic, acetic acid, and lactic acid, create an unfavorable environment for the growth of spoilage and pathogenic microorganisms.
+S110 Lactic acid bacteria commonly found in sourdough include Leuconostoc, Pediococcus, Weissella and other genera.
+S111 The most prevalent species belong to the very large and diverse genus Lactobacillus.
+S112 Lactic acid bacteria are a group comprising aerotolerant anaerobes, meaning anaerobes that can multiply in the presence of oxygen, and microaerophiles, meaning microbes that multiply at levels of oxygen lower than atmospheric.
+S113 Major lactic acid bacteria in sourdough are heterofermentative (producing more than one product) organisms and convert hexoses by the phosphoketolase pathway to lactate, CO2 and acetate or ethanol; heterofermentative lactic acid bacteria are usually associated with homofermentative (producing mainly one product) lactobacilli, particularly Lactobacillus and Companilactobacillus species.
+
+§10 Yeasts
+S114 The most common yeast species in sourdough are Kazachstania exigua (Saccharomyces exiguus), Saccharomyces cerevisiae, K.
+S115 exiguus and K.
+S116 humilis (previously Candida milleri or Candida humilis).
+
+§11 Type I sourdough
+S117 Traditional sourdoughs used as sole leavening agent are referred to as Type I sourdough; examples include sourdoughs used for San Francisco Sourdough Bread, Panettone, and rye bread.
+S118 Type I sourdoughs are generally firm doughs, have a pH range of 3.8 to 4.5, and are fermented in a temperature range of 20 to 30 °C (68 to 86 °F).
+S119 Fructilactobacillus sanfranciscensis was named for its discovery in San Francisco sourdough starters, though it is not endemic to San Francisco.
+S120 F.
+S121 sanfranciscensis and Limosilactobacillus pontis often highlight a lactic-acid bacterial flora that includes Limosilactobacillus fermentum, Fructilactobacillus fructivorans, Levilactobacillus brevis, and Companilactobacillus paralimentarius.
+S122 The yeasts Saccharomyces exiguus, Kasachstania humilis, or Candida holmii usually populate sourdough cultures symbiotically with Fructilactobacillus sanfranciscensis.
+S123 The yeast S.
+S124 exiguus is related to the yeasts C.
+S125 milleri and C.
+S126 holmii.
+S127 Torulopsis holmii, Torula holmii, and S.
+S128 rosei are synonyms used prior to 1978.
+S129 C.
+S130 milleri and C.
+S131 holmii are physiologically similar, but DNA testing established them as distinct.
+S132 Other yeasts reported found include C.
+S133 humilis, C.
+S134 krusei, Pichia anomala, C.
+S135 peliculosa, P. membranifaciens, and C.
+S136 valida.
+S137 There have been changes in the taxonomy of yeasts in recent decades.
+S138 F.
+S139 sanfranciscensis requires maltose, while C.
+S140 milleri is maltase negative and thus cannot consume maltose.
+S141 C.
+S142 milleri can grow under conditions of low pH and relatively high acetate levels, a factor contributing to sourdough flora's stability.
+S143 In order to produce acetic acid, F.
+S144 sanfrancisensis needs maltose and fructose.
+S145 Wheat dough contains abundant starch and some polyfructosanes, which enzymes degrade to "maltose, fructose and little glucose." The terms "fructosan, glucofructan, sucrosyl fructan, polyfructan, and polyfructosan" are all used to describe a class of compounds that are "structurally and metabolically" related to sucrose, where "carbon is stored as sucrose and polymers of fructose (fructans)." Yeasts have the ability to free fructose from glucofructans which compose about 1–2% of the dough.
+S146 Glucofructans are long strings of fructose molecules attached to a single glucose molecule.
+S147 Sucrose can be considered the shortest glucofructan, with only a single fructose molecule attached.
+S148 When L.
+S149 sanfrancisensis reduces all available fructose, it stops producing acetic acid and begins producing ethanol.
+S150 If the fermenting dough gets too warm, the yeasts slow down, producing less fructose.
+S151 Fructose depletion is more of a concern in doughs with lower enzymatic activities.
+S152 A Belgian study of wheat and spelt doughs refreshed once every 24 hours and fermented at 30 °C (86 °F) in a laboratory environment provides insight into the three-phase evolution of first-generation-to-stable sourdough ecosystems.
+S153 In the first two days of refreshment, atypical genera Enterococcus and Lactococcus bacteria highlighted the doughs.
+S154 During days 2–5, sourdough-specific bacteria belonging to the genera Lactobacillus, Pediococcus, and Weissella outcompete earlier strains.
+S155 Yeasts grew more slowly and reached population peaks near days 4–5.
+S156 By days 5–7, "well-adapted" Lactobacillus strains such as L.
+S157 fermentum and Lactiplantibacillus plantarum had emerged.
+S158 At their peaks, yeast populations were in the range of about 1–10% of the lactobacilli populations or 1:10–1:100.
+S159 One characteristic of a stable dough is that the heterofermentative have outcompeted homofermentative lactobacilli.
+S160 F.
+S161 sanfranciscensis has typically not been identified in spontaneous sourdoughs, even after multiple cycles of back-slopping; it was rapidly introduced in wheat sourdoughs, however, when plant materials were used to start the fermentation.
+S162 Investigations of wheat sourdough found that S.
+S163 cerevisiae died off after two refreshment cycles.
+S164 S.
+S165 cerevisiae has less tolerance to acetic acid than other sourdough yeasts.
+S166 Continuously maintained, stable sourdough cannot be unintentionally contaminated by S.
+S167 cerevisiae.
+
+§12 Type II sourdough
+S168 In Type II sourdoughs, baker's yeast or Saccharomyces cerevisiae is added to leaven the dough; L.
+S169 pontis and Limosilactobacillus panis in association with Lactobacillus species are dominant members of Type II sourdoughs.
+S170 They have a pH less than 3.5, and are fermented within a temperature range of 30 to 50 °C (86 to 122 °F) for several days without feedings, which reduces the flora's activity.
+S171 This process was adopted by some in industry, in part, due to simplification of the multiple-step build typical of Type I sourdoughs.
+S172 In Type II sourdoughs, yeast growth is slowed or stopped due to higher fermentation temperatures.
+S173 These doughs are more liquid and once fermented may be chilled and stored for up to a week.
+S174 They are pumpable and used in continuous bread production systems.
+
+§13 Type III sourdough
+S175 Type III sourdoughs are Type II sourdoughs subjected to a drying process, usually either spray or drum drying, and are mainly used at an industrial level as flavoring agents.
+S176 They are dominated by "drying-resistant [lactic acid bacteria] such as Pediococcus pentosaceus, L. plantarum, and L. brevis." The drying conditions, time and heat applied, may be varied in order to influence caramelization and produce desired characteristics in the baked product.
+S177 Manufacturers of non-sourdough breads make up for the lack of yeast and bacterial culture by introducing into their dough an artificially made mix known as bread improver or flour improver.
+
+§14 Types of bread
+S178 There are many breads that use techniques similar to that used in the making of sourdough bread.
+S179 Danish rugbrød (rye bread) is a dense, dark bread best known from its use in the Danish smørrebrød (open-faced sandwiches).
+S180 The Mexican birote salado started out in the city of Guadalajara as a short French baguette that replaces the yeast with a sourdough fermentation process, yielding a bread that is crunchy outside but soft and savory inside.
+S181 Amish friendship bread uses a sourdough starter that includes sugar and milk.
+S182 It is also leavened with baking powder and baking soda.
+S183 An Amish sourdough is fed with sugar and potato flakes every 3–5 days.
+S184 German pumpernickel is traditionally made from a sourdough starter, although modern pumpernickel loaves often use commercial yeasts, sometimes spiked with citric acid or lactic acid to inactivate the amylases in the rye flour.
+S185 Flemish desem bread (the word means 'starter') is a whole-wheat sourdough.
+S186 Whole-wheat sourdough flatbreads are traditionally eaten in Azerbaijan.
+S187 In Ethiopia, teff flour is fermented to make injera.
+S188 A similar variant is eaten in Somalia, Djibouti, and Yemen (where it is known as lahoh).
+S189 In India, idlis and dosa are made from a sourdough fermentation of rice and black gram.
+
+§15 Possible fermentation effects
+S190 Sourdough bread has a relatively low glycemic index compared with other types of bread.
+S191 The activity of cereal enzymes during sourdough fermentation hydrolyses phytates, which improves the absorption of some dietary minerals and vitamins, most of which are found in the bran.
+S192 Sourdough fermentation reduces wheat components that may contribute to non-celiac wheat sensitivity and irritable bowel syndrome.
+S193 Sourdough fermentation and lactic acid bacteria may be useful to improve the quality of gluten-free breads, such as by enhancing texture, aroma, and shelf life.
+S194 A review of the health effects of sourdough published in 2023 concluded that: "...although a broad range of sourdough related health benefits are praised in publications, social media and by bakers, a sound evidence base for measurable effects on health related clinical endpoints has not been established".
+
+§16 Modern culture
+S195 Sourdough baking has a devoted community today.
+S196 Many devotees share starters and tips via the Internet.
+S197 Hobbyists often share their work on social media.
+S198 Sourdough cultures contain communities of living organisms, with a history unique to each individual starter, and bakers can feel an obligation to maintain them.
+S199 The different yeasts present in the air in any region also enter sourdough, causing starters to change depending on location.
+S200 Some devotees find interest in history.
+S201 Sourdough expert Ed Wood isolated millennia-old yeast from an ancient Egyptian bakery near the pyramids of Giza, and many individual starters, such as Carl Griffith's 1847 starter, have been passed down through generations.
+S202 "I like the throwback of traditional bread, the things our great grandmothers ate," writes professional baker Stacie Kearney.
+S203 Some bakers describe starters that are generations old, though Griffith's seems exceptional.
+S204 Sourdough baking became more popular during the COVID-19 pandemic, as increased interest in home baking caused shortages of baker's yeast in stores, whereas sourdough can be propagated at home.
+S205 Sourdough baking requires minimal equipment and simple ingredients – flour, salt, and water – but invites practice.
+S206 Purism is a part of the appeal for some people.
+S207 As described by one enthusiast, "If you take flour, water, (wild) yeast and salt, and play around with time and temperature, what comes out of the oven is something utterly transformed." Many bakers feed their starters on elaborate schedules, and many name them.
+S208 Some approach sourdough as science, attempting to optimize flavor and acidity with careful measurements, experimentation, and correspondence with professional microbiologists.
+S209 Some lineages of starter are freely shared, and others can be purchased, but many prefer to cultivate their own.
+S210 Some techniques for doing so are fiercely debated, such as the use of commercial yeast to jump-start a culture while capturing wild yeasts, or adding grapes or milk.
+
+§17 Regional preferences
+S211 In northern Europe, where bread made from 100% rye flour is popular, bread is typically leavened with sourdough rather than baker's yeast because rye lacks sufficient gluten to support yeast leavening.
+S212 Instead, rye bread's structure relies on the starch in the flour and other carbohydrates known as pentosans.
+S213 However, rye amylase remains active at higher temperatures than wheat amylase, which can cause the bread's structure to weaken as the starches break down during baking.
+S214 The lowered pH of a sourdough starter inactivates the amylases when heat alone cannot, allowing the carbohydrates to gel and set properly in the bread structure.
+S215 In southern Europe, sourdough remains traditional for certain breads like panettone.
+S216 However, in the 20th century, sourdough became less common, replaced by the faster-acting baker's yeast.
+S217 Sometimes, this yeast is supplemented with longer fermentation periods to allow some bacterial activity, which adds flavor.
+S218 During the 2010s, sourdough fermentation regained popularity as a major method in bread production, often used alongside baker's yeast as a leavening agent.
+
+§18 See also
+S219 List of sourdough breads
+S220 Biga, a pre-fermentation technique in Italian baking
+S221 Herman cake
+S222 History of California bread
+S223 Injera
+S224 Kyselo, Czech soup made from sourdough
+S225 List of microorganisms found in sourdough
+S226 Salt-rising bread
+S227 Sour mash
+S228 Sour rye soup, Polish soup (żurek) made with rye flour soured in the same process that occurs in the forming of sourdough
+
+§19 Notes
+S229 Michael Gänzle has said Markus Brandt estimated that, in a properly maintained sourdough of sufficient age, the yeasts and lactobacilli each contribute roughly 50% of the total CO2.
+S230 Gänzle pointed out that while there are fewer yeasts, they are larger.
+S231 The term mother dough sometimes refers to a yeast sponge, so one must look at the ingredients and process to understand if it is a multi-refreshment sourdough or instead a sponge made from only fresh ingredients.
+
+§20 References
+S232 1 2 Gänzle, Michael G.
+S233 "Enzymatic and bacterial conversions during sourdough fermentation".
+S234 Food Microbiology.
+S235 V International Symposium on Sourdough - Cereal Fermentation for Future Foods, Helsinki 10–13 October 2012. 37: 2–10.
+S236 doi:10.1016/j.fm.2013.04.007.
+S237 ISSN 0740-0020.
+S238 PMID 24230468.
+S239 Gadsby, Patricia; Weeks, Eric.
+S240 "The Biology of... Sourdough".
+S241 Discover.
+S242 Discover Magazine.
+S243 Retrieved June 13, 2019.
+S244 1 2 Gaenzle, Michael (1 April 2014).
+S245 "Sourdough Bread".
+S246 In Batt, Carl (ed.).
+S247 Encyclopedia of Food Microbiology (2nd ed.).
+S248 Academic Press.
+S249 p. 309.
+S250 ISBN 978-0123847300.
+S251 Gobbetti, Marco; Gänzle, Michael (2012).
+S252 Handbook on Sourdough Biotechnology.
+S253 Springer.
+S254 p. 6.
+S255 ISBN 978-1-4614-5425-0.
+S256 Peters, Erica J. San Francisco: A Food Biography.
+S257 Rowman & Littlefield, 2013, p. 189.
+S258 1 2 Davidson, Alan (1999).
+S259 The Oxford Companion to Food.
+S260 Oxford: Oxford University Press.
+S261 pp. 756–757.
+S262 ISBN 978-0192115799.
+S263 Zheng, Jinshui; Wittouck, Stijn; Salvetti, Elisa; Franz, Charles M. A. P.; Harris, Hugh M. B.; Mattarelli, Paola; O’Toole, Paul W.; Pot, Bruno; Vandamme, Peter; Walter, Jens; Watanabe, Koichi (2020).
+S264 "A taxonomic note on the genus Lactobacillus: Description of 23 novel genera, emended description of the genus Lactobacillus Beijerinck 1901, and union of Lactobacillaceae and Leuconostocaceae".
+S265 International Journal of Systematic and Evolutionary Microbiology.
+S266 doi:10.1099/ijsem.0.004107.
+S267 hdl:10067/1738330151162165141.
+S268 ISSN 1466-5026.
+S269 PMID 32293557.
+S270 Fernald, Anya (November–December 2002).
+S271 "Sourdough Baking".
+S272 Slow - the International Herald of Tastes (34).
+S273 Archived from the original on September 28, 2007.
+S274 Retrieved June 18, 2010.
+S275 "The ale-barm method: Worthy of revival or just barmy bread?".
+S276 BBC Food blog.
+S277 Retrieved 2020-05-13.
+S278 "Biomedicine and Health: The Germ Theory of Disease".
+S279 Encyclopedia.com.
+S280 Retrieved 2020-05-13.
+S281 1 2 3 4 Gänzle, Michael G.; Zheng, Jinshui (2019).
+S282 "Lifestyles of sourdough lactobacilli - Do they matter for microbial ecology and bread quality?".
+S283 International Journal of Food Microbiology.
+S284 doi:10.1016/j.ijfoodmicro.2018.08.019.
+S285 ISSN 1879-3460.
+S286 PMID 30172443.
+S287 S2CID 52143236.
+S288 Griggs, Barbara (12 August 2014).
+S289 "The rise and rise of sourdough bread".
+S290 The Guardian.
+S291 London.
+S292 Retrieved 30 September 2016.
+S293 "#Sourdough vs. #sourfaux".
+S294 Real Bread Campaign.
+S295 Retrieved 2022-05-19.
+S296 "Sourdough or sourfaux? Artisan bread label row erupts".
+S297 BBC News.
+S298 Retrieved 2022-05-19.
+S299 "What is #RealBread? | Real Bread Campaign".
+S300 www.sustainweb.org.
+S301 Retrieved 2025-03-23.
+S302 "Keep it for cakes Not #RealBread #sourdough | Real Bread Campaign".
+S303 www.sustainweb.org.
+S304 Retrieved 2025-03-23.
+S305 1 2 3 4 Jeffrey Hamelman (2004).
+S306 Bread: a baker's book of techniques and recipes.
+S307 New York: John Wiley.
+S308 pp. 6–362.
+S309 ISBN 978-0-471-16857-7.
+S310 Reinhart, Peter (2016).
+S311 The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread.
+S312 Berkeley, Calif: Ten Speed Press.
+S313 p. 244.
+S314 ISBN 978-1-60774-865-6.
+S315 Retrieved September 22, 2021.
+S316 1 2 3 4 5 6 7 Davidson, Alan; Jaine, Tom (2014).
+S317 "Sourdough".
+S318 The Oxford Companion to Food (3rd ed.).
+S319 Oxford: Oxford University Press.
+S320 ISBN 978-0-19-175627-6 – via Oxford Reference Online.
+S321 Schlegel, Hans G.
+S322 General Microbiology (7 ed.).
+S323 Cambridge University Press.
+S324 ISBN 978-0521439800.
+S325 1 2 Van der Meulen R, Scheirlinck I, Van Schoor A, et al. (August 2007).
+S326 "Population dynamics and metabolite target analysis of lactic acid bacteria during laboratory fermentations of wheat and spelt sourdoughs".
+S327 Appl.
+S328 Environ.
+S329 Microbiol.
+S330 Bibcode:2007ApEnM..73.4741V.
+S331 doi:10.1128/AEM.00315-07.
+S332 PMC 1951026.
+S333 PMID 17557853.
+S334 1 2 Decock, Pieter; Cappelle, Stefan (January–March 2005).
+S335 "Bread technology and sourdough technology" (PDF).
+S336 Trends in Food Science & Technology.
+S337 doi:10.1016/j.tifs.2004.04.012.
+S338 Archived from the original (PDF) on November 12, 2020.
+S339 Retrieved Dec 17, 2011.
+S340 1 2 Stolz, Peter; Böcker, Georg; Vogel, Rudi F.; Hammes, Walter P. (1993).
+S341 "Utilisation of maltose and glucose by lactobacilli isolated from sourdough".
+S342 FEMS Microbiology Letters.
+S343 doi:10.1016/0378-1097(93)90026-x.
+S344 ISSN 0378-1097.
+S345 1 2 Sugihara TF, Kline L, Miller MW (March 1971).
+S346 "Microorganisms of the San Francisco sour dough bread process. I. Yeasts responsible for the leavening action".
+S347 Appl Microbiol.
+S348 doi:10.1128/AEM.21.3.456-458.1971.
+S349 PMC 377202.
+S350 PMID 5553284.
+S351 1 2 Kline L, Sugihara TF (March 1971).
+S352 "Microorganisms of the San Francisco sour dough bread process. II. Isolation and characterization of undescribed bacterial species responsible for the souring activity".
+S353 Appl Microbiol.
+S354 doi:10.1128/AEM.21.3.459-465.1971.
+S355 PMC 377203.
+S356 PMID 5553285.
+S357 1 2 Daeschel, M.A.; Andersson, R.E.; Fleming, H.P.
+S358 "Microbial ecology of fermenting plant materials".
+S359 FEMS Microbiology Letters.
+S360 doi:10.1111/j.1574-6968.1987.tb02472.x.
+S361 The bacterium Lactobacillus sanfrancisco ferments maltose, but not glucose.
+S362 Some glucose is provided by the action of the maltose phosphorylase pathway which is then fermented by the acid-tolerant yeast, Saccharomyces exiguus, which cannot use maltose.
+S363 The yeast in turn provides growth stimulants for the bacterium.
+S364 1 2 3 Wing, Gänzle.
+S365 "Dan Woods long posts 1–4".
+S366 Archived from the original on November 20, 2018.
+S367 Retrieved Dec 15, 2011.
+S368 Manual for army bakers.
+S369 Washington: Government Printing Office.
+S370 1910. p. 22.
+S371 Retrieved Aug 13, 2011.
+S372 S. John Ross.
+S373 "Sourdough Bread: How To Begin (easy sourdough for the beginner or novice)".
+S374 Archived from the original on December 11, 2018.
+S375 Retrieved June 17, 2011.
+S376 Don Holm; Myrtle Holm (1972).
+S377 The Complete Sourdough Cookbook.
+S378 Caldwell, Idaho: Caxton Press.
+S379 p. 40.
+S380 ISBN 978-0-87004-223-2.
+S381 Retrieved June 28, 2010.
+S382 1 2 3 Khachatourians, George G.
+S383 Food Biotechnology: Microorganisms.
+S384 New York: Wiley-Interscience.
+S385 pp. 799–813.
+S386 ISBN 978-0-471-18570-3.
+S387 Valcheva R, Korakli M, Onno B, et al. (March 2005).
+S388 "Lactobacillus hammesii sp. nov., isolated from French sourdough".
+S389 Int.
+S390 J. Syst.
+S391 Evol.
+S392 Microbiol.
+S393 55 (Pt 2): 763–7.
+S394 doi:10.1099/ijs.0.63311-0.
+S395 PMID 15774659. ...
+S396 maintained by back slopping or rafraîchi ...
+S397 in terms of ratio (sourdough/dough),...
+S398 "Sourdough Rise Time Table".
+S399 The Fresh Loaf.
+S400 Retrieved 2016-09-15.
+S401 Panel on the Applications of Biotechnology to Traditional Fermented Foods, National Research Council (1992).
+S402 Applications of Biotechnology in Traditional Fermented Foods.
+S403 The National Academies Press.
+S404 ISBN 9780309046855.
+S405 Retrieved June 28, 2012.
+S406 This can be achieved by the sourdough process, in which some portion of one batch of fermented dough is used to inoculate another batch.
+S407 This practice is also referred to as "back-slopping" or inoculum enrichment.
+S408 The resulting starters are active and should not be stored but used in a continuous manner.
+S409 Calvel, Raymond (2001).
+S410 The taste of bread.
+S411 Gaithersburg, Md: Aspen Publishers.
+S412 pp. 89–90.
+S413 ISBN 978-0-8342-1646-4.
+S414 Retrieved June 28, 2010.
+S415 1 2 Gänzle MG, Ehmann M, Hammes WP (July 1998).
+S416 "Modeling of Growth of Lactobacillus sanfranciscensis and Candida milleri in Response to Process Parameters of Sourdough Fermentation".
+S417 Appl.
+S418 Environ.
+S419 Microbiol.
+S420 Bibcode:1998ApEnM..64.2616G.
+S421 doi:10.1128/AEM.64.7.2616-2623.1998.
+S422 PMC 106434.
+S423 PMID 9647838.
+S424 1 2 "Lactic Acid Fermentation in Sourdough".
+S425 The Fresh Loaf.
+S426 Retrieved 2016-09-15.
+S427 "Section - 22.
+S428 What is the Microbiology of San Francisco Sourdough?".
+S429 Retrieved 2013-02-23.
+S430 ...yeasts do not produce appreciable amounts of either lactic or acetic acids, their main metabolites are ethanol and CO2.
+S431 Simpson, Benjamin K.
+S432 Food Biochemistry and Food Processing (2nd ed.).
+S433 Oxford, UK: John Wiley & Sons, Inc. p. 667.
+S434 ISBN 978-0-8138-0874-1.
+S435 Retrieved 2014-11-16.
+S436 Wikibooks:Cookbook:Sourdough Starter
+S437 Nanna A. Cross; Corke, Harold; Ingrid De Leyn; Nip, Wai-Kit (2006).
+S438 Bakery products: science and technology.
+S439 Oxford: Blackwell.
+S440 p. 551.
+S441 ISBN 978-0-8138-0187-2.
+S442 Gocmen, Duygu; Gurbuz, Ozan; Kumral, Ayşegul Yıldırım; Dagdelen, Adnan Fatih; Sahin, Ismet (2007).
+S443 "The effects of wheat sourdough on glutenin patterns, dough rheology and bread properties" (PDF).
+S444 European Food Research and Technology.
+S445 doi:10.1007/s00217-006-0487-6.
+S446 S2CID 83885854.
+S447 Archived from the original (PDF) on December 31, 2013.
+S448 Retrieved Aug 5, 2012.
+S449 Siragusa, S; Di Cagno, R; Ercolini, D; Minervini, F; Gobbetti, M; De Angelis, M (February 2009).
+S450 "Taxonomic structure and monitoring of the dominant population of lactic acid bacteria during wheat flour sourdough type I propagation using Fructilactobacillus sanfranciscensis (formerly Lactobacillus sanfranciscensis) starters".
+S451 Appl.
+S452 Environ.
+S453 Microbiol.
+S454 doi:10.1128/AEM.01524-08.
+S455 PMC 2643576.
+S456 PMID 19088320.
+S457 1 2 "Pain au Levain Production" (PDF).
+S458 Baking Update.
+S459 Lallemand Inc.
+S460 Retrieved Dec 9, 2011.
+S461 Gottfried Unden (2009).
+S462 Biology of Microorganisms on Grapes, in Must and in Wine.
+S463 Berlin: Springer.
+S464 p. 6.
+S465 ISBN 978-3-540-85462-3.
+S466 Retrieved Dec 28, 2011.
+S467 Huis in ʻt Veld, J. H. J.; Konings, Wilhelmus Nicolaas & Kuipers, Otto (1999).
+S468 Lactic acid bacteria: genetics, metabolism, and applications: proceedings of the Sixth Symposium on lactic acid bacteria: genetics, metabolism and applications, 19–23 September 1999, Veldhoven, The Netherlands.
+S469 Bruxelles: Kluwer.
+S470 p. 319.
+S471 ISBN 978-0-7923-5953-1.
+S472 Retrieved 2011-01-17.
+S473 Table 1.
+S474 Specific enumeration of lactic acid bacteria in cabernet sauvignon fermenting must (CFU/ml) (Lonvaud-Funel et al. 1991)
+S475 Felis GE, Dellaglio F (September 2007).
+S476 "Taxonomy of Lactobacilli and Bifidobacteria" (PDF).
+S477 Curr Issues Intest Microbiol.
+S478 PMID 17542335.
+S479 Mundt JO, Hammer JL (September 1968).
+S480 "Lactobacilli on plants".
+S481 Appl Microbiol.
+S482 doi:10.1128/AEM.16.9.1326-1330.1968.
+S483 PMC 547649.
+S484 PMID 5676407.
+S485 1 2 De Vuyst L, Schrijvers V, Paramithiotis S, et al. (December 2002).
+S486 "The biodiversity of lactic acid bacteria in Greek traditional wheat sourdoughs is reflected in both composition and metabolite formation".
+S487 Appl.
+S488 Environ.
+S489 Microbiol.
+S490 Bibcode:2002ApEnM..68.6059D.
+S491 doi:10.1128/aem.68.12.6059-6069.2002.
+S492 PMC 134406.
+S493 PMID 12450829.
+S494 Maher, John (1989).
+S495 Replacement of Renal Function by Dialysis: A Text Book of Dialysis (Third ed.).
+S496 Kluwer Academic Publishers.
+S497 p. 192.
+S498 ISBN 978-0898384147.
+S499 Retrieved 2014-06-11.
+S500 Reinhart, Peter (1998).
+S501 Crust & Crumb: Master Formulas For Serious Bakers.
+S502 Berkeley, Calif: Ten Speed Press.
+S503 p. 32.
+S504 ISBN 978-1-58008-003-3.
+S505 Retrieved June 28, 2010.
+S506 Thiele, C.; Gänzle, M. G.; Vogel, R. F.
+S507 (January–February 2002).
+S508 "Contribution of Sourdough Lactobacilli, Yeast, and Cereal Enzymes to the Generation of Amino Acids in Dough Relevant for Bread Flavor" (PDF).
+S509 Cereal Chemistry.
+S510 doi:10.1094/CCHEM.2002.79.1.45.
+S511 Archived from the original (PDF) on 2012-03-24.
+S512 Retrieved 2012-02-02.
+S513 "Calculated sourdough rise times at various temperatures".
+S514 Retrieved 2012-08-03.
+S515 Peterson, James A.
+S516 Glorious French food: a fresh approach to the classics.
+S517 London: J. Wiley.
+S518 p. 170.
+S519 ISBN 978-0-471-44276-9.
+S520 Retrieved 2013-02-04.
+S521 Because these natural yeasts are less aggressive and more genetically diverse than packaged yeasts, they give the dough a more complex flavor, partially because they allow for the competition of naturally occurring benevolent bacteria.
+S522 Dumke, Nicolette M.
+S523 Easy Breadmaking for Special Diets: Use Your Bread Machine, Food Processor, Mixer, or Tortilla Maker to Make the Bread YOU Need Quickly and Easily.
+S524 Allergy Adapt, Inc. p. 95.
+S525 ISBN 978-1-887624-11-4.
+S526 Retrieved 2013-02-04.
+S527 In addition to the wild yeast being slower producers of the gas that makes bread rise, the lactobacilli take about twelve hours to develop the full flavor you want in your bread.
+S528 Häggman, M.; Salovaara, H.
+S529 "Microbial re-inoculation reveals differences in the leavening power of sourdough yeast strains".
+S530 LWT - Food Science and Technology.
+S531 doi:10.1016/j.lwt.2007.02.001.
+S532 McGee, Harold (2004).
+S533 On food and cooking: the science and lore of the kitchen.
+S534 New York: Scribner.
+S535 pp. 544–546.
+S536 ISBN 978-0-684-80001-1.
+S537 Retrieved June 28, 2010.
+S538 "Light Sourdough Bread".
+S539 Zojirushi RECIPES.
+S540 Retrieved 2025-03-23.
+S541 "Bread scoring patterns and techniques".
+S542 King Arthur Baking.
+S543 King Arthur Baking Company.
+S544 Retrieved 2025-09-12.
+S545 "Master the Art of Sourdough Scoring for Bakery-Quality Loaves".
+S546 Better Homes & Gardens.
+S547 Dotdash Meredith.
+S548 Retrieved 2025-09-12.
+S549 1 2 Gobbetti, M.; De Angelis, M.; Corsetti, A.; Di Cagno, R.
+S550 "Biochemistry and physiology of sourdough lactic acid bacteria" (PDF).
+S551 Trends in Food Science & Technology.
+S552 doi:10.1016/j.tifs.2004.02.013.
+S553 Esposito, Mary Ann (2003).
+S554 Ciao Italia in Tuscany: traditional recipes from one of Italy's most famous regions.
+S555 New York: St. Martin's Press.
+S556 p. 94.
+S557 ISBN 978-0-312-32174-1.
+S558 Retrieved Aug 13, 2010.
+S559 Tosi, Christina (2011).
+S560 Momofuku Milk Bar.
+S561 Crown Publishing Group.
+S562 ISBN 978-0307720498.
+S563 Retrieved 2014-12-02.
+S564 1 2 Gänzle, Michael G (2015).
+S565 "Lactic metabolism revisited: metabolism of lactic acid bacteria in food fermentations and food spoilage".
+S566 Current Opinion in Food Science.
+S567 Food Microbiology • Functional Foods and Nutrition.
+S568 doi:10.1016/j.cofs.2015.03.001.
+S569 ISSN 2214-7993.
+S570 Gänzle, Michael G.; Vermeulen, Nicoline; Vogel, Rudi F.
+S571 "Carbohydrate, peptide and lipid metabolism of lactic acid bacteria in sourdough".
+S572 Food Microbiology.
+S573 doi:10.1016/j.fm.2006.07.006.
+S574 ISSN 0740-0020.
+S575 PMID 17008155.
+S576 Reese, Aspen T; Maden, Anne A; Joossens, Marie; Lacaze, Guylaine; Dunee, Robert (February 26, 2020).
+S577 "Influences of Ingredients and Bakers on the Bacteria and Fungi in Sourdough Starters and Bread".
+S578 mSphere.
+S579 5 (1) e00950-19.
+S580 doi:10.1128/mSphere.00950-19.
+S581 PMC 6968659.
+S582 PMID 31941818.
+S583 Bengar, Sneh Punia; Suri, Shweta; Trif, Monica; Ozogul, Fatih (2022).
+S584 "Organic acids production from lactic acid bacteria: A preservation approach".
+S585 Food Bioscience.
+S586 46 101615. doi:10.1016/j.fbio.2022.101615.
+S587 S2CID 246920460.
+S588 Wink, Debra (February 2017).
+S589 "Fermentations in Sourdough" (PDF).
+S590 Papadimitriou, Konstantinos; Alegría, Ángel; Bron, Peter; de Angelis, Maria; Gobbetti, Marco; Kleerebezem, Michiel; Lemos, José; Linares, Daniel; Ross, Paul; Stanton, Catherine; Turroni, Francesca; van Sinderen, Douwe; Varmanen, Pekka; Ventura, Marco; Zúñiga, Manuel; Tsakalidou, Effie; Kok, Jan (July 2016).
+S591 "Stress physiology of lactic acid bacteria".
+S592 Microbiology and Molecular Biology Reviews.
+S593 doi:10.1128/mmbr.00076-15.
+S594 PMC 4981675.
+S595 PMID 27466284.
+S596 De Vuyst, Luc; Harth, Henning; Van Kerrebroeck, Simon; Leroy, Frédéric (2016).
+S597 "Yeast diversity of sourdoughs and associated metabolic properties and functionalities".
+S598 International Journal of Food Microbiology.
+S599 doi:10.1016/j.ijfoodmicro.2016.07.018.
+S600 ISSN 1879-3460.
+S601 PMID 27470533.
+S602 1 2 3 4 5 Zhou, Weibiao; Therdthai, Nantawan (2012).
+S603 "Fermented Bread".
+S604 In Hui, Y.H.; Evranuz, E. Özgül (eds.).
+S605 Handbook of Plant-Based Fermented Food and Beverage Technology (2 ed.).
+S606 CRC Press.
+S607 pp. 477–526.
+S608 ISBN 978-1439849040.
+S609 1 2 3 4 Golden, David M.; Jay, James M.; Martin J. Loessner (2005).
+S610 Modern food microbiology.
+S611 Berlin: Springer.
+S612 p. 179.
+S613 ISBN 978-0-387-23180-8.
+S614 Retrieved June 28, 2010.
+S615 1 2 Arendt EK, Ryan LA, Dal Bello F (April 2007).
+S616 "Impact of sourdough on the texture of bread" (PDF).
+S617 Food Microbiol.
+S618 doi:10.1016/j.fm.2006.07.011.
+S619 PMID 17008161.
+S620 Archived from the original (PDF) on April 28, 2021.
+S621 Retrieved June 28, 2010.
+S622 1 2 3 Yiu H. Hui (2006).
+S623 Handbook of food science, technology, and engineering.
+S624 Washington, DC: Taylor & Francis.
+S625 pp. 183–9–183–11.
+S626 ISBN 978-0-8493-9849-0.
+S627 Retrieved Dec 20, 2011.
+S628 See Table 183.6
+S629 1 2 Gotthard Kunze; Satyanarayana, T.
+S630 Yeast Biotechnology: Diversity and Applications.
+S631 Berlin: Springer.
+S632 p. 180.
+S633 Bibcode:2009ybda.book.....S.
+S634 ISBN 978-1-4020-8291-7.
+S635 Retrieved 2012-01-25.
+S636 Neubauer H, Glaasker E, Hammes WP, Poolman B, Konings WN (1994).
+S637 "Mechanism of maltose uptake and glucose excretion in Lactobacillus sanfrancisco".
+S638 J Bacteriol.
+S639 doi:10.1128/jb.176.10.3007-3012.1994.
+S640 PMC 205458.
+S641 PMID 8188601.
+S642 1 2 3 Lorenz, Klaus J.; Kulp, Karel (2003).
+S643 Handbook of dough fermentations.
+S644 New York: Marcel Dekker, Inc. pp. 23–50.
+S645 ISBN 978-0-8247-4264-5.
+S646 Retrieved Dec 15, 2011.
+S647 Gobbetti, M.; Corsetti, A.
+S648 "Lactobacillus sanfrancisco a key sourdough lactic acid bacterium: a review" (PDF).
+S649 Food Microbiology.
+S650 doi:10.1006/fmic.1996.0083.
+S651 Retrieved Mar 1, 2013.
+S652 Vogel, Rudi F.
+S653 "Microbial ecology of cereal fermentations".
+S654 Food Technology and Biotechnology.
+S655 Retrieved Feb 27, 2013.
+S656 C.J. Pollock; N.J. Chatterton (1980).
+S657 "Fructans".
+S658 In P.K. Stumpf; E.E. Conn, J. Preiss (eds.).
+S659 The Biochemistry of plants: a comprehensive treatise: Carbohydrates.
+S660 Vol.
+S661 14. San Diego, California: Academic Press Inc. pp. 109–140.
+S662 ISBN 978-0-12-675414-8.
+S663 Retrieved Feb 28, 2013.
+S664 1 2 Scott, Alan; Daniel Wing (1999).
+S665 The Bread Builders: Hearth Loaves and Masonry Ovens.
+S666 White River Junction (VT): Chelsea Green Publishing Company.
+S667 pp. 34–230.
+S668 ISBN 978-1-890132-05-7.
+S669 Retrieved June 28, 2010.
+S670 Ripari, Valery; Gänzle, Michael G.; Berardi, Enrico (2016).
+S671 "Evolution of sourdough microbiota in spontaneous sourdoughs started with different plant materials".
+S672 International Journal of Food Microbiology.
+S673 doi:10.1016/j.ijfoodmicro.2016.05.025.
+S674 ISSN 1879-3460.
+S675 PMID 27240218.
+S676 S2CID 21591819.
+S677 Nanna A. Cross; Corke, Harold; Ingrid De Leyn; Nip, Wai-Kit (2006).
+S678 Bakery products: science and technology.
+S679 Oxford: Blackwell.
+S680 p. 370.
+S681 ISBN 978-0-8138-0187-2.
+S682 Ercolini, Danilo; Cocolin, Luca (2008).
+S683 Molecular techniques in the microbial ecology of fermented foods.
+S684 Berlin: Springer.
+S685 p. 119.
+S686 ISBN 978-0-387-74519-0.
+S687 Retrieved June 28, 2010.
+S688 Yiu H. Hui; Stephanie Clark (2007).
+S689 Handbook of food products manufacturing.
+S690 New York: Wiley.
+S691 p. 364.
+S692 ISBN 978-0-470-12524-3.
+S693 Retrieved June 28, 2010.
+S694 Smith, Jim Q.
+S695 Technology of reduced additive foods (Second ed.).
+S696 Oxford: Blackwell Science.
+S697 p. 204.
+S698 ISBN 978-0-632-05532-6.
+S699 Retrieved 2013-02-28.
+S700 When baker's yeast became available, the immediate need for the dough resting time of several hours disappeared.
+S701 The industrialisation of bread-making was introduced and consequently the production time was dramatically reduced.
+S702 Dough conditioners and enzymes became necessary to secure the required dough characteristics.
+S703 "Recipes: Baking that dark, sour bread (Rugbrød) -The official website of Denmark".
+S704 Denmark.dk.
+S705 Archived from the original on 2016-09-17.
+S706 Retrieved 2016-09-15.
+S707 "Discovering Danish Rye Bread".
+S708 Epicurious.com.
+S709 Retrieved 2016-09-15.
+S710 "Birote bread: the unique taste of Jalisco".
+S711 Retrieved 2017-10-21.
+S712 "How to Bake Traditional German-Style Pumpernickel at Home".
+S713 Sourdough Library.
+S714 Retrieved 30 September 2016.
+S715 Robertson, Laurel; Flinders, Carol; Godfrey, Bronwen (2011).
+S716 The Laurel's Kitchen Bread Book: A Guide to Whole-Grain Breadmaking.
+S717 Random House.
+S718 pp. 111–131.
+S719 ISBN 978-0-307-76116-3.
+S720 "10.4. Forgotten Foods Comparison of the Cuisines of Northern and Southern Azerbaijan by Pirouz Khanlou".
+S721 Azer.com.
+S722 Retrieved 2016-09-15.
+S723 "Recipe: Ethiopian Injera".
+S724 The Accidental Scientist.
+S725 Retrieved 30 September 2016.
+S726 "Lahoh Sana'ani".
+S727 Sheba Yemeni Foods.
+S728 18 May 2012.
+S729 Retrieved 30 September 2016.
+S730 Lahoh is a sourdough flatbread which is eaten in Yemen Somalia, Djibouti, and Ethiopia.
+S731 Steinkraus, Keith (1995).
+S732 Handbook of Indigenous Fermented Foods, Second Edition.
+S733 CRC Press.
+S734 p. 149.
+S735 ISBN 978-0-8247-9352-4.
+S736 Stamataki NS, Yanni AE, Karathanos VT (2017).
+S737 "Bread making technology influences postprandial glucose response: a review of the clinical evidence".
+S738 Br J Nutr (Review).
+S739 doi:10.1017/S0007114517000770.
+S740 PMID 28462730.
+S741 d'Alessandro, A.; De Pergola, G.
+S742 "Mediterranean diet pyramid: A proposal for Italian people".
+S743 Nutrients.
+S744 doi:10.3390/nu6104302.
+S745 PMC 4210917.
+S746 PMID 25325250.
+S747 1 2 3 Gobbetti, Marco; De Angelis, Maria; Di Cagno, Raffaella; Calasso, Maria; Archetti, Gabriele; Rizzello, Carlo Giuseppe (2019).
+S748 "Novel insights on the functional/nutritional features of the sourdough fermentation".
+S749 International Journal of Food Microbiology.
+S750 doi:10.1016/j.ijfoodmicro.2018.05.018.
+S751 ISSN 1879-3460.
+S752 PMID 29801967.
+S753 S2CID 44105613.
+S754 Loponen, Jussi; Gänzle, Michael G.
+S755 "Use of Sourdough in Low FODMAP Baking".
+S756 Foods.
+S757 7 (7): 96. doi:10.3390/foods7070096.
+S758 ISSN 2304-8158.
+S759 PMC 6068548.
+S760 PMID 29932101.
+S761 Huang, Xin; Schuppan, Detlef; Rojas Tovar, Luis E.; Zevallos, Victor F.; Loponen, Jussi; Gänzle, Michael (2020).
+S762 "Sourdough Fermentation Degrades Wheat Alpha-Amylase/Trypsin Inhibitor (ATI) and Reduces Pro-Inflammatory Activity".
+S763 Foods.
+S764 9 (7): 943. doi:10.3390/foods9070943.
+S765 ISSN 2304-8158.
+S766 PMC 7404469.
+S767 PMID 32708800.
+S768 Arendt, E. K.; Moroni, A.; Zannini, E.
+S769 "Medical nutrition therapy: Use of sourdough lactic acid bacteria as a cell factory for delivering functional biomolecules and food ingredients in gluten free bread".
+S770 Microbial Cell Factories.
+S771 10 (Suppl 1): S15.
+S772 doi:10.1186/1475-2859-10-S1-S15.
+S773 PMC 3231922.
+S774 PMID 21995616.
+S775 Axel, C.; Zannini, E.; Arendt, E. K.
+S776 "Mold spoilage of bread and its biopreservation: A review of current strategies for bread shelf life extension".
+S777 Critical Reviews in Food Science and Nutrition.
+S778 doi:10.1080/10408398.2016.1147417.
+S779 PMID 26980564.
+S780 S2CID 43288325.
+S781 D'Amico, Vera; Gänzle, Michael; Call, Lisa; Zwirzitz, Benjamin; Grausgruber, Heinrich; D'Amico, Stefano; Brouns, Fred (2023-07-20).
+S782 "Does sourdough bread provide clinically relevant health benefits?".
+S783 Frontiers in Nutrition.
+S784 10 1230043. doi:10.3389/fnut.2023.1230043.
+S785 ISSN 2296-861X.
+S786 PMC 10399781.
+S787 PMID 37545587.
+S788 1 2 3 4 5 Harris, Lynn (2003-08-01).
+S789 "Sourdough Culture".
+S790 Gastronomica.
+S791 doi:10.1525/gfc.2003.3.3.76.
+S792 ISSN 1529-3262.
+S793 Nordhagen, Ari (2020-10-09).
+S794 "Sourdough Goes Viral: Lucky Lady Bread shares her starter during COVID-19 crisis".
+S795 Edible Inland Northwest.
+S796 Archived from the original on 2021-10-28.
+S797 Retrieved 2021-11-03.
+S798 1 2 3 4 Scott, Chey (2020-03-14).
+S799 "Homemade sourdough bread is seeing a quarantine-spurred resurgence; two local experts share their best bread-baking advice".
+S800 Inlander.
+S801 Retrieved 2021-10-28.
+S802 1 2 Eaton, Lorraine (2012-05-02).
+S803 "For baker, old sourdough 'starter' still bubbles along".
+S804 The Virginian-Pilot.
+S805 Retrieved 2021-10-26.

@@ -1,0 +1,114 @@
+DOCUMENT: Diabetes
+
+§0 Key facts
+S0 The number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022.
+S1 Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
+S2 More than half of people living with diabetes did not take medication for their diabetes in 2022.
+S3 Diabetes treatment coverage was lowest in low- and middle-income countries.
+S4 Diabetes causes blindness, kidney failure, heart attacks, stroke and lower limb amputation.
+S5 In 2021, diabetes and kidney disease due to diabetes caused over 2 million deaths.
+S6 In addition, around 11% of cardiovascular deaths were caused by high blood glucose.
+S7 A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.
+S8 Diabetes can be treated and its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications.
+
+§1 Overview
+S9 Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.
+S10 Insulin is a hormone that regulates blood glucose.
+S11 Hyperglycaemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels.
+S12 In 2022, 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990.
+S13 More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022.
+S14 Diabetes treatment coverage was lowest in low- and middle-income countries.
+S15 In 2021, diabetes was the direct cause of 1.6 million deaths and 47% of all deaths due to diabetes occurred before the age of 70 years.
+S16 Another 530 000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 11% of cardiovascular deaths (1).
+S17 Since 2000, mortality rates from diabetes have been increasing.
+S18 By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases or diabetes) between the ages of 30 and 70 decreased by 20% globally between 2000 and 2019.
+
+§2 Symptoms
+S19 Symptoms of diabetes may occur suddenly.
+S20 In type 2 diabetes, the symptoms can be mild and may take many years to be noticed.
+S21 Symptoms of diabetes include:
+S22 feeling very thirsty
+S23 needing to urinate more often than usual
+S24 blurred vision
+S25 feeling tired
+S26 losing weight unintentionally
+S27 Over time, diabetes can damage blood vessels in the heart, eyes, kidneys and nerves.
+S28 People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure.
+S29 Diabetes can cause permanent vision loss by damaging blood vessels in the eyes.
+S30 Many people with diabetes develop problems with their feet from nerve damage and poor blood flow.
+S31 This can cause foot ulcers and may lead to amputation.
+
+§3 Type 1 diabetes
+S32 Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin.
+S33 In 2017 there were 9 million people with type 1 diabetes; the majority of them live in high-income countries.
+S34 Neither its cause nor the means to prevent it are known.
+
+§4 Type 2 diabetes
+S35 Type 2 diabetes affects how your body uses sugar (glucose) for energy.
+S36 It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated.
+S37 Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels.
+S38 Type 2 diabetes is often preventable.
+S39 Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics.
+S40 Early diagnosis is important to prevent the worst effects of type 2 diabetes.
+S41 The best way to detect diabetes early is to get regular check-ups and blood tests with a healthcare provider.
+S42 Symptoms of type 2 diabetes can be mild.
+S43 They may take several years to be noticed.
+S44 Symptoms may be similar to those of type 1 diabetes but are often less marked.
+S45 As a result, the disease may be diagnosed several years after onset, after complications have already arisen.
+S46 More than 95% of people with diabetes have type 2 diabetes.
+S47 Type 2 diabetes was formerly called non-insulin dependent, or adult onset.
+S48 Until recently, this type of diabetes was seen only in adults but it is now also occurring increasingly frequently in children.
+
+§5 Gestational diabetes
+S49 Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes.
+S50 Gestational diabetes occurs during pregnancy.
+S51 Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery.
+S52 These women and possibly their children are also at increased risk of type 2 diabetes in the future.
+S53 Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms.
+
+§6 Impaired glucose tolerance and impaired fasting glycaemia
+S54 Impaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes.
+S55 People with IGT or IFG are at high risk of progressing to type 2 diabetes, although this is not inevitable.
+
+§7 Prevention
+S56 Lifestyle changes are the best way to prevent or delay the onset of type 2 diabetes.
+S57 To help prevent type 2 diabetes and its complications, people should:
+S58 reach and keep a health body weight
+S59 stay physically active with at least 150 minutes of moderate exercise each week
+S60 eat a healthy diet and avoid sugar and saturated fat
+S61 not smoke tobacco.
+
+§8 Diagnosis and treatment
+S62 Early diagnosis can be accomplished through relatively inexpensive testing of blood glucose.
+S63 People with type 1 diabetes need insulin injections for survival.
+S64 One of the most important ways to treat diabetes is to keep a healthy lifestyle.
+S65 Some people with type 2 diabetes will need to take medicines to help manage their blood sugar levels.
+S66 These can include insulin injections or other medicines.
+S67 Some examples include:
+S68 metformin
+S69 sulfonylureas
+S70 sodium-glucose co-transporters type 2 (SGLT-2) inhibitors.
+S71 Along with medicines to lower blood sugar, people with diabetes often need medications to lower their blood pressure and statins to reduce the risk of complications.
+S72 Additional medical care may be needed to treat the effects of diabetes:
+S73 foot care to treat ulcers
+S74 screening and treatment for kidney disease
+S75 eye exams to screen for retinopathy (which causes blindness).
+
+§9 WHO response
+S76 WHO aims to stimulate and support the adoption of effective measures for the surveillance, prevention and control of diabetes and its complications, particularly in low- and middle-income countries.
+S77 To this end, WHO:
+S78 provides scientific guidelines for the prevention of major noncommunicable diseases including diabetes;
+S79 develops norms and standards for diabetes diagnosis and care;
+S80 builds awareness on the global epidemic of diabetes, marking World Diabetes Day (14 November); and
+S81 conducts surveillance of diabetes and its risk factors.
+S82 In April 2021 WHO launched the Global Diabetes Compact, a global initiative aiming for sustained improvements in diabetes prevention and care, with a particular focus on supporting low- and middle-income countries.
+S83 In May 2021, the World Health Assembly agreed a Resolution on strengthening prevention and control of diabetes.
+S84 In May 2022 the World Health Assembly endorsed five global diabetes coverage targets to be achieved by 2030.
+S85 To learn more about the Global Diabetes Compact, to access diabetes-related technical publications to get involved in upcoming initiatives, visit the Global Diabetes Compact webpage.
+
+§10 References
+S86 1. Global Burden of Disease Collaborative Network.
+S87 Global Burden of Disease Study 2021.
+S88 Results.
+S89 Institute for Health Metrics and Evaluation.
+S90 2024 (https://vizhub.healthdata.org/gbd-results/).

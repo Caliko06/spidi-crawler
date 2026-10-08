@@ -1,0 +1,2908 @@
+@font-face {
+  font-family: Literata;
+  src: url("fonts/literata.woff2") format("woff2");
+  font-weight: 200 900;
+  font-display: block;
+}
+
+@font-face {
+  font-family: Literata;
+  src: url("fonts/literata-italic.woff2") format("woff2");
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Plex Mono";
+  src: url("fonts/plex-mono.woff2") format("woff2");
+  font-weight: 400;
+  font-display: block;
+}
+
+@font-face {
+  font-family: "Instrument Sans";
+  src: url("fonts/instrument-sans.woff2") format("woff2");
+  font-weight: 400 700;
+  font-stretch: 75% 100%;
+  font-display: block;
+}
+
+:root {
+  --bg: #08090c;
+  --panel: #0f1116;
+  --rule: #2a2f39;
+  --hairline: rgb(255 255 255 / 0.09); /* a line that only separates, on the page */
+  --link: rgb(255 255 255 / 0.13); /* the line under a link: under what Jev underlines */
+  --ink: #b8bcc4;
+  --ink-strong: #eef0f2;
+  --ink-dim: #8a909c;
+  --ground: #0a0b0f; /* the web's side of the window */
+  --edge: #566070; /* a line between two subjects */
+  /* The two kinds of sentence the crawler eats: what is being laid, and what is essential. */
+  --catch: #5ee4ea;
+  --prize: #ff4f5a;
+  /* The one loud colour: for the one thing to do, and for what the crawler points out as it eats. */
+  --signal: #f2e313;
+  --control: 32px; /* the height of a control in the bar */
+  --rule-hover: #3e4552; /* a control's line when it is pointed at, and the one in force */
+  --lift: #171a21; /* what stands one step over the ground: the thumb of a switch, a button pointed at */
+  --hover: rgb(255 255 255 / 0.04);
+  --cut: 7px; /* the corner a panel or a control has cut off */
+
+  --text: var(--body)/1.7 Literata, "Iowan Old Style", Palatino, Georgia, serif;
+  --ui-family: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --ui: var(--md)/1.5 var(--ui-family);
+  --mono: "Plex Mono", ui-monospace, Menlo, monospace;
+  --faint: #5b6472; /* a subject with nothing under it yet */
+  --on: #fff; /* a switch's label in force, and a figure as it flares */
+  --off: #6b7280; /* a switch's label not in force */
+  --track: #050608; /* a switch's track sinks a step under the bar */
+  --thumb: #1e222b; /* and its thumb stands a step over it */
+  --thumb-edge-top: rgb(255 255 255 / 0.1);
+  --thumb-edge-all: rgb(255 255 255 / 0.06);
+  --signal-line: var(--signal); /* the loud colour as a line or a ring, where it has to read on the ground */
+  --signal-hover: #fff35a;
+  /* The ink Jev's reading lays on the text, and what an eaten word leaves. */
+  --gone: #363b44;
+  --passed: #727985;
+  --rated-0: #4f5560;
+  --rated-1: #7f858f;
+  --ghost-catch: #1f4a4e;
+  --ghost-prize: #5a2228;
+  --pointed: rgb(255 255 255 / 0.1);
+  --glow: rgb(238 240 242 / 0.5); /* the lift under a hairline that is lit */
+  --bar: 52px;
+  --readout: 88px; /* the height of the readout band over the web */
+  /* The whole type scale: six sizes. */
+  --xs: 10px;
+  --sm: 12px;
+  --md: 14px;
+  --body: 19px;
+  --h2: 27px;
+  --h1: 46px;
+  /* The window is two halves: the text in a column on the left, with room
+     beside it for the crawler to run in, and the web from there to the right
+     edge. The column sits in the middle of its half. */
+  --column: min(600px, calc(var(--web-left) - 200px));
+  --web-left: max(clamp(760px, 62vw, 900px), 46vw); /* 900 from 1450 px up; narrower, the text keeps its column and the web gives */
+  --margin: calc((var(--web-left) - var(--column)) / 2);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+  color-scheme: dark;
+}
+
+/* The same instrument on a clear ground: every step of grey mirrored, the two
+   worths deepened to hold on white, the loud colour kept as a fill and
+   darkened where it is a line. The crawler is an object and is lit the same. */
+:root[data-theme="clear"] {
+  color-scheme: light;
+  --bg: #f7f8fa;
+  --panel: #eef0f3;
+  --rule: #d3d7de;
+  --hairline: rgb(0 0 0 / 0.09);
+  --link: rgb(0 0 0 / 0.13);
+  --ink: #454b57;
+  --ink-strong: #101216;
+  --ink-dim: #6d7380;
+  --ground: #f3f4f7;
+  --edge: #a3abb8;
+  --faint: #a4abb6;
+  --catch: #0b7f86;
+  --prize: #d02a3a;
+  --rule-hover: #aab1bd;
+  --lift: #e6e9ee;
+  --hover: rgb(0 0 0 / 0.04);
+  --on: #101216;
+  --off: #6b717d;
+  --track: #e4e7ec;
+  --thumb: #fff;
+  --thumb-edge-top: rgb(255 255 255 / 0.9);
+  --thumb-edge-all: rgb(0 0 0 / 0.1);
+  --signal-line: #a89c00;
+  --signal-hover: #fff35a;
+  --gone: #c2c7cf;
+  --passed: #9097a2;
+  --rated-0: #b4b9c2;
+  --rated-1: #80868f;
+  --ghost-catch: #3ea5ad;
+  --ghost-prize: #d9606d;
+  --pointed: rgb(0 0 0 / 0.07);
+  --glow: rgb(16 18 22 / 0.35);
+}
+
+::selection {
+  background: var(--signal);
+  color: #000;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding: calc(var(--bar) + 72px) 0 240px var(--margin);
+  color: var(--ink);
+  font: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Bar ---------- */
+
+#bar {
+  position: fixed;
+  z-index: 4;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--bar);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--rule);
+  background:
+    linear-gradient(var(--signal-line), var(--signal-line)) left bottom / 72px 1px no-repeat,
+    var(--bg);
+  font: var(--ui);
+}
+
+#bar .name {
+  margin-right: 16px;
+  color: var(--ink-strong);
+  font: var(--sm)/1 var(--mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+#bar form {
+  display: flex;
+  min-width: 0;
+}
+
+#address {
+  flex: 1;
+  max-width: 560px;
+}
+
+/* Controls. Three kinds, told apart by what they are, not by decoration:
+   an action (sans, sentence case, square; the one that matters is yellow with its corner cut),
+   a switch (a track with a label, one thumb that slides to the one in force),
+   a readout (mono) for what is typed or measured. */
+#bar input,
+#bar select,
+#bar > button,
+#address button {
+  height: var(--control);
+  border: 1px solid var(--rule);
+  border-radius: 0;
+  background: var(--panel);
+  color: var(--ink);
+}
+
+#bar input {
+  flex: 1;
+  min-width: 0;
+  padding: 0 12px;
+  border-right: 0;
+  font: var(--sm) var(--mono);
+  letter-spacing: 0.02em;
+  transition: border-color 120ms;
+}
+
+#bar input:hover,
+#bar select:hover {
+  border-color: var(--rule-hover);
+}
+
+#bar input::placeholder {
+  color: var(--ink-dim);
+}
+
+#bar select {
+  max-width: 220px;
+  padding: 0 30px 0 12px;
+  appearance: none;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none' stroke='%238a909c' stroke-width='1.25'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E") right 11px center / 10px 6px no-repeat,
+    var(--panel);
+  font: var(--ui);
+  font-size: 13px;
+  cursor: pointer;
+  transition: border-color 120ms;
+}
+
+/* The one thing to do: the crawl, in the loud colour, its corner cut. */
+#address button {
+  padding: 0 18px 0 14px;
+  border-color: var(--signal);
+  background: var(--signal);
+  color: #000;
+  font: 600 13px var(--ui-family);
+  letter-spacing: -0.005em;
+  clip-path: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, 0 100%);
+  cursor: pointer;
+  transition: background-color 120ms, transform 100ms;
+}
+
+#address button:hover {
+  background: var(--signal-hover);
+}
+
+/* Once the crawler has eaten everything, the one thing to do is read the summary: it takes the loud colour. */
+body.is-done #address button {
+  border-color: var(--rule);
+  background: var(--panel);
+  color: var(--ink);
+  font-weight: 500;
+}
+
+body.is-done .web-tools .web-read {
+  border-color: var(--signal);
+  background: var(--signal);
+  color: #000;
+  font-weight: 600;
+  clip-path: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, 0 100%);
+}
+
+body.is-done .web-tools .web-read:hover {
+  background: var(--signal-hover);
+}
+
+#bar :is(input, select, button):focus-visible {
+  outline: 1px solid var(--signal-line);
+  outline-offset: 2px;
+}
+
+#address button:active {
+  transform: scale(0.97);
+}
+
+/* A switch in the bar, how fast everything goes and how much of Jev shows: a label, then a
+   track of equal cells with one thumb under the one in force. The thumb slides, so the change
+   of state is seen as a move from one to the other, not a flash. */
+.switch {
+  display: flex;
+  align-items: stretch;
+  height: var(--control);
+  padding-right: 3px;
+  border: 1px solid var(--hairline);
+  background: var(--track);
+}
+
+#camera {
+  --n: 2;
+  margin-left: auto;
+}
+
+#speed {
+  --n: 4;
+  margin-left: 12px;
+}
+
+#jev-mode {
+  --n: 3;
+}
+
+#theme {
+  --n: 2;
+}
+
+#skip {
+  margin-left: 12px;
+  padding: 0 12px;
+  font: 500 13px var(--ui-family);
+  letter-spacing: -0.005em;
+  cursor: pointer;
+  transition: border-color 120ms;
+}
+
+#skip:hover:not(:disabled) {
+  border-color: var(--rule-hover);
+}
+
+#skip:disabled {
+  color: var(--ink-dim);
+  cursor: default;
+}
+
+#skip + .switch {
+  margin-left: 20px;
+}
+
+.switch[hidden] {
+  display: none;
+}
+
+.switch > span {
+  display: flex;
+  align-items: center;
+  margin-right: 3px;
+  padding: 0 11px 0 10px;
+  border-right: 1px solid var(--hairline);
+  color: var(--ink-dim);
+  font: var(--xs)/1 var(--mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.switch .options {
+  --i: 0;
+  position: relative;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  align-self: center;
+  height: calc(var(--control) - 8px);
+}
+
+.switch .options:has(:nth-child(2)[aria-pressed="true"]) { --i: 1; }
+.switch .options:has(:nth-child(3)[aria-pressed="true"]) { --i: 2; }
+.switch .options:has(:nth-child(4)[aria-pressed="true"]) { --i: 3; }
+
+.switch .options::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  box-sizing: border-box;
+  width: calc(100% / var(--n));
+  background: var(--thumb);
+  box-shadow: inset 0 1px var(--thumb-edge-top), inset 0 0 0 1px var(--thumb-edge-all); /* an edge of light, not a shadow */
+  transform: translateX(calc(var(--i) * 100%));
+  transition: transform 200ms cubic-bezier(0.3, 0, 0, 1);
+}
+
+#bar .switch button {
+  position: relative;
+  min-width: 40px;
+  height: auto;
+  padding: 0 11px;
+  border: 0;
+  background: transparent;
+  color: var(--off);
+  font: 500 13px var(--ui-family);
+  letter-spacing: -0.005em;
+  cursor: pointer;
+  transition: color 120ms;
+}
+
+/* The speeds are numbers: a readout, in mono. */
+#speed button {
+  font: var(--sm) var(--mono);
+}
+
+#bar .switch button:hover {
+  color: var(--ink);
+}
+
+#bar .switch button[aria-pressed="true"] {
+  color: var(--on);
+}
+
+.switch kbd {
+  margin-left: 8px;
+  padding: 2px 4px;
+  border: 1px solid var(--hairline);
+  color: var(--faint);
+  font: var(--xs)/1 var(--mono);
+  letter-spacing: 0;
+}
+
+/* ---------- Page (page.js) ----------
+   The text as the page it was, set to be read: what the page says of itself
+   over the title, then the text, then where it came from. Hierarchy is light
+   and the families' roles: Literata for what is read, Instrument Sans for
+   what frames it, Plex Mono only for figures. What Jev does not read (the
+   pictures, the tables) stands back in grey. */
+
+main {
+  width: var(--column);
+}
+
+/* The crawler walks over the text. */
+#page {
+  position: relative;
+  z-index: 1;
+  overflow-wrap: break-word;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--ink-strong);
+  font-family: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  font-weight: 600;
+  text-wrap: balance;
+}
+
+p,
+ul,
+blockquote,
+pre {
+  margin: 0 0 22px;
+}
+
+ul {
+  padding-left: 22px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* What the page says of itself: where it is from, its name, its standfirst,
+   who wrote it and when, and how long it is. Read once; it takes a band. */
+.masthead {
+  margin-bottom: 48px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.masthead-source {
+  margin: 0 0 16px;
+  font: var(--ui);
+  font-size: var(--sm);
+}
+
+#page .masthead a {
+  color: var(--ink-dim);
+  text-decoration: none;
+}
+
+#page .masthead a:hover {
+  color: var(--ink-strong);
+}
+
+#page h1 {
+  margin: 0 0 16px;
+  font-size: var(--h1);
+  font-stretch: 85%;
+  line-height: 1.04;
+  letter-spacing: -0.022em;
+}
+
+.masthead-standfirst {
+  margin: 0 0 20px;
+  color: var(--ink-dim);
+  font-style: italic;
+  line-height: 1.5;
+  text-wrap: pretty;
+}
+
+/* Who and when on the left, how long on the right: one line, wrapping whole. */
+.masthead-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 16px;
+  margin: 0;
+  color: var(--ink-dim);
+  font: var(--ui);
+  font-size: var(--sm);
+}
+
+.masthead-byline {
+  color: var(--ink);
+}
+
+.masthead-measure {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: var(--xs);
+  white-space: nowrap;
+}
+
+.masthead-measure:only-child {
+  margin-left: 0;
+}
+
+/* Sections open on a hairline; what they are called is set tight. */
+#page h2 {
+  margin: 72px 0 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--hairline);
+  font-size: var(--h2);
+  font-stretch: 90%;
+  line-height: 1.16;
+  letter-spacing: -0.016em;
+}
+
+#page h3 {
+  margin: 40px 0 8px;
+  font-size: var(--body);
+  line-height: 1.3;
+  letter-spacing: -0.006em;
+}
+
+#page .masthead + h2 {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
+
+#page h2 + h3 {
+  margin-top: 0;
+}
+
+#page :is(p, li, blockquote) {
+  text-wrap: pretty;
+  hanging-punctuation: first;
+}
+
+/* A link reads as text with a line under it; the line lights when pointed at. */
+#page a {
+  color: inherit;
+  text-decoration: underline 1px var(--link);
+  text-underline-offset: 0.24em;
+  text-decoration-skip-ink: auto;
+  transition: text-decoration-color 120ms ease;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #page a:hover {
+    text-decoration-color: var(--ink-strong);
+  }
+}
+
+#page em {
+  font-style: italic;
+}
+
+#page strong {
+  font-weight: 620;
+}
+
+#page :is(p, li, blockquote, h3) code {
+  font-family: var(--mono);
+  font-size: 0.84em;
+}
+
+#page :is(ul, ol) {
+  margin: 0 0 22px;
+  padding-left: 28px;
+}
+
+#page li > :is(ul, ol) {
+  margin: 6px 0 0;
+}
+
+#page ul > li::marker {
+  content: "–  ";
+  color: var(--ink-dim);
+}
+
+#page ol > li::marker {
+  color: var(--ink-dim);
+  font: var(--sm) var(--mono);
+}
+
+#page blockquote {
+  margin: 0 0 22px;
+  padding-left: 28px;
+  font-style: italic;
+}
+
+/* Code is set in the face for figures, between two hairlines, with the
+   language the page labels it with over it. */
+#page pre {
+  margin: 0 0 28px;
+  padding: 14px 0;
+  overflow-x: auto;
+  border-block: 1px solid var(--hairline);
+  color: var(--ink-strong);
+  font: var(--sm)/1.65 var(--mono);
+  tab-size: 2;
+}
+
+#page p.is-language {
+  margin: 28px 0 0;
+  color: var(--ink-dim);
+  font: var(--xs)/2 var(--mono);
+}
+
+#page p.is-language + pre {
+  border-top-color: transparent;
+  padding-top: 4px;
+}
+
+/* Pictures and tables: the page's own, not read by Jev. Pictures that stood
+   together stand in one row at one height, each captioned at its own width;
+   one alone takes the column. */
+.figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 24px 16px;
+  margin: 36px 0 40px;
+}
+
+#page .figure-row figure {
+  flex: 0 1 auto;
+  margin: 0;
+}
+
+#page figure.is-table {
+  margin: 36px 0 40px;
+}
+
+#page figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: grayscale(1);
+  opacity: 0.6;
+  transition: filter 200ms ease, opacity 200ms ease;
+}
+
+#page .figure-row:not(:has(> figure:only-child)) img {
+  width: auto;
+  height: 176px;
+}
+
+#page .figure-row:has(> figure:only-child) img {
+  max-height: 440px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #page figure:hover img {
+    filter: none;
+    opacity: 1;
+  }
+}
+
+#page figcaption {
+  max-width: 52ch;
+  margin-top: 10px;
+  color: var(--ink-dim);
+  font: var(--ui);
+  font-size: var(--sm);
+  text-wrap: pretty;
+}
+
+/* In a row, a caption is as wide as its picture, never wider. */
+#page .figure-row:not(:has(> figure:only-child)) figcaption {
+  contain: inline-size;
+  min-width: 120px;
+}
+
+.figure-scroll {
+  overflow-x: auto;
+}
+
+#page table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--ink-dim);
+  font: var(--xs)/1.5 var(--mono);
+  font-variant-numeric: tabular-nums;
+}
+
+#page :is(th, td) {
+  padding: 7px 16px 7px 0;
+  border-bottom: 1px solid var(--hairline);
+  text-align: left;
+  vertical-align: top;
+}
+
+#page th {
+  color: var(--ink);
+  font-weight: inherit;
+}
+
+/* Where the page came from, at its foot. */
+.colophon {
+  margin-top: 72px;
+  padding-top: 16px;
+  border-top: 1px solid var(--hairline);
+  color: var(--ink-dim);
+  font: var(--ui);
+  font-size: var(--sm);
+}
+
+.colophon p {
+  margin: 0 0 4px;
+}
+
+.colophon span {
+  margin-right: 12px;
+}
+
+#page .colophon a {
+  color: var(--ink);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+#page .colophon a:hover {
+  color: var(--ink-strong);
+}
+
+/* ---------- Jev's triage of the text (page.js) ---------- */
+
+/* Four steps of ink. A section that is not part of the text is all but gone,
+   and says so in the margin beside its heading. */
+.is-skipped {
+  position: relative;
+  color: var(--gone);
+}
+
+.is-skipped[data-triage]::before {
+  content: attr(data-triage);
+  position: absolute;
+  top: 0.35em;
+  right: calc(100% + 30px);
+  width: min(96px, calc(var(--margin) - 38px));
+  color: var(--ink-dim);
+  font: var(--ui);
+  font-size: var(--sm);
+  line-height: 1.3;
+  letter-spacing: 0;
+  text-align: right;
+}
+
+/* A sentence a sparing reader passes over is dim; the rest is plain. */
+::highlight(passed) {
+  color: var(--passed);
+}
+
+/* A sentence to be eaten has a tick beside it, faint until the crawler has it. */
+#margin {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+#margin i {
+  position: absolute;
+  left: calc(var(--margin) - 22px);
+  width: 2px;
+  background: var(--worth);
+  opacity: 0.3;
+  transition: opacity 500ms ease-out;
+}
+
+#margin i.is-eaten {
+  opacity: 1;
+}
+
+/* ---------- Jev reading the text (watch.js) ---------- */
+
+/* Until Jev has read it the text is faint; its headings, the outline Jev
+   surveys first, are not. */
+#page.is-unread :is(p, li, blockquote, pre) {
+  color: var(--faint);
+}
+
+/* As Jev rates a sentence it takes its ink: four steps, from what a sparing
+   reader passes over to what they would keep of the whole. */
+::highlight(rated-0) {
+  color: var(--rated-0);
+}
+
+::highlight(rated-1) {
+  color: var(--rated-1);
+}
+
+::highlight(rated-2) {
+  color: var(--ink);
+}
+
+::highlight(rated-3) {
+  color: var(--ink-strong);
+}
+
+/* Jev hidden: its marks on the text go with it. */
+body.jev-hidden #page.is-unread :is(p, li, blockquote, pre) {
+  color: inherit;
+}
+
+body.jev-hidden :is(#margin i.jev-reading, #margin i.jev-tick) {
+  display: none;
+}
+
+body.jev-hidden ::highlight(rated-0),
+body.jev-hidden ::highlight(rated-1),
+body.jev-hidden ::highlight(rated-2),
+body.jev-hidden ::highlight(rated-3) {
+  color: inherit;
+}
+
+body.jev-hidden ::highlight(named) {
+  text-decoration: none;
+}
+
+/* The passage the console points at. */
+::highlight(pointed) {
+  background-color: var(--pointed);
+}
+
+/* The term Jev names a kept sentence by. */
+::highlight(named) {
+  text-decoration: underline 1px var(--ink-dim);
+  text-underline-offset: 0.3em;
+  text-decoration-skip-ink: none;
+}
+
+/* A passage Jev is reading has a bracket beside it, out past the ticks. */
+#margin i.jev-reading {
+  left: calc(var(--margin) - 34px);
+  width: 1px;
+  background: var(--ink-strong);
+  opacity: 1;
+  transition: none;
+}
+
+/* Beside a passage, as a proofreader would: bright while Jev reads it, then
+   what it kept of it, falling back. */
+#margin .jev-note {
+  position: absolute;
+  left: max(4px, calc(var(--margin) - 152px));
+  width: min(108px, calc(var(--margin) - 48px));
+  color: var(--ink-strong);
+  font: var(--ui);
+  font-size: var(--sm);
+  line-height: 1.4;
+  text-align: right;
+  transition: color 900ms ease-out;
+}
+
+#margin .jev-note.is-kept {
+  color: var(--ink-dim);
+}
+
+#margin .jev-note.is-passed {
+  color: var(--faint);
+}
+
+/* What Jev is doing, in words, over the text, until the crawler sets off. */
+#jev-caption {
+  position: fixed;
+  z-index: 3;
+  top: var(--bar);
+  left: var(--margin);
+  width: var(--column);
+  margin: 0;
+  padding: 22px 0 10px;
+  background: var(--bg);
+  color: var(--ink-dim);
+  font: var(--ui);
+  font-size: var(--sm);
+  line-height: 1.4;
+}
+
+/* Under it, how much of the text Jev has read: a hairline filled as far. */
+#jev-caption::before,
+#jev-caption::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background: var(--hairline);
+}
+
+#jev-caption::before {
+  z-index: 1;
+  background: var(--ink-dim);
+  transform: scaleX(var(--read, 0));
+  transform-origin: left;
+  transition: transform 240ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* Open, the console says what Jev is doing; the caption over the text would sit on its numbers. */
+body.jev-open #jev-caption {
+  display: none;
+}
+
+body.jev-hidden :is(#jev-caption, #margin .jev-note) {
+  display: none;
+}
+
+/* A sentence Jev keeps, before it has said what it is worth. */
+#margin i.jev-tick {
+  --worth: var(--ink-strong);
+}
+
+/* ---------- What is eaten (page.js, flight.js) ---------- */
+
+/* The two kinds of sentence, each in its colour. */
+.is-catch {
+  --worth: var(--catch);
+}
+
+.is-prize {
+  --worth: var(--prize);
+}
+
+/* An eaten word leaves its ghost: its own colour, most of the way down to the
+   page's. Nothing of the layout changes. */
+::highlight(eaten-catch) {
+  color: var(--ghost-catch);
+}
+
+::highlight(eaten-prize) {
+  color: var(--ghost-prize);
+}
+
+/* What the crawler points out, a surprise or a figure worth remembering: a
+   hairline under it, laid as it eats it. */
+::highlight(marked) {
+  text-decoration: underline 1px var(--signal-line);
+  text-underline-offset: 0.3em;
+  text-decoration-skip-ink: none;
+}
+
+#flight,
+#overlay {
+  position: absolute;
+  z-index: 2;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+/* A word on its way to the mouth: set exactly over the one on the page, each letter moved by flight.js. */
+#flight span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--worth);
+  white-space: pre;
+}
+
+#flight b {
+  display: inline-block;
+  font-weight: inherit;
+}
+
+/* The name of a subject the crawler has torn off the web. */
+#flight span.is-name {
+  color: var(--ink-strong);
+}
+
+/* ---------- Crawler (overlay.js) ---------- */
+
+#overlay {
+  --crawler-catch: var(--catch);
+  --crawler-prize: var(--prize);
+}
+
+/* The dragline of a jump, over the page. */
+#overlay svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+#overlay path {
+  fill: none;
+  stroke: var(--ink-strong);
+  stroke-width: 0.6;
+}
+
+#overlay canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* ---------- Web (web.js) ----------
+   An instrument: one monospaced face at one weight, hairlines, and light for
+   hierarchy. Colour marks only what is essential (rose) and what is being
+   laid right now (mint). */
+
+#web {
+  position: fixed;
+  z-index: 1;
+  top: var(--bar);
+  right: 0;
+  bottom: 0;
+  left: var(--web-left);
+  overflow: hidden;
+  border-left: 1px solid var(--rule);
+  background: var(--ground);
+  color: var(--ink-dim);
+  font: var(--sm)/1.5 var(--mono);
+  transition: left 420ms cubic-bezier(0.2, 0, 0, 1);
+}
+
+/* What the graph is drawn on. */
+.web-sheet {
+  user-select: none;
+  -webkit-user-select: none;
+  position: absolute;
+  inset: var(--readout) 0 0;
+  overflow: hidden;
+}
+
+#web svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font: var(--sm) var(--mono);
+}
+
+/* What is going on, while there is no web yet. */
+.web-status {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  margin: 0;
+  padding: 0 12%;
+  color: var(--ink-dim);
+  font: var(--sm)/1.6 var(--mono);
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.web-status:empty {
+  display: none;
+}
+
+/* ---------- Jev making its plan (console.js) ----------
+   Where the web will be, until it is spun: an instrument of Jev's verdicts.
+   Light alone tells what is done, going on and to come, and what Jev was
+   unsure of from what it was sure of. A gauge is hairlines and fills of grey;
+   the line a yes has to clear is the brightest thing on it. */
+
+.web-jev {
+  position: absolute;
+  z-index: 1;
+  inset: 0;
+  display: grid;
+  grid-template-rows: var(--readout) auto minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas: "head" "strip" "sections" "foot";
+  background: var(--ground);
+  font: var(--sm)/1.5 var(--mono);
+  transition: opacity 420ms ease-out;
+}
+
+.web-jev[hidden] {
+  display: none;
+}
+
+.web-jev.is-done {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.web-jev > header {
+  grid-area: head;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 0 20px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.web-jev .web-readout span {
+  padding: 0 16px;
+}
+
+/* The sections, all there from the start: a title and a live line of what is in it. */
+.jev-sections {
+  grid-area: sections;
+  display: grid;
+  grid-template-columns: minmax(340px, 34%) minmax(0, 1fr);
+  min-height: 0;
+  overflow: hidden;
+}
+
+.jev-col {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule) transparent;
+}
+
+.jev-col + .jev-col {
+  border-left: 1px solid var(--rule);
+}
+
+.jev-section {
+  border-bottom: 1px solid var(--rule);
+}
+
+.jev-section > header {
+  display: grid;
+  grid-template-columns: 10ch minmax(0, 1fr);
+  align-items: center;
+  column-gap: 12px;
+  padding: 10px 24px;
+  color: var(--ink-strong);
+  font: var(--xs)/16px var(--mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.jev-section > header b {
+  font-weight: inherit;
+}
+
+.jev-section > header span {
+  overflow: hidden;
+  color: var(--ink-dim);
+  letter-spacing: 0.04em;
+  text-overflow: ellipsis;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.jev-section-body {
+  padding: 0 24px 16px;
+}
+
+/* The stages, each a track along the whole time so far. */
+.jev-section.is-steps {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 0;
+  border-bottom: 0;
+}
+
+.jev-section.is-steps .jev-section-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 0;
+}
+
+/* The stages share the height of the column, so a track is as tall as there is room and its requests lie one above another. */
+.jev-section.is-steps .jev-stages {
+  flex: 1;
+  grid-auto-rows: 22px;
+  flex: none;
+  max-height: 260px;
+}
+
+.jev-stages {
+  display: grid;
+  grid-template-columns: 3ch max-content minmax(0, 1fr) max-content;
+  column-gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  letter-spacing: 0.04em;
+}
+
+.jev-stages li {
+  display: contents;
+  color: var(--faint);
+}
+
+.jev-stages li > * {
+  align-self: center;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.jev-stages li > .jev-track {
+  align-self: stretch;
+}
+
+.jev-stages span:nth-child(2) {
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.jev-stages time {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.jev-stages li.is-done {
+  color: var(--ink-dim);
+}
+
+.jev-stages li.is-on {
+  color: var(--ink-strong);
+}
+
+.jev-track {
+  position: relative;
+  align-self: stretch;
+  min-height: 20px;
+}
+
+/* How long the stage has gone on: a line along the foot of its track. */
+.jev-track .jev-span {
+  position: absolute;
+  bottom: 0;
+  height: 1px;
+  background: var(--ink-dim);
+}
+
+/* A request Jev has out: a bright line from when it went out, in its own lane. */
+.jev-track i:not(.jev-span) {
+  position: absolute;
+  min-width: 1px;
+  height: 1px;
+  background: var(--ink-strong);
+  box-shadow: 0 0 3px 0 var(--glow);
+}
+
+/* An answer: a tick where it came back. */
+.jev-track i.is-back {
+  width: 1px;
+  height: 4px;
+  background: var(--ink-dim);
+}
+
+.jev-stages li.is-on .jev-span {
+  background: var(--ink);
+}
+
+/* How Jev is being asked, said under the steps. */
+.jev-speed {
+  margin: 10px 0 0;
+  color: var(--ink-dim);
+  line-height: 18px;
+  letter-spacing: 0;
+}
+
+/* The subjects, each with how sure Jev is that it is one. */
+.jev-board {
+  columns: 2;
+  column-gap: 32px;
+  max-height: 34vh;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  list-style: none;
+  line-height: 20px;
+}
+
+.jev-board:empty {
+  display: none;
+}
+
+.jev-board li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 36px 3ch;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink-dim);
+  white-space: nowrap;
+  break-inside: avoid;
+}
+
+.jev-board .jev-gauge[hidden] {
+  display: flex;
+  visibility: hidden;
+}
+
+.jev-board li > span:first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.jev-board li > i {
+  color: inherit;
+  font-style: normal;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.jev-board li.is-in {
+  color: var(--ink);
+}
+
+/* Reading: a short bright run goes along the gauge until the odds land, each out of step with the others. */
+.jev-board li.is-reading .jev-gauge {
+  overflow: hidden;
+}
+
+.jev-board li.is-reading .jev-gauge::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 40%;
+  background: var(--ink-strong);
+  animation: jev-read 0.7s linear infinite;
+  animation-delay: var(--phase, 0s);
+}
+
+.jev-board li.is-reading .jev-gauge::after {
+  display: none;
+}
+
+@keyframes jev-read {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(250%);
+  }
+}
+
+/* Landed: the line runs out to its odds and the whole row flares, then settles. What is kept radiates a little at rest. */
+.jev-board .jev-gauge.is-boolean i {
+  transition: width 0.32s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.jev-board li.is-in .jev-gauge i {
+  background: var(--ink-strong);
+}
+
+.jev-board li.is-landed .jev-gauge i {
+  animation: jev-land 0.9s ease-out;
+}
+
+.jev-board li.is-landed {
+  animation: jev-flare 0.9s ease-out;
+}
+
+@keyframes jev-land {
+  from {
+    filter: brightness(2);
+  }
+}
+
+@keyframes jev-flare {
+  from {
+    color: var(--on);
+  }
+}
+
+.jev-board li.is-out {
+  color: var(--faint);
+}
+
+.jev-board li.is-out > span:first-child {
+  text-decoration: line-through 1px;
+}
+
+.jev-board li.is-theme {
+  color: var(--ink-strong);
+}
+
+/* The verdicts: newest at the foot. A close call is bright; a sure one falls back. */
+.jev-feed {
+  height: 100%;
+  padding: 0;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule) transparent;
+}
+
+/* Docked, of every request only the verdict Jev was least sure of, and of a pick its two likeliest options. */
+.jev-verdict:not(.is-lead),
+.jev-columns,
+.jev-other ~ .jev-other,
+.jev-close-only {
+  display: none;
+}
+
+/* Open: the console takes the window but for a strip of the text, the
+   stages and subjects on the left, every verdict on the right, scrolled. */
+body.jev-open #web {
+  z-index: 3;
+  left: 56px;
+}
+
+/* The right column does not scroll as a whole: the strip of subjects holds its place, and the verdicts scroll under it. */
+.jev-col:has(.is-verdicts) {
+  overflow: hidden;
+}
+
+.jev-section.is-verdicts {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 0;
+  border-bottom: 0;
+}
+
+.jev-section.is-verdicts .jev-section-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 0;
+  padding: 0 24px;
+}
+
+.jev-section.is-verdicts .jev-feed {
+  flex: 1;
+  height: auto;
+  min-height: 0;
+}
+
+/* The subjects are a light strip of one line under the readout: three at a time run along it from the right, each read, then taken or struck, and pushed left by the next. */
+.jev-strip {
+  grid-area: strip;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  height: 36px;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.jev-strip > b {
+  flex: none;
+  color: var(--faint);
+  transition: color 400ms;
+  font: var(--xs)/16px var(--mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* While Jev is weighing, the strip's name is one step lit; when it is done it goes out. */
+.jev-strip.is-working > b {
+  color: var(--ink);
+}
+
+.jev-board.jev-reel {
+  position: relative;
+  flex: 1;
+  height: 20px;
+  max-height: none;
+  columns: auto;
+  overflow: hidden;
+}
+
+.jev-reel li {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% / 3);
+  height: 20px;
+  padding-right: 24px;
+  grid-template-columns: minmax(0, 1fr) 40px 3ch 6ch;
+  transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.3s;
+}
+
+.jev-reel li > b {
+  font-weight: inherit;
+  letter-spacing: 0.06em;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.jev-tally {
+  flex: none;
+  color: var(--ink-dim);
+}
+
+body.jev-open .jev-verdict {
+  display: grid;
+}
+
+/* Docked, the column is narrow: a row is what Jev decided and about what, its gauge left for the console open. */
+body:not(.jev-open) :is(.jev-verdict, .jev-columns) {
+  grid-template-columns: 4ch 16ch minmax(0, 1fr) 3ch;
+}
+
+body:not(.jev-open) .jev-chapter > header {
+  grid-template-columns: 4ch auto minmax(0, 1fr);
+}
+
+body:not(.jev-open) .jev-chapter-stat,
+body:not(.jev-open) .jev-chapter .jev-spread,
+body:not(.jev-open) .jev-verdict :is(.jev-gauge, .jev-ticks),
+body:not(.jev-open) .jev-columns > :nth-child(4) {
+  display: none;
+}
+
+
+body.jev-open .jev-close-only {
+  display: inline-block;
+}
+
+body.jev-open .jev-feed.is-close-only :is(.jev-verdict:not(.is-close, .jev-columns), .jev-sum) {
+  display: none;
+}
+
+.jev-controls {
+  display: flex;
+  flex: none;
+  gap: 8px;
+}
+
+/* Once the plan is made the one thing to do is let the crawler go: it takes the loud colour. */
+.jev-go {
+  padding: 0 18px 0 14px;
+  border-color: var(--signal);
+  background: var(--signal);
+  color: #000;
+  font: 600 13px var(--ui-family);
+  letter-spacing: -0.005em;
+  clip-path: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, 0 100%);
+  cursor: pointer;
+}
+
+.jev-go:hover {
+  background: var(--signal-hover);
+}
+
+.web-jev .web-readout {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.jev-foot {
+  grid-area: foot;
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px 24px;
+}
+
+.jev-foot .web-read {
+  opacity: 0.3;
+  transition: opacity 120ms;
+}
+
+.jev-foot .web-read:is(:hover, :focus-visible) {
+  opacity: 1;
+}
+
+/* The heads of the verdicts' columns, over the feed. */
+body.jev-open .jev-columns {
+  padding: 10px 0 6px;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink-dim);
+  font-size: var(--xs);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.jev-verdict {
+  display: grid;
+  grid-template-columns: 7ch 20ch minmax(0, 1fr) 72px 3ch;
+  align-items: center;
+  column-gap: 12px;
+  color: var(--ink-dim);
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.jev-verdict.is-close {
+  color: var(--ink-strong);
+}
+
+.jev-verdict.is-close .jev-gauge i {
+  box-shadow: 0 0 5px 0 var(--glow);
+}
+
+.jev-feed > :last-child.is-close {
+  color: var(--ink-strong);
+}
+
+.jev-verdict > b.is-essential {
+  color: var(--prize);
+}
+
+/* Sure verdicts that say the same are one row: a tick for each, as tall as it was sure. */
+.jev-ticks {
+  display: flex;
+  align-items: flex-end;
+  gap: 1px;
+  height: 12px;
+  overflow: hidden;
+}
+
+.jev-ticks i {
+  flex: none;
+  width: 1px;
+  background: currentColor;
+}
+
+.jev-verdict > b {
+  font-weight: inherit;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.jev-stamp,
+.jev-figure {
+  font-variant-numeric: tabular-nums;
+}
+
+.jev-stamp {
+  color: var(--ink-dim);
+}
+
+.jev-figure {
+  text-align: right;
+}
+
+.jev-about {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.jev-about i {
+  color: var(--ink-dim);
+  font-style: normal;
+}
+
+.jev-verdict:not(.is-close) .jev-about i {
+  color: var(--ink-dim);
+}
+
+.jev-about em {
+  color: var(--ink-strong);
+  font-style: normal;
+}
+
+.jev-about em:not(:empty) + span,
+.jev-about em:not(:empty) + i + span {
+  margin-left: 1.5ch;
+  color: var(--ink-dim);
+}
+
+.jev-verdict:not(.is-close) .jev-about em {
+  color: var(--ink);
+}
+
+/* What Jev made of a passage is the sum of the verdicts above it: ruled off from them, and brighter. */
+.jev-passage {
+  margin-bottom: 6px;
+  padding-top: 3px;
+  border-top: 1px solid var(--rule);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.jev-passage:hover {
+  color: var(--ink-strong);
+}
+
+/* What is kept of the text, a block standing beside the figure: filled as high as the share kept. */
+.web-readout span {
+  position: relative;
+}
+
+.web-readout span:has(.is-volume) {
+  padding-right: 56px;
+}
+
+.jev-gauge.is-volume {
+  position: absolute;
+  right: 24px;
+  bottom: 14px;
+  align-items: flex-end;
+  width: 14px;
+  height: 34px;
+  margin: 3px 3px 0 0;
+}
+
+.jev-gauge.is-volume i {
+  display: block;
+  width: 100%;
+  background: var(--ink);
+  opacity: 0.8;
+}
+
+/* A gauge is a hairline: a line of the row's own ink from nothing to the odds, over a fainter track, and the tick it has to clear. A yes or no: the line at one half. */
+.jev-gauge {
+  position: relative;
+  display: flex;
+  height: 2px;
+  background: var(--rule);
+}
+
+.jev-gauge.is-boolean i {
+  display: block;
+  height: 100%;
+  background: currentColor;
+}
+
+.jev-gauge.is-boolean::after {
+  content: "";
+  position: absolute;
+  top: -3px;
+  bottom: -3px;
+  left: calc(var(--line, 0.5) * 100%);
+  width: 1px;
+  background: var(--ink-dim);
+}
+
+/* What share of a passage is kept: the bar from nothing to all of it. */
+.jev-gauge.is-share i {
+  display: block;
+  height: 100%;
+  background: currentColor;
+}
+
+/* A pick: its likeliest options as shares of one bar, the one picked the brightest. */
+.jev-gauge.is-choice i {
+  height: 100%;
+  border-right: 1px solid var(--ground);
+  background: var(--faint);
+}
+
+.jev-gauge.is-choice i:first-child {
+  background: currentColor;
+}
+
+.jev-gauge.is-choice i:nth-child(2) {
+  background: var(--ink-dim);
+  opacity: 0.6;
+}
+
+/* A rating: the probability of each level, from the lowest. */
+.jev-gauge.is-score {
+  align-items: flex-end;
+  gap: 2px;
+  height: 14px;
+  background: none;
+  border-bottom: 1px solid var(--rule);
+}
+
+.jev-gauge.is-score i {
+  flex: 1;
+  background: currentColor;
+}
+
+/* A stage of the verdicts: its head stays at the top as the rows go by. */
+.jev-chapter > header {
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  display: grid;
+  grid-template-columns: 7ch auto minmax(0, 1fr) auto 72px;
+  align-items: center;
+  column-gap: 12px;
+  margin-top: 8px;
+  padding: 10px 0 6px;
+  border-bottom: 1px solid var(--rule);
+  background: var(--ground);
+  color: var(--ink-dim);
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.jev-chapter > header b {
+  font-weight: inherit;
+}
+
+.jev-chapter-name {
+  color: var(--ink-strong);
+  font-size: var(--xs);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.jev-chapter-said {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.jev-chapter-stat {
+  font-variant-numeric: tabular-nums;
+}
+
+/* What the stage asks, a dim line under the head's numbers, as wide as the head. */
+/* A quiet stage is its head alone, until it is opened. */
+.jev-chapter.is-quiet:not(.is-open) > :not(header) {
+  display: none;
+}
+
+.jev-chapter.is-quiet > header {
+  cursor: pointer;
+}
+
+.jev-chapter.is-quiet:not(.is-open) > header {
+  position: static;
+}
+
+.jev-chapter-does {
+  grid-column: 2 / -1;
+  margin: 0;
+  overflow: hidden;
+  color: var(--ink-dim);
+  font-size: var(--xs);
+  line-height: 16px;
+  text-overflow: ellipsis;
+}
+
+/* How sure Jev was across the stage: a bar for each place from unsure (left) to sure (right), as tall as the verdicts that fell there; the bright half is the close calls. */
+.jev-spread {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  gap: 1px;
+  height: 18px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.jev-spread i {
+  flex: 1;
+  min-height: 1px;
+  background: var(--ink-dim);
+  opacity: 0.5;
+}
+
+.jev-spread i.is-near {
+  background: var(--ink-strong);
+  opacity: 1;
+}
+
+.jev-spread::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 1px;
+  background: var(--ink-dim);
+}
+
+/* What a stage comes to more than once: a line each, under its rows. */
+.jev-sum {
+  padding: 4px 0;
+  color: var(--ink-dim);
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.jev-sum span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Jev made no plan: what happened, what it means, and the one thing to do, over the console. */
+.jev-failure {
+  position: absolute;
+  z-index: 3;
+  inset: var(--readout) 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+  padding: 0 max(24px, 12%);
+  background: var(--ground);
+}
+
+.jev-failure b {
+  color: var(--ink-strong);
+  font: 500 var(--md)/1.4 var(--ui-family);
+  letter-spacing: -0.005em;
+}
+
+.jev-failure p {
+  max-width: 44ch;
+  margin: 0;
+  color: var(--ink);
+  font: var(--ui);
+}
+
+.jev-failure .jev-else {
+  color: var(--ink-dim);
+}
+
+.jev-again {
+  height: 32px;
+  margin-top: 8px;
+  padding: 0 18px 0 14px;
+  border: 1px solid var(--signal);
+  border-radius: 0;
+  background: var(--signal);
+  color: #000;
+  font: 600 13px var(--ui-family);
+  clip-path: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, 0 100%);
+  cursor: pointer;
+}
+
+.jev-again:hover {
+  background: var(--signal-hover);
+}
+
+/* The readout, top left, and the pause, bottom left. Neither shows until the web is spun. */
+#web > header,
+#web > footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: none;
+  align-items: center;
+  gap: 24px;
+  pointer-events: none;
+}
+
+#web.is-spun > header,
+#web.is-spun > footer {
+  display: flex;
+}
+
+#web > header {
+  top: 0;
+  height: var(--readout);
+  padding: 0 24px;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--rule);
+}
+
+#web > footer {
+  bottom: 18px;
+  padding: 0 24px;
+}
+
+/* Three figures, as an instrument would read them: the number large, what it counts beneath. */
+.web-readout {
+  display: flex;
+  align-self: stretch;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.web-readout span {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+  padding: 0 28px;
+  border-left: 1px solid var(--rule);
+}
+
+.web-readout span:first-child {
+  padding-left: 0;
+  border-left: 0;
+}
+
+.web-readout b {
+  color: var(--ink-strong);
+  font: var(--h2)/1 var(--mono);
+  font-weight: inherit;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+.web-readout b::after {
+  content: attr(data-of);
+  color: var(--faint);
+  font-size: var(--md);
+  letter-spacing: 0;
+}
+
+.web-readout i {
+  color: var(--ink-dim);
+  font: var(--xs)/1 var(--mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* An action in the console: square, sans, sentence case. A toggle shows it is on by a step of light and a firmer line. */
+.web-read,
+.web-copy,
+.web-hide,
+.web-close,
+.web-pause,
+.web-toggle,
+.web-merge {
+  height: 28px;
+  padding: 0 12px;
+  border: 1px solid var(--rule);
+  border-radius: 0;
+  background: transparent;
+  color: var(--ink);
+  font: 500 12px var(--ui-family);
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  pointer-events: auto;
+  transition: background-color 120ms, border-color 120ms, color 120ms, transform 100ms;
+}
+
+:is(.web-read, .web-copy, .web-hide, .web-close, .web-pause, .web-toggle, .web-merge):hover {
+  border-color: var(--rule-hover);
+  background: var(--hover);
+  color: var(--ink-strong);
+}
+
+:is(.web-read, .web-copy, .web-hide, .web-close, .web-pause, .web-toggle, .web-merge):active {
+  transform: scale(0.97);
+}
+
+:is(.web-read, .web-copy, .web-hide, .web-close, .web-pause, .web-toggle, .web-merge):focus-visible {
+  outline: 1px solid var(--signal-line);
+  outline-offset: 2px;
+}
+
+.web-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.web-toggle::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border: 1px solid var(--ink-dim);
+}
+
+.web-toggle[aria-pressed="true"]::before {
+  border-color: var(--ink-strong);
+  background: var(--ink-strong);
+}
+
+:is(.web-toggle, .jev-close-only)[aria-pressed="true"] {
+  border-color: var(--rule-hover);
+  background: var(--lift);
+  color: var(--ink-strong);
+}
+
+.web-pause[aria-pressed="true"] {
+  border-color: var(--rule-hover);
+  background: var(--lift);
+  color: var(--ink-strong);
+}
+
+/* A spring between two subjects, or a subject's stem to its theme: not
+   drawn until one of the two is pointed at, then a hairline with its weight. */
+.web-springs path {
+  fill: none;
+  stroke: var(--edge);
+  stroke-width: 1;
+  opacity: 0;
+  transition: opacity 160ms, stroke 160ms;
+}
+
+.web-springs path.is-lit {
+  stroke: var(--ink);
+  opacity: 1;
+}
+
+/* Bonds at rest, as Jev measured them: a stem to a theme is a plain hairline, a bond between
+   subjects is dashed and the more it holds, the plainer it is. The reader can switch them off. */
+#web:not(.no-bonds) .web-springs path {
+  opacity: calc(0.14 + 0.5 * var(--weight, 0.45));
+}
+
+#web .web-springs path.is-stem:not(.is-lit) {
+  stroke: color-mix(in srgb, var(--edge), var(--ink) calc(var(--strain, 0) * 100%));
+}
+
+#web:not(.no-bonds) .web-springs path:not(.is-stem) {
+  stroke-dasharray: 2 4;
+}
+
+#web .web-springs path.is-lit {
+  opacity: 1;
+  stroke-dasharray: none;
+}
+
+#web svg.is-focused .web-springs path:not(.is-lit) {
+  opacity: 0.08;
+}
+
+.web-spring-weight {
+  fill: var(--ink);
+  font-size: var(--xs);
+  text-anchor: middle;
+  dominant-baseline: central;
+  paint-order: stroke;
+  stroke: var(--ground);
+  stroke-width: 4px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 160ms;
+}
+
+.web-spring-weight.is-lit {
+  opacity: 1;
+}
+
+/* A strand; a thread to another subject a sentence belongs under shows only
+   when one of the two is pointed at. */
+.web-threads path {
+  fill: none;
+  stroke: var(--rule);
+  stroke-width: 1;
+}
+
+/* A strand drawn taut shows lighter, the more it is drawn out (web.js). */
+.web-threads path:not(.is-tie) {
+  stroke: color-mix(in srgb, var(--rule), var(--ink) calc(var(--strain, 0) * 100%));
+}
+
+.web-threads path.is-tie {
+  stroke: var(--ink-dim);
+  stroke-dasharray: 2 4;
+  opacity: 0;
+  transition: opacity 160ms;
+}
+
+.web-threads path.is-tie.is-lit {
+  opacity: 0.6;
+}
+
+/* Something pointed at: what it is joined to stays, the rest falls back. */
+svg.is-focused :is(.web-hub, .web-node, .web-reach, .web-leaf, .web-threads path:not(.is-tie)):not(.is-near),
+svg.is-focused .web-springs path:not(.is-lit) {
+  opacity: 0.14;
+}
+
+.web-hub,
+.web-leaf,
+.web-threads path,
+.web-springs path {
+  transition: opacity 160ms, fill 300ms, stroke 160ms;
+}
+
+.is-hidden {
+  display: none;
+}
+
+/* A subject, or a spring, the crawler has not come to yet. */
+.is-unborn {
+  visibility: hidden;
+}
+
+/* A sentence: a point, or a square for an essential one; lit while it is being laid. */
+.web-leaf {
+  cursor: pointer;
+}
+
+/* A bead is small; what can be pointed at round it is not. */
+.web-leaf :is(circle, rect) {
+  stroke: transparent;
+  stroke-width: 12px;
+}
+
+.web-leaf circle {
+  fill: var(--ink-dim);
+}
+
+.web-leaf rect {
+  fill: var(--prize);
+}
+
+.web-leaf.is-laying :is(circle, rect) {
+  fill: var(--catch);
+}
+
+.web-leaf:hover circle {
+  fill: var(--ink-strong);
+}
+
+/* A subject: its name and its count, faint with nothing under it. */
+.web-hub {
+  fill: var(--faint);
+  font-size: var(--sm);
+  letter-spacing: 0.06em;
+  text-anchor: middle;
+  dominant-baseline: central;
+  paint-order: stroke;
+  stroke: var(--ground);
+  stroke-width: 6px;
+  stroke-linejoin: round;
+  cursor: grab;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: none;
+  transition: fill 300ms;
+}
+
+/* A theme with something under it is brighter than a subject under it. */
+.web-hub.is-fed {
+  fill: var(--ink-strong);
+}
+
+.web-hub.is-sub.is-fed {
+  fill: var(--ink);
+}
+
+/* The web is a graph: a subject is a node with its name under
+   it, as faint as it is empty; a sentence a bead held to it by a hairline,
+   its words read by pointing at it. */
+.web-node {
+  fill: var(--faint);
+  cursor: grab;
+  touch-action: none;
+  transition: fill 300ms, opacity 160ms;
+}
+
+.web-node.is-fed {
+  fill: var(--ink);
+}
+
+/* The subject a dragged one would fall into. */
+.web-node.is-docking {
+  fill: var(--ink-strong);
+}
+
+.web-node.is-centre {
+  fill: var(--ink-strong);
+}
+
+.web-node:hover,
+.web-node.is-open {
+  fill: var(--ink-strong);
+}
+
+/* The size a subject will have once all that the plan files under it is laid: a hairline the node grows inside. */
+.web-reach {
+  fill: none;
+  stroke: var(--edge);
+  stroke-width: 1px;
+  pointer-events: none;
+}
+
+.web-reach.is-framed {
+  stroke: var(--edge);
+}
+
+.web-reach.is-dial {
+  stroke: var(--ink);
+  stroke-width: 6px;
+}
+
+.web-reach.is-hot,
+.web-reach.is-open {
+  stroke: var(--ink-strong);
+}
+
+.web-reach.is-full {
+  display: none;
+}
+
+/* An older sentence is fainter, and one sinking into its subject fades out;
+   pointing at its subject brings all of them up. */
+.is-sunk {
+  display: none;
+}
+
+:is(.web-leaf, .web-threads path:not(.is-tie)) {
+  opacity: var(--fade, 1);
+}
+
+svg.is-focused :is(.web-leaf, .web-threads path:not(.is-tie)).is-near {
+  opacity: 1;
+}
+
+/* What the document is called, at the centre: lit from the start. */
+.web-hub.is-centre,
+.web-hub.is-centre .web-hub-count {
+  fill: var(--ink-strong);
+}
+
+/* A subject under a theme: a size down. */
+.web-hub.is-sub {
+  font-size: var(--xs);
+}
+
+/* A subject with one sentence: a faint name, no number, until it is fed or pointed at. */
+.web-hub.is-minor {
+  font-size: var(--xs);
+}
+
+.web-hub.is-minor.is-fed {
+  fill: var(--ink-dim);
+}
+
+.web-hub.is-minor .web-hub-index,
+.web-hub.is-minor .web-hub-count {
+  display: none;
+}
+
+.web-hub-count,
+.web-hub-index,
+.web-hub-folded {
+  fill: var(--ink-dim);
+}
+
+/* How many subjects it has taken in, after its count. */
+.web-hub-folded {
+  font-size: var(--xs);
+}
+
+.web-hub-index {
+  font-size: var(--xs);
+}
+
+.web-hub:hover,
+.web-hub.is-open,
+.web-hub.is-docking {
+  fill: var(--ink-strong);
+}
+
+/* The text of a sentence beside its bead, while it is laid or pointed at. */
+.web-note {
+  position: absolute;
+  width: 320px;
+  margin: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--rule);
+  border-left: 2px solid var(--worth);
+  background: var(--ground);
+  color: var(--ink-strong);
+  font: var(--sm)/1.6 var(--mono);
+  pointer-events: none;
+}
+
+.web-note p {
+  margin: 0;
+}
+
+.web-note p + p {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid var(--hairline);
+}
+
+.web-note-more {
+  color: var(--ink-dim);
+}
+
+/* The drawer: the page of a subject, or the whole summary. */
+.web-page {
+  position: absolute;
+  top: 64px;
+  right: 24px;
+  bottom: 64px;
+  width: min(400px, calc(100% - 48px));
+  display: flex;
+  flex-direction: column;
+  padding: 18px 20px 0;
+  border: 1px solid var(--rule);
+  border-top-color: var(--edge);
+  background:
+    linear-gradient(225deg, transparent 11px, var(--edge) 11px 12px, transparent 12px) top right / 24px 24px no-repeat,
+    var(--ground);
+  clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 0 100%);
+}
+
+.web-page[hidden] {
+  display: none;
+}
+
+.web-page h2 {
+  margin: 0 72px 0 0;
+  color: var(--ink-strong);
+  font: var(--sm)/1.5 var(--mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.web-page p {
+  margin: 2px 0 14px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.web-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+}
+
+.web-copy,
+.web-hide {
+  align-self: flex-start;
+  margin: 12px 0 16px;
+}
+
+.web-page ol {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  list-style: none;
+  scrollbar-width: none;
+}
+
+.web-page li {
+  margin: 0 0 14px;
+  padding-left: 12px;
+  border-left: 1px solid var(--rule);
+  color: var(--ink);
+  font: var(--sm)/1.6 var(--mono);
+  cursor: pointer;
+}
+
+.web-page li.is-prize {
+  border-left-color: var(--prize);
+  color: var(--ink-strong);
+}
+
+.web-page li:hover {
+  color: var(--ink-strong);
+}
+
+/* The crawler's leg lands on an essential sentence: it gives, and comes back. */
+.web-page li {
+  transition: translate 0.38s cubic-bezier(0.2, 1.5, 0.4, 1);
+}
+
+.web-page li.is-touched {
+  translate: 7px 0;
+  transition-duration: 0.05s;
+}
+
+/* The other subjects a sentence is tied to, under it. */
+.web-page li i {
+  display: block;
+  margin-top: 3px;
+  color: var(--ink-dim);
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: var(--xs);
+}
+
+/* What stands above the document in one sentence. */
+.web-page li b {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--ink-dim);
+  font-weight: inherit;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: var(--xs);
+}
+
+/* The document in one sentence: brighter, and with no rule beside it. */
+.web-page li.web-page-lead {
+  margin-bottom: 10px;
+  padding-left: 0;
+  border-left: 0;
+  color: var(--ink-strong);
+  font-size: var(--md);
+}
+
+/* A subject of the summary, over its sentences. */
+.web-page li.web-page-subject {
+  margin: 24px 0 12px;
+  padding-left: 0;
+  border-left: 0;
+  color: var(--ink-strong);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: auto;
+}
+
+/* A subject brought into the theme above it: a section of its page. */
+.web-page li.web-page-subject.is-folded {
+  margin-top: 16px;
+  color: var(--ink);
+  font-size: var(--xs);
+}
+
+/* Paused to read: the graph takes the window but for a strip of the text,
+   over the crawler, with the summary open beside it. */
+body.is-reading #web {
+  z-index: 3;
+  left: 56px;
+}
+
+/* ---------- Windows under 1500 px: the web gives, the readings stay whole ---------- */
+
+@media (max-width: 1500px) {
+  #bar {
+    gap: 8px;
+    padding: 0 16px;
+  }
+
+  #bar .name {
+    margin-right: 4px;
+  }
+
+  #bar select {
+    max-width: 170px;
+  }
+
+  .switch > span {
+    display: none;
+  }
+
+  #speed {
+    margin-left: 4px;
+  }
+
+  #speed + .switch {
+    margin-left: 8px;
+  }
+
+  #web > header {
+    gap: 12px;
+    padding: 0 16px;
+  }
+
+  .web-readout span,
+  .web-jev .web-readout span {
+    padding: 0 16px;
+  }
+
+  .web-readout b {
+    font-size: 22px;
+  }
+
+  .web-readout span:has(.is-volume) {
+    padding-right: 40px;
+  }
+
+  .jev-gauge.is-volume {
+    right: 14px;
+    width: 10px;
+  }
+
+  .web-jev > header {
+    gap: 12px;
+    padding: 0 16px;
+  }
+
+  .web-jev .web-readout b {
+    font-size: 18px;
+  }
+
+  .web-jev .web-readout span {
+    padding: 0 9px;
+  }
+
+  .web-jev .web-readout span:first-child {
+    padding-left: 0;
+  }
+
+  .web-jev .web-readout span:has(.is-volume) {
+    padding-right: 28px;
+  }
+
+  .jev-sections {
+    grid-template-columns: minmax(172px, 36%) minmax(0, 1fr);
+  }
+
+  .jev-stages {
+    grid-template-columns: 2ch 11ch minmax(0, 1fr) 4ch;
+    column-gap: 6px;
+  }
+
+  .jev-stages span:nth-child(2) {
+    letter-spacing: 0.06em;
+  }
+
+  .jev-verdict {
+    grid-template-columns: 7ch 15ch minmax(0, 1fr) 40px 3ch;
+    column-gap: 8px;
+  }
+
+  .jev-verdict > b {
+    overflow: hidden;
+    letter-spacing: 0.04em;
+    text-overflow: ellipsis;
+  }
+
+  .jev-chapter > header {
+    grid-template-columns: 4ch auto minmax(0, 1fr) auto 48px;
+    column-gap: 8px;
+  }
+
+  .jev-reel li {
+    grid-template-columns: minmax(0, 1fr) 24px 3ch 4ch;
+    padding-right: 12px;
+  }
+
+  /* The strip is two lines when the web is narrow: the reel of three, then the tally under it. */
+  .jev-strip {
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 0 12px;
+    height: auto;
+    padding-block: 6px;
+  }
+
+  .jev-strip > b {
+    line-height: 20px;
+  }
+
+  .jev-board.jev-reel {
+    flex: 1 1 0;
+  }
+
+  .jev-tally {
+    flex: 1 0 100%;
+    min-height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .jev-strip {
+    gap: 12px;
+    padding: 0 16px;
+  }
+
+  .jev-section > header {
+    padding: 10px 16px;
+  }
+
+  .jev-section.is-verdicts .jev-section-body {
+    padding: 0 16px;
+  }
+
+  .web-page {
+    top: calc(var(--readout) + 8px);
+  }
+
+  .web-tools {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 1400px) {
+  #bar .name {
+    display: none;
+  }
+}
+
+/* ---------- Narrow windows: the web goes under the page ---------- */
+
+@media (max-width: 1180px) {
+  body {
+    padding: calc(var(--bar) + 40px) 24px calc(44vh + 120px);
+  }
+
+  main {
+    width: auto;
+    max-width: var(--column);
+    margin: 0 auto;
+  }
+
+  #web {
+    top: auto;
+    left: 0;
+    height: 44vh;
+    border-top: 1px solid var(--rule);
+    border-left: 0;
+  }
+
+  body.is-reading #web {
+    top: var(--bar);
+    height: auto;
+  }
+
+  #bar .name,
+  .is-skipped[data-triage]::before {
+    display: none;
+  }
+
+  #margin i {
+    left: 10px;
+  }
+}
+
+/* A theme's tether to the centre: plainer the heavier the theme. */
+.web-tethers path {
+  fill: none;
+  stroke: var(--edge);
+  stroke-width: 1;
+  opacity: 0;
+  transition: opacity 160ms, stroke 160ms;
+}
+
+#web:not(.no-bonds) .web-tethers path {
+  opacity: calc(0.1 + 0.4 * var(--weight, 0.3));
+}
+
+#web .web-tethers path.is-lit {
+  stroke: var(--ink);
+  opacity: 1;
+}
+
+#web svg.is-focused .web-tethers path:not(.is-lit) {
+  opacity: 0.05;
+}
+
+/* Switches over the web: bonds and orbit, beside the summary. */
+.web-tools {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.web-toggle[aria-pressed="false"] {
+  color: var(--ink-dim);
+}
+
+/* A subject's bonds, over its sentences: a gauge as Jev draws a yes or no, with the line from which two fall into one. */
+.web-bonds {
+  flex: none;
+  max-height: 28%;
+  margin: -2px 0 14px;
+  padding: 0 0 12px;
+  overflow-y: auto;
+  border-bottom: 1px solid var(--rule);
+  list-style: none;
+  scrollbar-width: none;
+}
+
+.web-bonds[hidden] {
+  display: none;
+}
+
+.web-bonds li {
+  display: grid;
+  grid-template-columns: 1fr auto 76px 28px auto;
+  align-items: center;
+  gap: 10px;
+  min-height: 28px;
+  color: var(--ink);
+  font: var(--xs)/1.4 var(--mono);
+  letter-spacing: 0.04em;
+}
+
+.web-bonds li.web-bonds-head {
+  display: block;
+  min-height: 0;
+  margin-bottom: 4px;
+  color: var(--ink-dim);
+  text-transform: uppercase;
+}
+
+.web-bond-name {
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.web-bond-name:hover {
+  color: var(--ink-strong);
+}
+
+.web-bonds em {
+  color: var(--ink-dim);
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.web-bonds b {
+  color: var(--ink-strong);
+  font-weight: 400;
+  text-align: right;
+}
+
+.web-bonds .web-merge {
+  height: 22px;
+  padding: 0 8px;
+  font-size: 11px;
+}
+
+.web-merge:disabled {
+  border-color: var(--rule);
+  color: var(--faint);
+  cursor: default;
+}
+
+:is(.web-bonds, .web-gauge) .jev-gauge {
+  width: 76px;
+  color: var(--ink);
+}
+
+:is(.web-bonds, .web-gauge) .jev-gauge.is-boolean::after {
+  left: var(--line);
+}
+
+:is(.web-bonds, .web-gauge) .jev-gauge.is-close i {
+  background: var(--ink-strong);
+  opacity: 0.9;
+}
+
+/* Over a dragged subject: Jev's reading of it against the nearest it is bonded to. */
+.web-gauge {
+  position: absolute;
+  display: grid;
+  grid-template-columns: auto 76px auto;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+  padding: 8px 10px;
+  border: 1px solid var(--rule);
+  background: var(--ground);
+  color: var(--ink-strong);
+  font: var(--xs)/1.4 var(--mono);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.web-gauge[hidden] {
+  display: none;
+}
+
+.web-gauge b {
+  font-weight: 400;
+}
+
+.web-gauge i {
+  grid-column: 1 / -1;
+  color: var(--ink-dim);
+  font-style: normal;
+}
+
+/* Subjects settle in seconds and said nothing a reader could use: the strip is gone, the verdicts take its room. */
+.jev-strip { display: none; }
+
+/* Verdicts by light: a sure one is a murmur, a close call is the brightest line in its stage, and a stage's head carries what it came to. */
+.jev-verdict:not(.is-close):not(.is-lead) { opacity: 0.55; transition: opacity 200ms; }
+.jev-verdict:not(.is-close):not(.is-lead):hover { opacity: 1; }
+.jev-verdict.is-close { color: var(--ink-strong); }
+.jev-chapter > header .jev-chapter-name { color: var(--ink-strong); letter-spacing: 0.16em; }
+.jev-chapter > header .jev-chapter-said { color: var(--ink); }
+
+/* What Jev keeps: the essential sentences in the order of the text, each a line of the reading face; the numbers are the order they were found in. */
+.jev-section.is-steps { flex: none; }
+.jev-section.is-gist { flex: 1; min-height: 0; border-top: 1px solid var(--rule); }
+.jev-section.is-gist .jev-section-body { overflow: auto; }
+.jev-gist { display: grid; gap: 12px; margin: 0; padding: 4px 0 0; list-style: none; }
+.jev-gist li { display: grid; grid-template-columns: 3ch minmax(0, 1fr); column-gap: 12px; cursor: pointer; animation: gist-in 400ms cubic-bezier(0.2, 0.8, 0.2, 1); }
+.jev-gist b { color: var(--faint); font: var(--xs)/22px var(--mono); }
+.jev-gist span { color: var(--ink); font: 14px/1.5 Literata, serif; }
+.jev-gist li:hover span { color: var(--ink-strong); }
+@keyframes gist-in { from { opacity: 0; transform: translateY(6px); } }
+
+/* The line a sentence has to clear: each carries how likely Jev found it essential, and under the last one kept, the likeliest left out. */
+.jev-gist li { grid-template-columns: 4ch minmax(0, 1fr) 40px 4ch; align-items: baseline; }
+.jev-gist-p { display: block; height: 1px; align-self: center; background: var(--hairline); }
+.jev-gist-p i { display: block; height: 3px; margin-top: -1px; background: var(--ink-dim); }
+.jev-gist u { color: var(--ink-dim); font: var(--xs)/22px var(--mono); text-align: right; text-decoration: none; }
+.jev-gist li.is-next { margin-top: 4px; padding-top: 12px; border-top: 1px dashed var(--rule-hover); opacity: 0.5; }
+.jev-gist li.is-next b { letter-spacing: 0.1em; text-transform: uppercase; }
+
+/* What Jev keeps, set small so that many show at once. */
+.jev-gist { gap: 8px; }
+.jev-gist span { font: 12px/1.4 Literata, serif; }
+.jev-gist b, .jev-gist u { font: var(--xs)/17px var(--mono); }
+.jev-gist li { grid-template-columns: 3ch minmax(0, 1fr) 4ch; }
+.jev-gist-p { display: none; }
+.jev-gist li.is-next { padding-top: 8px; }

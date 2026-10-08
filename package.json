@@ -1,0 +1,38 @@
+{
+  "name": "spidi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "corpus": "node corpus/judge.mjs",
+    "gold": "node corpus/gold/compare.mjs",
+    "bench": "node corpus/bench/run.mjs",
+    "score": "node corpus/bench/score.mjs",
+    "report": "node corpus/bench/report.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.1",
+    "@mozilla/readability": "^0.6.0",
+    "d3-force": "^3.0.0",
+    "jsdom": "^30.1.1",
+    "pdfjs-dist": "^6.4.299",
+    "sentence-splitter": "^5.0.1",
+    "stopwords-iso": "^1.1.0",
+    "three": "^0.186.1",
+    "tinyld": "^1.3.4"
+  },
+  "description": "A web crawler you can watch: a spider eats the sentences Jev kept and files them on a web.",
+  "license": "MIT",
+  "keywords": [
+    "web-crawler",
+    "summarization",
+    "visualization",
+    "three-js",
+    "d3-force",
+    "nlp",
+    "jev"
+  ],
+  "engines": {
+    "node": ">=20.11"
+  }
+}

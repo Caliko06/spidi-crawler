@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Semantic Crawler</title>
+  <link rel="icon" href="data:,">
+  <link rel="preload" href="fonts/literata.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/plex-mono.woff2" as="font" type="font/woff2" crossorigin>
+  <script>try { document.documentElement.dataset.theme = localStorage.getItem('theme') === 'clear' ? 'clear' : 'dark'; } catch { document.documentElement.dataset.theme = 'dark'; }</script>
+  <link rel="stylesheet" href="styles.css">
+  <script type="importmap">{ "imports": { "three": "/node_modules/three/build/three.module.js", "three/addons/": "/node_modules/three/examples/jsm/", "d3-force": "/node_modules/d3-force/src/index.js", "d3-quadtree": "/node_modules/d3-quadtree/src/index.js", "d3-dispatch": "/node_modules/d3-dispatch/src/index.js", "d3-timer": "/node_modules/d3-timer/src/index.js" } }</script>
+  <script type="module" src="src/main.js"></script>
+</head>
+<body>
+  <header id="bar">
+    <a class="name" href="/">Semantic Crawler</a>
+    <form id="address">
+      <input type="url" name="url" required placeholder="&gt; paste the address of any page" aria-label="Address of a page to crawl">
+      <button>Crawl it</button>
+    </form>
+    <form id="shelf">
+      <select name="id" aria-label="Pages of the corpus">
+        <option value="" disabled hidden>Or pick a page</option>
+      </select>
+    </form>
+    <div id="camera" class="switch" role="group" aria-label="Whether the page follows the crawler">
+      <div class="options">
+        <button type="button" value="follow" aria-pressed="true">Follow</button>
+        <button type="button" value="free" aria-pressed="false">Free</button>
+      </div>
+    </div>
+    <div id="speed" class="switch" role="group" aria-label="How fast everything goes">
+      <div class="options">
+        <button type="button" value="0.5" aria-pressed="false">½×</button>
+        <button type="button" value="1" aria-pressed="true">1×</button>
+        <button type="button" value="2" aria-pressed="false">2×</button>
+        <button type="button" value="4" aria-pressed="false">4×</button>
+      </div>
+    </div>
+    <button id="skip" type="button" title="Skip to the end">Skip to end</button>
+    <div id="jev-mode" class="switch" role="group" aria-label="How much of Jev shows (J)" title="J" hidden>
+      <div class="options">
+        <button type="button" value="hide" aria-pressed="false">Hide</button>
+        <button type="button" value="dock" aria-pressed="true">Dock</button>
+        <button type="button" value="open" aria-pressed="false">Open</button>
+      </div>
+    </div>
+    <div id="theme" class="switch" role="group" aria-label="The ground the page is read on">
+      <div class="options">
+        <button type="button" value="dark" aria-pressed="true">Dark</button>
+        <button type="button" value="clear" aria-pressed="false">Clear</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <article id="page"></article>
+  </main>
+
+  <div id="margin" aria-hidden="true"></div>
+  <div id="flight" aria-hidden="true"></div>
+  <div id="overlay" aria-hidden="true"></div>
+
+  <section id="web" aria-label="Web">
+    <div class="web-sheet">
+      <svg aria-hidden="true"></svg>
+    </div>
+    <p class="web-status" role="status"></p>
+    <div class="web-jev" role="log" aria-label="Jev making its plan" hidden></div>
+    <header>
+      <p class="web-readout"><span><b class="web-count"></b><i>Sentences</i></span><span><b class="web-words"></b><i>Words</i></span><span><b class="web-triage"></b><i title="Sentences Jev judged not worth reading">Skipped</i></span></p>
+      <div class="web-tools">
+        <button class="web-toggle web-bonds-toggle" type="button" aria-pressed="true">Bonds</button>
+        <button class="web-read" type="button">Summary</button>
+      </div>
+    </header>
+    <p class="web-note" hidden></p>
+    <p class="web-gauge" hidden></p>
+    <aside class="web-page" hidden>
+      <button class="web-close" type="button">Close</button>
+      <h2></h2>
+      <p></p>
+      <ul class="web-bonds" hidden></ul>
+      <ol></ol>
+      <button class="web-copy" type="button">Copy as Markdown</button>
+      <button class="web-hide" type="button">Hide from web</button>
+    </aside>
+    <footer>
+      <button class="web-pause" type="button" aria-pressed="false">Pause and read</button>
+    </footer>
+  </section>
+</body>
+</html>

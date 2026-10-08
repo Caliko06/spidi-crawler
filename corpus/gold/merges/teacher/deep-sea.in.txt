@@ -1,0 +1,65 @@
+DOCUMENT: Deep sea
+
+
+THEME "Biology"
+  s0 [ESSENTIAL] The deep sea is broadly defined as the ocean depth where light begins to fade, at an approximate depth of 200 m (660 ft) or the point of transition from continental shelves to continental slopes.
+  s1 Regions below the epipelagic are divided into further zones, beginning with the bathyal zone (also considered the continental slope) which spans from 200 to 3,000 meters (660 to 9,840 ft) below sea level and is essentially transitional, containing elements from both the shelf above and the abyss below.
+  s2 Below this zone, the deep sea consists of the abyssal zone (ocean depth between 3–6 km; 1.9–3.7 mi) and the hadal zone (6–11 km; 3.7–6.8 mi).
+  s3 Food consists of falling organic matter known as 'marine snow' and carcasses derived from the productive zone above, and is scarce both in terms of spatial and temporal distribution.
+  s4 Instead of relying on gas for their buoyancy, many deep-sea species have jelly-like flesh consisting mostly of glycosaminoglycans, which provides them with very low density.
+  s5 The midwater fish have special adaptations to cope with these conditions—they are small, usually being under 25 centimetres (10 in); they have slow metabolisms and unspecialized diets, preferring to sit and wait for food rather than waste energy searching for it.
+  s6 Because light is so scarce, fish often have larger than normal, tubular eyes with only rod cells.
+  s7 These adaptations are mainly concerned with reduction of silhouettes, a form of camouflage.
+  s8 The two main methods by which this is achieved are reduction in the area of their shadow by lateral compression of the body, and counter illumination via bioluminescence.
+  s9 Organisms in the deep sea are almost entirely reliant upon sinking living and dead organic matter which falls at approximately 100 meters per day.
+  s10 In addition, only about 1 to 3% of the production from the surface reaches the seabed, mostly in the form of marine snow.
+
+SUBJECT "Adaptation to hydrostatic pressure" (under theme "Biology")
+  s11 Deep-sea fish have different adaptations in their proteins, anatomical structures, and metabolic systems to survive in the Deep sea, where the inhabitants have to withstand great amount of hydrostatic pressure.
+  s12 While other factors like food availability and predator avoidance are important, the deep-sea organisms must have the ability to maintain well-regulated metabolic system in the face of high pressures.
+  s13 Proteins are affected greatly by the elevated hydrostatic pressure, as they undergo changes in water organization during hydration and dehydration reactions of the binding events.
+  s14 Because hydrostatic pressure affects both protein folding and assembly and enzymatic activity, the deep sea species must undergo physiological and structural adaptations to preserve protein functionality against pressure.
+  s15 Some Deep-sea fish developed pressure tolerance through the change in mechanism of their α-actin.
+  s16 For certain chondrichthyans, it was found that Trimethylamine N-oxide (TMAO) increased with depth, replacing other osmolytes and urea.
+  s17 Due to the ability of TMAO being able to protect proteins from high hydrostatic pressure destabilizing proteins, the osmolyte adjustment serves are an important adaptation for deep sea fish to withstand high hydrostatic pressure.
+  s18 Osteocalcin gene regulates bone development and tissue mineralization, and the frameshift mutation seems to have resulted in the open skull and cartilage-based bone formation.
+
+SUBJECT "Chemosynthesis" (under theme "Biology")
+  s19 There are a number of species that do not primarily rely upon dissolved organic matter for their food.
+  s20 It is this chemosynthesis that supports the complex communities that can be found around hydrothermal vents.
+  s21 These complex communities are one of the few ecosystems on the planet that do not rely upon sunlight for their supply of energy.
+
+THEME "Exploration"
+  s22 Still, the deep-sea remains one of the least explored regions on planet Earth.
+  s23 Pressures even in the mesopelagic become too great for traditional exploration methods, demanding alternative approaches for deep-sea research.
+  s24 Because of the difficulty and cost of exploring this zone, current knowledge is limited.
+  s25 Pressure increases at approximately one atmosphere for every 10 meters meaning that some areas of the deep sea can reach pressures of above 1,000 atmospheres.
+  s26 This not only makes great depths very difficult to reach without mechanical aids, but also provides a significant difficulty when attempting to study any organisms that may live in these areas as their cell chemistry will be adapted to such vast pressures.
+
+THEME "Deep sea"
+  s27 [LEAD] Conditions within the deep sea are a combination of low temperatures, darkness, and high pressure.
+  s28 Organisms can survive in the deep sea through a number of feeding methods including scavenging, predation and filtration, with a number of organisms surviving by feeding on marine snow.
+
+THEME "deep-sea species"
+  s29 [ESSENTIAL] Organisms living within the deep sea have a variety of adaptations to survive in these conditions.
+
+THEME "Environmental characteristics"
+
+
+SUBJECT "Temperature" (under theme "Environmental characteristics")
+  s30 The two areas of greatest temperature gradient in the oceans are the transition zone between the surface waters and the deep waters, the thermocline, and the transition between the deep-sea floor and the hot water flows at the hydrothermal vents.
+  s31 Below the thermocline, the water mass of the deep ocean is cold and far more homogeneous.
+  s32 From the base of the epipelagic, the temperature drops over several hundred meters to 5–6 °C at 1,000 meters (41–43 °F at 3,300 ft).
+  s33 At any given depth, the temperature is practically unvarying over long periods of time, without seasonal changes and with very little interannual variability.
+  s34 No other habitat on earth has such a constant temperature.
+
+SUBJECT "Pressure" (under theme "Environmental characteristics")
+  s35 Because pressure in the ocean increases by about 1 atmosphere for every 10 meters of depth, the amount of pressure experienced by many marine organisms is extreme.
+
+SUBJECT "Light" (under theme "Environmental characteristics")
+  s36 Natural light does not penetrate the deep ocean, with the exception of the upper parts of the mesopelagic.
+  s37 [ESSENTIAL] Since photosynthesis is not possible, plants and phytoplankton cannot live in this zone, and as these are the primary producers of almost all of earth's ecosystems, life in this area of the ocean must depend on energy sources from elsewhere.
+  s38 Except for the areas close to the hydrothermal vents, this energy comes from organic material drifting down from the photic zone.
+
+SUBJECT "Salinity" (under theme "Environmental characteristics")
+  s39 Salinity is remarkably constant throughout the deep sea, at about 35 parts per thousand.

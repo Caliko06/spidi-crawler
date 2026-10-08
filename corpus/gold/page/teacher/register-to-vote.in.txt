@@ -1,0 +1,51 @@
+DOCUMENT: Register to vote
+
+§0 (under the title)
+S0 You’ll be asked for your National Insurance number (but you can still register if you do not have one).
+S1 Find your National Insurance number.
+
+§1 Who can register to vote
+S2 You can register to vote up to 2 years before you reach voting age - check the rules around voting in the UK.
+
+§2 If you live in England or Northern Ireland
+S3 You must be aged 16 or over to register.
+S4 You can register to vote if you’re a British citizen or an Irish citizen.
+S5 You can also register if you have permission (or do not need permission) to enter or stay in the UK, Channel Islands or Isle of Man and you’re:
+S6 a Commonwealth citizen (including citizens of Cyprus and Malta)
+S7 a citizen of Denmark, Luxembourg, Poland, Portugal or Spain
+S8 a citizen of another EU country, who on or before 31 December 2020 had permission to enter or stay (or did not need permission) and this has continued without a break
+
+§3 If you live in Scotland or Wales
+S9 You must be aged 14 or over to register.
+S10 You can register to vote if you’re a British citizen or an Irish citizen.
+S11 You can also register if you have permission to enter or stay in the UK, Channel Islands or Isle of Man, or you do not need permission.
+
+§4 If you live abroad
+S12 You can register as an overseas voter if you’ve previously lived in the UK and are either:
+S13 a British citizen
+S14 an eligible Irish citizen registering to vote in Northern Ireland
+S15 You’ll need to give the postcode of the last UK address you were registered to vote at.
+S16 If you’ve never registered to vote, you’ll need to give the postcode of the last UK address you lived at.
+S17 Contact your electoral registration office if you cannot remember which address you were last registered at.
+S18 You may also be asked for your passport details.
+S19 There’s a different way to register as an overseas voter if you’re:
+S20 registering to vote in Northern Ireland
+S21 registering as a Crown servant or British council employee
+S22 registering as a member of the armed forces
+S23 Find out more about voting if you move or live abroad.
+
+§5 Register using a paper form
+S24 You can register using a paper form in England, Wales and Scotland.
+S25 You’ll need to print, fill in and send the form to your electoral registration office.
+
+§6 Get help registering
+S26 You can get help registering from your electoral registration office.
+S27 There’s an easy read guide about registering to vote.
+
+§7 After you’ve registered
+S28 Your name and address will appear on the electoral register.
+S29 It will also appear on the ‘open’ register unless you asked to opt out when registering.
+S30 You can then:
+S31 vote in person
+S32 apply for a postal vote
+S33 apply for a proxy vote

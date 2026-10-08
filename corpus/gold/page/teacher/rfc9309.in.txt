@@ -1,0 +1,159 @@
+DOCUMENT: RFC 9309: Robots Exclusion Protocol
+
+§0 Abstract
+S0 This document specifies and extends the "Robots Exclusion Protocol" method originally defined by Martijn Koster in 1994 for service owners to control how content served by their services may be accessed, if at all, by automatic clients known as crawlers.
+S1 Specifically, it adds definition language for the protocol, instructions for handling errors, and instructions for caching.
+
+§1 Status of This Memo
+S2 This is an Internet Standards Track document.
+S3 This document is a product of the Internet Engineering Task Force (IETF).
+S4 It represents the consensus of the IETF community.
+S5 It has received public review and has been approved for publication by the Internet Engineering Steering Group (IESG).
+S6 Further information on Internet Standards is available in Section 2 of RFC 7841.
+S7 Information about the current status of this document, any errata, and how to provide feedback on it may be obtained at https://www.rfc-editor.org/info/rfc9309.
+
+§2 Copyright Notice
+S8 Copyright (c) 2022 IETF Trust and the persons identified as the document authors.
+S9 All rights reserved.
+S10 This document is subject to BCP 78 and the IETF Trust's Legal Provisions Relating to IETF Documents (https://trustee.ietf.org/license-info) in effect on the date of publication of this document.
+S11 Please review these documents carefully, as they describe your rights and restrictions with respect to this document.
+S12 Code Components extracted from this document must include Revised BSD License text as described in Section 4.e of the Trust Legal Provisions and are provided without warranty as described in the Revised BSD License.
+
+§3 1. Introduction
+S13 This document applies to services that provide resources that clients can access through URIs as defined in [RFC3986].
+S14 For example, in the context of HTTP, a browser is a client that displays the content of a web page.
+S15 Crawlers are automated clients.
+S16 Search engines, for instance, have crawlers to recursively traverse links for indexing as defined in [RFC8288].
+S17 It may be inconvenient for service owners if crawlers visit the entirety of their URI space.
+S18 This document specifies the rules originally defined by the "Robots Exclusion Protocol" [ROBOTSTXT] that crawlers are requested to honor when accessing URIs.
+S19 These rules are not a form of access authorization.
+
+§4 1.1. Requirements Language
+S20 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all capitals, as shown here.
+
+§5 2.1. Protocol Definition
+S21 The protocol language consists of rule(s) and group(s) that the service makes available in a file named "robots.txt" as described in Section 2.3:
+
+§6 2.2. Formal Syntax
+S22 Below is an Augmented Backus-Naur Form (ABNF) description, as described in [RFC5234].
+
+§7 2.2.1. The User-Agent Line
+S23 Crawlers set their own name, which is called a product token, to find relevant groups.
+S24 The product token MUST contain only uppercase and lowercase letters ("a-z" and "A-Z"), underscores ("_"), and hyphens ("-").
+S25 The product token SHOULD be a substring of the identification string that the crawler sends to the service.
+S26 For example, in the case of HTTP [RFC9110], the product token SHOULD be a substring in the User-Agent header.
+S27 The identification string SHOULD describe the purpose of the crawler.
+S28 Here's an example of a User-Agent HTTP request header with a link pointing to a page describing the purpose of the ExampleBot crawler, which appears as a substring in the User-Agent HTTP header and as a product token in the robots.txt user-agent line:
+S29 Note that the product token (ExampleBot) is a substring of the User-Agent HTTP header.
+S30 Crawlers MUST use case-insensitive matching to find the group that matches the product token and then obey the rules of the group.
+S31 If there is more than one group matching the user-agent, the matching groups' rules MUST be combined into one group and parsed according to Section 2.2.2.
+S32 If no matching group exists, crawlers MUST obey the group with a user-agent line with the "*" value, if present.
+S33 If no group matches the product token and there is no group with a user-agent line with the "*" value, or no groups are present at all, no rules apply.
+
+§8 2.2.2. The "Allow" and "Disallow" Lines
+S34 These lines indicate whether accessing a URI that matches the corresponding path is allowed or disallowed.
+S35 To evaluate if access to a URI is allowed, a crawler MUST match the paths in "allow" and "disallow" rules against the URI.
+S36 The matching SHOULD be case sensitive.
+S37 The matching MUST start with the first octet of the path.
+S38 The most specific match found MUST be used.
+S39 The most specific match is the match that has the most octets.
+S40 Duplicate rules in a group MAY be deduplicated.
+S41 If an "allow" rule and a "disallow" rule are equivalent, then the "allow" rule SHOULD be used.
+S42 If no match is found amongst the rules in a group for a matching user-agent or there are no rules in the group, the URI is allowed.
+S43 The /robots.txt URI is implicitly allowed.
+S44 Octets in the URI and robots.txt paths outside the range of the ASCII coded character set, and those in the reserved range defined by [RFC3986], MUST be percent-encoded as defined by [RFC3986] prior to comparison.
+S45 If a percent-encoded ASCII octet is encountered in the URI, it MUST be unencoded prior to comparison, unless it is a reserved character in the URI as defined by [RFC3986] or the character is outside the unreserved character range.
+S46 The match evaluates positively if and only if the end of the path from the rule is reached before a difference in octets is encountered.
+S47 For example:
+S48 The crawler SHOULD ignore "disallow" and "allow" rules that are not in any group (for example, any rule that precedes the first user-agent line).
+S49 Implementors MAY bridge encoding mismatches if they detect that the robots.txt file is not UTF-8 encoded.
+
+§9 2.2.3. Special Characters
+S50 Crawlers MUST support the following special characters:
+S51 If crawlers match special characters verbatim in the URI, crawlers SHOULD use "%" encoding.
+S52 For example:
+
+§10 2.2.4. Other Records
+S53 Crawlers MAY interpret other records that are not part of the robots.txt protocol -- for example, "Sitemaps" [SITEMAPS].
+S54 Crawlers MAY be lenient when interpreting other records.
+S55 For example, crawlers may accept common misspellings of the record.
+S56 Parsing of other records MUST NOT interfere with the parsing of explicitly defined records in Section 2.
+S57 For example, a "Sitemaps" record MUST NOT terminate a group.
+
+§11 2.3. Access Method
+S58 The rules MUST be accessible in a file named "/robots.txt" (all lowercase) in the top-level path of the service.
+S59 The file MUST be UTF-8 encoded (as defined in [RFC3629]) and Internet Media Type "text/plain" (as defined in [RFC2046]).
+S60 As per [RFC3986], the URI of the robots.txt file is:
+S61 "scheme:[//authority]/robots.txt"
+S62 For example, in the context of HTTP or FTP, the URI is:
+
+§12 2.3.1.1. Successful Access
+S63 If the crawler successfully downloads the robots.txt file, the crawler MUST follow the parseable rules.
+
+§13 2.3.1.2. Redirects
+S64 It's possible that a server responds to a robots.txt fetch request with a redirect, such as HTTP 301 or HTTP 302 in the case of HTTP.
+S65 The crawlers SHOULD follow at least five consecutive redirects, even across authorities (for example, hosts in the case of HTTP).
+S66 If a robots.txt file is reached within five consecutive redirects, the robots.txt file MUST be fetched, parsed, and its rules followed in the context of the initial authority.
+S67 If there are more than five consecutive redirects, crawlers MAY assume that the robots.txt file is unavailable.
+
+§14 2.3.1.3. "Unavailable" Status
+S68 "Unavailable" means the crawler tries to fetch the robots.txt file and the server responds with status codes indicating that the resource in question is unavailable.
+S69 For example, in the context of HTTP, such status codes are in the 400-499 range.
+S70 If a server status code indicates that the robots.txt file is unavailable to the crawler, then the crawler MAY access any resources on the server.
+
+§15 2.3.1.4. "Unreachable" Status
+S71 If the robots.txt file is unreachable due to server or network errors, this means the robots.txt file is undefined and the crawler MUST assume complete disallow.
+S72 For example, in the context of HTTP, server errors are identified by status codes in the 500-599 range.
+S73 If the robots.txt file is undefined for a reasonably long period of time (for example, 30 days), crawlers MAY assume that the robots.txt file is unavailable as defined in Section 2.3.1.3 or continue to use a cached copy.
+
+§16 2.3.1.5. Parsing Errors
+S74 Crawlers MUST try to parse each line of the robots.txt file.
+S75 Crawlers MUST use the parseable rules.
+
+§17 2.4. Caching
+S76 Crawlers MAY cache the fetched robots.txt file's contents.
+S77 Crawlers MAY use standard cache control as defined in [RFC9111].
+S78 Crawlers SHOULD NOT use the cached version for more than 24 hours, unless the robots.txt file is unreachable.
+
+§18 2.5. Limits
+S79 Crawlers SHOULD impose a parsing limit to protect their systems; see Section 3.
+S80 The parsing limit MUST be at least 500 kibibytes [KiB].
+
+§19 3. Security Considerations
+S81 The Robots Exclusion Protocol is not a substitute for valid content security measures.
+S82 Listing paths in the robots.txt file exposes them publicly and thus makes the paths discoverable.
+S83 To control access to the URI paths in a robots.txt file, users of the protocol should employ a valid security measure relevant to the application layer on which the robots.txt file is served -- for example, in the case of HTTP, HTTP Authentication as defined in [RFC9110].
+S84 To protect against attacks against their system, implementors of robots.txt parsing and matching logic should take the following considerations into account:
+
+§20 4. IANA Considerations
+S85 This document has no IANA actions.
+
+§21 5.1. Simple Example
+S86 The following example shows:
+
+§22 5.2. Longest Match
+S87 The following example shows that in the case of two rules, the longest one is used for matching.
+S88 In the following case, /example/page/disallowed.gif MUST be used for the URI example.com/example/page/disallow.gif.
+
+§23 Authors' Addresses
+S89 Martijn Koster
+S90 Stalworthy Manor Farm
+S91 Suton Lane
+S92 Wymondham, Norfolk
+S93 NR18 9JG
+S94 United Kingdom
+S95 Gary Illyes
+S96 Google LLC
+S97 Brandschenkestrasse 110
+S98 CH-8002 Zürich
+S99 Switzerland
+S100 Henner Zeller
+S101 Google LLC
+S102 1600 Amphitheatre Pkwy
+S103 Mountain View, CA 94043
+S104 United States of America
+S105 Lizzi Sassman
+S106 Google LLC
+S107 Brandschenkestrasse 110
+S108 CH-8002 Zürich
+S109 Switzerland
