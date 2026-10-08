@@ -1,14 +1,10 @@
-# Spidi
+<p align="center"><img src="docs/media/banner.png" alt="Spidi: a web crawler you can watch. 717 questions, 10.7 s, $0.02"></p>
 
-**A web crawler you can watch.** A spider eats the sentences worth keeping, letter by letter, and files each one on a web under the subject it is about. What it eats and where it files it was decided before it moved, by **Jev**, and by no language model.
+<p align="center">A spider eats the sentences worth keeping, letter by letter, and files each one on a web under the subject it is about.<br>What it eats and where it files it was decided before it moved, by <b>Jev</b>, and by no language model.</p>
 
-<p align="center"><img src="docs/media/spider-eats.gif" width="800" alt="The spider eats a sentence and leaps to the web to file it"></p>
+<p align="center"><img src="docs/media/spider.webp" width="760" alt="The spider eating a sentence"></p>
 
-<p align="center"><a href="docs/media/spidi.mp4"><img src="docs/media/spidi-poster.jpg" width="640" alt="Demo, 59 seconds"></a><br><sub>Demo · 59 s · no sound</sub></p>
-
-**Jev reads a page for about a cent** (median $0.0099, 36 pages) and comes within [82% of what a blind LLM teacher agrees with itself on](docs/bench.md), on which sentences to keep.
-
-[Try it](#try-it) · [How it works](#how-it-works) · [What you see](#what-you-see) · [Bench](#bench) · [Repo map](#repo-map)
+<p align="center"><a href="#try-it">Try it</a> · <a href="#how-it-works">How it works</a> · <a href="#what-you-see">What you see</a> · <a href="docs/bench.md">Bench</a> · <a href="#repo-map">Repo map</a></p>
 
 ## Try it
 
@@ -29,16 +25,7 @@ For an address of your own, Jev has to be asked: `cp .env.example .env.local` an
 
 Jev answers **typed questions** (yes or no, a choice, a rating, a quoted run) with a probability, and writes nothing: every word on the web is a word of the page. The plan is made in ten steps before the spider moves, and every answer is kept on disk, so asking the same thing again costs nothing.
 
-One Spanish Wikipedia article, asked live:
-
-<p align="center"><img src="docs/media/jev-reads.gif" width="800" alt="Jev's console counting 717 questions in 10.7 seconds"></p>
-
-| | |
-| --- | --- |
-| Questions | 717, in 89 requests and 11 steps |
-| Time | 10.7 s |
-| Cost | $0.02 |
-| Kept | 1,391 of 4,046 words; 2 sentences essential, 37 passed over, 3 ruled out |
+One Spanish Wikipedia article, asked live: **717 questions** in 89 requests and 11 steps, **10.7 s**, **$0.02**. It kept 1,391 of 4,046 words, 2 sentences essential, 37 passed over, 3 ruled out.
 
 The ten steps are in [docs/architecture.md](docs/architecture.md).
 
@@ -46,23 +33,21 @@ The ten steps are in [docs/architecture.md](docs/architecture.md).
 
 The window is two halves: the text, and the web.
 
-**The spider.** It weaves down the text, eats the kept sentences in order, and with sixty words in it walks out to the web to file them. It notices your pointer (turns to it, flinches, threatens, swats) and acts on your work on the web: it stands off a subject you hold, bites a merge, spits a fusion back on Cmd+Z, and goes down the summary touching each essential sentence.
+### The web
 
-<p align="center"><img src="docs/media/spider-eating.jpg" width="640" alt="The spider over the text it is eating"></p>
+A graph laid out by d3-force, as Obsidian draws one. Themes sit on rings by weight and subjects hang from them; each sentence the spider lays is a small node on its subject. Drag a subject toward another and Jev's bond between them shows (the dashed lines); it falls in only on a close one. **Summary** opens everything laid so far and **Copy as Markdown** exports it.
 
-**The web.** A graph laid out by d3-force, as Obsidian draws one. Themes sit on rings by weight and subjects hang from them. Each sentence the spider lays is a small node on its subject; once it has eaten everything, only the essential ones stay as beads. Drag a subject toward another and Jev's bond between them shows; it falls in only on a close one. **Summary** opens everything laid so far, and **Copy as Markdown** exports it.
+<p align="center"><img src="docs/media/web.png" width="800" alt="The web: subjects on rings, Jev's bonds dashed"></p>
 
-<p align="center"><img src="docs/media/web.jpg" width="900" alt="The web with a subject's page open"></p>
+### The dock
 
-**The dock.** Open it and every question Jev was asked is there, by step, each with its gauge, and the close calls shown as such.
+Every question Jev was asked, by step, each with its gauge, the close calls shown as such.
 
-<p align="center"><img src="docs/media/dock.jpg" width="900" alt="The dock: steps and verdicts with gauges"></p>
+<p align="center"><img src="docs/media/dock.png" width="800" alt="The dock: eleven steps and Jev's verdicts"></p>
 
-Dark by default, a Clear ground on a switch in the bar.
+### The spider
 
-<p align="center"><img src="docs/media/dark.jpg" width="900" alt="The dock on the dark ground"></p>
-
-The design rules are in [docs/design.md](docs/design.md).
+It notices your pointer (turns to it, flinches, threatens, swats) and acts on your work on the web: it stands off a subject you hold, bites a merge, spits a fusion back on Cmd+Z, and goes down the summary touching each essential sentence. Dark by default, a Clear ground on a switch in the bar. Design rules: [docs/design.md](docs/design.md).
 
 ## Bench
 
@@ -71,8 +56,6 @@ The design rules are in [docs/design.md](docs/design.md).
 <p align="center"><img src="docs/media/bench-ceiling.svg" width="900" alt="Jev against a blind LLM teacher, as a share of the ceiling"></p>
 
 Jev is near the teacher on the structural decisions and furthest from it on **what is essential (41%)**; that is the weakest decision and it is in the chart. What is not measured here is an LLM's cost or speed on the same questions, so nothing is claimed about it.
-
-<p align="center"><img src="docs/media/bench-cost.svg" width="900" alt="What each page of the bench cost Jev"></p>
 
 Method, every page, and how to reproduce it (free, from the kept answers): [docs/bench.md](docs/bench.md).
 
