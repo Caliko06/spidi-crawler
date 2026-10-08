@@ -1,10 +1,10 @@
-<p align="center"><img src="docs/media/banner.png" alt="Spidi: a web crawler you can watch. 717 questions, 10.7 s, $0.02"></p>
+<h1 align="center">Spidi</h1>
 
-<p align="center">A spider eats the sentences worth keeping, letter by letter, and files each one on a web under the subject it is about.<br>What it eats and where it files it was decided before it moved, by <b>Jev</b>, and by no language model.</p>
+<p align="center">A web crawler you can watch</p>
 
-<p align="center"><img src="docs/media/spider.webp" width="760" alt="The spider eating a sentence"></p>
+<p align="center"><img src="docs/media/hero.webp" alt="The Spidi window: a spider eating a Wikipedia article on the left while its web of subjects grows on the right"></p>
 
-<p align="center"><a href="#try-it">Try it</a> · <a href="#how-it-works">How it works</a> · <a href="#what-you-see">What you see</a> · <a href="docs/bench.md">Bench</a> · <a href="#repo-map">Repo map</a></p>
+Spidi reads a web page the way a careful editor would and lets you watch it happen. A spider crawls down the text, eats the sentences worth keeping letter by letter, and files each one on a graph under the subject it belongs to. Everything it eats and every place it files it was decided beforehand by Jev, a small typed decision model from [TypeSafe](https://docs.typesafe.ai), so no language model writes or rewrites a single word: the web is made of the page's own sentences. Reading the Wikipedia article above took Jev 1,266 questions, about fifteen seconds and two cents.
 
 ## Try it
 
@@ -12,52 +12,36 @@
 git clone https://github.com/Caliko06/spidi-crawler
 cd spidi-crawler
 npm install
-npm start          # http://127.0.0.1:4317/
+npm start
 ```
 
-Pick a page from the list and press **Crawl it**. The pages in the picker replay from the answers kept in `corpus/`, so they need no key and cost nothing.
-
-For an address of your own, Jev has to be asked: `cp .env.example .env.local` and put an AI Gateway key in it (Jev is [TypeSafe](https://docs.typesafe.ai)'s model, reached through Vercel's AI Gateway). The server stops at $0.50 of questions until it is restarted. Layout holds from 1280 px wide.
+Open http://127.0.0.1:4317, pick a page from the list and press Crawl it. The pages in the list replay from answers Jev already gave, which are kept in `corpus/`, so they need neither a key nor a network connection. To crawl an address of your own, copy `.env.example` to `.env.local` and add an AI Gateway key, since Jev is reached through Vercel's AI Gateway; the server stops at fifty cents of questions per session.
 
 ## How it works
 
 <p align="center"><img src="docs/media/how-it-works.svg" width="900" alt="A page goes through Jev's questions into a plan, and the spider eats and files it"></p>
 
-Jev answers **typed questions** (yes or no, a choice, a rating, a quoted run) with a probability, and writes nothing: every word on the web is a word of the page. The plan is made in ten steps before the spider moves, and every answer is kept on disk, so asking the same thing again costs nothing.
-
-One Spanish Wikipedia article, asked live: **717 questions** in 89 requests and 11 steps, **10.7 s**, **$0.02**. It kept 1,391 of 4,046 words, 2 sentences essential, 37 passed over, 3 ruled out.
-
-The ten steps are in [docs/architecture.md](docs/architecture.md).
+Jev answers typed questions about the page (yes or no, a choice, a rating) with a probability instead of text. A page takes anywhere from a couple of hundred to several thousand of them, asked in ten steps that decide which sections are apparatus, which sentences are worth keeping, which one carries the whole document and what each sentence is about. Only when that plan is complete does the spider start to move, and every answer is stored on disk, so asking the same thing again costs nothing. The ten steps are written out in [docs/architecture.md](docs/architecture.md).
 
 ## What you see
 
-The window is two halves: the text, and the web.
+The console on the right shows Jev working while the plan is made: eleven steps along a timeline, and every question it was asked with a gauge for how sure it was, the close calls marked as such.
 
-### The web
+<p align="center"><img src="docs/media/dock.webp" alt="Jev's dock open: eleven steps and the verdicts behind each decision, with a gauge for every answer"></p>
 
-A graph laid out by d3-force, as Obsidian draws one. Themes sit on rings by weight and subjects hang from them; each sentence the spider lays is a small node on its subject. Drag a subject toward another and Jev's bond between them shows (the dashed lines); it falls in only on a close one. **Summary** opens everything laid so far and **Copy as Markdown** exports it.
+When the spider has laid everything, the web is a graph in the way Obsidian draws one. Themes sit on rings by weight, subjects hang from them, and the dashed lines are the bonds Jev found between subjects. You can drag one subject toward another to merge them, and it only falls in when Jev says the two share enough, so the grouping follows the page's meaning and not just which nodes happen to sit close.
 
-<p align="center"><img src="docs/media/web.png" width="800" alt="The web: subjects on rings, Jev's bonds dashed"></p>
+<p align="center"><img src="docs/media/web.webp" alt="The finished web of the Web crawler article: sixteen subjects on rings around the title, joined by Jev's bonds"></p>
 
-### The dock
+The spider is a character more than an animation. It notices your pointer, turns to it and flinches if you come at it fast; it stands off a subject you are holding and bites through a merge; it spits a fusion back out when you press Cmd+Z. The window is dark by default and has a light Clear ground on a switch in the bar, and the design rules behind it are in [docs/design.md](docs/design.md).
 
-Every question Jev was asked, by step, each with its gauge, the close calls shown as such.
+## How well Jev decides
 
-<p align="center"><img src="docs/media/dock.png" width="800" alt="The dock: eleven steps and Jev's verdicts"></p>
-
-### The spider
-
-It notices your pointer (turns to it, flinches, threatens, swats) and acts on your work on the web: it stands off a subject you hold, bites a merge, spits a fusion back on Cmd+Z, and goes down the summary touching each essential sentence. Dark by default, a Clear ground on a switch in the bar. Design rules: [docs/design.md](docs/design.md).
-
-## Bench
-
-36 pages, 38,741 questions, 16.8 million tokens read, **$0.71 in all**. A request is answered in 347 ms at the median.
+Across thirty-six pages Jev was asked 38,741 questions, which came to $0.71, and it answered each request in about 350 milliseconds. To judge the quality of its decisions, a language model that had read each whole page was asked the same things, and the chart shows how close Jev comes to that model as a share of how close the model comes to itself on a second pass.
 
 <p align="center"><img src="docs/media/bench-ceiling.svg" width="900" alt="Jev against a blind LLM teacher, as a share of the ceiling"></p>
 
-Jev is near the teacher on the structural decisions and furthest from it on **what is essential (41%)**; that is the weakest decision and it is in the chart. What is not measured here is an LLM's cost or speed on the same questions, so nothing is claimed about it.
-
-Method, every page, and how to reproduce it (free, from the kept answers): [docs/bench.md](docs/bench.md).
+Jev is closest on the structural choices and furthest from the teacher on which sentences are essential, at 41%, which is the weakest of its decisions. The comparison says nothing about what a language model would cost or how fast it would be on the same questions, because that was not measured. The method, every page and the commands to reproduce all of it without spending anything are in [docs/bench.md](docs/bench.md).
 
 ## Repo map
 
@@ -70,7 +54,7 @@ Method, every page, and how to reproduce it (free, from the kept answers): [docs
 | `art/`, `assets/` | The spider, modelled in Blender and exported to `assets/spidi.glb` |
 | `docs/` | [Architecture](docs/architecture.md), [bench](docs/bench.md), [design](docs/design.md) |
 
-Also: `/notebook` relates two or more sources (pages, PDFs, addresses) to each other as a web. It is the one exception to "no language model": there an LLM, through the Codex CLI, decides everything.
+There is also a `/notebook` mode: it relates two or more sources (pages, PDFs, addresses) to one another as a web, and it is the one place where a language model, through the Codex CLI, makes the decisions.
 
 ## Credits and licence
 
